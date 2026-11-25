@@ -1,0 +1,418 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+en_001,Fast,4,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_001,Fast,5,True,10.133333333333333,10.256666666666668,The ted door is on the left
+en_001,Balanced,1,True,0.4666666666666667,0.5233333333333333,We will leaye tomorrow 2026
+en_001,Balanced,4,True,6.4,6.733333333333333,I can't believe it's already midnight. 101
+en_001,Balanced,5,True,6.733333333333333,6.79,I can't believe it's atready midnight. 101
+en_001,Balanced,7,True,7.666666666666667,7.723333333333334,can't believe it's already midnight. 101
+en_001,Balanced,8,True,7.733333333333333,8.266666666666666,I can't believe it's already midnight. 101
+en_001,Balanced,9,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_001,Balanced,10,True,10.133333333333333,10.19,The ted door is on the left
+en_001,Accurate,1,True,0.43333333333333335,0.5,We will leaye tomorrow 2026
+en_001,Accurate,4,True,6.366666666666667,6.7,I can't believe it's already midnight. 101
+en_001,Accurate,5,True,6.7,6.766666666666667,I can't believe it's atready midnight. 101
+en_001,Accurate,7,True,7.633333333333333,7.7,can't believe it's already midnight. 101
+en_001,Accurate,8,True,7.7,8.233333333333334,I can't believe it's already midnight. 101
+en_001,Accurate,9,True,9.3,10.1,The red door is on the left.
+en_001,Accurate,10,True,10.1,10.166666666666666,The ted door is on the left
+en_002,Fast,2,True,3.466666666666667,3.8666666666666667,Wait... are we really going
+en_002,Fast,3,True,3.8666666666666667,3.99,Wait....are we really going?
+en_002,Fast,7,True,12.266666666666667,12.799999999999999,I can't believe it's already midnight.
+en_002,Fast,8,True,12.8,12.923333333333334,can't believe it's already midnight.
+en_002,Fast,9,True,12.933333333333334,13.466666666666667,I can't believe it's already midnight.
+en_002,Fast,10,True,13.466666666666667,13.59,can't believe it's already midnight.
+en_002,Balanced,2,True,3.4,3.8666666666666667,Wait... are we really going?
+en_002,Balanced,3,True,3.8666666666666667,3.9233333333333333,Wait....are we really going?
+en_002,Balanced,4,True,3.933333333333333,4.2,Wait... are we really going
+en_002,Balanced,5,True,4.2,4.256666666666667,Wait...are we really going?
+en_002,Balanced,9,True,12.266666666666667,12.733333333333333,I can't believe it's already midnight.
+en_002,Balanced,10,True,12.733333333333333,12.856666666666667,can't believe it's already midnight.
+en_002,Balanced,11,True,12.866666666666667,13.466666666666667,I can't believe it's already midnight.
+en_002,Balanced,12,True,13.466666666666667,13.523333333333333,can't believe it's already midnight.
+en_002,Accurate,2,True,3.3666666666666667,3.8499999999999996,Wait... are we really going?
+en_002,Accurate,3,True,3.8499999999999996,3.9,Wait....are we really going?
+en_002,Accurate,4,True,3.9,4.166666666666667,Wait... are we really going
+en_002,Accurate,5,True,4.166666666666667,4.233333333333333,Wait...are we really going?
+en_002,Accurate,9,True,12.233333333333334,12.7,I can't believe it's already midnight.
+en_002,Accurate,10,True,12.7,12.833333333333334,can't believe it's already midnight.
+en_002,Accurate,11,True,12.833333333333334,13.433333333333334,I can't believe it's already midnight.
+en_002,Accurate,12,True,13.433333333333334,13.5,can't believe it's already midnight.
+en_003,Fast,4,True,9.333333333333334,10.0,Wait... are we really going?
+en_003,Fast,5,True,10.0,10.123333333333333,Wait...are we really going?
+en_003,Balanced,4,True,7.666666666666667,7.723333333333334,Did you say 19.95 or 90.152 103
+en_003,Balanced,5,True,7.733333333333333,8.799999999999999,Did you say 19.95 or 90.15? 103
+en_003,Balanced,6,True,9.333333333333334,9.933333333333334,Wait... are we really going?
+en_003,Balanced,7,True,9.933333333333334,9.99,are we really going?
+en_003,Balanced,8,True,10.0,10.056666666666667,Wait...are we really going?
+en_003,Accurate,4,True,7.633333333333333,7.7,Did you say 19.95 or 90.152 103
+en_003,Accurate,5,True,7.7,8.766666666666666,Did you say 19.95 or 90.15? 103
+en_003,Accurate,6,True,9.3,9.9,Wait... are we really going?
+en_003,Accurate,7,True,9.9,9.966666666666667,are we really going?
+en_003,Accurate,8,True,9.966666666666667,10.033333333333333,Wait...are we really going?
+en_004,Fast,3,True,4.266666666666667,4.390000000000001,can't believe it's already midnight.
+en_004,Fast,4,True,4.4,4.8,I can't believe it's already midnight.
+en_004,Fast,5,True,4.8,4.923333333333334,can't believe it's already midnight.
+en_004,Fast,6,True,4.933333333333334,5.056666666666667,Ican't believe it's already midnight.
+en_004,Fast,7,True,5.066666666666666,5.866666666666666,I can't believe it's already midnight.
+en_004,Fast,10,True,10.0,10.123333333333333,We will-leave tonight
+en_004,Fast,11,True,10.133333333333333,10.799999999999999,We will leave tonight
+en_004,Balanced,3,True,4.2,4.323333333333333,can't believe it's already midnight.
+en_004,Balanced,4,True,4.333333333333333,4.733333333333333,I can't believe it's already midnight.
+en_004,Balanced,5,True,4.733333333333333,4.933333333333333,can't believe it's already midnight.
+en_004,Balanced,6,True,4.933333333333334,4.99,Ican't believe it's already midnight.
+en_004,Balanced,7,True,5.0,5.8,I can't believe it's already midnight.
+en_004,Balanced,10,True,10.0,10.056666666666667,We will-leave tonight
+en_004,Balanced,11,True,10.066666666666666,10.733333333333333,We will leave tonight
+en_004,Accurate,2,True,3.3666666666666667,4.166666666666667,I can't believe it's already midnight.
+en_004,Accurate,3,True,4.166666666666667,4.3,can't believe it's already midnight.
+en_004,Accurate,4,True,4.3,4.7,I can't believe it's already midnight.
+en_004,Accurate,5,True,4.7,4.9,can't believe it's already midnight.
+en_004,Accurate,6,True,4.9,4.966666666666667,Ican't believe it's already midnight.
+en_004,Accurate,9,True,9.3,9.966666666666667,We will leave tonight
+en_004,Accurate,10,True,9.966666666666667,10.033333333333333,We will-leave tonight
+en_005,Fast,3,True,6.4,6.8,Wait for me 105
+en_005,Fast,4,True,6.8,6.923333333333334,Walt for me 105
+en_005,Fast,5,True,6.933333333333334,7.056666666666667,Wait for me 105
+en_005,Fast,6,True,7.066666666666666,7.19,Walt for me 105
+en_005,Fast,9,True,10.0,10.266666666666666,I can't belleve it's already midnight. 2026
+en_005,Fast,10,True,10.266666666666667,10.39,I can't believe it's already midnight. 2026
+en_005,Fast,11,True,10.4,10.523333333333333,I can't halieve it's already midnight. 2026
+en_005,Fast,12,True,10.533333333333333,10.656666666666666,I ean't believe it's already midnight. 2026
+en_005,Fast,13,True,10.666666666666666,11.066666666666666,I can't believe it's already midnight. 2026
+en_005,Balanced,3,True,6.4,6.8,Wait for me 105
+en_005,Balanced,4,True,6.8,6.8566666666666665,Walt for me 105
+en_005,Balanced,5,True,6.866666666666666,7.066666666666666,Wait for me 105
+en_005,Balanced,6,True,7.066666666666666,7.19,Walt for me 105
+en_005,Balanced,9,True,10.0,10.056666666666667,I can't belleve it's already midnight. 2026
+en_005,Balanced,10,True,10.066666666666666,10.123333333333333,I can't believe it's already midnight. 2026
+en_005,Balanced,11,True,10.133333333333333,10.19,I can't belleve it's already midnight. 2026
+en_005,Balanced,12,True,10.2,10.4,I can't believe it's already midnight. 2026
+en_005,Balanced,13,True,10.4,10.456666666666667,I can't halieve it's already midnight. 2026
+en_005,Balanced,14,True,10.466666666666667,10.523333333333333,I ean't belinve it's already midnight. 2026
+en_005,Balanced,15,True,10.533333333333333,10.59,I ean't believe it's already midnight. 2026
+en_005,Balanced,16,True,10.6,11.0,I can't believe it's already midnight. 2026
+en_005,Accurate,3,True,6.366666666666667,6.766666666666667,Wait for me 105
+en_005,Accurate,4,True,6.766666666666667,6.833333333333333,Walt for me 105
+en_005,Accurate,5,True,6.833333333333333,7.033333333333333,Wait for me 105
+en_005,Accurate,6,True,7.033333333333333,7.166666666666667,Walt for me 105
+en_005,Accurate,9,True,9.966666666666667,10.033333333333333,I can't belleve it's already midnight. 2026
+en_005,Accurate,10,True,10.033333333333333,10.1,I can't believe it's already midnight. 2026
+en_005,Accurate,11,True,10.1,10.166666666666666,I can't belleve it's already midnight. 2026
+en_005,Accurate,12,True,10.166666666666666,10.366666666666667,I can't believe it's already midnight. 2026
+en_005,Accurate,13,True,10.366666666666667,10.433333333333334,I can't halieve it's already midnight. 2026
+en_005,Accurate,14,True,10.433333333333334,10.5,I ean't belinve it's already midnight. 2026
+en_005,Accurate,15,True,10.5,10.566666666666666,I ean't believe it's already midnight. 2026
+en_005,Accurate,16,True,10.566666666666666,10.966666666666667,I can't believe it's already midnight. 2026
+en_007,Balanced,4,True,8.2,8.379999999999999,We willlleave tonight 107
+en_007,Accurate,4,True,8.183333333333334,8.233333333333334,We willlleave tonight 107
+en_008,Balanced,1,True,0.4666666666666667,0.5233333333333333,We willleave tomorrow 2026
+en_008,Balanced,5,True,8.2,8.256666666666668,I can't believelit's already midnight. 108
+en_008,Balanced,6,True,8.266666666666667,8.533333333333333,I can't believe it's already midnight. 108
+en_008,Accurate,1,True,0.43333333333333335,0.5,We willleave tomorrow 2026
+en_008,Accurate,5,True,8.183333333333334,8.233333333333334,I can't believelit's already midnight. 108
+en_008,Accurate,6,True,8.233333333333334,8.5,I can't believe it's already midnight. 108
+en_009,Fast,2,True,1.7333333333333334,1.8566666666666667,Did you say 19.95 or 90 15?
+en_009,Fast,3,True,1.8666666666666667,2.4,Did you say 19.95 or 90.15?
+en_009,Balanced,2,True,1.7333333333333334,1.79,Did you say 19.95 or 90 15?
+en_009,Balanced,3,True,1.8,2.3333333333333335,Did you say 19.95 or 90.15?
+en_009,Accurate,2,True,1.7000000000000002,1.7666666666666666,Did you say 19.95 or 90 15?
+en_009,Accurate,3,True,1.7666666666666666,2.3,Did you say 19.95 or 90.15?
+en_012,Balanced,5,True,10.866666666666667,10.923333333333334,Ican't believe it's already midnight. 2026
+en_012,Balanced,6,True,10.933333333333334,11.2,I can't believe it's already midnight. 2026
+en_012,Accurate,5,True,10.833333333333334,10.9,Ican't believe it's already midnight. 2026
+en_012,Accurate,6,True,10.9,11.166666666666666,I can't believe it's already midnight. 2026
+en_014,Balanced,5,True,10.6,10.656666666666666,Did you say19.95 or 90.15?
+en_014,Balanced,6,True,10.666666666666666,11.733333333333333,Did you say 19.95 or 90.15?
+en_014,Accurate,5,True,10.566666666666666,10.633333333333333,Did you say19.95 or 90.15?
+en_014,Accurate,6,True,10.633333333333333,11.7,Did you say 19.95 or 90.15?
+en_015,Fast,3,True,6.4,7.066666666666666,I can't believe it's already midnight. 115
+en_015,Fast,4,True,7.066666666666666,7.19,Ican't believe it's already midnight. 115
+en_015,Fast,6,True,8.266666666666667,8.39,Ican't believe it's already midnight. 115
+en_015,Fast,7,True,8.4,8.799999999999999,I can't believe it's already midnight. 115
+en_015,Fast,8,True,9.333333333333334,10.4,The red door is on the left.
+en_015,Fast,9,True,10.4,10.523333333333333,Thered door is on the left.
+en_015,Balanced,3,True,6.4,7.066666666666666,I can't believe it's already midnight. 115
+en_015,Balanced,4,True,7.066666666666666,7.19,Ican't believe it's already midnight. 115
+en_015,Balanced,6,True,8.266666666666667,8.323333333333334,Ican't believe it's already midnight. 115
+en_015,Balanced,7,True,8.333333333333334,8.799999999999999,I can't believe it's already midnight. 115
+en_015,Balanced,8,True,9.333333333333334,10.4,The red door is on the left.
+en_015,Balanced,9,True,10.4,10.456666666666667,Thered door is on the left.
+en_015,Accurate,3,True,6.366666666666667,7.033333333333333,I can't believe it's already midnight. 115
+en_015,Accurate,4,True,7.033333333333333,7.166666666666667,Ican't believe it's already midnight. 115
+en_015,Accurate,6,True,8.233333333333334,8.3,Ican't believe it's already midnight. 115
+en_015,Accurate,7,True,8.3,8.766666666666666,I can't believe it's already midnight. 115
+en_015,Accurate,8,True,9.3,10.366666666666667,The red door is on the left.
+en_015,Accurate,9,True,10.366666666666667,10.433333333333334,Thered door is on the left.
+en_017,Fast,3,True,6.4,6.666666666666667,Did you say 19.95 or 90.15? 117
+en_017,Fast,4,True,6.666666666666667,6.79,Did you say 19 95 or 90.15? 117
+en_017,Fast,7,True,10.4,10.523333333333333,Wait..are we really going?
+en_017,Fast,8,True,10.533333333333333,11.066666666666666,Wait... are we really going?
+en_017,Balanced,3,True,6.4,6.666666666666666,Did you say 19.95 or 90.15? 117
+en_017,Balanced,4,True,6.666666666666667,6.723333333333334,Did you say 19 95 or 90.15? 117
+en_017,Balanced,7,True,10.4,10.456666666666667,Wait..are we really going?
+en_017,Balanced,8,True,10.466666666666667,11.0,Wait.. are we really going?
+en_017,Accurate,3,True,6.366666666666667,6.633333333333333,Did you say 19.95 or 90.15? 117
+en_017,Accurate,4,True,6.633333333333333,6.7,Did you say 19 95 or 90.15? 117
+en_017,Accurate,7,True,10.366666666666667,10.433333333333334,Wait..are we really going?
+en_017,Accurate,8,True,10.433333333333334,10.966666666666667,Wait.. are we really going?
+en_018,Fast,6,True,13.333333333333334,13.6,Did you say 19.95 or 90 15? 2026
+en_018,Fast,7,True,13.6,14.4,Did you say 19.95 or 90.15? 2026
+en_018,Balanced,6,True,13.333333333333334,13.533333333333333,Did you say 19.95 or 90 15? 2026
+en_018,Balanced,7,True,13.533333333333333,14.4,Did you say 19.95 or 90.15? 2026
+en_018,Accurate,6,True,13.3,13.5,Did you say 19.95 or 90 15? 2026
+en_018,Accurate,7,True,13.5,14.366666666666667,Did you say 19.95 or 90.15? 2026
+en_019,Fast,4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_019,Fast,5,True,10.0,10.266666666666666,can't believe it's already midnight. 2026
+en_019,Fast,6,True,10.266666666666667,10.533333333333333,I can't believe it's already midnight. 2026
+en_019,Fast,7,True,10.533333333333333,10.656666666666666,Ican't believe it's already midnight. 2026
+en_019,Balanced,4,True,8.2,8.379999999999999,Wait forme 119
+en_019,Balanced,5,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_019,Balanced,6,True,10.0,10.2,can't believe it's already midnight. 2026
+en_019,Balanced,7,True,10.2,10.466666666666667,I can't believe it's already midnight. 2026
+en_019,Balanced,8,True,10.466666666666667,10.523333333333333,can't believe it's already midnight. 2026
+en_019,Balanced,9,True,10.533333333333333,10.59,Ican't believe it's already midnight. 2026
+en_019,Accurate,4,True,8.183333333333334,8.233333333333334,Wait forme 119
+en_019,Accurate,5,True,9.3,9.966666666666667,I can't believe it's already midnight. 2026
+en_019,Accurate,6,True,9.966666666666667,10.166666666666666,can't believe it's already midnight. 2026
+en_019,Accurate,7,True,10.166666666666666,10.433333333333334,I can't believe it's already midnight. 2026
+en_019,Accurate,8,True,10.433333333333334,10.5,can't believe it's already midnight. 2026
+en_019,Accurate,9,True,10.5,10.566666666666666,Ican't believe it's already midnight. 2026
+en_020,Fast,4,True,9.333333333333334,10.0,We will leave tomorrow 50%
+en_020,Fast,5,True,10.0,10.123333333333333,We will-leave tomorrow 50%
+en_020,Fast,9,True,16.533333333333335,16.733333333333334,can't believe it's already midnight. 2019
+en_020,Balanced,4,True,9.333333333333334,10.0,We will leave tomorrow 50%
+en_020,Balanced,5,True,10.0,10.056666666666667,We will-leave tomorrow 50%
+en_020,Balanced,9,True,15.933333333333334,15.99,can't believe it's already midnight. 2019
+en_020,Balanced,10,True,16.0,16.466666666666665,I can't believe it's already midnight. 2019
+en_020,Balanced,11,True,16.466666666666665,16.646666666666665,can't believe it's already midnight. 2019
+en_020,Accurate,4,True,9.3,9.966666666666667,We will leave tomorrow 50%
+en_020,Accurate,5,True,9.966666666666667,10.033333333333333,We will-leave tomorrow 50%
+en_020,Accurate,9,True,15.9,15.966666666666667,can't believe it's already midnight. 2019
+en_020,Accurate,10,True,15.966666666666667,16.449999999999996,I can't believe it's already midnight. 2019
+en_020,Accurate,11,True,16.449999999999996,16.56666666666667,can't believe it's already midnight. 2019
+en_023,Fast,3,True,6.4,6.8,We will leave tomorrow 123
+en_023,Fast,4,True,6.8,6.923333333333334,We willlleave tomorrow 123
+en_023,Fast,5,True,6.933333333333334,7.056666666666667,We will leave tomorrow 123
+en_023,Fast,6,True,7.066666666666666,7.19,We willlleave tomorrow 123
+en_023,Balanced,3,True,6.4,6.8,We will leave tomorrow 123
+en_023,Balanced,4,True,6.8,6.8566666666666665,We willlleave tomorrow 123
+en_023,Balanced,5,True,6.866666666666666,7.066666666666666,We will leave tomorrow 123
+en_023,Balanced,6,True,7.066666666666666,7.123333333333334,We willlleave tomorrow 123
+en_023,Balanced,7,True,7.133333333333334,7.19,We willleave tomorrow 123
+en_023,Accurate,3,True,6.366666666666667,6.766666666666667,We will leave tomorrow 123
+en_023,Accurate,4,True,6.766666666666667,6.833333333333333,We willlleave tomorrow 123
+en_023,Accurate,5,True,6.833333333333333,7.033333333333333,We will leave tomorrow 123
+en_023,Accurate,6,True,7.033333333333333,7.1,We willlleave tomorrow 123
+en_023,Accurate,7,True,7.1,7.166666666666667,We willleave tomorrow 123
+en_026,Fast,4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_026,Fast,5,True,10.0,10.123333333333333,I can't believe lit's already midnight. 2026
+en_026,Fast,7,True,11.6,11.799999999999999,I can't believe lit's already midnight. 2026
+en_026,Balanced,4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_026,Balanced,5,True,10.0,10.056666666666667,I can't believe lit's already midnight. 2026
+en_026,Balanced,7,True,11.533333333333333,11.59,Ican't believelit's already midnight. 2026
+en_026,Balanced,8,True,11.6,11.78,I can't believe lit's already midnight. 2026
+en_026,Accurate,4,True,9.3,9.966666666666667,I can't believe it's already midnight. 2026
+en_026,Accurate,5,True,9.966666666666667,10.033333333333333,I can't believe lit's already midnight. 2026
+en_026,Accurate,7,True,11.5,11.566666666666666,Ican't believelit's already midnight. 2026
+en_026,Accurate,8,True,11.566666666666666,11.7,I can't believe lit's already midnight. 2026
+en_027,Fast,4,True,9.333333333333334,10.0,We will leave tomorrow
+en_027,Fast,5,True,10.0,10.123333333333333,We willleave tomorrow
+en_027,Fast,7,True,11.466666666666667,11.866666666666665,We willleave tomorrow
+en_027,Fast,8,True,11.866666666666667,12.066666666666666,We will leave tomorrow
+en_027,Fast,11,True,16.8,17.0,I can't believe it's already midnight. 2026
+en_027,Balanced,4,True,8.2,8.256666666666668,Wait...are we really going? 127
+en_027,Balanced,5,True,8.266666666666667,8.799999999999999,Wait... are we really going? 127
+en_027,Balanced,6,True,9.333333333333334,10.0,We will leave tomorrow
+en_027,Balanced,7,True,10.0,10.056666666666667,We willleave tomorrow
+en_027,Balanced,8,True,10.066666666666666,10.466666666666667,We will leave tomorrow
+en_027,Balanced,9,True,10.466666666666667,10.523333333333333,Wewill leave tomorrow
+en_027,Balanced,11,True,11.4,11.523333333333333,We willleave tomorrow
+en_027,Balanced,12,True,11.533333333333333,11.59,We willlleave tomorrow
+en_027,Balanced,13,True,11.6,11.799999999999999,We willleave tomorrow
+en_027,Balanced,14,True,11.8,11.98,We will leave tomorrow
+en_027,Balanced,17,True,16.733333333333334,16.913333333333334,I can't believe it's already midnight. 2026
+en_027,Accurate,4,True,8.183333333333334,8.233333333333334,Wait...are we really going? 127
+en_027,Accurate,5,True,8.233333333333334,8.766666666666666,Wait... are we really going? 127
+en_027,Accurate,6,True,9.3,9.966666666666667,We will leave tomorrow
+en_027,Accurate,7,True,9.966666666666667,10.033333333333333,We willleave tomorrow
+en_027,Accurate,8,True,10.033333333333333,10.433333333333334,We will leave tomorrow
+en_027,Accurate,9,True,10.433333333333334,10.5,Wewill leave tomorrow
+en_027,Accurate,11,True,11.366666666666667,11.5,We willleave tomorrow
+en_027,Accurate,12,True,11.5,11.566666666666666,We willlleave tomorrow
+en_027,Accurate,13,True,11.566666666666666,11.766666666666666,We willleave tomorrow
+en_027,Accurate,14,True,11.766666666666666,11.9,We will leave tomorrow
+en_027,Accurate,17,True,16.700000000000003,16.833333333333336,I can't believe it's already midnight. 2026
+en_028,Fast,1,True,0.5333333333333333,0.7999999999999999,Ican't believe it's already midnight.
+en_028,Fast,2,True,0.8,1.0666666666666667,I can't believe it's already midnight.
+en_028,Fast,3,True,1.0666666666666667,1.19,Ican't believe it's already midnight.
+en_028,Balanced,1,True,0.4666666666666667,0.7999999999999999,Ican't believe it's already midnight.
+en_028,Balanced,2,True,0.8,0.8566666666666667,I can't believe it's already midnight.
+en_028,Balanced,3,True,0.8666666666666667,0.9233333333333333,Ican't believe it's already midnight.
+en_028,Balanced,4,True,0.9333333333333333,0.99,I can't believe it's already midnight.
+en_028,Balanced,5,True,1.0,1.2,Ican't believe it's already midnight.
+en_028,Balanced,6,True,1.2,1.6666666666666667,I can't believe it's already midnight.
+en_028,Balanced,7,True,1.6666666666666667,1.7233333333333334,Ican't believe it's already midnight.
+en_028,Balanced,11,True,8.2,8.256666666666668,We willileave tonight 128
+en_028,Balanced,12,True,8.266666666666667,9.0,We will leave tonight 128
+en_028,Accurate,1,True,0.43333333333333335,0.7666666666666666,Ican't believe it's already midnight.
+en_028,Accurate,2,True,0.7666666666666666,0.8333333333333334,I can't believe it's already midnight.
+en_028,Accurate,3,True,0.8333333333333334,0.9,Ican't believe it's already midnight.
+en_028,Accurate,4,True,0.9,0.9666666666666667,I can't believe it's already midnight.
+en_028,Accurate,5,True,0.9666666666666667,1.1833333333333331,Ican't believe it's already midnight.
+en_028,Accurate,6,True,1.1833333333333331,1.6333333333333333,I can't believe it's already midnight.
+en_028,Accurate,7,True,1.6333333333333333,1.7000000000000002,Ican't believe it's already midnight.
+en_028,Accurate,11,True,8.183333333333334,8.233333333333334,We willileave tonight 128
+en_028,Accurate,12,True,8.233333333333334,8.966666666666667,We will leave tonight 128
+en_034,Fast,5,True,10.133333333333333,10.256666666666668,We will-leave tomorrow
+en_034,Fast,6,True,10.266666666666667,10.799999999999999,We will leave tomorrow
+en_034,Balanced,5,True,10.133333333333333,10.19,We will-leave tomorrow
+en_034,Balanced,6,True,10.2,10.733333333333333,We will leave tomorrow
+en_034,Accurate,5,True,10.1,10.166666666666666,We will-leave tomorrow
+en_034,Accurate,6,True,10.166666666666666,10.7,We will leave tomorrow
+en_035,Fast,1,True,0.5333333333333333,1.0666666666666667,I can't believe it's already midnight.
+en_035,Fast,2,True,1.0666666666666667,1.19,"I can't believe,it's already midnight."
+en_035,Balanced,1,True,0.4666666666666667,1.0666666666666667,I can't believe it's already midnight.
+en_035,Balanced,2,True,1.0666666666666667,1.1233333333333333,"I can't believe,it's already midnight."
+en_035,Accurate,1,True,0.43333333333333335,1.0499999999999998,I can't believe it's already midnight.
+en_035,Accurate,2,True,1.0499999999999998,1.1,"I can't believe,it's already midnight."
+en_037,Fast,5,True,12.266666666666667,12.933333333333334,I can't believe it's already midnight.
+en_037,Fast,6,True,12.933333333333334,13.056666666666667,Ican't believe it's already midnight.
+en_037,Fast,8,True,14.133333333333333,14.256666666666668,Ican't believe it's already midnight.
+en_037,Fast,9,True,14.266666666666667,14.666666666666666,I can't believe it's already midnight.
+en_037,Balanced,5,True,12.266666666666667,12.466666666666667,I can't believe it's already midnight.
+en_037,Balanced,6,True,12.466666666666667,12.523333333333333,Ican't believe it's already midnight.
+en_037,Balanced,7,True,12.533333333333333,12.933333333333334,I can't believe it's already midnight.
+en_037,Balanced,8,True,12.933333333333334,13.056666666666667,Ican't believe it's already midnight.
+en_037,Balanced,10,True,14.066666666666666,14.266666666666666,Ican't believe it's already midnight.
+en_037,Balanced,11,True,14.266666666666667,14.666666666666666,I can't believe it's already midnight.
+en_037,Accurate,5,True,12.233333333333334,12.433333333333334,I can't believe it's already midnight.
+en_037,Accurate,6,True,12.433333333333334,12.5,Ican't believe it's already midnight.
+en_037,Accurate,7,True,12.5,12.9,I can't believe it's already midnight.
+en_037,Accurate,8,True,12.9,13.033333333333333,Ican't believe it's already midnight.
+en_037,Accurate,10,True,14.033333333333333,14.233333333333334,Ican't believe it's already midnight.
+en_037,Accurate,11,True,14.233333333333334,14.633333333333333,I can't believe it's already midnight.
+en_040,Fast,5,True,10.4,10.523333333333333,I can'tibelieve it's already midnight. 2026
+en_040,Fast,6,True,10.533333333333333,10.799999999999999,I can't believe it's already midnight. 2026
+en_040,Balanced,5,True,10.4,10.456666666666667,I can'tibelieve it's already midnight. 2026
+en_040,Balanced,6,True,10.466666666666667,10.733333333333333,I can't believe it's already midnight. 2026
+en_040,Accurate,5,True,10.366666666666667,10.433333333333334,I can'tibelieve it's already midnight. 2026
+en_040,Accurate,6,True,10.433333333333334,10.7,I can't believe it's already midnight. 2026
+en_042,Balanced,4,True,7.8,7.8566666666666665,We will lleave tonight 142
+en_042,Balanced,5,True,7.866666666666666,8.066666666666666,We will leave tonight 142
+en_042,Accurate,4,True,7.766666666666667,7.833333333333333,We will lleave tonight 142
+en_042,Accurate,5,True,7.833333333333333,8.033333333333333,We will leave tonight 142
+en_043,Fast,2,True,3.466666666666667,3.5900000000000003,Wait for me
+en_043,Fast,3,True,3.6,3.7233333333333336,Wait forme
+en_043,Fast,5,True,6.4,6.8,I can't believe it's already midnight. 143
+en_043,Fast,6,True,6.8,7.066666666666666,Ican't believe it's already midnight. 143
+en_043,Fast,7,True,7.066666666666666,7.19,I can't believe it's already midnight. 143
+en_043,Fast,8,True,7.2,7.323333333333333,Ican't believe it's already midnight. 143
+en_043,Fast,9,True,7.333333333333333,7.6,I can't believe it's already midnight. 143
+en_043,Fast,10,True,7.6,7.723333333333334,Ican't believe it's already midnight. 143
+en_043,Fast,11,True,7.733333333333333,8.133333333333333,I can't believe it's already midnight. 143
+en_043,Fast,12,True,8.133333333333333,8.333333333333332,Ican't believe it's already midnight. 143
+en_043,Fast,13,True,9.333333333333334,10.0,The red door is on the left.
+en_043,Fast,14,True,10.0,10.123333333333333,The reddoor is on the left.
+en_043,Fast,15,True,10.133333333333333,10.4,The red door is on the left.
+en_043,Fast,16,True,10.4,10.523333333333333,Theired door is on the left.
+en_043,Balanced,2,True,3.4,3.5233333333333334,Wait for me
+en_043,Balanced,3,True,3.533333333333333,3.6566666666666667,Wait forme
+en_043,Balanced,5,True,6.4,6.733333333333333,I can't believe it's already midnight. 143
+en_043,Balanced,6,True,6.733333333333333,6.8566666666666665,Ican't believe it's already midnight. 143
+en_043,Balanced,7,True,6.866666666666666,6.923333333333334,I can't believe it's already midnight. 143
+en_043,Balanced,8,True,6.933333333333334,6.99,Ican't believe it's already midnight. 143
+en_043,Balanced,9,True,7.0,7.123333333333334,I can't believe it's already midnight. 143
+en_043,Balanced,10,True,7.133333333333334,7.256666666666667,Ican't believe it's already midnight. 143
+en_043,Balanced,11,True,7.266666666666667,7.533333333333333,I can't believe it's already midnight. 143
+en_043,Balanced,12,True,7.533333333333333,7.656666666666667,Ican't believe it's already midnight. 143
+en_043,Balanced,13,True,7.666666666666667,8.133333333333333,I can't believe it's already midnight. 143
+en_043,Balanced,14,True,8.133333333333333,8.19,Ican't believe it's already midnight. 143
+en_043,Balanced,15,True,8.2,8.379999999999999,Ican't believelit's already midnight. 143
+en_043,Balanced,16,True,9.333333333333334,10.0,The red door is on the left.
+en_043,Balanced,17,True,10.0,10.056666666666667,The reddoor is on the left.
+en_043,Balanced,18,True,10.066666666666666,10.4,The red door is on the left.
+en_043,Balanced,19,True,10.4,10.456666666666667,Theired door is on the left.
+en_043,Balanced,20,True,10.466666666666667,10.523333333333333,Therred door is on the left.
+en_043,Balanced,22,True,11.4,11.58,The red dooris on the left.
+en_043,Accurate,2,True,3.3666666666666667,3.5,Wait for me
+en_043,Accurate,3,True,3.5,3.6333333333333333,Wait forme
+en_043,Accurate,5,True,6.366666666666667,6.7,I can't believe it's already midnight. 143
+en_043,Accurate,6,True,6.7,6.833333333333333,Ican't believe it's already midnight. 143
+en_043,Accurate,7,True,6.833333333333333,6.9,I can't believe it's already midnight. 143
+en_043,Accurate,8,True,6.9,6.966666666666667,Ican't believe it's already midnight. 143
+en_043,Accurate,9,True,6.966666666666667,7.1,I can't believe it's already midnight. 143
+en_043,Accurate,10,True,7.1,7.233333333333333,Ican't believe it's already midnight. 143
+en_043,Accurate,11,True,7.233333333333333,7.5,I can't believe it's already midnight. 143
+en_043,Accurate,12,True,7.5,7.633333333333333,Ican't believe it's already midnight. 143
+en_043,Accurate,13,True,7.633333333333333,8.1,I can't believe it's already midnight. 143
+en_043,Accurate,14,True,8.1,8.183333333333334,Ican't believe it's already midnight. 143
+en_043,Accurate,15,True,8.183333333333334,8.233333333333334,Ican't believelit's already midnight. 143
+en_043,Accurate,16,True,9.3,9.966666666666667,The red door is on the left.
+en_043,Accurate,17,True,9.966666666666667,10.033333333333333,The reddoor is on the left.
+en_043,Accurate,18,True,10.033333333333333,10.366666666666667,The red door is on the left.
+en_043,Accurate,19,True,10.366666666666667,10.433333333333334,Theired door is on the left.
+en_043,Accurate,20,True,10.433333333333334,10.5,Therred door is on the left.
+en_043,Accurate,22,True,11.366666666666667,11.433333333333334,The red dooris on the left.
+en_044,Fast,3,True,6.4,7.066666666666666,We will leave tomorrow 144
+en_044,Fast,4,True,7.066666666666666,7.19,We willleave tomorrow 144
+en_044,Fast,7,True,12.266666666666667,12.39,I can't believe it's already midnight.
+en_044,Fast,8,True,12.4,12.799999999999999,Ican't believe it's already midnight.
+en_044,Fast,9,True,12.8,12.923333333333334,I can't believe it's already midnight.
+en_044,Balanced,3,True,6.4,7.066666666666666,We will leave tomorrow 144
+en_044,Balanced,4,True,7.066666666666666,7.123333333333334,We willleave tomorrow 144
+en_044,Balanced,6,True,8.2,8.256666666666668,We willlleave tomorrow 144
+en_044,Balanced,7,True,8.266666666666667,8.323333333333334,We will leave tomorrow 144
+en_044,Balanced,8,True,8.333333333333334,8.39,We willleave tomorrow 144
+en_044,Balanced,9,True,8.4,8.58,We will leave tomorrow 144
+en_044,Balanced,11,True,11.4,11.456666666666667,Waitforme
+en_044,Balanced,12,True,11.466666666666667,11.733333333333333,Wait for me
+en_044,Balanced,13,True,12.266666666666667,12.323333333333334,I can't believe it's already midnight.
+en_044,Balanced,14,True,12.333333333333334,12.799999999999999,Ican't believe it's already midnight.
+en_044,Balanced,15,True,12.8,12.856666666666667,I can't believe it's already midnight.
+en_044,Accurate,3,True,6.366666666666667,7.033333333333333,We will leave tomorrow 144
+en_044,Accurate,4,True,7.033333333333333,7.1,We willleave tomorrow 144
+en_044,Accurate,6,True,8.183333333333334,8.233333333333334,We willlleave tomorrow 144
+en_044,Accurate,7,True,8.233333333333334,8.3,We will leave tomorrow 144
+en_044,Accurate,8,True,8.3,8.366666666666667,We willleave tomorrow 144
+en_044,Accurate,9,True,8.366666666666667,8.5,We will leave tomorrow 144
+en_044,Accurate,11,True,11.366666666666667,11.433333333333334,Waitforme
+en_044,Accurate,12,True,11.433333333333334,11.7,Wait for me
+en_044,Accurate,13,True,12.233333333333334,12.3,I can't believe it's already midnight.
+en_044,Accurate,14,True,12.3,12.766666666666666,Ican't believe it's already midnight.
+en_044,Accurate,15,True,12.766666666666666,12.833333333333334,I can't believe it's already midnight.
+en_045,Balanced,4,True,9.333333333333334,9.933333333333334,Wait... are we really going?
+en_045,Balanced,5,True,9.933333333333334,9.99,Wait....are we really going?
+en_045,Accurate,4,True,9.3,9.9,Wait... are we really going?
+en_045,Accurate,5,True,9.9,9.966666666666667,Wait....are we really going?
+en_047,Fast,4,True,7.066666666666666,7.19,Waft lor me 147
+en_047,Fast,5,True,7.2,7.866666666666666,Wait for me 147
+en_047,Fast,7,True,10.133333333333333,10.256666666666668,I can't belleve it's already midnight. 2026
+en_047,Fast,8,True,10.266666666666667,11.066666666666666,I can't believe it's already midnight. 2026
+en_047,Balanced,4,True,7.066666666666666,7.123333333333334,Waft lor me 147
+en_047,Balanced,5,True,7.133333333333334,7.8,Wait for me 147
+en_047,Balanced,7,True,10.133333333333333,10.19,I can't belleve it's already midnight. 2026
+en_047,Balanced,8,True,10.2,10.466666666666667,I can't believe it's already midnight. 2026
+en_047,Balanced,9,True,10.466666666666667,10.523333333333333,I can't beligve it's already midnight. 2026
+en_047,Balanced,10,True,10.533333333333333,11.0,I can't believe it's already midnight. 2026
+en_047,Accurate,3,True,6.366666666666667,7.033333333333333,Wait for me 147
+en_047,Accurate,4,True,7.033333333333333,7.1,Waft lor me 147
+en_047,Accurate,7,True,10.1,10.166666666666666,I can't belleve it's already midnight. 2026
+en_047,Accurate,8,True,10.166666666666666,10.433333333333334,I can't believe it's already midnight. 2026
+en_047,Accurate,9,True,10.433333333333334,10.5,I can't beligve it's already midnight. 2026
+en_047,Accurate,10,True,10.5,10.966666666666667,I can't believe it's already midnight. 2026
+en_049,Fast,5,True,10.666666666666666,10.790000000000001,Did you say 19.95or 90.15?
+en_049,Fast,6,True,10.8,11.466666666666667,Did you say 19.95 or 90.15?
+en_049,Balanced,5,True,10.466666666666667,10.523333333333333,Did you say19.95 or 90.15?
+en_049,Balanced,6,True,10.533333333333333,10.656666666666666,Did you say 19.95 or 90.15?
+en_049,Balanced,7,True,10.666666666666666,10.723333333333333,Did you say 19.95or 90.15?
+en_049,Balanced,8,True,10.733333333333333,11.466666666666667,Did you say 19.95 or 90.15?
+en_049,Accurate,5,True,10.433333333333334,10.5,Did you say19.95 or 90.15?
+en_049,Accurate,6,True,10.5,10.633333333333333,Did you say 19.95 or 90.15?
+en_049,Accurate,7,True,10.633333333333333,10.7,Did you say 19.95or 90.15?
+en_049,Accurate,8,True,10.7,11.433333333333334,Did you say 19.95 or 90.15?
+en_050,Fast,4,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_050,Fast,5,True,10.133333333333333,10.256666666666668,The red-door is on the left.
+en_050,Balanced,4,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_050,Balanced,5,True,10.133333333333333,10.19,The red-door is on the left.
+en_050,Accurate,4,True,9.3,10.1,The red door is on the left.
+en_050,Accurate,5,True,10.1,10.166666666666666,The red-door is on the left.

@@ -1,0 +1,33 @@
+{
+  "app_version": "0.5.0",
+  "test_date": "2026-11-16",
+  "language": "English",
+  "clips": 50,
+  "cues_per_clip": 6,
+  "rates_fps": [
+    1.0,
+    3.0,
+    6.0
+  ],
+  "mode_labels": [
+    "1 FPS (Ultra Fast)",
+    "3 FPS (Faster)",
+    "6 FPS (Fast)"
+  ],
+  "minimum_confidence": 0.8,
+  "subtitle_filter": true,
+  "centered_filter": true,
+  "device": "GPU-configured; same backend as v0.5.0 controlled benchmark",
+  "gpu": "NVIDIA GeForce RTX 4070, 12 GB VRAM",
+  "gpu_sessions": "CUDAExecutionProvider listed for detection and recognition, with CPU fallback",
+  "gpu_utilization_measured": false,
+  "source_fps": 15.0,
+  "source_duration_seconds": 18.93,
+  "sampling_step_formula": "max(1, floor(source_fps / target_fps))",
+  "expected_effective_fps": [
+    1.0,
+    3.0,
+    7.5
+  ],
+  "other_mode_settings": "Copied from Fast; sample_fps is the only changed setting"
+}

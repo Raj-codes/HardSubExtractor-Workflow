@@ -1,0 +1,8 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+japan_001,Fast,4,True,11.0,12.0,赤いドアは左側にあります。
+japan_001,Balanced,4,True,9.333333333333334,10.0,赤いドアは左側にあります。
+japan_001,Balanced,5,True,9.708333333333332,10.333333333333334,赤下アは左側にあります。
+japan_006,Fast,2,True,4.0,5.0,19.95と90.15、どちらですか？
+japan_016,Fast,4,True,10.0,11.0,少し待ってください
+japan_036,Fast,2,True,4.0,5.0,少し待ってください
+japan_046,Fast,4,True,10.0,11.0,明日の夜に出発します

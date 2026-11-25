@@ -1,0 +1,19 @@
+﻿language,fast_detected,fast_expected,fast_recall_pct,fast_exact_text,fast_extras,fast_mean_seconds_per_fixture,balanced_detected,balanced_expected,balanced_recall_pct,balanced_exact_text,balanced_extras,balanced_mean_seconds_per_fixture
+English,4,8,50.0,4,0,0.663,8,8,100.0,8,0,1.68
+German,4,8,50.0,4,0,0.359,8,8,100.0,8,0,1.562
+French,4,8,50.0,4,0,0.484,8,8,100.0,8,0,1.508
+Spanish,4,8,50.0,4,0,0.446,8,8,100.0,8,0,1.359
+Italian,4,8,50.0,4,0,0.297,8,8,100.0,8,0,1.344
+Portuguese,4,8,50.0,4,0,0.383,8,8,100.0,8,0,1.383
+Dutch,4,8,50.0,4,0,0.336,8,8,100.0,8,0,1.344
+Japanese,4,8,50.0,4,0,0.476,6,8,75.0,6,0,1.157
+Korean,4,8,50.0,4,0,1.203,8,8,100.0,8,0,2.352
+Chinese (Simplified),4,8,50.0,4,0,0.492,8,8,100.0,8,0,1.664
+Chinese (Traditional),4,8,50.0,4,0,0.383,8,8,100.0,8,0,1.25
+Russian,4,8,50.0,4,0,0.554,8,8,100.0,8,0,1.446
+Ukrainian,4,8,50.0,4,0,0.383,8,8,100.0,8,0,1.352
+Indonesian,4,8,50.0,4,0,0.539,8,8,100.0,8,0,1.711
+Malay,4,8,50.0,4,0,0.508,8,8,100.0,8,0,1.617
+Filipino,4,8,50.0,4,0,0.523,8,8,100.0,8,0,1.477
+Polish,4,8,50.0,4,0,0.539,8,8,100.0,8,0,1.835
+Swedish,4,8,50.0,4,0,0.492,8,8,100.0,8,0,1.649

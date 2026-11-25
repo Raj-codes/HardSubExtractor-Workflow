@@ -1,0 +1,6 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+nl_002,Balanced,5,True,11.375,11.708333333333332,Wacht ep mij
+nl_006,Fast,2,True,4.0,5.0,"Zei je 19,95 of 90,15?"
+nl_016,Fast,4,True,10.0,11.0,Wacht op mij
+nl_036,Fast,2,True,4.0,5.0,Wacht op mij
+nl_046,Fast,4,True,10.0,11.0,We vertrekken morgen laat

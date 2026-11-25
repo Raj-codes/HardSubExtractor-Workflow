@@ -1,0 +1,2630 @@
+{
+  "app_version": "0.6.0",
+  "scope": "synthetic clear plus moving/compressed/fading horizontal subtitles",
+  "mode": "Fast",
+  "target_sample_fps": 1.0,
+  "device": "gpu",
+  "settings": {
+    "confidence_threshold": 0.8,
+    "subtitle_filter": true,
+    "center_filter": true,
+    "text_color": "White",
+    "roi": "fixture bottom region"
+  },
+  "results": [
+    {
+      "language": "English",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "We will leave tomorrow"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "We will leave tonight"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Wait for me"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Wait for me"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 1.062,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "We will leave tonight",
+          "confidence": 0.999876856803894
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Wait for me",
+          "confidence": 0.9999828934669495
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.969,
+      "total_seconds_including_model_initialization": 2.047
+    },
+    {
+      "language": "English",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "We will leave tomorrow"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "We will leave tonight"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Wait for me"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Wait for me"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.265,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "We will leave tonight",
+          "confidence": 0.9989967346191406
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Wait for me",
+          "confidence": 0.999981552362442
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.265
+    },
+    {
+      "language": "German",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Wir fahren morgen nach Hause"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Wir fahren heute nach Hause"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Warte auf mich"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Warte auf mich"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.25,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Wir fahren heute nach Hause",
+          "confidence": 0.9976173043251038
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Warte auf mich",
+          "confidence": 0.9831936955451965
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.25
+    },
+    {
+      "language": "German",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Wir fahren morgen nach Hause"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Wir fahren heute nach Hause"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Warte auf mich"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Warte auf mich"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.469,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Wir fahren heute nach Hause",
+          "confidence": 0.9866076111793518
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Warte auf mich",
+          "confidence": 0.9999743402004242
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.469
+    },
+    {
+      "language": "French",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Nous partons demain matin"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Nous partons demain soir"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Attends moi ici"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Attends moi ici"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.375,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Nous partons demain soir",
+          "confidence": 0.9999001026153564
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Attends moi ici",
+          "confidence": 0.999933123588562
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.375
+    },
+    {
+      "language": "French",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Nous partons demain matin"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Nous partons demain soir"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Attends moi ici"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Attends moi ici"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.593,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Nous partons demain soir",
+          "confidence": 0.9999902844429016
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Attends moi ici",
+          "confidence": 0.999897301197052
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.593
+    },
+    {
+      "language": "Spanish",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Nos vamos mañana temprano"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Nos vamos mañana tarde"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Espera un momento"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Espera un momento"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.375,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Nos vamos mañana tarde",
+          "confidence": 0.9999112486839294
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Espera un momento",
+          "confidence": 0.9998388886451721
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.375
+    },
+    {
+      "language": "Spanish",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Nos vamos mañana temprano"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Nos vamos mañana tarde"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Espera un momento"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Espera un momento"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.516,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Nos vamos mañana tarde",
+          "confidence": 0.9999095797538757
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Espera un momento",
+          "confidence": 0.999970555305481
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.516
+    },
+    {
+      "language": "Italian",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Partiamo domani mattina"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Partiamo domani sera"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Aspettami qui"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Aspettami qui"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.25,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Partiamo domani sera",
+          "confidence": 0.9760184288024902
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Aspettami qui",
+          "confidence": 0.9999786019325256
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.25
+    },
+    {
+      "language": "Italian",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Partiamo domani mattina"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Partiamo domani sera"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Aspettami qui"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Aspettami qui"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.344,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Partiamo domani sera",
+          "confidence": 0.99993497133255
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Aspettami qui",
+          "confidence": 0.9999683499336243
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.344
+    },
+    {
+      "language": "Portuguese",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Vamos sair amanhã cedo"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Vamos sair amanhã à noite"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Espere por mim"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Espere por mim"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.329,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Vamos sair amanhã à noite",
+          "confidence": 0.9997178912162781
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Espere por mim",
+          "confidence": 0.9999515414237976
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.329
+    },
+    {
+      "language": "Portuguese",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Vamos sair amanhã cedo"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Vamos sair amanhã à noite"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Espere por mim"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Espere por mim"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.437,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Vamos sair amanhã à noite",
+          "confidence": 0.9999336004257202
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Espere por mim",
+          "confidence": 0.9990745782852173
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.437
+    },
+    {
+      "language": "Dutch",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "We vertrekken morgen vroeg"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "We vertrekken morgen laat"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Wacht op mij"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Wacht op mij"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.25,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "We vertrekken morgen laat",
+          "confidence": 0.9999823570251465
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Wacht op mij",
+          "confidence": 0.9999809265136719
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.25
+    },
+    {
+      "language": "Dutch",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "We vertrekken morgen vroeg"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "We vertrekken morgen laat"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Wacht op mij"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Wacht op mij"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.422,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "We vertrekken morgen laat",
+          "confidence": 0.9999904036521912
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Wacht op mij",
+          "confidence": 0.999987930059433
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.422
+    },
+    {
+      "language": "Japanese",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "明日の朝に出発します"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "明日の夜に出発します"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "少し待ってください"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "少し待ってください"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.359,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "明日の夜に出発します",
+          "confidence": 0.9999882578849792
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "少し待ってください",
+          "confidence": 0.9999816417694092
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.375
+    },
+    {
+      "language": "Japanese",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "明日の朝に出発します"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "明日の夜に出発します"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "少し待ってください"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "少し待ってください"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.594,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "明日の夜に出発します",
+          "confidence": 0.9999815821647644
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "少し待ってください",
+          "confidence": 0.999936431646347
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.594
+    },
+    {
+      "language": "Korean",
+      "case": "clear",
+      "models": [
+        "PP-OCRv5_server_det",
+        "korean_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "우리는 내일 아침에 떠나요"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "우리는 내일 저녁에 떠나요"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "잠시만 기다려 주세요"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "잠시만 기다려 주세요"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 1.953,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "우리는 내일 저녁에 떠나요",
+          "confidence": 0.9308115243911743
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "잠시만 기다려 주세요",
+          "confidence": 0.9684059023857117
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.61,
+      "total_seconds_including_model_initialization": 2.594
+    },
+    {
+      "language": "Korean",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv5_server_det",
+        "korean_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "우리는 내일 아침에 떠나요"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "우리는 내일 저녁에 떠나요"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "잠시만 기다려 주세요"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "잠시만 기다려 주세요"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.453,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "우리는 내일 저녁에 떠나요",
+          "confidence": 0.9890238444010416
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "잠시만 기다려 주세요",
+          "confidence": 0.9934735347827275
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.453
+    },
+    {
+      "language": "Chinese (Simplified)",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "我们明天早上出发"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "我们明天晚上出发"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "请等我一下"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "请等我一下"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.469,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "我们明天晚上出发",
+          "confidence": 0.9999277591705322
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "请等我一下",
+          "confidence": 0.9997583627700806
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.734,
+      "total_seconds_including_model_initialization": 1.266
+    },
+    {
+      "language": "Chinese (Simplified)",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "我们明天早上出发"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "我们明天晚上出发"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "请等我一下"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "请等我一下"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.515,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "我们明天晚上出发",
+          "confidence": 0.999947190284729
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "请等我一下",
+          "confidence": 0.9998270571231842
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.515
+    },
+    {
+      "language": "Chinese (Traditional)",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "我們明天早上出發"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "我們明天晚上出發"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "請等我一下"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "請等我一下"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.282,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "我們明天晚上出發",
+          "confidence": 0.9998154044151306
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "請等我一下",
+          "confidence": 0.9995419383049011
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.282
+    },
+    {
+      "language": "Chinese (Traditional)",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "我們明天早上出發"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "我們明天晚上出發"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "請等我一下"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "請等我一下"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.484,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "我們明天晚上出發",
+          "confidence": 0.9996410608291626
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "請等我一下",
+          "confidence": 0.9991087019443512
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.484
+    },
+    {
+      "language": "Russian",
+      "case": "clear",
+      "models": [
+        "PP-OCRv5_server_det",
+        "eslav_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Мы уезжаем завтра утром"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Мы уезжаем завтра вечером"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Подожди меня здесь"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Подожди меня здесь"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.562,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Мы уезжаем завтра вечером",
+          "confidence": 0.9798423647880554
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Подожди меня здесь",
+          "confidence": 0.9921316504478455
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.359,
+      "total_seconds_including_model_initialization": 0.984
+    },
+    {
+      "language": "Russian",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv5_server_det",
+        "eslav_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Мы уезжаем завтра утром"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Мы уезжаем завтра вечером"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Подожди меня здесь"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Подожди меня здесь"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.547,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Мы уезжаем завтра вечером",
+          "confidence": 0.9842791557312012
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Подожди меня здесь",
+          "confidence": 0.9849168360233307
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.547
+    },
+    {
+      "language": "Ukrainian",
+      "case": "clear",
+      "models": [
+        "PP-OCRv5_server_det",
+        "eslav_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Ми їдемо завтра вранці"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Ми їдемо завтра ввечері"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Зачекай на мене"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Зачекай на мене"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.266,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Ми їдемо завтра ввечері",
+          "confidence": 0.9292575120925903
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Зачекай на мене",
+          "confidence": 0.9903562068939209
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.266
+    },
+    {
+      "language": "Ukrainian",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv5_server_det",
+        "eslav_PP-OCRv5_mobile_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Ми їдемо завтра вранці"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Ми їдемо завтра ввечері"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Зачекай на мене"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Зачекай на мене"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.5,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Ми їдемо завтра ввечері",
+          "confidence": 0.9424347281455994
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Зачекай на мене",
+          "confidence": 0.9945516884326935
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.5
+    },
+    {
+      "language": "Indonesian",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Kita berangkat besok pagi"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Kita berangkat besok malam"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Tunggu sebentar"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Tunggu sebentar"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.468,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Kita berangkat besok malam",
+          "confidence": 0.9959913492202759
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Tunggu sebentar",
+          "confidence": 0.9999863505363464
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.703,
+      "total_seconds_including_model_initialization": 1.234
+    },
+    {
+      "language": "Indonesian",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Kita berangkat besok pagi"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Kita berangkat besok malam"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Tunggu sebentar"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Tunggu sebentar"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.61,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Kita berangkat besok malam",
+          "confidence": 0.9999935626983643
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Tunggu sebentar",
+          "confidence": 0.9999882280826569
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.61
+    },
+    {
+      "language": "Malay",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Kita bertolak esok pagi"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Kita bertolak esok malam"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Tunggu saya di sini"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Tunggu saya di sini"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.391,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Kita bertolak esok malam",
+          "confidence": 0.9999855160713196
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Tunggu saya di sini",
+          "confidence": 0.999872624874115
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.391
+    },
+    {
+      "language": "Malay",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Kita bertolak esok pagi"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Kita bertolak esok malam"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Tunggu saya di sini"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Tunggu saya di sini"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.625,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Kita bertolak esok malam",
+          "confidence": 0.9999919533729553
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Tunggu saya di sini",
+          "confidence": 0.9997778534889221
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.625
+    },
+    {
+      "language": "Filipino",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Aalis tayo bukas ng umaga"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Aalis tayo bukas ng gabi"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Hintayin mo ako"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Hintayin mo ako"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.422,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Aalis tayo bukas ng gabi",
+          "confidence": 0.9799261689186096
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Hintayin mo ako",
+          "confidence": 0.9740949273109436
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.422
+    },
+    {
+      "language": "Filipino",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Aalis tayo bukas ng umaga"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Aalis tayo bukas ng gabi"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Hintayin mo ako"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Hintayin mo ako"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.625,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Aalis tayo bukas ng gabi",
+          "confidence": 0.9999831318855286
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Hintayin mo ako",
+          "confidence": 0.9999937415122986
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.641
+    },
+    {
+      "language": "Polish",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Wyjeżdżamy jutro rano"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Wyjeżdżamy jutro wieczorem"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Poczekaj na mnie"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Poczekaj na mnie"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.438,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Wyjeżdżamy jutro wieczorem",
+          "confidence": 0.9822648763656616
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Poczekaj na mnie",
+          "confidence": 0.9999426603317261
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.453
+    },
+    {
+      "language": "Polish",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Wyjeżdżamy jutro rano"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Wyjeżdżamy jutro wieczorem"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Poczekaj na mnie"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Poczekaj na mnie"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.64,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Wyjeżdżamy jutro wieczorem",
+          "confidence": 0.9888266324996948
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Poczekaj na mnie",
+          "confidence": 0.9999686479568481
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.64
+    },
+    {
+      "language": "Swedish",
+      "case": "clear",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Vi åker i morgon bitti"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Vi åker i morgon kväll"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Vänta på mig"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Vänta på mig"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.421,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Vi åker i morgon kväll",
+          "confidence": 0.9999053478240967
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Vänta på mig",
+          "confidence": 0.9995635151863098
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.421
+    },
+    {
+      "language": "Swedish",
+      "case": "moving_compressed",
+      "models": [
+        "PP-OCRv6_medium_det",
+        "PP-OCRv6_medium_rec"
+      ],
+      "expected": [
+        {
+          "start": 0.23,
+          "end": 0.53,
+          "text": "Vi åker i morgon bitti"
+        },
+        {
+          "start": 0.6,
+          "end": 1.2,
+          "text": "Vi åker i morgon kväll"
+        },
+        {
+          "start": 1.53,
+          "end": 2.1,
+          "text": "Vänta på mig"
+        },
+        {
+          "start": 2.5,
+          "end": 3.1,
+          "text": "Vänta på mig"
+        }
+      ],
+      "providers": {
+        "text_det_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ],
+        "text_rec_model": [
+          "CUDAExecutionProvider",
+          "CPUExecutionProvider"
+        ]
+      },
+      "elapsed_seconds": 0.562,
+      "expected_cues": 4,
+      "detected_cues": 2,
+      "text_correct_cues": 2,
+      "exact_text_cues": 2,
+      "extra_cues": 0,
+      "mean_start_error_seconds": 0.45,
+      "mean_end_error_seconds": 0.65,
+      "median_start_error_seconds": 0.45,
+      "median_end_error_seconds": 0.65,
+      "boundaries_within_0_5_seconds": 1,
+      "entries": [
+        {
+          "start": 1.0,
+          "end": 2.0,
+          "text": "Vi åker i morgon kväll",
+          "confidence": 0.9703754782676697
+        },
+        {
+          "start": 2.0,
+          "end": 3.6,
+          "text": "Vänta på mig",
+          "confidence": 0.9983348846435547
+        }
+      ],
+      "scan": {
+        "samples": 4,
+        "ocr_calls": 4,
+        "cache_hits": 0
+      },
+      "model_initialization_seconds": 0.0,
+      "total_seconds_including_model_initialization": 0.562
+    }
+  ],
+  "confidence_threshold": 0.8,
+  "excluded_experimental_languages": [],
+  "source_sha256": "8d9bb3010092d24a9df5cf1826427446997fb72e53f25735384086cabfc0a503",
+  "dependencies": {
+    "paddleocr": "3.7.0",
+    "paddlex": "3.7.2",
+    "onnxruntime-gpu": "1.30.0"
+  },
+  "totals": {
+    "expected_cues": 144,
+    "detected_cues": 72,
+    "text_correct_cues": 72,
+    "exact_text_cues": 72,
+    "extra_cues": 0,
+    "cue_recall": 0.5,
+    "text_correct_rate": 0.5,
+    "exact_text_rate": 0.5,
+    "cue_precision": 1.0
+  },
+  "meets_95_percent_cue_target_on_this_corpus": false,
+  "meets_95_percent_text_target_on_this_corpus": false,
+  "meets_95_percent_precision_target_on_this_corpus": true
+}

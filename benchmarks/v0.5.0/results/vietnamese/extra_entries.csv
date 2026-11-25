@@ -1,0 +1,2491 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+vi_001,Fast,1,True,0.5333333333333333,0.6566666666666666,Chúng ta đi yào săng mai 2026
+vi_001,Fast,2,True,0.6666666666666666,0.79,Chúng ta di vào sáng mai 2026
+vi_001,Fast,4,True,3.466666666666667,3.7333333333333334,Hăy đi tôi đây
+vi_001,Fast,5,True,3.7333333333333334,3.856666666666667,Hăy đi tôi đy
+vi_001,Fast,6,True,3.8666666666666667,3.99,Hãy đi tôi đây
+vi_001,Fast,7,True,4.0,4.123333333333334,Hăy đi tôi đây
+vi_001,Fast,8,True,4.133333333333334,4.256666666666667,Hãy đi tôi đây
+vi_001,Fast,9,True,4.266666666666667,4.666666666666667,Hăy đi tôi đây
+vi_001,Fast,10,True,4.666666666666667,5.066666666666666,Hãy đi tôi đây
+vi_001,Fast,11,True,6.4,6.666666666666667,Không th tin đã na đêm! 101
+vi_001,Fast,12,True,6.666666666666667,6.79,Khöng th tin dã na đêm! 101
+vi_001,Fast,13,True,6.8,6.923333333333334,Không the tin đã na đêm! 101
+vi_001,Fast,14,True,6.933333333333334,7.056666666666667,Không th tin đã na đêm! 101
+vi_001,Fast,15,True,7.066666666666666,7.19,Không th tin đa na đêm! 101
+vi_001,Fast,16,True,7.2,7.323333333333333,Khöng th tin đã na đêm! 101
+vi_001,Fast,17,True,7.333333333333333,7.866666666666666,Không th tin đã na đêm! 101
+vi_001,Fast,18,True,7.866666666666666,7.99,Khöng th tin đă na đêm! 101
+vi_001,Fast,19,True,8.0,8.266666666666666,Không th tin đã na đêm! 101
+vi_001,Fast,20,True,9.333333333333334,9.456666666666667,Cánh ca đ bên trái.
+vi_001,Fast,21,True,9.466666666666667,9.59,Cánh ca đó bên trái.
+vi_001,Fast,22,True,9.6,9.723333333333333,Cánh ca đ bên trái.
+vi_001,Fast,23,True,9.733333333333333,10.0,Cánh ca đó bên trái.
+vi_001,Fast,24,True,10.0,10.123333333333333,Canh ca đó bên trái.
+vi_001,Fast,25,True,10.133333333333333,10.256666666666668,Can cra đó bên trái.
+vi_001,Fast,27,True,11.333333333333334,11.533333333333333,Cánh cra đó bên trái.
+vi_001,Fast,29,True,14.266666666666667,14.39,Chúng ta đi vào tôi mai
+vi_001,Fast,30,True,14.4,14.523333333333333,Chúng ta đi vào ti mai
+vi_001,Fast,31,True,14.533333333333333,14.733333333333333,Chúng ta đi vào tôi mai
+vi_001,Fast,32,True,15.2,15.466666666666667,"Bn nói 19,95 hay 90,15? 2000"
+vi_001,Fast,34,True,16.4,16.666666666666668,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Fast,35,True,16.666666666666668,17.066666666666666,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Fast,36,True,17.066666666666666,17.333333333333332,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Fast,37,True,17.333333333333332,17.866666666666667,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,1,True,0.4666666666666667,0.5233333333333333,Chúng ta đi vào sáng mai 2026
+vi_001,Balanced,2,True,0.5333333333333333,0.59,Chúng ta đi yào săng mai 2026
+vi_001,Balanced,3,True,0.6,0.6566666666666666,Chúng ta di yào săng mai 2026
+vi_001,Balanced,4,True,0.6666666666666666,0.7233333333333333,Chúng ta di vào sáng mai 2026
+vi_001,Balanced,5,True,0.7333333333333333,0.8566666666666667,Chúng ta đi vào sáng mai 2026
+vi_001,Balanced,6,True,0.8666666666666667,0.9233333333333333,Chúng ta di vào sáng mai 2026
+vi_001,Balanced,7,True,0.9333333333333333,1.1133333333333333,Chúng ta đi vào sáng mai 2026
+vi_001,Balanced,8,True,3.4,3.7333333333333334,Hăy đi tôi đây
+vi_001,Balanced,9,True,3.7333333333333334,3.79,Hăy đi tôi đy
+vi_001,Balanced,10,True,3.8,3.856666666666667,Hăy đi tôi đây
+vi_001,Balanced,11,True,3.8666666666666667,3.99,Hãy đi tôi đây
+vi_001,Balanced,12,True,4.0,4.056666666666667,Hăy đi tôi đây
+vi_001,Balanced,13,True,4.066666666666666,4.266666666666667,Hãy đi tôi đây
+vi_001,Balanced,14,True,4.266666666666667,4.666666666666666,Hăy đi tôi đây
+vi_001,Balanced,15,True,4.666666666666667,4.866666666666666,Hãy đi tôi đây
+vi_001,Balanced,16,True,4.866666666666666,4.923333333333334,Hăy đi tôi đây
+vi_001,Balanced,17,True,4.933333333333334,4.99,Hãy đi tôi đây
+vi_001,Balanced,18,True,5.0,5.18,Hăy đi tôi đây
+vi_001,Balanced,19,True,6.4,6.666666666666666,Không th tin đã na đêm! 101
+vi_001,Balanced,20,True,6.666666666666667,6.723333333333334,Khöng th tin dã na đêm! 101
+vi_001,Balanced,21,True,6.733333333333333,6.79,Không th tin dã na đêm! 101
+vi_001,Balanced,22,True,6.8,6.8566666666666665,Không the tin đã na đêm! 101
+vi_001,Balanced,23,True,6.866666666666666,7.066666666666666,Không th tin đã na đêm! 101
+vi_001,Balanced,24,True,7.066666666666666,7.123333333333334,Không th tin đa na đêm! 101
+vi_001,Balanced,25,True,7.133333333333334,7.19,Không the tin da na đêm! 101
+vi_001,Balanced,26,True,7.2,7.256666666666667,Khöng th tin đã na đêm! 101
+vi_001,Balanced,27,True,7.266666666666667,7.8,Không th tin đã na đêm! 101
+vi_001,Balanced,28,True,7.8,7.8566666666666665,Khöng th tin đã na đêm! 101
+vi_001,Balanced,29,True,7.866666666666666,7.923333333333334,Khöng th tin đă na đêm! 101
+vi_001,Balanced,30,True,7.933333333333334,8.266666666666666,Không th tin đã na đêm! 101
+vi_001,Balanced,31,True,9.333333333333334,9.39,Cánh ca đ bên trái.
+vi_001,Balanced,32,True,9.4,9.6,Cánh ca đó bên trái.
+vi_001,Balanced,33,True,9.6,9.656666666666666,Cánh ca đ bên trái.
+vi_001,Balanced,34,True,9.666666666666666,10.0,Cánh ca đó bên trái.
+vi_001,Balanced,35,True,10.0,10.056666666666667,Canh ca đó bên trái.
+vi_001,Balanced,36,True,10.066666666666666,10.123333333333333,Cánh ca đó bên trái.
+vi_001,Balanced,37,True,10.133333333333333,10.19,Can cra đó bên trái.
+vi_001,Balanced,39,True,11.333333333333334,11.39,Cánh cra đó bên trái.
+vi_001,Balanced,40,True,11.4,11.58,Cánh ca đo bên trái.
+vi_001,Balanced,42,True,14.266666666666667,14.323333333333334,Chúng ta đi vào tôi mai
+vi_001,Balanced,43,True,14.333333333333334,14.456666666666667,Chúng ta đi vào ti mai
+vi_001,Balanced,44,True,14.466666666666667,14.666666666666666,Chúng ta đi vào tôi mai
+vi_001,Balanced,45,True,15.2,15.256666666666668,"Bn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,46,True,15.266666666666667,15.323333333333334,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,47,True,15.333333333333334,15.39,"Bn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,48,True,15.4,15.666666666666666,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,49,True,15.666666666666666,15.723333333333333,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,50,True,15.733333333333333,16.2,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,51,True,16.2,16.256666666666664,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,52,True,16.266666666666666,16.389999999999997,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,53,True,16.4,16.6,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,54,True,16.6,16.723333333333333,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,55,True,16.733333333333334,16.79,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,56,True,16.8,17.0,"Ban nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,57,True,17.0,17.266666666666666,"Bąn nói 19,95 hay 90,15? 2000"
+vi_001,Balanced,58,True,17.266666666666666,17.8,"Ban nói 19,95 hay 90,15? 2000"
+vi_002,Fast,1,True,0.5333333333333333,0.9333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_002,Fast,2,True,0.9333333333333333,1.0566666666666666,"Bąn nój 19,95 hay 90,15?"
+vi_002,Fast,3,True,1.0666666666666667,1.19,"Bąn nói 19,95 hay 90,15?"
+vi_002,Fast,5,True,3.466666666666667,3.5900000000000003,Đqi dā chúng ta that su di sao?
+vi_002,Fast,6,True,3.6,3.7233333333333336,Đoi đã chúng ta tht su di sao?
+vi_002,Fast,7,True,3.7333333333333334,3.856666666666667,Đqi dă.. chúng ta that su đi sao?
+vi_002,Fast,8,True,3.8666666666666667,3.99,Đoi dā... chúng ta thât su di sao?
+vi_002,Fast,9,True,4.0,4.123333333333334,Đi dā... chúng ta thât su di sao?
+vi_002,Fast,10,True,4.133333333333334,4.256666666666667,Đi dă... chúng ta thât su di sao?
+vi_002,Fast,11,True,4.266666666666667,4.390000000000001,Đi dä... chúng ta thât su di sao?
+vi_002,Fast,12,True,4.4,4.523333333333333,Đi dă... chúng ta thât su di sao?
+vi_002,Fast,13,True,4.533333333333333,4.656666666666667,Đi đă... chúng ta thât su di sao?
+vi_002,Fast,14,True,4.666666666666667,4.79,Đi đā... chúng ta thât su di sao?
+vi_002,Fast,15,True,4.8,5.066666666666666,Đi dä... chúng ta thât su di sao?
+vi_002,Fast,16,True,5.066666666666666,5.19,Đi dā... chúng ta thât su di sao?
+vi_002,Fast,17,True,5.2,5.4,Đi dä... chúng ta thât su di sao?
+vi_002,Fast,18,True,6.4,6.666666666666667,Chúng ta di vào sáng mai 102
+vi_002,Fast,19,True,6.666666666666667,6.79,Chúng ta đi vào sáng mai 102
+vi_002,Fast,20,True,6.8,6.923333333333334,Chúng ta di vào sáng mai 102
+vi_002,Fast,21,True,6.933333333333334,7.056666666666667,Chúng ta đi vào sáng mai 102
+vi_002,Fast,23,True,7.733333333333333,7.8566666666666665,Chúng ta đi vào sáng mai 102
+vi_002,Fast,24,True,7.866666666666666,8.533333333333333,Chúng ta di vào sáng mai 102
+vi_002,Fast,25,True,9.333333333333334,9.456666666666667,Hãy đi tôi đây
+vi_002,Fast,26,True,9.466666666666667,9.59,Hăy đi tôi đy
+vi_002,Fast,27,True,9.6,10.0,Hăy đi tôi đây
+vi_002,Fast,28,True,10.0,10.123333333333333,Hāy đi tôi đây
+vi_002,Fast,29,True,10.133333333333333,10.256666666666668,Hãy đi tôi đy
+vi_002,Fast,30,True,10.266666666666667,10.533333333333333,Hăy đi tôi đây
+vi_002,Fast,31,True,10.533333333333333,10.656666666666666,Hāy đi tôi đây
+vi_002,Fast,32,True,10.666666666666666,10.790000000000001,Hăy đi tôi đay
+vi_002,Fast,33,True,10.8,11.2,Hãy đi tôi đây
+vi_002,Fast,34,True,11.2,11.466666666666667,Hăy đi tôi đây
+vi_002,Fast,35,True,11.466666666666667,11.59,Hāy đoi tôi đay
+vi_002,Fast,36,True,11.6,11.799999999999999,Hāy đoi tôi đây
+vi_002,Fast,37,True,12.266666666666667,12.799999999999999,Không th tin đă na đêm!
+vi_002,Fast,38,True,12.8,13.066666666666666,Khöng th tin đă na đêm!
+vi_002,Fast,40,True,15.2,15.323333333333334,Cánh cra đ bên trái. 2001
+vi_002,Fast,41,True,15.333333333333334,15.456666666666667,Cánh cra đó bên trái. 2001
+vi_002,Fast,42,True,15.466666666666667,15.59,Cánh ca đ bên trái. 2001
+vi_002,Fast,43,True,15.6,15.723333333333333,Cánh cra đ bên trái. 2001
+vi_002,Fast,44,True,15.733333333333333,15.856666666666667,Cánh ca đó bên trái. 2001
+vi_002,Fast,45,True,15.866666666666667,15.99,Cánh ca đ bên trái. 2001
+vi_002,Fast,47,True,16.533333333333335,16.733333333333334,Cánh ca đ bên trái. 2001
+vi_002,Balanced,1,True,0.4666666666666667,0.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_002,Balanced,2,True,0.8666666666666667,0.9233333333333333,"Ban nój 19,95 hay 90,15?"
+vi_002,Balanced,3,True,0.9333333333333333,0.99,"Bąn nój 19,95 hay 90,15?"
+vi_002,Balanced,4,True,1.0,1.0566666666666666,"Bn nói 19,95 hay 90,15?"
+vi_002,Balanced,5,True,1.0666666666666667,1.19,"Bąn nói 19,95 hay 90,15?"
+vi_002,Balanced,6,True,1.2,1.6666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_002,Balanced,7,True,1.6666666666666667,1.7233333333333334,"Bąn nói 19,95 hay 90,15?"
+vi_002,Balanced,8,True,1.7333333333333334,2.1333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_002,Balanced,9,True,3.4,3.6,Đqi dā chúng ta that su di sao?
+vi_002,Balanced,10,True,3.6,3.6566666666666667,Đoi đã chúng ta tht su di sao?
+vi_002,Balanced,11,True,3.6666666666666665,3.7233333333333336,Đi đã chúng ta tht su di sao?
+vi_002,Balanced,12,True,3.7333333333333334,3.79,Đqi dă.. chúng ta that su đi sao?
+vi_002,Balanced,13,True,3.8,4.0,Đoi dā... chúng ta thât su di sao?
+vi_002,Balanced,14,True,4.0,4.056666666666667,Đi dā... chúng ta thât su di sao?
+vi_002,Balanced,15,True,4.066666666666666,4.19,Đi dă... chúng ta thât su di sao?
+vi_002,Balanced,16,True,4.2,4.323333333333333,Đi dä... chúng ta thât su di sao?
+vi_002,Balanced,17,True,4.333333333333333,4.390000000000001,Đi dā... chúng ta thât su di sao?
+vi_002,Balanced,18,True,4.4,4.456666666666667,Đi dă... chúng ta thât su di sao?
+vi_002,Balanced,19,True,4.466666666666667,4.666666666666666,Đi đă... chúng ta thât su di sao?
+vi_002,Balanced,20,True,4.666666666666667,4.79,Đi đā... chúng ta thât su di sao?
+vi_002,Balanced,21,True,4.8,5.0,Đi dä... chúng ta thât su di sao?
+vi_002,Balanced,22,True,5.0,5.2,Đi dā... chúng ta thât su di sao?
+vi_002,Balanced,23,True,5.2,5.38,Đi dä... chúng ta thât su di sao?
+vi_002,Balanced,24,True,6.4,6.6,Chúng ta di vào sáng mai 102
+vi_002,Balanced,25,True,6.6,6.723333333333334,Chúng ta đi vào sáng mai 102
+vi_002,Balanced,26,True,6.733333333333333,6.79,Chúng ta di vão sáng mai 102
+vi_002,Balanced,27,True,6.8,6.923333333333334,Chúng ta di vào sáng mai 102
+vi_002,Balanced,28,True,6.933333333333334,6.99,Chúng ta đi vào sáng mai 102
+vi_002,Balanced,29,True,7.0,7.123333333333334,Chúng ta di vào sáng mai 102
+vi_002,Balanced,30,True,7.133333333333334,7.19,Chng ta di vao sáng mai 102
+vi_002,Balanced,31,True,7.2,7.666666666666666,Chúng ta di vào sáng mai 102
+vi_002,Balanced,32,True,7.666666666666667,7.866666666666666,Chúng ta đi vào sáng mai 102
+vi_002,Balanced,34,True,9.333333333333334,9.456666666666667,Hãy đi tôi đây
+vi_002,Balanced,35,True,9.466666666666667,9.523333333333333,Hăy đi tôi đy
+vi_002,Balanced,36,True,9.533333333333333,10.0,Hăy đi tôi đây
+vi_002,Balanced,37,True,10.0,10.056666666666667,Hāy đi tôi đây
+vi_002,Balanced,38,True,10.066666666666666,10.123333333333333,Hay đoi tôi đay
+vi_002,Balanced,39,True,10.133333333333333,10.19,Hãy đi tôi đy
+vi_002,Balanced,40,True,10.2,10.533333333333333,Hăy đi tôi đây
+vi_002,Balanced,41,True,10.533333333333333,10.59,Hāy đi tôi đây
+vi_002,Balanced,42,True,10.6,10.656666666666666,Hăy đi tôi đây
+vi_002,Balanced,43,True,10.666666666666666,10.790000000000001,Hăy đi tôi đay
+vi_002,Balanced,44,True,10.8,11.133333333333333,Hãy đi tôi đây
+vi_002,Balanced,45,True,11.133333333333333,11.4,Hăy đi tôi đây
+vi_002,Balanced,46,True,11.4,11.456666666666667,Hāy đoi tôi đy
+vi_002,Balanced,47,True,11.466666666666667,11.523333333333333,Hāy đoi tôi đay
+vi_002,Balanced,48,True,11.533333333333333,11.59,Hay doi tôi đy
+vi_002,Balanced,49,True,11.6,11.78,Hāy đoi tôi đây
+vi_002,Balanced,50,True,12.266666666666667,12.799999999999999,Không th tin đă na đêm!
+vi_002,Balanced,51,True,12.8,12.856666666666667,Khöng th tin đă na đêm!
+vi_002,Balanced,52,True,12.866666666666667,12.923333333333334,Khöng th tin đă na dêm!
+vi_002,Balanced,53,True,12.933333333333334,12.99,Khöng th tin đă na đêm!
+vi_002,Balanced,55,True,14.066666666666666,14.123333333333333,Không th tin đă na đm!
+vi_002,Balanced,56,True,14.133333333333333,14.866666666666667,Không th tin đă na đêm!
+vi_002,Balanced,57,True,15.2,15.256666666666668,Cánh cra đ bên trái. 2001
+vi_002,Balanced,58,True,15.266666666666667,15.323333333333334,Cánh ca đo bên trái. 2001
+vi_002,Balanced,59,True,15.333333333333334,15.39,Cánh cra đó bên trái. 2001
+vi_002,Balanced,60,True,15.4,15.523333333333333,Cánh ca đ bên trái. 2001
+vi_002,Balanced,61,True,15.533333333333333,15.656666666666666,Cánh cra đ bên trái. 2001
+vi_002,Balanced,62,True,15.666666666666666,15.723333333333333,Cánh ca đ bên trái. 2001
+vi_002,Balanced,63,True,15.733333333333333,15.856666666666667,Cánh ca đó bên trái. 2001
+vi_002,Balanced,64,True,15.866666666666667,15.923333333333334,Cánh ca đ bên trái. 2001
+vi_002,Balanced,66,True,16.466666666666665,16.523333333333333,Cánh ca đo bên trái. 2001
+vi_002,Balanced,67,True,16.533333333333335,16.713333333333335,Cánh ca đ bên trái. 2001
+vi_003,Fast,1,True,0.5333333333333333,0.6566666666666666,Cănh ca đò bên trái.
+vi_003,Fast,2,True,0.6666666666666666,0.79,Cánh ca đò bên trái.
+vi_003,Fast,3,True,0.8,0.9233333333333333,Cánh qa đò bên trái.
+vi_003,Fast,4,True,0.9333333333333333,1.0566666666666666,Cánh ca dò bên trái.
+vi_003,Fast,5,True,1.0666666666666667,1.19,Cánhca đò bên trái.
+vi_003,Fast,7,True,2.1333333333333333,2.256666666666667,Cánh cra đò bên trái
+vi_003,Fast,8,True,2.2666666666666666,2.466666666666667,Cánh ca đò bên trái
+vi_003,Fast,9,True,3.466666666666667,3.7333333333333334,Chúng ta đi vào tői mai
+vi_003,Fast,10,True,3.7333333333333334,3.856666666666667,Chúng ta đi vào tôi mai
+vi_003,Fast,13,True,8.0,8.123333333333333,"Bąn nói 19,95 hay 90,15? 103"
+vi_003,Fast,14,True,8.133333333333333,8.4,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Fast,15,True,8.4,8.523333333333333,"Bąn nói 19,95 hay 90,15? 103"
+vi_003,Fast,16,True,8.533333333333333,8.799999999999999,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Fast,17,True,9.333333333333334,9.456666666666667,Đi đã... chúng ta tht sư đi sao?
+vi_003,Fast,18,True,9.466666666666667,9.59,Đqi đã... chúng ta tht s đi sao?
+vi_003,Fast,19,True,9.6,9.723333333333333,Đi đã... chúng ta thât sư đi sao?
+vi_003,Fast,20,True,9.733333333333333,9.856666666666667,Đi đã... chúng ta tht sư đi sao?
+vi_003,Fast,21,True,9.866666666666667,9.99,Đi đã... chúng ta tht su đi sao?
+vi_003,Fast,22,True,10.0,10.123333333333333,Đgi đa... chúng ta tht su đi sao?
+vi_003,Fast,23,True,10.133333333333333,10.256666666666668,Đi đă chúng ta thât s đi sao?
+vi_003,Fast,24,True,10.266666666666667,10.39,Đi đã... chúng ta tht sư đi sao?
+vi_003,Fast,25,True,10.4,10.523333333333333,Đi đã... chúng ta thât s đi sao?
+vi_003,Fast,26,True,10.533333333333333,10.656666666666666,Đxi đã... chúng ta tht s đi sao?
+vi_003,Fast,27,True,10.666666666666666,10.790000000000001,Đi đã... chúng ta thât s đi sao?
+vi_003,Fast,28,True,10.8,11.066666666666666,Đi đã... chúng ta tht s đi sao?
+vi_003,Fast,29,True,11.066666666666666,11.19,Đi đã... chúng ta tht su đi sao?
+vi_003,Fast,30,True,11.2,11.323333333333334,Đi đã... chúng ta tht s đi sao?
+vi_003,Fast,31,True,11.333333333333334,11.456666666666667,"Đi đã.., chúng ta tht su đi sao?"
+vi_003,Fast,32,True,11.466666666666667,11.59,Đi đã... chúng ta thât su đi sao?
+vi_003,Fast,33,True,11.6,11.723333333333333,Đi đà... chúng ta tht su đi sao?
+vi_003,Fast,34,True,11.733333333333333,11.856666666666667,Đi đä... chúng ta tht su đi sao?
+vi_003,Fast,35,True,11.866666666666667,12.066666666666666,Đi đã... chúng ta tht su đi sao?
+vi_003,Fast,38,True,16.4,16.523333333333333,Hãy đi tôi đăy 2002
+vi_003,Fast,39,True,16.533333333333335,16.933333333333334,Hãy đi tôi đây 2002
+vi_003,Balanced,1,True,0.4666666666666667,0.59,Cănh ca đò bên trái.
+vi_003,Balanced,2,True,0.6,0.6566666666666666,Cánh ca dò bên trái.
+vi_003,Balanced,3,True,0.6666666666666666,0.7233333333333333,Cánh ca đò bên trái.
+vi_003,Balanced,4,True,0.7333333333333333,0.79,Cánh cra dò bên trái.
+vi_003,Balanced,5,True,0.8,0.8566666666666667,Cánh qa đò bên trái.
+vi_003,Balanced,6,True,0.8666666666666667,0.9233333333333333,Cánh a đò bên trái.
+vi_003,Balanced,7,True,0.9333333333333333,0.99,Cánh ca dò bên trái.
+vi_003,Balanced,8,True,1.0,1.0566666666666666,Cánhca dò bên trái.
+vi_003,Balanced,9,True,1.0666666666666667,1.1233333333333333,Cánhca đò bên trái.
+vi_003,Balanced,10,True,1.1333333333333333,1.4,Cánh ca đò bên trái.
+vi_003,Balanced,11,True,1.4,1.4566666666666666,Cánh ca dò bên trái.
+vi_003,Balanced,13,True,2.066666666666667,2.2666666666666666,Cánh cra đò bên trái
+vi_003,Balanced,14,True,2.2666666666666666,2.4466666666666668,Cánh ca đò bên trái
+vi_003,Balanced,15,True,3.4,3.7333333333333334,Chúng ta đi vào tői mai
+vi_003,Balanced,16,True,3.7333333333333334,3.79,Chúng ta đi vào tôi mai
+vi_003,Balanced,18,True,5.133333333333334,5.19,Chúng ta đi vào tői mai
+vi_003,Balanced,19,True,5.2,5.256666666666667,Chúng ta đi vào ti mai
+vi_003,Balanced,20,True,5.266666666666667,5.323333333333333,Chúng ta di vào ti mai
+vi_003,Balanced,21,True,5.333333333333333,5.533333333333333,Chúng ta đi vào ti mai
+vi_003,Balanced,23,True,7.133333333333334,7.19,"Ban nól 19,95 hay 90,15? 103"
+vi_003,Balanced,24,True,7.2,7.3999999999999995,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Balanced,25,True,7.4,7.456666666666667,"Bąn nói 19,95 hay 90,15? 103"
+vi_003,Balanced,26,True,7.466666666666667,8.0,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Balanced,27,True,8.0,8.056666666666667,"Bąn nói 19,95 hay 90,15? 103"
+vi_003,Balanced,28,True,8.066666666666666,8.333333333333334,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Balanced,29,True,8.333333333333334,8.39,"Ban noi 19,95 hay 90,15? 103"
+vi_003,Balanced,30,True,8.4,8.456666666666667,"Bąn nói 19,95 hay 90,15? 103"
+vi_003,Balanced,31,True,8.466666666666667,8.799999999999999,"Ban nói 19,95 hay 90,15? 103"
+vi_003,Balanced,32,True,9.333333333333334,9.39,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,33,True,9.4,9.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_003,Balanced,34,True,9.466666666666667,9.523333333333333,Đqi đã... chúng ta tht s đi sao?
+vi_003,Balanced,35,True,9.533333333333333,9.59,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,36,True,9.6,9.656666666666666,Đi đã... chúng ta thât sư đi sao?
+vi_003,Balanced,37,True,9.666666666666666,9.723333333333333,Đi đã... chúng ta tht s đi sao?
+vi_003,Balanced,38,True,9.733333333333333,9.790000000000001,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,39,True,9.8,9.923333333333334,Đi đã... chúng ta tht su đi sao?
+vi_003,Balanced,40,True,9.933333333333334,9.99,Đqi da... chúng ta thât sur đi sao?
+vi_003,Balanced,41,True,10.0,10.056666666666667,Đgi đa... chúng ta tht su đi sao?
+vi_003,Balanced,42,True,10.066666666666666,10.123333333333333,Đoi đã... shúng ta tht su đi sao?
+vi_003,Balanced,43,True,10.133333333333333,10.19,Đi đă chúng ta thât s đi sao?
+vi_003,Balanced,44,True,10.2,10.256666666666668,Đgi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,45,True,10.266666666666667,10.323333333333334,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,46,True,10.333333333333334,10.39,Đgi đã... chúng ta tht su đi sao?
+vi_003,Balanced,47,True,10.4,10.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_003,Balanced,48,True,10.466666666666667,10.523333333333333,Đi đä... chúng ta tht sư đi sao?
+vi_003,Balanced,49,True,10.533333333333333,10.59,Đxi đã... chúng ta tht s đi sao?
+vi_003,Balanced,50,True,10.6,10.656666666666666,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,51,True,10.666666666666666,10.723333333333333,Đi đã... chúng ta thât s đi sao?
+vi_003,Balanced,52,True,10.733333333333333,10.856666666666667,Đi đã... chúng ta tht s đi sao?
+vi_003,Balanced,53,True,10.866666666666667,10.923333333333334,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,54,True,10.933333333333334,10.99,Đi đã... chúng ta tht s đi sao?
+vi_003,Balanced,55,True,11.0,11.123333333333333,Đi đã... chúng ta tht su đi sao?
+vi_003,Balanced,56,True,11.133333333333333,11.19,Đi đã... chúng ta tht sư đi sao?
+vi_003,Balanced,57,True,11.2,11.256666666666668,Đi đã... chúng ta tht s đi sao?
+vi_003,Balanced,58,True,11.266666666666667,11.39,Đi đã... chúng ta tht su đi sao?
+vi_003,Balanced,59,True,11.4,11.523333333333333,Đi đã... chúng ta thât su đi sao?
+vi_003,Balanced,60,True,11.533333333333333,11.59,Đi đā... chúng ta tht su đi sao?
+vi_003,Balanced,61,True,11.6,11.656666666666666,Đi đà... chúng ta tht su đi sao?
+vi_003,Balanced,62,True,11.666666666666666,11.723333333333333,Đi đa... chúng ta thât su đi sao?
+vi_003,Balanced,63,True,11.733333333333333,11.790000000000001,Đi đä... chúng ta tht su đi sao?
+vi_003,Balanced,64,True,11.8,11.98,Đi đã... chúng ta tht su đi sao?
+vi_003,Balanced,66,True,13.4,13.456666666666667,Chúng ta đi vào sáng maj
+vi_003,Balanced,67,True,13.466666666666667,13.666666666666666,Chúng ta đi vào sáng mai
+vi_003,Balanced,69,True,16.4,16.456666666666663,Hãy đi tôi đăy 2002
+vi_003,Balanced,70,True,16.466666666666665,16.866666666666667,Hãy đi tôi đây 2002
+vi_004,Fast,2,True,3.466666666666667,3.5900000000000003,Không th tin đă na đêm!
+vi_004,Fast,4,True,6.4,6.666666666666667,Cánh ca đ bên trái. 104
+vi_004,Fast,5,True,6.666666666666667,6.79,Cán c đ bên trái. 104
+vi_004,Fast,6,True,6.8,7.066666666666666,Cánh ca đ bên trái. 104
+vi_004,Fast,7,True,7.066666666666666,7.19,Cánh ca đo bên trái. 104
+vi_004,Fast,8,True,7.2,7.323333333333333,Cánh ca đò bên trái. 104
+vi_004,Fast,10,True,8.266666666666667,8.39,Cánh ca đo o bên trái. 104
+vi_004,Fast,11,True,8.4,9.066666666666666,Cánh ca đ bên trái. 104
+vi_004,Fast,14,True,15.2,15.323333333333334,Đqi đã... chúng ta tht s đi sao? 2003
+vi_004,Fast,15,True,15.333333333333334,15.866666666666665,Đi đã... chúng ta tht s đi sao? 2003
+vi_004,Fast,16,True,15.866666666666667,16.4,Đqi đã... chúng ta tht s đi sao? 2003
+vi_004,Fast,17,True,16.4,16.523333333333333,Đi đã.. chúng ta thât s đi sao? 2003
+vi_004,Fast,18,True,16.533333333333335,17.066666666666666,Đi đã... chúng ta tht s đi sao? 2003
+vi_004,Balanced,2,True,3.4,3.6,Không th tin đă na đêm!
+vi_004,Balanced,4,True,6.4,6.666666666666666,Cánh ca đ bên trái. 104
+vi_004,Balanced,5,True,6.666666666666667,6.723333333333334,Cán c đ bên trái. 104
+vi_004,Balanced,6,True,6.733333333333333,6.79,Cánh ca đo bên trái. 104
+vi_004,Balanced,7,True,6.8,7.066666666666666,Cánh ca đ bên trái. 104
+vi_004,Balanced,8,True,7.066666666666666,7.123333333333334,Cánh ca đo bên trái. 104
+vi_004,Balanced,9,True,7.133333333333334,7.19,Cánh ca do bên trái. 104
+vi_004,Balanced,10,True,7.2,7.256666666666667,Cánh ca đò bên trái. 104
+vi_004,Balanced,12,True,8.2,8.256666666666668,Cán ca đo bên trái. 104
+vi_004,Balanced,13,True,8.266666666666667,8.323333333333334,Cánh ca đo o bên trái. 104
+vi_004,Balanced,14,True,8.333333333333334,8.39,Cánh ca đò bên trái. 104
+vi_004,Balanced,15,True,8.4,9.0,Cánh ca đ bên trái. 104
+vi_004,Balanced,16,True,9.333333333333334,9.39,Chúng ta đi vào ti mai
+vi_004,Balanced,17,True,9.4,9.456666666666667,Chúng ta đi vào tôi mai
+vi_004,Balanced,18,True,9.466666666666667,9.666666666666666,Chúng ta đi vào ti mai
+vi_004,Balanced,19,True,9.666666666666666,9.723333333333333,Chúng ta đi vào tői mai
+vi_004,Balanced,22,True,15.2,15.256666666666668,Đqi đã... chúng ta tht s đi sao? 2003
+vi_004,Balanced,24,True,15.866666666666667,15.923333333333334,Đqi đã... chúng ta tht s đi sao? 2003
+vi_004,Balanced,25,True,15.933333333333334,15.99,Đi đã... chúng ta tht sư đi sao? 2003
+vi_004,Balanced,26,True,16.0,16.4,Đqi đã... chúng ta tht s đi sao? 2003
+vi_004,Balanced,27,True,16.4,16.456666666666663,Đi đã.. chúng ta thât s đi sao? 2003
+vi_004,Balanced,28,True,16.466666666666665,16.866666666666667,Đi đã... chúng ta tht s đi sao? 2003
+vi_004,Balanced,29,True,16.866666666666667,16.923333333333332,Đi đã... chúng ta tht sư đi sao? 2003
+vi_004,Balanced,30,True,16.933333333333334,17.113333333333333,Đi đã.. chúng ta tht s đi sao? 2003
+vi_005,Fast,1,True,0.5333333333333333,0.6566666666666666,Di dă.. chúng ta tht s đi sao?
+vi_005,Fast,2,True,0.6666666666666666,0.9333333333333333,Di dā... chúng ta tht s đi sao?
+vi_005,Fast,3,True,0.9333333333333333,1.0566666666666666,Di dă.. chúng ta tht s đi sao?
+vi_005,Fast,4,True,1.0666666666666667,1.19,Đi dă. chng ta tht s đi sao?
+vi_005,Fast,5,True,1.2,1.4666666666666666,Di đă... chúng ta tht s đi sao?
+vi_005,Fast,6,True,1.4666666666666666,1.7333333333333334,Di đã... chúng ta tht s đi sao?
+vi_005,Fast,7,True,1.7333333333333334,2.4,Đi đã.. chúng ta tht s đi sao?
+vi_005,Fast,8,True,2.4,2.8,Đi đā... chúng ta tht s đi sao?
+vi_005,Fast,9,True,2.8,3.0,Di đā.. chúng ta tht s đi sao?
+vi_005,Fast,11,True,5.2,5.323333333333333,Chúng ta di vao sáng mai
+vi_005,Fast,12,True,5.333333333333333,5.456666666666667,Chúng ta di vào sáng mai
+vi_005,Fast,13,True,5.466666666666667,6.0,Chúng ta đi vào sáng mai
+vi_005,Fast,14,True,6.4,6.666666666666667,Hăy đi tôi đây 105
+vi_005,Fast,15,True,6.666666666666667,6.79,Hãy đi tôi đy 105
+vi_005,Fast,16,True,6.8,6.923333333333334,Hay di tôi đây 105
+vi_005,Fast,17,True,6.933333333333334,7.056666666666667,Hāy di tôi đây 105
+vi_005,Fast,18,True,7.066666666666666,7.19,Hãy d đy 105
+vi_005,Fast,19,True,7.2,7.323333333333333,Hay doi toi đây 105
+vi_005,Fast,20,True,7.333333333333333,7.456666666666667,Hãy đi tôi đây 105
+vi_005,Fast,21,True,7.466666666666667,7.866666666666666,Hăy đi tôi đây 105
+vi_005,Fast,22,True,9.333333333333334,9.6,Không th tin đã na đêm! 2026
+vi_005,Fast,23,True,9.6,10.0,Không th tin đã na dêm! 2026
+vi_005,Fast,24,True,10.0,10.123333333333333,Khóng thé in đã na dêm! 2026
+vi_005,Fast,25,True,10.133333333333333,10.256666666666668,Khang é tin đã na đêm! 2026
+vi_005,Fast,26,True,10.266666666666667,10.39,Không th tin đã na đêm! 2026
+vi_005,Fast,27,True,10.4,10.523333333333333,Khéng th tin đã na dêm! 2026
+vi_005,Fast,28,True,10.533333333333333,10.656666666666666,Khöng the tin đã na dêm! 2026
+vi_005,Fast,29,True,10.666666666666666,11.066666666666666,Không th tin đã na đêm! 2026
+vi_005,Fast,31,True,13.333333333333334,13.6,Cánh cra đò bên trái.
+vi_005,Fast,32,True,13.6,14.133333333333333,Cánh ca đò bên trái.
+vi_005,Fast,33,True,15.2,15.323333333333334,Chúng ta đi vào ti mai 2004
+vi_005,Fast,34,True,15.333333333333334,15.456666666666667,Chúng ta đi vào tói mai 2004
+vi_005,Fast,35,True,15.466666666666667,15.866666666666665,Chúng ta đi vào ti mai 2004
+vi_005,Fast,36,True,15.866666666666667,15.99,Chúng ta đi vào tói mai 2004
+vi_005,Fast,38,True,16.8,17.2,Chúng ta đi vào tói mai 2004
+vi_005,Fast,39,True,17.2,17.4,Chúng ta đi vào ti mai 2004
+vi_005,Balanced,1,True,0.4666666666666667,0.5233333333333333,Di dā... chúng ta tht s đi sao?
+vi_005,Balanced,2,True,0.5333333333333333,0.59,Di dă.. chúng ta tht s đi sao?
+vi_005,Balanced,3,True,0.6,0.7233333333333333,Di dā... chúng ta tht s đi sao?
+vi_005,Balanced,4,True,0.7333333333333333,0.79,Đi d... chúng ta tht s đi sao?
+vi_005,Balanced,5,True,0.8,0.8566666666666667,Di dā.. chúng ta tht s đi sao?
+vi_005,Balanced,6,True,0.8666666666666667,0.99,Di dă.. chúng ta tht s đi sao?
+vi_005,Balanced,7,True,1.0,1.0566666666666666,Đi dā.. chng ta tht s đi sao?
+vi_005,Balanced,8,True,1.0666666666666667,1.1233333333333333,Đi dă. chng ta tht s đi sao?
+vi_005,Balanced,9,True,1.1333333333333333,1.19,Đi đă... chúng ta tht s đi sao?
+vi_005,Balanced,10,True,1.2,1.4,Di đă... chúng ta tht s đi sao?
+vi_005,Balanced,11,True,1.4,1.4566666666666666,Đi đă... chúng ta tht s đi sao?
+vi_005,Balanced,12,True,1.4666666666666666,1.5233333333333334,Di đã... chúng ta tht s đi sao?
+vi_005,Balanced,13,True,1.5333333333333334,1.59,Đi đă... chúng ta tht s đi sao?
+vi_005,Balanced,14,True,1.6,1.7233333333333334,Di đã... chúng ta tht s đi sao?
+vi_005,Balanced,15,True,1.7333333333333334,2.3333333333333335,Đi đã.. chúng ta tht s đi sao?
+vi_005,Balanced,16,True,2.3333333333333335,2.39,Đi đă... chúng ta tht s đi sao?
+vi_005,Balanced,17,True,2.4,2.456666666666667,Đi đā... chúng ta tht s đi sao?
+vi_005,Balanced,18,True,2.466666666666667,2.5233333333333334,Đi đ... chúng ta tht s đi sao?
+vi_005,Balanced,19,True,2.533333333333333,2.7333333333333334,Đi đā... chúng ta tht s đi sao?
+vi_005,Balanced,20,True,2.7333333333333334,2.79,Đi đă.. chúng ta tht s đi sao?
+vi_005,Balanced,21,True,2.8,2.98,Di đā.. chúng ta tht s đi sao?
+vi_005,Balanced,23,True,5.133333333333334,5.19,Chúng ta đi vào sang mai
+vi_005,Balanced,24,True,5.2,5.323333333333333,Chúng ta di vao sáng mai
+vi_005,Balanced,25,True,5.333333333333333,5.390000000000001,Chúng ta di vào sáng mai
+vi_005,Balanced,26,True,5.4,5.666666666666666,Chúng ta đi vào sáng mai
+vi_005,Balanced,27,True,5.666666666666667,5.723333333333334,Chúng ta đi yào sáng mai
+vi_005,Balanced,28,True,5.733333333333333,6.0,Chúng ta đi vào sáng mai
+vi_005,Balanced,29,True,6.4,6.666666666666666,Hăy đi tôi đây 105
+vi_005,Balanced,30,True,6.666666666666667,6.723333333333334,Hãy đi tôi đy 105
+vi_005,Balanced,31,True,6.733333333333333,6.79,Hăy di ti dây 105
+vi_005,Balanced,32,True,6.8,6.8566666666666665,Hay di tôi đây 105
+vi_005,Balanced,33,True,6.866666666666666,6.923333333333334,Hāy doi tôi đây 105
+vi_005,Balanced,34,True,6.933333333333334,6.99,Hāy di tôi đây 105
+vi_005,Balanced,35,True,7.0,7.056666666666667,Hăy doi tôi đây 105
+vi_005,Balanced,36,True,7.066666666666666,7.123333333333334,Hãy d đy 105
+vi_005,Balanced,37,True,7.133333333333334,7.19,Hăy di to đây 105
+vi_005,Balanced,38,True,7.2,7.256666666666667,Hay doi toi đây 105
+vi_005,Balanced,39,True,7.266666666666667,7.323333333333333,Hāy di tôi đây 105
+vi_005,Balanced,40,True,7.333333333333333,7.390000000000001,Hãy đi tôi đây 105
+vi_005,Balanced,41,True,7.4,7.456666666666667,Hãy đoi tôi đây 105
+vi_005,Balanced,42,True,7.466666666666667,7.666666666666666,Hăy đi tôi đây 105
+vi_005,Balanced,43,True,7.666666666666667,7.723333333333334,Hãy đi tôi đây 105
+vi_005,Balanced,44,True,7.733333333333333,7.913333333333333,Hăy đi tôi đây 105
+vi_005,Balanced,45,True,9.333333333333334,9.533333333333333,Không th tin đã na đêm! 2026
+vi_005,Balanced,46,True,9.533333333333333,9.656666666666666,Không th tin đã na dêm! 2026
+vi_005,Balanced,47,True,9.666666666666666,9.723333333333333,Không th tin đã na đêm! 2026
+vi_005,Balanced,48,True,9.733333333333333,10.0,Không th tin đã na dêm! 2026
+vi_005,Balanced,49,True,10.0,10.056666666666667,Khóng thé in đã na dêm! 2026
+vi_005,Balanced,50,True,10.066666666666666,10.123333333333333,Khöng thé tin đã na dêm! 2026
+vi_005,Balanced,51,True,10.133333333333333,10.19,Khang é tin đã na đêm! 2026
+vi_005,Balanced,52,True,10.2,10.4,Không th tin đã na đêm! 2026
+vi_005,Balanced,53,True,10.4,10.456666666666667,Khéng th tin đã na dêm! 2026
+vi_005,Balanced,54,True,10.466666666666667,10.523333333333333,Khang hé tin đă na dêm! 2026
+vi_005,Balanced,55,True,10.533333333333333,10.59,Khöng the tin đã na dêm! 2026
+vi_005,Balanced,56,True,10.6,11.0,Không th tin đã na đêm! 2026
+vi_005,Balanced,57,True,12.266666666666667,12.733333333333333,Cánh ca đò bên trái.
+vi_005,Balanced,58,True,12.733333333333333,12.790000000000001,Cánh cra đò bên trái.
+vi_005,Balanced,59,True,12.8,13.266666666666666,Cánh ca đò bên trái.
+vi_005,Balanced,60,True,13.266666666666667,13.39,Cánh cra đò bên trái.
+vi_005,Balanced,61,True,13.4,13.456666666666667,Cánh ca đò bên trái.
+vi_005,Balanced,62,True,13.466666666666667,13.523333333333333,Cánh cra đò bên trái.
+vi_005,Balanced,64,True,15.2,15.323333333333334,Chúng ta đi vào ti mai 2004
+vi_005,Balanced,65,True,15.333333333333334,15.39,Chúng ta đi vào tói mai 2004
+vi_005,Balanced,66,True,15.4,15.666666666666666,Chúng ta đi vào ti mai 2004
+vi_005,Balanced,67,True,15.666666666666666,15.723333333333333,Chúng ta đi vào tói mai 2004
+vi_005,Balanced,68,True,15.733333333333333,15.790000000000001,Chúng ta đi vào ti mai 2004
+vi_005,Balanced,69,True,15.8,15.923333333333334,Chúng ta đi vào tói mai 2004
+vi_005,Balanced,71,True,16.8,17.2,Chúng ta đi vào tói mai 2004
+vi_005,Balanced,72,True,17.2,17.256666666666664,Chúng ta đi vào ti mai 2004
+vi_005,Balanced,73,True,17.266666666666666,17.446666666666665,Chúng ta đi vào tói mai 2004
+vi_006,Fast,1,True,0.5333333333333333,0.9333333333333333,Chúng ta đi vào tói mai
+vi_006,Fast,2,True,0.9333333333333333,1.0566666666666666,Chúng ta đi vào ti mai
+vi_006,Fast,3,True,1.0666666666666667,1.4666666666666666,Chúng ta đi vào tói mai
+vi_006,Fast,4,True,1.4666666666666666,1.59,Chúng ta đi vào ti mai
+vi_006,Fast,7,True,6.4,6.8,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Fast,8,True,6.8,6.923333333333334,Đoi đä... chúng ta thât su di sao? 106
+vi_006,Fast,9,True,6.933333333333334,7.056666666666667,Đoi dä... chúng ta thât su di sao? 106
+vi_006,Fast,10,True,7.066666666666666,7.19,Đoi dã... chúng ta thât sur di sao? 106
+vi_006,Fast,11,True,7.2,7.323333333333333,Đoi dã... chúng ta thât su di sao? 106
+vi_006,Fast,12,True,7.333333333333333,7.456666666666667,Đoi dä... chúng ta thât su di sao? 106
+vi_006,Fast,13,True,7.466666666666667,7.59,Đoi đã... chúng ta thât su đi sao? 106
+vi_006,Fast,14,True,7.6,7.723333333333334,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Fast,15,True,7.733333333333333,7.8566666666666665,Đoi dä... chúng ta thāt su di sao? 106
+vi_006,Fast,16,True,7.866666666666666,8.133333333333333,Đi đã.. chúng ta tht s đi sao? 106
+vi_006,Fast,17,True,9.333333333333334,9.6,Chúng ta đi vào sáng mai
+vi_006,Fast,18,True,9.6,9.723333333333333,Chúng ta di vào sáng mai
+vi_006,Fast,19,True,9.733333333333333,10.0,Chúng ta đi vào sáng mai
+vi_006,Fast,20,True,10.0,10.123333333333333,Chúng ta di vào sáng mai
+vi_006,Fast,21,True,10.133333333333333,10.533333333333333,Chúng ta đi vào sáng mai
+vi_006,Fast,22,True,10.533333333333333,10.799999999999999,Chúng ta di vào sáng mai
+vi_006,Fast,23,True,10.8,11.2,Chúng ta đi vào sáng mai
+vi_006,Fast,24,True,12.266666666666667,12.39,Hãy đi tôi đy
+vi_006,Fast,25,True,12.4,12.523333333333333,Hãy đoi tôi đây
+vi_006,Fast,26,True,12.533333333333333,12.933333333333334,Hãy đi tôi đy
+vi_006,Fast,27,True,12.933333333333334,13.056666666666667,Hãy đoi tôi đy
+vi_006,Fast,28,True,13.066666666666666,13.333333333333332,Hãy đoi tôi đây
+vi_006,Fast,29,True,13.333333333333334,13.6,Hãy đi tôi đây
+vi_006,Fast,30,True,13.6,13.866666666666665,Hãy đoi tôi đây
+vi_006,Fast,31,True,13.866666666666667,14.133333333333333,Hãy đi tôi đy
+vi_006,Fast,32,True,14.133333333333333,14.256666666666668,Hãy đi tôi đây
+vi_006,Fast,33,True,14.266666666666667,14.466666666666667,Hãy đi tôi đy
+vi_006,Fast,35,True,16.266666666666666,16.389999999999997,Không th tin đă na đêm! 2005
+vi_006,Fast,36,True,16.4,16.523333333333333,Không th tin đã na đêm! 2005
+vi_006,Fast,37,True,16.533333333333335,16.656666666666666,Không th tin đă na đêm! 2005
+vi_006,Fast,38,True,16.666666666666668,16.79,Không th tin đã na đêm! 2005
+vi_006,Fast,39,True,16.8,16.923333333333332,Không th tin đă na đêm! 2005
+vi_006,Fast,40,True,16.933333333333334,17.599999999999998,Không th tin đã na đêm! 2005
+vi_006,Balanced,1,True,0.4666666666666667,0.9333333333333333,Chúng ta đi vào tói mai
+vi_006,Balanced,2,True,0.9333333333333333,0.99,Chúng ta đi vào ti mai
+vi_006,Balanced,3,True,1.0,1.4666666666666666,Chúng ta đi vào tói mai
+vi_006,Balanced,4,True,1.4666666666666666,1.5233333333333334,Chúng ta đi vào ti mai
+vi_006,Balanced,7,True,6.4,6.456666666666667,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,8,True,6.466666666666667,6.523333333333333,Đoi dã... chúng ta thât su di sao? 106
+vi_006,Balanced,9,True,6.533333333333333,6.59,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,10,True,6.6,6.656666666666667,Đoi đä... chúng ta thât su di sao? 106
+vi_006,Balanced,11,True,6.666666666666667,6.723333333333334,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,12,True,6.733333333333333,6.79,Đoi dã... chúng ta thât su di sao? 106
+vi_006,Balanced,13,True,6.8,6.8566666666666665,Đoi đä... chúng ta thât su di sao? 106
+vi_006,Balanced,14,True,6.866666666666666,6.923333333333334,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,15,True,6.933333333333334,6.99,Đoi dä... chúng ta thât su di sao? 106
+vi_006,Balanced,16,True,7.0,7.056666666666667,Đoi dã... chúng ta thât su di sao? 106
+vi_006,Balanced,17,True,7.066666666666666,7.123333333333334,Đoi dã... chúng ta thât sur di sao? 106
+vi_006,Balanced,18,True,7.133333333333334,7.19,Đi đã.. chúng ta tht s đi sao? 106
+vi_006,Balanced,19,True,7.2,7.256666666666667,Đoi dã... chúng ta thât su di sao? 106
+vi_006,Balanced,20,True,7.266666666666667,7.323333333333333,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,21,True,7.333333333333333,7.390000000000001,Đoi dä... chúng ta thât su di sao? 106
+vi_006,Balanced,22,True,7.4,7.456666666666667,Đoi dã... chúng ta thât su đi sao? 106
+vi_006,Balanced,23,True,7.466666666666667,7.523333333333333,Đoi đã... chúng ta thât su đi sao? 106
+vi_006,Balanced,24,True,7.533333333333333,7.59,Đoi đã... chúng ta thāt su đi sao? 106
+vi_006,Balanced,25,True,7.6,7.656666666666667,Đoi đã... chúng ta thât su di sao? 106
+vi_006,Balanced,26,True,7.666666666666667,7.723333333333334,Đoi dā... chúng ta thāt su di sao? 106
+vi_006,Balanced,27,True,7.733333333333333,7.79,Đoi dä... chúng ta thāt su di sao? 106
+vi_006,Balanced,28,True,7.8,8.066666666666666,Đi đã.. chúng ta tht s đi sao? 106
+vi_006,Balanced,29,True,9.333333333333334,9.39,Chúng ta đi vào sáng mai
+vi_006,Balanced,30,True,9.4,9.456666666666667,Chúng ta di vào sáng mai
+vi_006,Balanced,31,True,9.466666666666667,9.59,Chúng ta đi vào sáng mai
+vi_006,Balanced,32,True,9.6,9.723333333333333,Chúng ta di vào sáng mai
+vi_006,Balanced,33,True,9.733333333333333,10.0,Chúng ta đi vào sáng mai
+vi_006,Balanced,34,True,10.0,10.123333333333333,Chúng ta di vào sáng mai
+vi_006,Balanced,35,True,10.133333333333333,10.533333333333333,Chúng ta đi vào sáng mai
+vi_006,Balanced,36,True,10.533333333333333,10.59,Chúng ta di vào sáng mai
+vi_006,Balanced,37,True,10.6,10.656666666666666,Chúng ta đi vào sáng mai
+vi_006,Balanced,38,True,10.666666666666666,10.723333333333333,Chúng ta di vào sáng mai
+vi_006,Balanced,39,True,10.733333333333333,11.2,Chúng ta đi vào sáng mai
+vi_006,Balanced,40,True,12.266666666666667,12.39,Hãy đi tôi đy
+vi_006,Balanced,41,True,12.4,12.456666666666667,Hãy đoi tôi đây
+vi_006,Balanced,42,True,12.466666666666667,12.733333333333333,Hãy đi tôi đy
+vi_006,Balanced,43,True,12.733333333333333,12.790000000000001,Hãy đoi tôi đy
+vi_006,Balanced,44,True,12.8,12.856666666666667,Hãy đi tôi đy
+vi_006,Balanced,45,True,12.866666666666667,12.923333333333334,Hãy đoi tôi đây
+vi_006,Balanced,46,True,12.933333333333334,12.99,Hãy đoi tôi đy
+vi_006,Balanced,47,True,13.0,13.123333333333333,Hãy đoi tôi đây
+vi_006,Balanced,48,True,13.133333333333333,13.19,Hãy đoi tôi đy
+vi_006,Balanced,49,True,13.2,13.323333333333334,Hãy đoi tôi đây
+vi_006,Balanced,50,True,13.333333333333334,13.533333333333333,Hãy đi tôi đây
+vi_006,Balanced,51,True,13.533333333333333,13.59,Hãy đoi tôi đy
+vi_006,Balanced,52,True,13.6,13.799999999999999,Hãy đoi tôi đây
+vi_006,Balanced,53,True,13.8,13.856666666666667,Hãy đi tôi đây
+vi_006,Balanced,54,True,13.866666666666667,14.066666666666666,Hãy đi tôi đy
+vi_006,Balanced,55,True,14.066666666666666,14.266666666666666,Hãy đi tôi đây
+vi_006,Balanced,56,True,14.266666666666667,14.446666666666667,Hãy đi tôi đy
+vi_006,Balanced,58,True,16.2,16.32333333333333,Không th tin đă na đêm! 2005
+vi_006,Balanced,59,True,16.333333333333332,16.53333333333333,Không th tin đã na đêm! 2005
+vi_006,Balanced,60,True,16.533333333333335,16.59,Không th tin đă na đêm! 2005
+vi_006,Balanced,61,True,16.6,16.8,Không th tin đã na đêm! 2005
+vi_006,Balanced,62,True,16.8,16.923333333333332,Không th tin đă na đêm! 2005
+vi_006,Balanced,63,True,16.933333333333334,17.6,Không th tin đã na đêm! 2005
+vi_007,Fast,2,True,3.466666666666667,4.0,Cánh ca đó bên trái. 2026
+vi_007,Fast,4,True,4.933333333333334,5.133333333333334,Cánh ca đó bên trái. 2026
+vi_007,Fast,6,True,9.333333333333334,9.6,"Bn nói 19,95 hay 90,15?"
+vi_007,Fast,7,True,9.6,9.723333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_007,Fast,8,True,9.733333333333333,9.856666666666667,"Bn nói 19,95 hay 90,15?"
+vi_007,Fast,9,True,9.866666666666667,9.99,"Bąn nói 19,95 hay 90,15?"
+vi_007,Fast,10,True,10.0,10.266666666666666,"Ban nói 19,95 hay 90,15?"
+vi_007,Fast,11,True,10.266666666666667,10.39,"Bn nói 19,95 hay 90,15?"
+vi_007,Fast,12,True,10.4,10.666666666666666,"Ban nói 19,95 hay 90,15?"
+vi_007,Fast,13,True,10.666666666666666,10.790000000000001,"Bąn nói 19,95 hay 90,15?"
+vi_007,Fast,14,True,10.8,10.923333333333334,"Ban nói 19,95 hay 90,15?"
+vi_007,Fast,15,True,10.933333333333334,11.2,"Bąn nói 19,95 hay 90,15?"
+vi_007,Fast,16,True,11.2,11.323333333333334,"Bn nói 19,95 hay 90,15?"
+vi_007,Fast,17,True,11.333333333333334,11.533333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,2,True,3.4,3.5233333333333334,Cánh ca đó bên trái. 2026
+vi_007,Balanced,3,True,3.533333333333333,3.5900000000000003,Cánh ca đ bên trái. 2026
+vi_007,Balanced,4,True,3.6,3.6566666666666667,Cánh ca đó bên trái. 2026
+vi_007,Balanced,5,True,3.6666666666666665,3.7233333333333336,Cánh ca đ bên trái. 2026
+vi_007,Balanced,6,True,3.7333333333333334,4.0,Cánh ca đó bên trái. 2026
+vi_007,Balanced,8,True,4.933333333333334,4.99,Cánh ca đó bên trái. 2026
+vi_007,Balanced,9,True,5.0,5.18,Cánh ca đ bên trái. 2026
+vi_007,Balanced,11,True,9.333333333333334,9.6,"Bn nói 19,95 hay 90,15?"
+vi_007,Balanced,12,True,9.6,9.656666666666666,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,13,True,9.666666666666666,9.866666666666667,"Bn nói 19,95 hay 90,15?"
+vi_007,Balanced,14,True,9.866666666666667,9.923333333333334,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,15,True,9.933333333333334,10.266666666666666,"Ban nói 19,95 hay 90,15?"
+vi_007,Balanced,16,True,10.266666666666667,10.323333333333334,"Bn nói 19,95 hay 90,15?"
+vi_007,Balanced,17,True,10.333333333333334,10.6,"Ban nói 19,95 hay 90,15?"
+vi_007,Balanced,18,True,10.6,10.799999999999999,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,19,True,10.8,10.923333333333334,"Ban nói 19,95 hay 90,15?"
+vi_007,Balanced,20,True,10.933333333333334,10.99,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,21,True,11.0,11.056666666666667,"Ban nói 19,95 hay 90,15?"
+vi_007,Balanced,22,True,11.066666666666666,11.19,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,23,True,11.2,11.256666666666668,"Bn nói 19,95 hay 90,15?"
+vi_007,Balanced,24,True,11.266666666666667,11.39,"Bąn nói 19,95 hay 90,15?"
+vi_007,Balanced,25,True,11.4,11.58,"Bn nói 19,95 hay 90,15?"
+vi_008,Fast,4,True,9.333333333333334,9.456666666666667,Cánh ca đ bên trái.
+vi_008,Fast,5,True,9.466666666666667,9.59,Cánh ca đó bên trái.
+vi_008,Fast,6,True,9.6,10.133333333333333,Cánh ca đ bên trái.
+vi_008,Fast,7,True,10.133333333333333,10.256666666666668,Cánhca đ bên trái.
+vi_008,Fast,9,True,11.466666666666667,11.733333333333333,Cánh ca đó bên trái.
+vi_008,Fast,11,True,15.2,15.323333333333334,"Bąn nói 19,95 hay 90,15? 2007"
+vi_008,Fast,12,True,15.333333333333334,15.866666666666665,"Ban nói 19,95 hay 90,15? 2007"
+vi_008,Balanced,4,True,9.333333333333334,9.456666666666667,Cánh ca đ bên trái.
+vi_008,Balanced,5,True,9.466666666666667,9.523333333333333,Cánh ca đó bên trái.
+vi_008,Balanced,6,True,9.533333333333333,10.066666666666666,Cánh ca đ bên trái.
+vi_008,Balanced,7,True,10.066666666666666,10.123333333333333,Cánh ca đó bên trái.
+vi_008,Balanced,8,True,10.133333333333333,10.19,Cánhca đ bên trái.
+vi_008,Balanced,9,True,10.2,10.466666666666667,Cánh ca đ bên trái.
+vi_008,Balanced,10,True,10.466666666666667,10.523333333333333,Cán ca đ bên trái.
+vi_008,Balanced,12,True,11.466666666666667,11.666666666666666,Cánh ca đó bên trái.
+vi_008,Balanced,13,True,11.666666666666666,11.846666666666666,Cánh cua đó bên trái.
+vi_008,Balanced,15,True,15.2,15.256666666666668,"Bąn nói 19,95 hay 90,15? 2007"
+vi_008,Balanced,17,True,15.866666666666667,16.2,"Bąn nói 19,95 hay 90,15? 2007"
+vi_008,Balanced,18,True,16.2,16.256666666666664,"Ban nói 19,95 hay 90,15? 2007"
+vi_008,Balanced,19,True,16.266666666666666,16.6,"Bąn nói 19,95 hay 90,15? 2007"
+vi_009,Fast,2,True,3.466666666666667,3.5900000000000003,Đi đā... chúng ta tht s đi sao?
+vi_009,Fast,3,True,3.6,4.266666666666667,Đi đã... chúng ta tht s đi sao?
+vi_009,Fast,5,True,4.933333333333334,5.6,Đi đã... chúng ta tht s đi sao?
+vi_009,Fast,6,True,6.4,7.066666666666666,Chúng ta đi vào sáng mai 109
+vi_009,Fast,7,True,7.066666666666666,7.19,Chúng ta đivào sáng mai 109
+vi_009,Fast,9,True,9.333333333333334,10.133333333333333,Hãy đi tôi đây 50%
+vi_009,Fast,10,True,10.133333333333333,10.256666666666668,Hãy đoi tôi đây 50%
+vi_009,Fast,12,True,11.466666666666667,11.866666666666665,Hãy đoi tôi đây 50%
+vi_009,Fast,13,True,11.866666666666667,12.066666666666666,Hãy đi tôi đây 50%
+vi_009,Balanced,2,True,3.4,3.5233333333333334,Đi đā... chúng ta tht s đi sao?
+vi_009,Balanced,4,True,4.266666666666667,4.866666666666666,Đoi đã... chúng ta tht s đi sao?
+vi_009,Balanced,5,True,4.866666666666666,5.3999999999999995,Đi đã... chúng ta tht s đi sao?
+vi_009,Balanced,6,True,5.4,5.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_009,Balanced,7,True,5.466666666666667,5.6466666666666665,Đi đã... chúng ta tht s đi sao?
+vi_009,Balanced,8,True,6.4,7.066666666666666,Chúng ta đi vào sáng mai 109
+vi_009,Balanced,9,True,7.066666666666666,7.19,Chúng ta đivào sáng mai 109
+vi_009,Balanced,10,True,7.2,7.3999999999999995,Chúng ta đi vào sáng mai 109
+vi_009,Balanced,11,True,7.4,7.456666666666667,Chng ta đi vào sáng mai 109
+vi_009,Balanced,13,True,8.2,8.256666666666668,Chúng ta đivào sáng mai 109
+vi_009,Balanced,14,True,8.266666666666667,8.799999999999999,Chúng ta đi vào sáng mai 109
+vi_009,Balanced,15,True,9.333333333333334,9.933333333333334,Hãy đi tôi đây 50%
+vi_009,Balanced,16,True,9.933333333333334,9.99,Hãy đoi tôi đây 50%
+vi_009,Balanced,17,True,10.0,10.123333333333333,Hãy đi tôi đây 50%
+vi_009,Balanced,18,True,10.133333333333333,10.19,Hãy đoi tôi đây 50%
+vi_009,Balanced,19,True,10.2,10.466666666666667,Hãy đi tôi đây 50%
+vi_009,Balanced,20,True,10.466666666666667,10.523333333333333,Hãy đoi tôi đây 50%
+vi_009,Balanced,22,True,11.4,11.523333333333333,Hãy đoi tôi đây 50%
+vi_009,Balanced,23,True,11.533333333333333,11.59,Hãy doi tôi đây 50%
+vi_009,Balanced,24,True,11.6,11.799999999999999,Hãy đoi tôi đây 50%
+vi_009,Balanced,25,True,11.8,11.98,Hãy đi tôi đây 50%
+vi_010,Fast,1,True,0.5333333333333333,0.9333333333333333,Cánh ca đ bên trái.
+vi_010,Fast,2,True,0.9333333333333333,1.2,Cnh ca đ bên trái.
+vi_010,Fast,4,True,2.4,2.6666666666666665,Cánh a đ bên trái
+vi_010,Fast,7,True,9.333333333333334,9.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_010,Fast,8,True,9.466666666666667,9.59,Đoi đã... chúng ta thât s đi sao?
+vi_010,Fast,9,True,9.6,9.723333333333333,Đi đã... chúng ta thât s đi sao?
+vi_010,Fast,10,True,9.733333333333333,9.856666666666667,Đi đã... chúng ta tht s đi sao?
+vi_010,Fast,11,True,9.866666666666667,9.99,Đi đã... chúng ta thât s đi sao?
+vi_010,Fast,12,True,10.0,10.123333333333333,Đoi đã... chúng ta thât sư đi sao?
+vi_010,Fast,13,True,10.133333333333333,10.256666666666668,Đi đã... chúng ta thât s đi sao?
+vi_010,Fast,14,True,10.266666666666667,10.533333333333333,Đi đã... chúng ta tht s đi sao?
+vi_010,Fast,15,True,10.533333333333333,10.656666666666666,Đi đ... chúng ta thât sư đi sao?
+vi_010,Fast,16,True,10.666666666666666,10.866666666666665,Đi đã. chúng ta tht s đi sao?
+vi_010,Balanced,1,True,0.4666666666666667,0.8666666666666667,Cánh ca đ bên trái
+vi_010,Balanced,2,True,0.8666666666666667,1.1333333333333333,Cnh ca đ bên trái.
+vi_010,Balanced,4,True,2.4,2.6,Cánh a đ bên trái
+vi_010,Balanced,6,True,5.266666666666667,5.323333333333333,Chúng ta đi vào tôi mai
+vi_010,Balanced,7,True,5.333333333333333,5.8,Chúng ta đi vào ti mai
+vi_010,Balanced,9,True,8.2,8.256666666666668,"Ban nói 19,95 hay 90, 15? 110"
+vi_010,Balanced,10,True,8.266666666666667,8.323333333333334,"Ban nói 19,95 hay 90,15? 110"
+vi_010,Balanced,11,True,8.333333333333334,8.39,"Ban noi 19,95 hay 90,15? 110"
+vi_010,Balanced,12,True,8.4,9.0,"Ban nói 19,95 hay 90,15? 110"
+vi_010,Balanced,13,True,9.333333333333334,9.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_010,Balanced,14,True,9.466666666666667,9.523333333333333,Đoi đã... chúng ta thât s đi sao?
+vi_010,Balanced,15,True,9.533333333333333,9.656666666666666,Đi đã... chúng ta thât s đi sao?
+vi_010,Balanced,16,True,9.666666666666666,9.790000000000001,Đi đã... chúng ta tht s đi sao?
+vi_010,Balanced,17,True,9.8,9.856666666666667,Đoi đã... chúng ta thât s đi sao?
+vi_010,Balanced,18,True,9.866666666666667,9.923333333333334,Đi đã... chúng ta thât s đi sao?
+vi_010,Balanced,19,True,9.933333333333334,10.056666666666667,Đoi đã. chúng ta thât sư đi sao?
+vi_010,Balanced,20,True,10.066666666666666,10.123333333333333,Đi đã... chúng ta tht s đi sao?
+vi_010,Balanced,21,True,10.133333333333333,10.256666666666668,Đi đã... chúng ta thât s đi sao?
+vi_010,Balanced,22,True,10.266666666666667,10.323333333333334,Đi đã... chúng ta tht s đi sao?
+vi_010,Balanced,23,True,10.333333333333334,10.39,Đi đã... chúng ta thât s đi sao?
+vi_010,Balanced,24,True,10.4,10.456666666666667,Đi đã chúng ta tht s đi sao?
+vi_010,Balanced,25,True,10.466666666666667,10.523333333333333,Đi đã... chúng ta thât sư đi sao?
+vi_010,Balanced,26,True,10.533333333333333,10.59,Đi đ... chúng ta thât sư đi sao?
+vi_010,Balanced,27,True,10.6,10.78,Đi đã. chúng ta tht s đi sao?
+vi_011,Fast,3,True,5.2,5.323333333333333,Không th tin đãna đêm! 50%
+vi_011,Fast,4,True,5.333333333333333,6.0,Không th tin đã na đêm! 50%
+vi_011,Fast,6,True,6.8,7.0,Cánh cađó bên trái. 111
+vi_011,Fast,8,True,10.133333333333333,10.256666666666668,Chúng ta đi vào ti mai
+vi_011,Fast,9,True,10.266666666666667,10.39,Chúng ta đi vào tői mai
+vi_011,Fast,10,True,10.4,10.666666666666666,Chúng ta đi vào ti mai
+vi_011,Fast,11,True,10.666666666666666,10.933333333333334,Chúng ta đi vào tői mai
+vi_011,Fast,12,True,10.933333333333334,11.133333333333333,Chúng ta đi vào ti mai
+vi_011,Fast,14,True,15.2,15.733333333333333,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Fast,15,True,15.733333333333333,15.856666666666667,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Fast,16,True,15.866666666666667,15.99,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Fast,17,True,16.0,16.12333333333333,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Fast,18,True,16.133333333333333,16.256666666666664,Đi đã. chúng ta thât sư đi sao? 2010
+vi_011,Fast,19,True,16.266666666666666,16.666666666666668,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Fast,20,True,16.666666666666668,16.79,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Fast,21,True,16.8,16.923333333333332,Đi đã.. chúng ta tht sư đi sao? 2010
+vi_011,Fast,22,True,16.933333333333334,17.2,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Fast,23,True,17.2,17.4,Đqi đã. chúng ta tht s đi sao? 2010
+vi_011,Balanced,3,True,5.2,5.256666666666667,Không th tin đãna đêm! 50%
+vi_011,Balanced,4,True,5.266666666666667,6.0,Không th tin đã na đêm! 50%
+vi_011,Balanced,6,True,6.733333333333333,6.79,Cánh ca đó bên trái. 111
+vi_011,Balanced,7,True,6.8,6.9799999999999995,Cánh cađó bên trái. 111
+vi_011,Balanced,8,True,9.333333333333334,9.39,Chúng ta đi vào tői mai
+vi_011,Balanced,9,True,9.4,9.456666666666667,Chúng ta đi vào tôi mai
+vi_011,Balanced,10,True,9.466666666666667,9.523333333333333,Chúng ta đi vào tői mai
+vi_011,Balanced,11,True,9.533333333333333,9.59,Chúng ta đi vào tôi mai
+vi_011,Balanced,13,True,10.133333333333333,10.256666666666668,Chúng ta đi vào ti mai
+vi_011,Balanced,14,True,10.266666666666667,10.323333333333334,Chúng ta đi vào tői mai
+vi_011,Balanced,15,True,10.333333333333334,10.6,Chúng ta đi vào ti mai
+vi_011,Balanced,16,True,10.6,10.933333333333334,Chúng ta đi vào tői mai
+vi_011,Balanced,17,True,10.933333333333334,11.113333333333333,Chúng ta đi vào ti mai
+vi_011,Balanced,19,True,15.2,15.733333333333333,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,20,True,15.733333333333333,15.790000000000001,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Balanced,21,True,15.8,15.923333333333334,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,22,True,15.933333333333334,15.99,Đi đã.. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,23,True,16.0,16.056666666666665,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Balanced,24,True,16.066666666666666,16.12333333333333,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,25,True,16.133333333333333,16.189999999999998,Đi đã. chúng ta thât sư đi sao? 2010
+vi_011,Balanced,26,True,16.2,16.6,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,27,True,16.6,16.723333333333333,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Balanced,28,True,16.733333333333334,16.79,Đqi đã. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,29,True,16.8,16.856666666666666,Đi đã.. chúng ta tht sư đi sao? 2010
+vi_011,Balanced,30,True,16.866666666666667,16.923333333333332,Đqi đã.. chúng ta tht s đi sao? 2010
+vi_011,Balanced,31,True,16.933333333333334,17.133333333333333,Đi đã.. chúng ta tht s đi sao? 2010
+vi_011,Balanced,32,True,17.133333333333333,17.333333333333332,Đqi đã. chúng ta tht s đi sao? 2010
+vi_012,Fast,1,True,0.5333333333333333,0.7999999999999999,Đqi đã... chúng ta tht s đi sao? 50%
+vi_012,Fast,3,True,1.6,1.8666666666666667,Đi đã... chúng ta tht sư đi sao? 50%
+vi_012,Fast,4,True,1.8666666666666667,1.99,Đi đã.. chúng ta tht s đi sao? 50%
+vi_012,Fast,5,True,2.0,2.1233333333333335,Đi đã.. chúng ta tht su đi sao? 50%
+vi_012,Fast,6,True,2.1333333333333333,2.256666666666667,Đi đã... chúng ta tht sư đi sao? 50%
+vi_012,Fast,7,True,2.2666666666666666,2.8,Đi đã.. chúng ta tht s đi sao? 50%
+vi_012,Fast,8,True,2.8,2.9233333333333333,Đqi đã... chúng ta tht su đi sao? 50%
+vi_012,Fast,9,True,2.933333333333333,3.1333333333333333,Đqi đã... chúng ta tht sư đi sao? 50%
+vi_012,Fast,11,True,6.4,7.066666666666666,Hãy đi tôi đây 112
+vi_012,Fast,12,True,7.066666666666666,7.19,Hãy đitôi đây 112
+vi_012,Fast,14,True,9.333333333333334,10.0,Không th tin đã na đêm! 2026
+vi_012,Fast,15,True,10.0,10.123333333333333,Không th tinđãna đêm! 2026
+vi_012,Fast,17,True,12.266666666666667,12.39,Cánh ca đ bên trái.
+vi_012,Fast,18,True,12.4,12.523333333333333,Cánh ca đbên trái.
+vi_012,Fast,20,True,13.333333333333334,13.456666666666667,Cánh cađóbên trái.
+vi_012,Fast,21,True,13.466666666666667,13.733333333333333,Cánh ca đ bên trái.
+vi_012,Fast,22,True,13.733333333333333,13.856666666666667,Cánh ca đbên trái.
+vi_012,Fast,23,True,13.866666666666667,14.133333333333333,Cánh ca đ bên trái.
+vi_012,Fast,24,True,14.133333333333333,14.256666666666668,Cánh ca đò bên trái.
+vi_012,Fast,25,True,14.266666666666667,14.466666666666667,Cánh ca đ bên trái.
+vi_012,Balanced,1,True,0.4666666666666667,0.7333333333333333,Đqi đã... chúng ta tht s đi sao? 50%
+vi_012,Balanced,2,True,0.7333333333333333,1.4,Đi đã... chúng ta tht s đi sao? 50%
+vi_012,Balanced,3,True,1.4,1.4566666666666666,Đqi đã... chúng ta tht s đi sao? 50%
+vi_012,Balanced,4,True,1.4666666666666666,1.5233333333333334,Đi đã... chúng ta tht s đi sao? 50%
+vi_012,Balanced,5,True,1.5333333333333334,1.6566666666666667,Đi đã... chúng ta tht sư đi sao? 50%
+vi_012,Balanced,6,True,1.6666666666666667,1.7233333333333334,Đi đã... chúng ta tht s đi sao? 50%
+vi_012,Balanced,7,True,1.7333333333333334,1.79,Đi đã... chúng ta tht sư đi sao? 50%
+vi_012,Balanced,8,True,1.8,1.9233333333333333,Đi đã.. chúng ta tht s đi sao? 50%
+vi_012,Balanced,9,True,1.9333333333333333,1.99,Đqi đã. chúng ta tht sư đi sao? 50%
+vi_012,Balanced,10,True,2.0,2.056666666666667,Đi đã.. chúng ta tht su đi sao? 50%
+vi_012,Balanced,11,True,2.066666666666667,2.1900000000000004,Đi đã.. chúng ta tht sư đi sao? 50%
+vi_012,Balanced,12,True,2.2,2.6,Đi đã.. chúng ta tht s đi sao? 50%
+vi_012,Balanced,13,True,2.6,2.6566666666666667,Đi đã... chúng ta tht sư đi sao? 50%
+vi_012,Balanced,14,True,2.6666666666666665,2.7233333333333336,Đi đã.. chúng ta tht s đi sao? 50%
+vi_012,Balanced,15,True,2.7333333333333334,2.79,Đqi đã... chúng ta tht sư đi sao? 50%
+vi_012,Balanced,16,True,2.8,2.856666666666667,Đqi đã... chúng ta tht su đi sao? 50%
+vi_012,Balanced,17,True,2.8666666666666667,2.9233333333333333,Đqi đã.. chúng ta tht s đi sao? 50%
+vi_012,Balanced,18,True,2.933333333333333,2.99,Đqi đã... chúng ta tht sư đi sao? 50%
+vi_012,Balanced,19,True,3.0,3.18,Đi đã... chúng ta tht su đi sao? 50%
+vi_012,Balanced,21,True,6.4,7.066666666666666,Hãy đi tôi đây 112
+vi_012,Balanced,22,True,7.066666666666666,7.123333333333334,Hãy đitôi đây 112
+vi_012,Balanced,23,True,7.133333333333334,7.19,Hãyđitôi đây 112
+vi_012,Balanced,25,True,9.333333333333334,10.0,Không th tin đã na đêm! 2026
+vi_012,Balanced,26,True,10.0,10.056666666666667,Không th tinđãna đêm! 2026
+vi_012,Balanced,28,True,12.266666666666667,12.39,Cánh ca đ bên trái.
+vi_012,Balanced,29,True,12.4,12.456666666666667,Cánh ca đbên trái.
+vi_012,Balanced,30,True,12.466666666666667,12.523333333333333,Cánh ca đó bên trái.
+vi_012,Balanced,32,True,13.333333333333334,13.39,Cánh cađóbên trái.
+vi_012,Balanced,33,True,13.4,13.523333333333333,Cánh ca đ bên trái.
+vi_012,Balanced,34,True,13.533333333333333,13.59,Cánh ca đbên trái.
+vi_012,Balanced,35,True,13.6,13.723333333333333,Cánh ca đ bên trái.
+vi_012,Balanced,36,True,13.733333333333333,13.790000000000001,Cánh ca đbên trái.
+vi_012,Balanced,37,True,13.8,14.066666666666666,Cánh ca đ bên trái.
+vi_012,Balanced,38,True,14.066666666666666,14.19,Cánh ca đò bên trái.
+vi_012,Balanced,39,True,14.2,14.4,Cánh ca đ bên trái.
+vi_013,Fast,1,True,0.5333333333333333,0.7999999999999999,Chúng ta đi vào tói mai
+vi_013,Fast,2,True,0.8,0.9233333333333333,Chúng ta đi vào tôi mai
+vi_013,Fast,3,True,0.9333333333333333,1.2,Chúng ta đi vào ti mai
+vi_013,Fast,4,True,1.2,1.3233333333333333,Chúng ta đi vào tói mai
+vi_013,Fast,5,True,1.3333333333333333,1.5999999999999999,Chúng ta đi vào ti mai
+vi_013,Fast,6,True,1.6,1.8666666666666667,Chúng ta đi vào tói mai
+vi_013,Fast,8,True,6.4,6.666666666666667,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Fast,9,True,6.666666666666667,6.79,Đoi đã... chúng ta thât su đi sao? 113
+vi_013,Fast,10,True,6.8,6.923333333333334,Đoi đã... chúng ta tht s đi sao? 113
+vi_013,Fast,11,True,6.933333333333334,7.056666666666667,Đoiđã... chúng ta tht s đi sao? 113
+vi_013,Fast,12,True,7.066666666666666,7.19,Đoi đã... chúng ta tht s đi sao? 113
+vi_013,Fast,13,True,7.2,7.323333333333333,Đoi đ... chúng ta tht s đi sao? 113
+vi_013,Fast,14,True,7.333333333333333,7.456666666666667,Đoi đã... chúng ta thât su đi sao? 113
+vi_013,Fast,17,True,11.2,11.323333333333334,Chúng ta đi vào sáng mail
+vi_013,Fast,18,True,11.333333333333334,11.533333333333333,Chúng ta đi vào sáng mai
+vi_013,Fast,21,True,17.466666666666665,17.59,Không thê tin đã na đêm! 2012
+vi_013,Fast,22,True,17.6,17.866666666666667,Không th tin đã na đêm! 2012
+vi_013,Balanced,1,True,0.4666666666666667,0.5233333333333333,Chúng ta đi vào ti mai
+vi_013,Balanced,2,True,0.5333333333333333,0.7999999999999999,Chúng ta đi vào tói mai
+vi_013,Balanced,3,True,0.8,0.8566666666666667,Chúng ta đi vào tôi mai
+vi_013,Balanced,4,True,0.8666666666666667,0.99,Chúng ta đi vào ti mai
+vi_013,Balanced,5,True,1.0,1.0566666666666666,Chng ta đi vào ti mai
+vi_013,Balanced,6,True,1.0666666666666667,1.1233333333333333,Chúng ta đi vào ti mai
+vi_013,Balanced,7,True,1.1333333333333333,1.3333333333333333,Chúng ta đi vào tói mai
+vi_013,Balanced,8,True,1.3333333333333333,1.5333333333333332,Chúng ta đi vào ti mai
+vi_013,Balanced,9,True,1.5333333333333334,1.8666666666666667,Chúng ta đi vào tói mai
+vi_013,Balanced,11,True,6.4,6.456666666666667,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,12,True,6.466666666666667,6.523333333333333,Đoi đã... chúng ta thât su đi sao? 113
+vi_013,Balanced,13,True,6.533333333333333,6.656666666666667,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,14,True,6.666666666666667,6.723333333333334,Đoi đã... chúng ta thât su đi sao? 113
+vi_013,Balanced,15,True,6.733333333333333,6.933333333333333,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,16,True,6.933333333333334,6.99,Đoiđã... chúng ta tht s đi sao? 113
+vi_013,Balanced,17,True,7.0,7.2,Đoi đã... chúng ta tht s đi sao? 113
+vi_013,Balanced,18,True,7.2,7.256666666666667,Đoi đ... chúng ta tht s đi sao? 113
+vi_013,Balanced,19,True,7.266666666666667,7.390000000000001,Đoi đã... chúng ta thât su đi sao? 113
+vi_013,Balanced,20,True,7.4,7.666666666666666,Đoi đã... chúng ta tht s đi sao? 113
+vi_013,Balanced,21,True,7.666666666666667,7.723333333333334,Đi đã... chúng ta tht s đi sao? 113
+vi_013,Balanced,22,True,7.733333333333333,8.066666666666666,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,23,True,8.066666666666666,8.123333333333333,Đoiđã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,24,True,8.133333333333333,8.313333333333333,Đoi đã.. chúng ta tht s đi sao? 113
+vi_013,Balanced,26,True,11.2,11.256666666666668,Chúng ta đi vào sáng mail
+vi_013,Balanced,27,True,11.266666666666667,11.39,Chúng ta đi vào sáng mai
+vi_013,Balanced,28,True,11.4,11.58,Chúng ta đi vào sáng mail
+vi_013,Balanced,31,True,17.466666666666665,17.523333333333333,Không thê tin đã na đêm! 2012
+vi_013,Balanced,32,True,17.533333333333335,17.8,Không th tin đã na đêm! 2012
+vi_014,Fast,4,True,7.6,7.723333333333334,Chúng ta đi vào ti mai 114
+vi_014,Fast,5,True,7.733333333333333,8.533333333333333,Chúng ta đi vào tói mai 114
+vi_014,Fast,6,True,9.333333333333334,10.133333333333333,"Ban nói 19,95 hay 90,15?"
+vi_014,Fast,7,True,10.133333333333333,10.256666666666668,"Bannói.19,95 hay 90,15?"
+vi_014,Fast,9,True,11.6,11.799999999999999,"Ban nói19,95 hay 90,15?"
+vi_014,Fast,10,True,12.266666666666667,12.39,Đoiđã.. chúng ta thât s đi sao?
+vi_014,Fast,11,True,12.4,12.523333333333333,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Fast,12,True,12.533333333333333,12.799999999999999,Đoiđã... chúng ta thât s đi sao?
+vi_014,Fast,13,True,12.8,12.923333333333334,Đi đã... chúng ta tht s đi sao?
+vi_014,Fast,14,True,12.933333333333334,13.2,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Fast,15,True,13.2,13.323333333333334,Đoiđã... chúng ta thât s đi sao?
+vi_014,Fast,16,True,13.333333333333334,13.866666666666665,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Fast,17,True,13.866666666666667,13.99,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Fast,18,True,14.0,14.123333333333333,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Fast,19,True,14.133333333333333,14.256666666666668,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Fast,20,True,14.266666666666667,14.39,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Fast,21,True,14.4,14.523333333333333,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Fast,22,True,14.533333333333333,14.799999999999999,Đoi đã... chúng ta thât s đi sao?
+vi_014,Fast,23,True,14.8,15.0,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Balanced,4,True,7.533333333333333,7.656666666666667,Chúng ta đi vào ti mai 114
+vi_014,Balanced,5,True,7.666666666666667,8.466666666666667,Chúng ta đi vào tói mai 114
+vi_014,Balanced,6,True,8.466666666666667,8.646666666666667,Chúng ta đi vào ti mai 114
+vi_014,Balanced,7,True,9.333333333333334,10.133333333333333,"Ban nói 19,95 hay 90,15?"
+vi_014,Balanced,8,True,10.133333333333333,10.19,"Bannói.19,95 hay 90,15?"
+vi_014,Balanced,10,True,11.6,11.656666666666666,"Ban nói19,95 hay 90,15?"
+vi_014,Balanced,11,True,11.666666666666666,11.846666666666666,"Ban nói 19,95 hay 90,15?"
+vi_014,Balanced,12,True,12.266666666666667,12.39,Đoiđã.. chúng ta thât s đi sao?
+vi_014,Balanced,13,True,12.4,12.456666666666667,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,14,True,12.466666666666667,12.799999999999999,Đoiđã... chúng ta thât s đi sao?
+vi_014,Balanced,15,True,12.8,12.856666666666667,Đi đã... chúng ta tht s đi sao?
+vi_014,Balanced,16,True,12.866666666666667,13.133333333333333,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,17,True,13.133333333333333,13.256666666666668,Đoiđã... chúng ta thât s đi sao?
+vi_014,Balanced,18,True,13.266666666666667,13.533333333333333,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,19,True,13.533333333333333,13.59,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Balanced,20,True,13.6,13.656666666666666,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,21,True,13.666666666666666,13.723333333333333,Đoiđã.. chúng ta thât s đi sao?
+vi_014,Balanced,22,True,13.733333333333333,13.790000000000001,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,23,True,13.8,13.856666666666667,Điđã... chúng ta tht s đi sao?
+vi_014,Balanced,24,True,13.866666666666667,13.923333333333334,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Balanced,25,True,13.933333333333334,13.99,Điđã... chúng ta tht s đi sao?
+vi_014,Balanced,26,True,14.0,14.056666666666667,Đoi đã.. chúng ta thât s đi sao?
+vi_014,Balanced,27,True,14.066666666666666,14.19,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Balanced,28,True,14.2,14.323333333333334,Đoi đã... chúng ta thât s đi sao?
+vi_014,Balanced,29,True,14.333333333333334,14.39,Đoiđã.. chúng ta thât s đi sao?
+vi_014,Balanced,30,True,14.4,14.456666666666667,Đoi đã.. chúng ta tht s đi sao?
+vi_014,Balanced,31,True,14.466666666666667,14.733333333333333,Đoi đã... chúng ta thât s đi sao?
+vi_014,Balanced,32,True,14.733333333333333,14.913333333333332,Đoi đã.. chúng ta tht s đi sao?
+vi_015,Fast,4,True,9.333333333333334,10.0,Cánh ca đó bên trái.
+vi_015,Fast,5,True,10.0,10.123333333333333,Cánhcađóbên trái.
+vi_015,Fast,6,True,10.133333333333333,10.256666666666668,Cánhca đ bên trái.
+vi_015,Fast,7,True,10.266666666666667,10.39,Cánh ca đó bên trái.
+vi_015,Fast,8,True,10.4,10.523333333333333,Cánh ca đ bên trái.
+vi_015,Fast,9,True,10.533333333333333,10.656666666666666,Cánh ca đó bên trái.
+vi_015,Fast,10,True,10.666666666666666,10.933333333333334,Cánh ca đ bên trái.
+vi_015,Fast,11,True,10.933333333333334,11.2,Cánh ca đó bên trái.
+vi_015,Fast,12,True,11.2,11.466666666666667,Cánh ca đ bên trái.
+vi_015,Fast,13,True,11.466666666666667,11.59,Cánh cađó bên trái.
+vi_015,Fast,14,True,11.6,11.723333333333333,Cánhcađóbên trái.
+vi_015,Fast,15,True,11.733333333333333,11.856666666666667,Cánh cađó bên trái.
+vi_015,Fast,16,True,11.866666666666667,12.066666666666666,Cánh ca đó bên trái.
+vi_015,Fast,17,True,12.266666666666667,12.533333333333333,Chúng ta đi vào tői mai
+vi_015,Fast,19,True,13.2,13.466666666666667,Chúng ta đi vào tői mai
+vi_015,Fast,20,True,13.466666666666667,13.733333333333333,Chúng ta đi vào ti mai
+vi_015,Balanced,4,True,9.333333333333334,10.0,Cánh ca đó bên trái.
+vi_015,Balanced,5,True,10.0,10.123333333333333,Cánhcađóbên trái.
+vi_015,Balanced,6,True,10.133333333333333,10.19,Cánhca đ bên trái.
+vi_015,Balanced,7,True,10.2,10.4,Cánh ca đó bên trái.
+vi_015,Balanced,8,True,10.4,10.456666666666667,Cánh ca đ bên trái.
+vi_015,Balanced,9,True,10.466666666666667,10.523333333333333,Cánhca đ bên trái.
+vi_015,Balanced,10,True,10.533333333333333,10.656666666666666,Cánh ca đó bên trái.
+vi_015,Balanced,11,True,10.666666666666666,10.933333333333334,Cánh ca đ bên trái.
+vi_015,Balanced,12,True,10.933333333333334,11.2,Cánh ca đó bên trái.
+vi_015,Balanced,13,True,11.2,11.4,Cánh ca đ bên trái.
+vi_015,Balanced,14,True,11.4,11.456666666666667,Cánh ca đó bên trái.
+vi_015,Balanced,15,True,11.466666666666667,11.523333333333333,Cánh cađó bên trái.
+vi_015,Balanced,16,True,11.533333333333333,11.59,Cánha đó bên trái.
+vi_015,Balanced,17,True,11.6,11.656666666666666,Cánhcađóbên trái.
+vi_015,Balanced,18,True,11.666666666666666,11.723333333333333,Cánhcađó bên trái.
+vi_015,Balanced,19,True,11.733333333333333,11.790000000000001,Cánh cađó bên trái.
+vi_015,Balanced,20,True,11.8,11.98,Cánh ca đó bên trái.
+vi_015,Balanced,21,True,12.266666666666667,12.533333333333333,Chúng ta đi vào tői mai
+vi_015,Balanced,23,True,13.133333333333333,13.466666666666667,Chúng ta đi vào tői mai
+vi_015,Balanced,24,True,13.466666666666667,13.666666666666666,Chúng ta đi vào ti mai
+vi_016,Fast,1,True,0.5333333333333333,1.0666666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_016,Fast,2,True,1.0666666666666667,1.19,"Ban nói 19,95 hay 90,15?"
+vi_016,Fast,3,True,1.2,1.3233333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_016,Fast,4,True,1.3333333333333333,1.4566666666666666,"Bn nói 19,95 hay 90,15?"
+vi_016,Fast,5,True,1.4666666666666666,1.59,"Bąn nói 19,95 hay 90,15?"
+vi_016,Fast,6,True,1.6,2.0,"Ban nói 19,95 hay 90,15?"
+vi_016,Fast,7,True,2.0,2.1233333333333335,"Bn nói 19,95 hay 90,15?"
+vi_016,Fast,8,True,2.1333333333333333,2.256666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_016,Fast,9,True,2.2666666666666666,2.533333333333333,"Ban nói 19,95 hay 90,15?"
+vi_016,Fast,10,True,2.533333333333333,2.7333333333333334,"Bąn nói 19,95 hay 90,15?"
+vi_016,Fast,12,True,5.466666666666667,5.59,Đ'i đã.. chúng ta thât s đi sao?
+vi_016,Fast,13,True,5.6,5.866666666666666,Đi đã... chúng ta tht s đi sao?
+vi_016,Balanced,1,True,0.4666666666666667,0.5233333333333333,"Ban nói 19,95 hay 90,15?"
+vi_016,Balanced,2,True,0.5333333333333333,0.8666666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,3,True,0.8666666666666667,0.9233333333333333,"Bn nói 19,95 hay 90,15?"
+vi_016,Balanced,4,True,0.9333333333333333,1.0566666666666666,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,5,True,1.0666666666666667,1.1233333333333333,"Ban nói 19,95 hay 90,15?"
+vi_016,Balanced,6,True,1.1333333333333333,1.3333333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,7,True,1.3333333333333333,1.39,"Bn nói 19,95 hay 90,15?"
+vi_016,Balanced,8,True,1.4,1.6,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,9,True,1.6,1.9333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_016,Balanced,10,True,1.9333333333333333,2.056666666666667,"Bn nói 19,95 hay 90,15?"
+vi_016,Balanced,11,True,2.066666666666667,2.1233333333333335,"Ban nói 19,95 hay 90,15?"
+vi_016,Balanced,12,True,2.1333333333333333,2.256666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,13,True,2.2666666666666666,2.533333333333333,"Ban nói 19,95 hay 90,15?"
+vi_016,Balanced,14,True,2.533333333333333,2.7133333333333334,"Bąn nói 19,95 hay 90,15?"
+vi_016,Balanced,16,True,5.466666666666667,5.523333333333333,Đ'i đã.. chúng ta thât s đi sao?
+vi_016,Balanced,17,True,5.533333333333333,5.8,Đ'i đã.. chúng ta tht s đi sao?
+vi_017,Fast,1,True,0.5333333333333333,0.6566666666666666,Cánh ca đò bên trái.
+vi_017,Fast,5,True,9.333333333333334,9.456666666666667,Đoi đã... chúng ta tht s đi sao?
+vi_017,Fast,6,True,9.466666666666667,9.59,Đoi đã... chúng ta thât s đi sao?
+vi_017,Fast,7,True,9.6,9.723333333333333,Đoi đã... chúng ta tht s đi sao?
+vi_017,Fast,8,True,9.733333333333333,9.856666666666667,Đoi đã.. chúng ta thât s đi sao?
+vi_017,Fast,9,True,9.866666666666667,9.99,Đi đã... chúng ta tht s đi sao?
+vi_017,Fast,10,True,10.0,10.123333333333333,Đoi đã.. chung ta tht s đi sao?
+vi_017,Fast,11,True,10.133333333333333,10.533333333333333,Đi đã... chúng ta thât s đi sao?
+vi_017,Fast,12,True,10.533333333333333,10.799999999999999,Đi đā.. chúng ta tht s đi sao?
+vi_017,Fast,13,True,10.8,11.066666666666666,Đi đã... chúng ta tht s đi sao?
+vi_017,Fast,14,True,12.266666666666667,12.533333333333333,Chúng ta đi vào sáng mai
+vi_017,Fast,15,True,12.533333333333333,12.656666666666666,Chng ta đi vào sáng mai
+vi_017,Fast,16,True,12.666666666666666,13.2,Chúng ta đi vào sáng mai
+vi_017,Fast,17,True,13.2,13.466666666666667,Chng ta đi vào sáng mai
+vi_017,Fast,18,True,13.466666666666667,13.733333333333333,Chúng ta đi vào sáng mai
+vi_017,Fast,19,True,13.733333333333333,14.0,Chng ta đi vào sáng mai
+vi_017,Fast,20,True,14.0,14.2,Chúng ta đi vào sáng mai
+vi_017,Fast,21,True,15.2,15.323333333333334,Hāy đi tôi đây 2016
+vi_017,Fast,22,True,15.333333333333334,15.456666666666667,Hăy đi tôi đây 2016
+vi_017,Fast,23,True,15.466666666666667,15.59,Hāy đi tôi đây 2016
+vi_017,Fast,24,True,15.6,15.723333333333333,Hăy đi tôi đây 2016
+vi_017,Fast,25,True,15.733333333333333,16.0,Hāy đi tôi đây 2016
+vi_017,Fast,27,True,16.666666666666668,16.933333333333334,Hãy đi tôi đây 2016
+vi_017,Fast,28,True,16.933333333333334,17.056666666666665,Hăy đi tôi đy 2016
+vi_017,Fast,29,True,17.066666666666666,17.333333333333332,Hãy đi tôi đây 2016
+vi_017,Balanced,1,True,0.4666666666666667,0.5233333333333333,Cánh ca đ bên trái
+vi_017,Balanced,2,True,0.5333333333333333,0.6566666666666666,Cánh ca đò bên trái.
+vi_017,Balanced,6,True,9.333333333333334,9.39,Đoi đã... chúng ta tht s đi sao?
+vi_017,Balanced,7,True,9.4,9.6,Đoi đã... chúng ta thât s đi sao?
+vi_017,Balanced,8,True,9.6,9.656666666666666,Đoi đã... chúng ta tht s đi sao?
+vi_017,Balanced,9,True,9.666666666666666,9.790000000000001,Đoi đã.. chúng ta thât s đi sao?
+vi_017,Balanced,10,True,9.8,9.856666666666667,Đi đã.. chúng ta thât s đi sao?
+vi_017,Balanced,11,True,9.866666666666667,9.923333333333334,Đi đã... chúng ta tht s đi sao?
+vi_017,Balanced,12,True,9.933333333333334,9.99,Đi đã.. chúng ta thât s đi sao?
+vi_017,Balanced,13,True,10.0,10.056666666666667,Đoi đã.. chung ta tht s đi sao?
+vi_017,Balanced,14,True,10.066666666666666,10.123333333333333,Đoi đā... chung ta thât s đi sao?
+vi_017,Balanced,15,True,10.133333333333333,10.533333333333333,Đi đã... chúng ta thât s đi sao?
+vi_017,Balanced,16,True,10.533333333333333,10.733333333333333,Đi đā.. chúng ta tht s đi sao?
+vi_017,Balanced,17,True,10.733333333333333,10.790000000000001,Đi đã.. chúng ta thât s đi sao?
+vi_017,Balanced,18,True,10.8,11.0,Đi đã... chúng ta tht s đi sao?
+vi_017,Balanced,19,True,12.266666666666667,12.466666666666667,Chúng ta đi vào sáng mai
+vi_017,Balanced,20,True,12.466666666666667,12.666666666666666,Chng ta đi vào sáng mai
+vi_017,Balanced,21,True,12.666666666666666,12.723333333333333,Chúng ta đi vào sáng mai
+vi_017,Balanced,22,True,12.733333333333333,12.790000000000001,Chng ta đi vào sáng mai
+vi_017,Balanced,23,True,12.8,12.856666666666667,Chúng ta đi vào sáng mai
+vi_017,Balanced,24,True,12.866666666666667,12.923333333333334,Chng ta đi vào sáng mai
+vi_017,Balanced,25,True,12.933333333333334,13.2,Chúng ta đi vào sáng mai
+vi_017,Balanced,26,True,13.2,13.4,Chng ta đi vào sáng mai
+vi_017,Balanced,27,True,13.4,13.523333333333333,Chúng ta đi vào sáng mai
+vi_017,Balanced,28,True,13.533333333333333,13.59,Chng ta đi vào sáng mai
+vi_017,Balanced,29,True,13.6,13.723333333333333,Chúng ta đi vào sáng mai
+vi_017,Balanced,30,True,13.733333333333333,13.790000000000001,Chng ta đi vào sáng mai
+vi_017,Balanced,31,True,13.8,13.856666666666667,Chúng ta đi vào sáng mai
+vi_017,Balanced,32,True,13.866666666666667,13.99,Chng ta đi vào sáng mai
+vi_017,Balanced,33,True,14.0,14.18,Chúng ta đi vào sáng mai
+vi_017,Balanced,34,True,15.2,15.323333333333334,Hāy đi tôi đây 2016
+vi_017,Balanced,35,True,15.333333333333334,15.456666666666667,Hăy đi tôi đây 2016
+vi_017,Balanced,36,True,15.466666666666667,15.523333333333333,Hāy đi tôi đây 2016
+vi_017,Balanced,37,True,15.533333333333333,15.656666666666666,Hăy đi tôi đây 2016
+vi_017,Balanced,38,True,15.666666666666666,15.933333333333334,Hāy đi tôi đây 2016
+vi_017,Balanced,40,True,16.666666666666668,16.933333333333334,Hãy đi tôi đây 2016
+vi_017,Balanced,41,True,16.933333333333334,16.99,Hăy đi tôi đy 2016
+vi_017,Balanced,42,True,17.0,17.333333333333332,Hãy đi tôi đây 2016
+vi_018,Fast,1,True,0.5333333333333333,0.7999999999999999,Hāy đi tôi đây
+vi_018,Fast,2,True,0.8,0.9233333333333333,Hăy đi tôi đây
+vi_018,Fast,3,True,0.9333333333333333,1.3333333333333333,Hãy đi tôi đây
+vi_018,Fast,4,True,1.3333333333333333,1.4566666666666666,Hăy đi tôi đây
+vi_018,Fast,5,True,1.4666666666666666,1.59,Hãy đoi tôi đây
+vi_018,Fast,6,True,1.6,1.8666666666666667,Hãy đi tôi đây
+vi_018,Fast,7,True,1.8666666666666667,1.99,Hāy đi tôi đây
+vi_018,Fast,8,True,2.0,2.6666666666666665,Hăy đoi tôi đây
+vi_018,Fast,9,True,2.6666666666666665,2.933333333333333,Hăy đi tôi đây
+vi_018,Fast,10,True,2.933333333333333,3.1333333333333333,Hăy đoi tôi đây
+vi_018,Fast,11,True,3.466666666666667,4.0,Không th tin đā na đêm!
+vi_018,Fast,13,True,6.4,6.523333333333333,Canh ca đ bên trái. 118
+vi_018,Fast,14,True,6.533333333333333,6.8,Cánh ca đ bên trái. 118
+vi_018,Fast,15,True,6.8,6.923333333333334,Cánh ca do bên trái. 118
+vi_018,Fast,16,True,6.933333333333334,7.2,Cánh ca đó bên trái. 118
+vi_018,Fast,17,True,7.2,7.323333333333333,Canh ca do bên trái. 118
+vi_018,Fast,18,True,7.333333333333333,7.456666666666667,Cánh ca đ bên trái. 118
+vi_018,Fast,19,True,7.466666666666667,7.59,Canh ca đ bên trái. 118
+vi_018,Fast,20,True,7.6,8.133333333333333,Cánh ca đ bên trái. 118
+vi_018,Fast,21,True,9.333333333333334,9.6,Chúng ta đi vào tôi mai
+vi_018,Fast,22,True,9.6,9.723333333333333,Chúng ta đi vào ti mai
+vi_018,Fast,24,True,10.8,11.2,Chúng ta đi vào ti mai
+vi_018,Fast,26,True,15.2,15.323333333333334,Đi dā... chúng ta tht s đi sao? 2017
+vi_018,Fast,27,True,15.333333333333334,15.866666666666665,chúng ta tht s đi sao? 2017
+vi_018,Fast,28,True,15.866666666666667,15.99,chúng ta tht s đi sao7 2017
+vi_018,Fast,30,True,16.8,16.923333333333332,Doi đā... chúng ta tht su di sao? 2017
+vi_018,Fast,31,True,16.933333333333334,17.056666666666665,Doi đā... chúng ta tht su đi sao? 2017
+vi_018,Fast,32,True,17.066666666666666,17.333333333333332,Đoi đā... chúng ta tht su đi sao? 2017
+vi_018,Fast,33,True,17.333333333333332,17.456666666666663,ĐDoi đā... chúng ta tht su đi sao? 2017
+vi_018,Fast,34,True,17.466666666666665,17.666666666666664,Đoi đā... chúng ta tht su đi sao? 2017
+vi_018,Balanced,1,True,0.4666666666666667,0.5233333333333333,Hāy đi tōi đây
+vi_018,Balanced,2,True,0.5333333333333333,0.59,Hāy đi tôi đây
+vi_018,Balanced,3,True,0.6,0.6566666666666666,Hāy đoi tôi đây
+vi_018,Balanced,4,True,0.6666666666666666,0.7233333333333333,Hāy đi tôi đây
+vi_018,Balanced,5,True,0.7333333333333333,0.9333333333333333,Hăy đi tôi đây
+vi_018,Balanced,6,True,0.9333333333333333,1.2666666666666666,Hãy đi tôi đây
+vi_018,Balanced,7,True,1.2666666666666666,1.4666666666666666,Hăy đi tôi đây
+vi_018,Balanced,8,True,1.4666666666666666,1.59,Hãy đoi tôi đây
+vi_018,Balanced,9,True,1.6,1.6566666666666667,Hãy đi tôi đây
+vi_018,Balanced,10,True,1.6666666666666667,1.7233333333333334,Hãy đoi tôi đây
+vi_018,Balanced,11,True,1.7333333333333334,1.79,Hãy đi tôi đây
+vi_018,Balanced,12,True,1.8,1.8566666666666667,Hāy đoi tôi đây
+vi_018,Balanced,13,True,1.8666666666666667,1.99,Hāy đi tôi đây
+vi_018,Balanced,14,True,2.0,2.056666666666667,Hăy đoi tôi đây
+vi_018,Balanced,15,True,2.066666666666667,2.1233333333333335,Hāy đoi tôi đây
+vi_018,Balanced,16,True,2.1333333333333333,2.3333333333333335,Hăy đoi tôi đây
+vi_018,Balanced,17,True,2.3333333333333335,2.39,Hāy đoi tôi đây
+vi_018,Balanced,18,True,2.4,2.456666666666667,Hăy đoi tôi đây
+vi_018,Balanced,19,True,2.466666666666667,2.5233333333333334,Hăy đi tôi đây
+vi_018,Balanced,20,True,2.533333333333333,2.5900000000000003,Hăy đoi tôi đây
+vi_018,Balanced,21,True,2.6,2.933333333333333,Hăy đi tôi đây
+vi_018,Balanced,22,True,2.933333333333333,2.99,Hăy đoi tôi đây
+vi_018,Balanced,23,True,3.0,3.18,Hăy đi tôi đây
+vi_018,Balanced,24,True,3.4,4.0,Không th tin đā na đêm!
+vi_018,Balanced,25,True,4.0,4.2,Không th tin đã na đêm!
+vi_018,Balanced,26,True,4.2,4.256666666666667,Khâng th tin đã na đêm!
+vi_018,Balanced,28,True,6.4,6.523333333333333,Canh ca đ bên trái. 118
+vi_018,Balanced,29,True,6.533333333333333,6.8,Cánh ca đ bên trái. 118
+vi_018,Balanced,30,True,6.8,6.8566666666666665,Cánh ca do bên trái. 118
+vi_018,Balanced,31,True,6.866666666666666,6.99,Cánh ca đó bên trái. 118
+vi_018,Balanced,32,True,7.0,7.056666666666667,Cánh ca do bên trái. 118
+vi_018,Balanced,33,True,7.066666666666666,7.123333333333334,Cánh ca đó bên trái. 118
+vi_018,Balanced,34,True,7.133333333333334,7.19,Cánh ca đo bên trái. 118
+vi_018,Balanced,35,True,7.2,7.256666666666667,Canh ca do bên trái. 118
+vi_018,Balanced,36,True,7.266666666666667,7.323333333333333,Canh cra đó bên trái. 118
+vi_018,Balanced,37,True,7.333333333333333,7.390000000000001,Cánh ca đ bên trái. 118
+vi_018,Balanced,38,True,7.4,7.6,Canh ca đ bên trái. 118
+vi_018,Balanced,39,True,7.6,8.066666666666666,Cánh ca đ bên trái. 118
+vi_018,Balanced,40,True,9.333333333333334,9.39,Chúng ta đi vào tôi mai
+vi_018,Balanced,41,True,9.4,9.456666666666667,Chúng ta đi vào ti mai
+vi_018,Balanced,42,True,9.466666666666667,9.59,Chúng ta đi vào tôi mai
+vi_018,Balanced,43,True,9.6,9.656666666666666,Chúng ta đi vào ti mai
+vi_018,Balanced,45,True,10.8,11.133333333333333,Chúng ta đi vào ti mai
+vi_018,Balanced,46,True,11.133333333333333,11.313333333333333,Chúng ta đi vào tôi mai
+vi_018,Balanced,48,True,13.4,13.456666666666667,"Ban noi 19,95 hay 90,15? 2026"
+vi_018,Balanced,49,True,13.466666666666667,14.4,"Ban nói 19,95 hay 90,15? 2026"
+vi_018,Balanced,50,True,15.2,15.323333333333334,Đi dā... chúng ta tht s đi sao? 2017
+vi_018,Balanced,51,True,15.333333333333334,15.39,chúng ta tht s đi sao? 2017
+vi_018,Balanced,52,True,15.4,15.456666666666667,Đi dā.. chúng ta tht s đi sao? 2017
+vi_018,Balanced,53,True,15.466666666666667,15.866666666666667,chúng ta tht s đi sao? 2017
+vi_018,Balanced,54,True,15.866666666666667,15.923333333333334,chúng ta tht s đi sao7 2017
+vi_018,Balanced,55,True,15.933333333333334,15.99,Đoi đā... chúng ta tht s đi sao? 2017
+vi_018,Balanced,57,True,16.8,16.856666666666666,Doi đā... chúng ta tht su di sao? 2017
+vi_018,Balanced,58,True,16.866666666666667,16.923333333333332,Đoi đā... chúng ta tht s đi sao? 2017
+vi_018,Balanced,59,True,16.933333333333334,16.99,Doi đā... chúng ta tht su đi sao? 2017
+vi_018,Balanced,60,True,17.0,17.333333333333332,Đoi đā... chúng ta tht su đi sao? 2017
+vi_018,Balanced,61,True,17.333333333333332,17.389999999999997,ĐDoi đā... chúng ta tht su đi sao? 2017
+vi_018,Balanced,62,True,17.4,17.6,Đoi đā... chúng ta tht su đi sao? 2017
+vi_019,Fast,1,True,0.5333333333333333,0.6566666666666666,Đoi đã... chúng ta thât su đi sao?
+vi_019,Fast,2,True,0.6666666666666666,0.79,Đgi đã... chúng ta tht sur đi sao?
+vi_019,Fast,3,True,0.8,1.0666666666666667,Đi đã... chúng ta thât sư đi sao?
+vi_019,Fast,4,True,1.0666666666666667,1.19,Đi đã... chúng ta tht sư đi sao?
+vi_019,Fast,5,True,1.2,1.3233333333333333,Đi đã... chúng ta tht su đi sao?
+vi_019,Fast,6,True,1.3333333333333333,1.5999999999999999,Đi đã... chúng ta tht sư đi sao?
+vi_019,Fast,7,True,1.6,1.7233333333333334,Đi đã... chúng ta tht s đi sao?
+vi_019,Fast,8,True,1.7333333333333334,1.9333333333333333,Đi đã... chúng ta tht su đi sao?
+vi_019,Fast,10,True,6.4,6.523333333333333,Hãy đgi tôi đây 119
+vi_019,Fast,11,True,6.533333333333333,6.933333333333334,Hãy đi tôi đây 119
+vi_019,Fast,12,True,6.933333333333334,7.056666666666667,Hăy đi tôi đây 119
+vi_019,Fast,13,True,7.066666666666666,7.19,Hãy di tôi đây 119
+vi_019,Fast,15,True,9.333333333333334,9.866666666666665,Không thé tin đã na đêm! 2026
+vi_019,Fast,16,True,9.866666666666667,9.99,Không th tin đã na đêm! 2026
+vi_019,Fast,17,True,10.0,10.266666666666666,Không the tin đã na đêm! 2026
+vi_019,Fast,18,True,10.266666666666667,10.39,Không thé tin đã na đêm! 2026
+vi_019,Fast,19,True,10.4,10.523333333333333,Không th tin đã na đêm! 2026
+vi_019,Fast,20,True,10.533333333333333,10.656666666666666,Không the tin đã na đêm! 2026
+vi_019,Fast,22,True,11.333333333333334,11.533333333333333,Không th tin đã na đêm 2026
+vi_019,Fast,23,True,12.266666666666667,12.39,Cánh cra dò bên trái. 50%
+vi_019,Fast,24,True,12.4,12.523333333333333,Cánh ca dò bên trái. 50%
+vi_019,Fast,25,True,12.533333333333333,12.656666666666666,Cánh cra dò bên trái. 50%
+vi_019,Fast,26,True,12.666666666666666,12.790000000000001,Cánh cra đò bên trái. 50%
+vi_019,Fast,27,True,12.8,12.923333333333334,Cánh ca dò bên trái. 50%
+vi_019,Fast,28,True,12.933333333333334,13.056666666666667,Cánh cra dò bên trái. 50%
+vi_019,Fast,29,True,13.066666666666666,13.19,Cánh ca đò bên trái. 50%
+vi_019,Fast,30,True,13.2,13.323333333333334,Cánh ca dò bên trái. 50%
+vi_019,Fast,31,True,13.333333333333334,13.456666666666667,Cánh cra đò bên trái. 50%
+vi_019,Fast,32,True,13.466666666666667,13.59,Cánh ca đò bên trái. 50%
+vi_019,Fast,33,True,13.6,13.723333333333333,Cánh cra dò bên trái. 50%
+vi_019,Fast,34,True,13.733333333333333,13.856666666666667,Cánh ca dò bên trái. 50%
+vi_019,Fast,36,True,15.2,16.266666666666666,Chúng ta đi vào ti mai 2018
+vi_019,Fast,37,True,16.266666666666666,16.389999999999997,Chúng ta đi vào tői mai 2018
+vi_019,Balanced,1,True,0.4666666666666667,0.5233333333333333,Đqi đã... chúng ta thât sư đi sao?
+vi_019,Balanced,2,True,0.5333333333333333,0.59,Đoi đã... chúng ta thât su đi sao?
+vi_019,Balanced,3,True,0.6,0.6566666666666666,Đqi đã... chúng ta tht sưr đi sao?
+vi_019,Balanced,4,True,0.6666666666666666,0.7233333333333333,Đgi đã... chúng ta tht sur đi sao?
+vi_019,Balanced,5,True,0.7333333333333333,1.0666666666666667,Đi đã... chúng ta thât sư đi sao?
+vi_019,Balanced,6,True,1.0666666666666667,1.19,Đi đã... chúng ta tht sư đi sao?
+vi_019,Balanced,7,True,1.2,1.2566666666666666,Đi đã... chúng ta tht su đi sao?
+vi_019,Balanced,8,True,1.2666666666666666,1.6,Đi đã... chúng ta tht sư đi sao?
+vi_019,Balanced,9,True,1.6,1.6566666666666667,Đi đã... chúng ta tht s đi sao?
+vi_019,Balanced,10,True,1.6666666666666667,1.7233333333333334,Đi đã... chúng ta tht sư đi sao?
+vi_019,Balanced,11,True,1.7333333333333334,1.79,Đi đã... chúng ta tht su đi sao?
+vi_019,Balanced,12,True,1.8,1.98,Đi đã... chúng ta tht s đi sao?
+vi_019,Balanced,14,True,6.4,6.523333333333333,Hãy đgi tôi đây 119
+vi_019,Balanced,15,True,6.533333333333333,6.733333333333333,Hãy đi tôi đây 119
+vi_019,Balanced,16,True,6.733333333333333,6.79,Hãy di tōi đây 119
+vi_019,Balanced,17,True,6.8,6.8566666666666665,Hãy đi tôi đây 119
+vi_019,Balanced,18,True,6.866666666666666,6.923333333333334,Hãy di tôi đây 119
+vi_019,Balanced,19,True,6.933333333333334,6.99,Hăy đi tôi đây 119
+vi_019,Balanced,20,True,7.0,7.056666666666667,Hāy di tôi đây 119
+vi_019,Balanced,21,True,7.066666666666666,7.123333333333334,Hãy di tôi đây 119
+vi_019,Balanced,22,True,7.133333333333334,7.19,Hãy di tol đây 119
+vi_019,Balanced,24,True,7.8,7.8566666666666665,Hãy di tôi đây 119
+vi_019,Balanced,25,True,7.866666666666666,8.2,Hãy đi tôi đây 119
+vi_019,Balanced,26,True,8.2,8.379999999999999,Hāy đi tôi đây 119
+vi_019,Balanced,27,True,9.333333333333334,9.666666666666666,Không thé tin đã na đêm! 2026
+vi_019,Balanced,28,True,9.666666666666666,9.723333333333333,Không th tin đã na đêm! 2026
+vi_019,Balanced,29,True,9.733333333333333,9.856666666666667,Không thé tin đã na đêm! 2026
+vi_019,Balanced,30,True,9.866666666666667,9.99,Không th tin đã na đêm! 2026
+vi_019,Balanced,31,True,10.0,10.056666666666667,Không the tin đã na đêm! 2026
+vi_019,Balanced,32,True,10.066666666666666,10.123333333333333,Không thé tin đã na đêm! 2026
+vi_019,Balanced,33,True,10.133333333333333,10.19,Không the tin đã na đêm! 2026
+vi_019,Balanced,34,True,10.2,10.256666666666668,Không th tin đã na đêm! 2026
+vi_019,Balanced,35,True,10.266666666666667,10.39,Không thé tin đã na đêm! 2026
+vi_019,Balanced,36,True,10.4,10.456666666666667,Không th tin đã na đêm! 2026
+vi_019,Balanced,37,True,10.466666666666667,10.523333333333333,Khöng th tin đã na đêm! 2026
+vi_019,Balanced,38,True,10.533333333333333,10.59,Không the tin đã na đêm! 2026
+vi_019,Balanced,40,True,11.266666666666667,11.323333333333334,Không thé tin đã na đêmi 2026
+vi_019,Balanced,41,True,11.333333333333334,11.39,Không th tin đã na đêm 2026
+vi_019,Balanced,42,True,11.4,11.58,Không thé tin đã na đêm! 2026
+vi_019,Balanced,43,True,12.266666666666667,12.323333333333334,Cánh cra dò bên trái. 50%
+vi_019,Balanced,44,True,12.333333333333334,12.39,Cánh ca đò bên trái. 50%
+vi_019,Balanced,45,True,12.4,12.523333333333333,Cánh ca dò bên trái. 50%
+vi_019,Balanced,46,True,12.533333333333333,12.59,Cánh cra dò bên trái. 50%
+vi_019,Balanced,47,True,12.6,12.723333333333333,Cánh cra đò bên trái. 50%
+vi_019,Balanced,48,True,12.733333333333333,12.790000000000001,Cánh cra dò bên trái. 50%
+vi_019,Balanced,49,True,12.8,12.856666666666667,Cánh ca dò bên trái. 50%
+vi_019,Balanced,50,True,12.866666666666667,12.923333333333334,Cánh cra đò bên trái. 50%
+vi_019,Balanced,51,True,12.933333333333334,12.99,Cánh cra dò bên trái. 50%
+vi_019,Balanced,52,True,13.0,13.056666666666667,Cánh cra đò bên trái. 50%
+vi_019,Balanced,53,True,13.066666666666666,13.123333333333333,Cánh ca đò bên trái. 50%
+vi_019,Balanced,54,True,13.133333333333333,13.19,Cánh cra dò bên trái. 50%
+vi_019,Balanced,55,True,13.2,13.256666666666668,Cánh ca dò bên trái. 50%
+vi_019,Balanced,56,True,13.266666666666667,13.323333333333334,Cánh cura dò bên trái. 50%
+vi_019,Balanced,57,True,13.333333333333334,13.39,Cánh cra đò bên trái. 50%
+vi_019,Balanced,58,True,13.4,13.456666666666667,Cánh cra dó bên trái. 50%
+vi_019,Balanced,59,True,13.466666666666667,13.59,Cánh ca đò bên trái. 50%
+vi_019,Balanced,60,True,13.6,13.656666666666666,Cánh cra dò bên trái. 50%
+vi_019,Balanced,61,True,13.666666666666666,13.723333333333333,Cánh cura dò bên trái. 50%
+vi_019,Balanced,62,True,13.733333333333333,13.790000000000001,Cánh ca dò bên trái. 50%
+vi_019,Balanced,64,True,15.2,15.933333333333334,Chúng ta đi vào ti mai 2018
+vi_019,Balanced,65,True,15.933333333333334,15.99,Chúng ta đi vào tői mai 2018
+vi_019,Balanced,66,True,16.0,16.2,Chúng ta đi vào ti mai 2018
+vi_019,Balanced,67,True,16.2,16.4,Chúng ta đi vào tői mai 2018
+vi_020,Fast,1,True,0.5333333333333333,0.7999999999999999,Chúng ta đi vào ti mai
+vi_020,Fast,2,True,0.8,0.9233333333333333,Chúng ta đi vào tői mai
+vi_020,Fast,4,True,1.6,1.7233333333333334,Chúng ta đi vào tői mai
+vi_020,Fast,5,True,1.7333333333333334,2.1333333333333333,Chúng ta đi vào ti mai
+vi_020,Fast,6,True,3.466666666666667,3.5900000000000003,"Ban nói 19,95 hay 90,15?"
+vi_020,Fast,7,True,3.6,3.7233333333333336,"Bąn nói 19,95 hay 90,15?"
+vi_020,Fast,9,True,4.533333333333333,4.656666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_020,Fast,10,True,4.666666666666667,5.333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_020,Fast,11,True,6.4,6.8,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Fast,12,True,6.8,6.923333333333334,Đi đã... chung ta tht sư đi sao? 120
+vi_020,Fast,13,True,6.933333333333334,7.2,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Fast,14,True,7.2,7.323333333333333,Đi đâ... chúng ta tht sư đi sao? 120
+vi_020,Fast,16,True,8.266666666666667,8.39,Đi đā... chúng ta tht sư đi sao? 120
+vi_020,Fast,17,True,8.4,8.6,"Đi đã.., chúng ta tht sư đi sao? 120"
+vi_020,Fast,18,True,9.333333333333334,10.0,Chúng ta đi vào sáng mai 50%
+vi_020,Fast,19,True,10.0,10.123333333333333,Chúng ta đi-vào sáng mai 50%
+vi_020,Fast,21,True,11.6,11.799999999999999,Chúng ta đi vao sáng mai 50%
+vi_020,Fast,23,True,15.2,15.323333333333334,Không thé tin đã na đêm! 2019
+vi_020,Fast,24,True,15.333333333333334,15.456666666666667,Không th tin đã na đêm! 2019
+vi_020,Fast,25,True,15.466666666666667,15.866666666666665,Không thé tin đã na đêm! 2019
+vi_020,Fast,26,True,15.866666666666667,15.99,Không th tin đã na đêm! 2019
+vi_020,Balanced,1,True,0.4666666666666667,0.7999999999999999,Chúng ta đi vào ti mai
+vi_020,Balanced,2,True,0.8,0.8566666666666667,Chúng ta đi vào tői mai
+vi_020,Balanced,4,True,1.6,1.6566666666666667,Chúng ta đi vào tői mai
+vi_020,Balanced,5,True,1.6666666666666667,2.1333333333333333,Chúng ta đi vào ti mai
+vi_020,Balanced,6,True,3.4,3.6,"Ban nói 19,95 hay 90,15?"
+vi_020,Balanced,7,True,3.6,3.6566666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_020,Balanced,9,True,4.466666666666667,4.59,"Bąn nói 19,95 hay 90,15?"
+vi_020,Balanced,10,True,4.6,5.266666666666667,"Ban nói 19,95 hay 90,15?"
+vi_020,Balanced,11,True,6.4,6.8,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Balanced,12,True,6.8,6.8566666666666665,Đi đã... chung ta tht sư đi sao? 120
+vi_020,Balanced,13,True,6.866666666666666,6.923333333333334,Đi đā... chúng ta tht sư đi sao? 120
+vi_020,Balanced,14,True,6.933333333333334,7.2,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Balanced,15,True,7.2,7.256666666666667,Đi đâ... chúng ta tht sư đi sao? 120
+vi_020,Balanced,16,True,7.266666666666667,7.666666666666666,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Balanced,17,True,7.666666666666667,7.723333333333334,Đqi đã... chúng ta tht sư đi sao? 120
+vi_020,Balanced,18,True,7.733333333333333,8.2,Đi đã... chúng ta tht sư đi sao? 120
+vi_020,Balanced,19,True,8.2,8.256666666666668,Đi đa... chúng ta tht sư đi sao? 120
+vi_020,Balanced,20,True,8.266666666666667,8.39,Đi đā... chúng ta tht sư đi sao? 120
+vi_020,Balanced,21,True,8.4,8.58,"Đi đã.., chúng ta tht sư đi sao? 120"
+vi_020,Balanced,22,True,9.333333333333334,10.0,Chúng ta đi vào sáng mai 50%
+vi_020,Balanced,23,True,10.0,10.056666666666667,Chúng ta đi-vào sáng mai 50%
+vi_020,Balanced,25,True,11.533333333333333,11.59,Chúng ta di vào sáng mai 50%
+vi_020,Balanced,26,True,11.6,11.656666666666666,Chúng ta đi vao sáng mai 50%
+vi_020,Balanced,27,True,11.666666666666666,11.846666666666666,Chúng ta đi vào sáng mai 50%
+vi_020,Balanced,29,True,13.666666666666666,13.723333333333333,Hãy di tôi đây
+vi_020,Balanced,30,True,13.733333333333333,14.866666666666667,Hãy đi tôi đây
+vi_020,Balanced,31,True,15.2,15.323333333333334,Không thé tin đã na đêm! 2019
+vi_020,Balanced,32,True,15.333333333333334,15.39,Không th tin đã na đêm! 2019
+vi_020,Balanced,33,True,15.4,15.866666666666667,Không thé tin đã na đêm! 2019
+vi_020,Balanced,34,True,15.866666666666667,15.923333333333334,Không th tin đã na đêm! 2019
+vi_021,Fast,2,True,1.4666666666666666,1.8666666666666667,Không thé tin đã na đêm!
+vi_021,Fast,3,True,1.8666666666666667,1.99,Không th tin đã na đêm!
+vi_021,Fast,4,True,2.0,2.4,Không thé tin đã na đêm!
+vi_021,Fast,5,True,3.466666666666667,3.7333333333333334,Cánh ca đó bên trái. 2026
+vi_021,Fast,6,True,3.7333333333333334,4.0,Cánh ca đò bên trái. 2026
+vi_021,Fast,7,True,4.0,4.123333333333334,Cánh ca đó bên trái. 2026
+vi_021,Fast,8,True,4.133333333333334,4.256666666666667,Cánh ca đ bên trái. 2026
+vi_021,Fast,9,True,4.266666666666667,4.390000000000001,Cánh ca đó bên trái. 2026
+vi_021,Fast,10,True,4.4,4.523333333333333,Cánh cra đó bên trái. 2026
+vi_021,Fast,11,True,4.533333333333333,4.656666666666667,Cánh ca đó bên trái. 2026
+vi_021,Fast,12,True,4.666666666666667,5.2,Cánh cra đó bên trái. 2026
+vi_021,Fast,13,True,5.2,5.323333333333333,Cánh cra do bên trái. 2026
+vi_021,Fast,14,True,5.333333333333333,5.456666666666667,Cán ca đó bên trái. 2026
+vi_021,Fast,15,True,5.466666666666667,5.666666666666667,Cánh ca đó bên trái. 2026
+vi_021,Fast,16,True,6.4,7.066666666666666,Chúng ta đi vào tôi mai 121
+vi_021,Fast,17,True,7.066666666666666,7.19,Chúng ta di vào tói mai 121
+vi_021,Fast,18,True,7.2,7.323333333333333,Chúng ta đi vào tôi mai 121
+vi_021,Fast,19,True,7.333333333333333,7.456666666666667,Chúng ta đi vào ti mai 121
+vi_021,Fast,20,True,7.466666666666667,7.59,Chúng ta đi vào tôi mai 121
+vi_021,Fast,21,True,7.6,7.723333333333334,Chúng ta đi vào ti mai 121
+vi_021,Fast,22,True,7.733333333333333,7.8566666666666665,Chúng ta đi vào tôi mai 121
+vi_021,Fast,23,True,7.866666666666666,7.99,Chúng ta đi vào tói mai 121
+vi_021,Fast,24,True,8.0,8.123333333333333,Chúng ta đi vào tôi mai 121
+vi_021,Fast,25,True,8.133333333333333,8.256666666666668,Chúng ta đi vào tói mai 121
+vi_021,Fast,26,True,8.266666666666667,8.39,Chúng ta di vào tói mai 121
+vi_021,Fast,27,True,8.4,8.666666666666666,Chúng ta đi vào tôi mai 121
+vi_021,Fast,28,True,8.666666666666666,8.866666666666665,Chúng ta đi vào tói mal 121
+vi_021,Fast,29,True,9.333333333333334,10.0,"Ban nói 19,95 hay 90,15?"
+vi_021,Fast,30,True,10.0,10.123333333333333,"Ban nôi 19,95 hay 90,15?"
+vi_021,Fast,31,True,10.133333333333333,10.256666666666668,"Baninói 19,95 hay 90,15?"
+vi_021,Fast,33,True,11.6,11.723333333333333,"Ban nôi 19,95 hay 90,15?"
+vi_021,Fast,34,True,11.733333333333333,11.856666666666667,"Ban noi 19,95 hay 90,15?"
+vi_021,Fast,35,True,11.866666666666667,12.066666666666666,"Ban nói 19,95 hay 90,15?"
+vi_021,Fast,36,True,12.266666666666667,12.39,Đi đã... chúng ta tht s đi sao?
+vi_021,Fast,37,True,12.4,12.523333333333333,Đoi đă... chúng ta thât su đi sao?
+vi_021,Fast,38,True,12.533333333333333,12.656666666666666,Đi đã... chúng ta tht s đi sao?
+vi_021,Fast,39,True,12.666666666666666,12.866666666666665,Đoi đă... chúng ta thât su đi sao?
+vi_021,Balanced,2,True,1.4666666666666666,1.8666666666666667,Không thé tin đã na đêm!
+vi_021,Balanced,3,True,1.8666666666666667,1.99,Không th tin đã na đêm!
+vi_021,Balanced,4,True,2.0,2.2,Không thé tin đã na đêm!
+vi_021,Balanced,5,True,2.2,2.256666666666667,Không thé tin đā na đêm!
+vi_021,Balanced,6,True,2.2666666666666666,2.4466666666666668,Không thé tin đã na đêm!
+vi_021,Balanced,7,True,3.4,3.7333333333333334,Cánh ca đó bên trái. 2026
+vi_021,Balanced,8,True,3.7333333333333334,4.0,Cánh ca đò bên trái. 2026
+vi_021,Balanced,9,True,4.0,4.056666666666667,Cánh ca đó bên trái. 2026
+vi_021,Balanced,10,True,4.066666666666666,4.123333333333334,Cánh ca đò bên trái. 2026
+vi_021,Balanced,11,True,4.133333333333334,4.19,Cánh ca đ bên trái. 2026
+vi_021,Balanced,12,True,4.2,4.256666666666667,Cánh cra đó bên trái. 2026
+vi_021,Balanced,13,True,4.266666666666667,4.323333333333333,Cánh ca đó bên trái. 2026
+vi_021,Balanced,14,True,4.333333333333333,4.390000000000001,Cánh cra đò bên trái. 2026
+vi_021,Balanced,15,True,4.4,4.456666666666667,Cánh cra đó bên trái. 2026
+vi_021,Balanced,16,True,4.466666666666667,4.59,Cánh ca đó bên trái. 2026
+vi_021,Balanced,17,True,4.6,5.0,Cánh cra đó bên trái. 2026
+vi_021,Balanced,18,True,5.0,5.056666666666667,Cánh ca đò bên trái. 2026
+vi_021,Balanced,19,True,5.066666666666666,5.19,Cánh cra đó bên trái. 2026
+vi_021,Balanced,20,True,5.2,5.256666666666667,Cánh cra do bên trái. 2026
+vi_021,Balanced,21,True,5.266666666666667,5.323333333333333,Cánh cra đo bên trái. 2026
+vi_021,Balanced,22,True,5.333333333333333,5.390000000000001,Cán ca đó bên trái. 2026
+vi_021,Balanced,23,True,5.4,5.456666666666667,Cánh ca dó bên trái. 2026
+vi_021,Balanced,24,True,5.466666666666667,5.6466666666666665,Cánh ca đó bên trái. 2026
+vi_021,Balanced,25,True,6.4,6.733333333333333,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,26,True,6.733333333333333,6.79,Chúng tardi vào tôi mai 121
+vi_021,Balanced,27,True,6.8,6.8566666666666665,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,28,True,6.866666666666666,6.923333333333334,Chúng ta đi vào tói mai 121
+vi_021,Balanced,29,True,6.933333333333334,6.99,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,30,True,7.0,7.056666666666667,Chúng ta đi vào tói mai 121
+vi_021,Balanced,31,True,7.066666666666666,7.123333333333334,Chúng ta di vào tói mai 121
+vi_021,Balanced,32,True,7.133333333333334,7.19,Chúng tardivào tói mai 121
+vi_021,Balanced,33,True,7.2,7.323333333333333,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,34,True,7.333333333333333,7.456666666666667,Chúng ta đi vào ti mai 121
+vi_021,Balanced,35,True,7.466666666666667,7.59,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,36,True,7.6,7.656666666666667,Chúng ta đi vào ti mai 121
+vi_021,Balanced,37,True,7.666666666666667,7.723333333333334,Chúng ta di vào tói mal 121
+vi_021,Balanced,38,True,7.733333333333333,7.79,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,39,True,7.8,7.923333333333334,Chúng ta đi vào tói mai 121
+vi_021,Balanced,40,True,7.933333333333334,8.056666666666667,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,41,True,8.066666666666666,8.19,Chúng ta đi vào tói mai 121
+vi_021,Balanced,42,True,8.2,8.323333333333334,Chúng ta di vào tói mai 121
+vi_021,Balanced,43,True,8.333333333333334,8.456666666666667,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,44,True,8.466666666666667,8.523333333333333,Chúng ta đi vào ti mai 121
+vi_021,Balanced,45,True,8.533333333333333,8.656666666666666,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,46,True,8.666666666666666,8.723333333333333,Chúng ta đi vào tói mal 121
+vi_021,Balanced,47,True,8.733333333333333,8.913333333333332,Chúng ta đi vào tôi mai 121
+vi_021,Balanced,48,True,9.333333333333334,10.0,"Ban nói 19,95 hay 90,15?"
+vi_021,Balanced,49,True,10.0,10.056666666666667,"Ban nôi 19,95 hay 90,15?"
+vi_021,Balanced,50,True,10.066666666666666,10.123333333333333,"Ban nói 19,95 hay 90,15?"
+vi_021,Balanced,51,True,10.133333333333333,10.19,"Baninói 19,95 hay 90,15?"
+vi_021,Balanced,53,True,11.4,11.456666666666667,"Bn nói 19,95 hay 90,15?"
+vi_021,Balanced,54,True,11.466666666666667,11.523333333333333,"Ban nói 19,95 hay 90,15?"
+vi_021,Balanced,55,True,11.533333333333333,11.59,"Ban noi 19,95 hay 90,15?"
+vi_021,Balanced,56,True,11.6,11.656666666666666,"Ban nôi 19,95 hay 90,15?"
+vi_021,Balanced,57,True,11.666666666666666,11.790000000000001,"Ban noi 19,95 hay 90,15?"
+vi_021,Balanced,58,True,11.8,11.98,"Ban nói 19,95 hay 90,15?"
+vi_021,Balanced,59,True,12.266666666666667,12.323333333333334,Đi đã... chúng ta tht s đi sao?
+vi_021,Balanced,60,True,12.333333333333334,12.39,Đoi đã... chúng ta thât su đi sao?
+vi_021,Balanced,61,True,12.4,12.456666666666667,Đoi đă... chúng ta thât su đi sao?
+vi_021,Balanced,62,True,12.466666666666667,12.523333333333333,Đoi đã... chúng ta thât su đi sao?
+vi_021,Balanced,63,True,12.533333333333333,12.59,Đi đã... chúng ta tht s đi sao?
+vi_021,Balanced,64,True,12.6,12.723333333333333,Đoi đă... chúng ta thât su đi sao?
+vi_021,Balanced,65,True,12.733333333333333,12.913333333333332,Đoi đă... chúng ta tht s đi sao?
+vi_022,Fast,1,True,0.5333333333333333,0.6566666666666666,Chúng ta đi vào sáng mai 2026
+vi_022,Fast,2,True,0.6666666666666666,0.79,Chúng ta đi yào sáng mai 2026
+vi_022,Fast,4,True,3.466666666666667,4.0,Hãy đi tôi đây 50%
+vi_022,Fast,5,True,4.0,4.123333333333334,Hãy đi tôi đy 50%
+vi_022,Fast,7,True,5.2,5.323333333333333,Hãy đi tôi đy 50%
+vi_022,Fast,8,True,5.333333333333333,5.456666666666667,Hãy đi tôi đây 50%
+vi_022,Fast,9,True,5.466666666666667,5.866666666666666,Hãy đi tôi đy 50%
+vi_022,Fast,11,True,8.266666666666667,8.39,Không thê tin đã na đêm! 122
+vi_022,Fast,12,True,8.4,9.066666666666666,Không th tin đã na đêm! 122
+vi_022,Fast,14,True,10.133333333333333,10.256666666666668,Cánhca đò bên trái.
+vi_022,Fast,15,True,10.266666666666667,10.799999999999999,Cánh ca đò bên trái.
+vi_022,Fast,17,True,13.333333333333334,13.456666666666667,Chúng ta đi vào ti mai
+vi_022,Fast,18,True,13.466666666666667,13.59,Chúng ta đi vào tói mai
+vi_022,Fast,19,True,13.6,13.723333333333333,Chúng ta di vào tói mai
+vi_022,Fast,20,True,13.733333333333333,14.0,Chúng ta đi vào tói mai
+vi_022,Balanced,1,True,0.4666666666666667,0.6666666666666666,Chúng ta đi vào sáng mai 2026
+vi_022,Balanced,2,True,0.6666666666666666,0.7233333333333333,Chúng ta đi yào sáng mai 2026
+vi_022,Balanced,4,True,3.4,3.8,Hãy đi tôi đây 50%
+vi_022,Balanced,5,True,3.8,3.856666666666667,Hăy đi tôi đy 50%
+vi_022,Balanced,6,True,3.8666666666666667,3.9233333333333333,Hãy đi tôi đây 50%
+vi_022,Balanced,7,True,3.933333333333333,4.056666666666667,Hãy đi tôi đy 50%
+vi_022,Balanced,9,True,5.133333333333334,5.333333333333333,Hãy đi tôi đy 50%
+vi_022,Balanced,10,True,5.333333333333333,5.390000000000001,Hãy đi tôi đây 50%
+vi_022,Balanced,11,True,5.4,5.8,Hãy đi tôi đy 50%
+vi_022,Balanced,12,True,6.4,7.133333333333333,Không th tin đã na đêm! 122
+vi_022,Balanced,13,True,7.133333333333334,7.19,Không thê tin đã na đêm! 122
+vi_022,Balanced,14,True,7.2,7.8,Không th tin đã na đêm! 122
+vi_022,Balanced,15,True,7.8,7.8566666666666665,Không thé tin đã na đêm! 122
+vi_022,Balanced,16,True,7.866666666666666,8.2,Không th tin đã na đêm! 122
+vi_022,Balanced,17,True,8.2,8.256666666666668,Không thé tin đã na đêm! 122
+vi_022,Balanced,18,True,8.266666666666667,8.323333333333334,Không thê tin đã na đêm! 122
+vi_022,Balanced,19,True,8.333333333333334,9.0,Không th tin đã na đêm! 122
+vi_022,Balanced,21,True,10.133333333333333,10.19,Cánhca đò bên trái.
+vi_022,Balanced,22,True,10.2,10.733333333333333,Cánh ca đò bên trái.
+vi_022,Balanced,23,True,12.266666666666667,12.466666666666667,Chúng ta đi vào tói mai
+vi_022,Balanced,24,True,12.466666666666667,12.523333333333333,Chúng ta đi vào ti mai
+vi_022,Balanced,26,True,13.333333333333334,13.39,Chúng ta đi vào ti mai
+vi_022,Balanced,27,True,13.4,13.6,Chúng ta đi vào tói mai
+vi_022,Balanced,28,True,13.6,13.656666666666666,Chúng ta di vào tói mai
+vi_022,Balanced,29,True,13.666666666666666,13.933333333333334,Chúng ta đi vào tói mai
+vi_023,Fast,3,True,6.4,6.8,Chúng ta đi vào sáng mai 123
+vi_023,Fast,4,True,6.8,6.923333333333334,Chúng ta di vào sáng mai 123
+vi_023,Fast,5,True,6.933333333333334,7.056666666666667,Chúng ta đi vào sáng mai 123
+vi_023,Fast,6,True,7.066666666666666,7.19,Chúng ta di vào sáng mai 123
+vi_023,Balanced,3,True,6.4,6.8,Chúng ta đi vào sáng mai 123
+vi_023,Balanced,4,True,6.8,6.8566666666666665,Chúng ta di vào sáng mai 123
+vi_023,Balanced,5,True,6.866666666666666,7.066666666666666,Chúng ta đi vào sáng mai 123
+vi_023,Balanced,6,True,7.066666666666666,7.123333333333334,Chúng ta di vào sáng mai 123
+vi_023,Balanced,7,True,7.133333333333334,7.19,Chúng ta divào sáng mai 123
+vi_024,Fast,1,True,0.5333333333333333,0.6566666666666666,Cánh ca đ bên trái.
+vi_024,Fast,2,True,0.6666666666666666,0.79,Cán ca đ bên trái.
+vi_024,Fast,7,True,10.4,10.523333333333333,Điđã... chúng ta tht s đi sao?
+vi_024,Fast,8,True,10.533333333333333,11.2,Đi đã.. chúng ta tht s đi sao?
+vi_024,Balanced,1,True,0.4666666666666667,0.6666666666666666,Cánh ca đ bên trái.
+vi_024,Balanced,2,True,0.6666666666666666,0.7233333333333333,Cán ca đ bên trái.
+vi_024,Balanced,7,True,10.4,10.456666666666667,Điđã... chúng ta tht s đi sao?
+vi_024,Balanced,8,True,10.466666666666667,11.2,Đi đã.. chúng ta tht s đi sao?
+vi_025,Fast,1,True,0.5333333333333333,0.7999999999999999,Hãy đi tôi đây
+vi_025,Fast,2,True,0.8,0.9233333333333333,Hy đi tôi đây
+vi_025,Fast,3,True,0.9333333333333333,1.0566666666666666,Hãy đi tôi đây
+vi_025,Fast,4,True,1.0666666666666667,1.19,Hy đi tôi đây
+vi_025,Fast,6,True,3.466666666666667,3.8666666666666667,Không th tin đã na đêm!
+vi_025,Fast,7,True,3.8666666666666667,3.99,Không th tin đā na đêm!
+vi_025,Fast,8,True,4.0,4.4,Không th tin đã na đêm!
+vi_025,Fast,9,True,4.4,4.523333333333333,Không th tin đā na đêm!
+vi_025,Fast,11,True,6.4,6.8,Cánh ca đ bên trái. 125
+vi_025,Fast,12,True,6.8,6.923333333333334,Cánh ca d bên trái. 125
+vi_025,Fast,13,True,6.933333333333334,7.056666666666667,Cánh ca đ bên trái. 125
+vi_025,Fast,14,True,7.066666666666666,7.19,Cánh ca d bên trái. 125
+vi_025,Fast,15,True,7.2,7.323333333333333,Cánh ca dò bên trái. 125
+vi_025,Fast,17,True,9.333333333333334,9.456666666666667,Chúng ta đi vào tôi mai
+vi_025,Fast,18,True,9.466666666666667,9.733333333333333,Chúng ta đi vào ti mai
+vi_025,Fast,19,True,9.733333333333333,10.133333333333333,Chúng ta đi vào tôi mai
+vi_025,Fast,23,True,16.533333333333335,16.8,Đi đã... chúng ta tht s đi sao? 2024
+vi_025,Fast,24,True,16.8,16.923333333333332,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Fast,25,True,16.933333333333334,17.056666666666665,Đi đã.. chúng ta tht s đi sao? 2024
+vi_025,Fast,26,True,17.066666666666666,17.189999999999998,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Fast,27,True,17.2,17.32333333333333,Đoi đã... chúng ta tht su đi sao? 2024
+vi_025,Fast,28,True,17.333333333333332,17.456666666666663,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Fast,29,True,17.466666666666665,17.866666666666667,Đoi đã... chúng ta tht su đi sao? 2024
+vi_025,Balanced,1,True,0.4666666666666667,0.7999999999999999,Hãy đi tôi đây
+vi_025,Balanced,2,True,0.8,0.8566666666666667,Hy đi tôi đây
+vi_025,Balanced,3,True,0.8666666666666667,1.0666666666666667,Hãy đi tôi đây
+vi_025,Balanced,4,True,1.0666666666666667,1.1233333333333333,Hy đi tôi đây
+vi_025,Balanced,6,True,3.4,3.8,Không th tin đã na đêm!
+vi_025,Balanced,7,True,3.8,3.856666666666667,Không th tin đă na đêm!
+vi_025,Balanced,8,True,3.8666666666666667,3.9233333333333333,Không th tin đā na đêm!
+vi_025,Balanced,9,True,3.933333333333333,4.3999999999999995,Không th tin đã na đêm!
+vi_025,Balanced,10,True,4.4,4.456666666666667,Không th tin đā na đêm!
+vi_025,Balanced,12,True,6.4,6.733333333333333,Cánh ca đ bên trái. 125
+vi_025,Balanced,13,True,6.733333333333333,6.8566666666666665,Cánh ca d bên trái. 125
+vi_025,Balanced,14,True,6.866666666666666,7.066666666666666,Cánh ca đ bên trái. 125
+vi_025,Balanced,15,True,7.066666666666666,7.123333333333334,Cánh ca d bên trái. 125
+vi_025,Balanced,16,True,7.133333333333334,7.19,Cánh cra d bên trái. 125
+vi_025,Balanced,17,True,7.2,7.256666666666667,Cánh ca dò bên trái. 125
+vi_025,Balanced,18,True,7.266666666666667,7.8,Cánh ca đ bên trái. 125
+vi_025,Balanced,19,True,7.8,7.8566666666666665,Cánh cra đò bên trái. 125
+vi_025,Balanced,20,True,7.866666666666666,8.2,Cánh ca đ bên trái. 125
+vi_025,Balanced,21,True,8.2,8.379999999999999,Cánh ca d bên trái. 125
+vi_025,Balanced,22,True,9.333333333333334,9.39,Chúng ta đi vào tôi mai
+vi_025,Balanced,23,True,9.4,9.523333333333333,Chúng ta đi vào ti mai
+vi_025,Balanced,24,True,9.533333333333333,9.59,Chúng ta đi vào tôi mai
+vi_025,Balanced,25,True,9.6,9.723333333333333,Chúng ta đi vào ti mai
+vi_025,Balanced,26,True,9.733333333333333,9.790000000000001,Chúng ta đi vào tôi mai
+vi_025,Balanced,27,True,9.8,9.856666666666667,Chúng ta đi vào ti mai
+vi_025,Balanced,28,True,9.866666666666667,10.066666666666666,Chúng ta đi vào tôi mai
+vi_025,Balanced,29,True,10.066666666666666,10.466666666666667,Chúng ta đi vào ti mai
+vi_025,Balanced,30,True,10.466666666666667,10.523333333333333,Chúng ta đi vào tôi mai
+vi_025,Balanced,32,True,11.4,11.58,Chúng ta di vào ti mai
+vi_025,Balanced,35,True,16.533333333333335,16.59,Đi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,36,True,16.6,16.656666666666666,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,37,True,16.666666666666668,16.723333333333333,Đi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,38,True,16.733333333333334,16.933333333333334,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,39,True,16.933333333333334,17.056666666666665,Đi đã.. chúng ta tht s đi sao? 2024
+vi_025,Balanced,40,True,17.066666666666666,17.189999999999998,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,41,True,17.2,17.256666666666664,Đoi đã... chúng ta tht su đi sao? 2024
+vi_025,Balanced,42,True,17.266666666666666,17.389999999999997,Đoi đã... chúng ta tht s đi sao? 2024
+vi_025,Balanced,43,True,17.4,17.8,Đoi đã... chúng ta tht su đi sao? 2024
+vi_026,Fast,1,True,0.5333333333333333,0.6566666666666666,Đoiđā... chúng ta tht s đi sao?
+vi_026,Fast,2,True,0.6666666666666666,0.79,Đoiđă... chúng ta tht su đi sao?
+vi_026,Fast,3,True,0.8,0.9233333333333333,Đoiđā... chúng ta tht s đi sao?
+vi_026,Fast,4,True,0.9333333333333333,1.0566666666666666,Đoi đ... chúng ta tht s đi sao?
+vi_026,Fast,6,True,1.6,1.7233333333333334,Đoi đã... chúng ta tht s đi sao?
+vi_026,Fast,7,True,1.7333333333333334,2.1333333333333333,Đi đã... chúng ta tht s đi sao?
+vi_026,Fast,9,True,6.4,7.066666666666666,Hãy đi tôi đây 126
+vi_026,Fast,10,True,7.066666666666666,7.19,Hãy đoi tôi đây 126
+vi_026,Fast,12,True,8.266666666666667,8.39,Hãy đoi tôi đây 126
+vi_026,Fast,13,True,8.4,8.6,Hãy đi tôi đây 126
+vi_026,Fast,15,True,11.466666666666667,11.59,Không thê tin đã na đêm! 2026
+vi_026,Fast,16,True,11.6,11.799999999999999,Không thê tin đă na đêm! 2026
+vi_026,Fast,18,True,13.2,13.323333333333334,Cánhca đ bên trái.
+vi_026,Fast,19,True,13.333333333333334,13.6,Cánh ca đ bên trái.
+vi_026,Fast,20,True,13.6,14.266666666666666,Cánh ca đò bên trái.
+vi_026,Fast,21,True,14.266666666666667,14.533333333333333,Cánh ca đ bên trái.
+vi_026,Fast,22,True,14.533333333333333,14.799999999999999,Cánh ca đò bên trái.
+vi_026,Fast,23,True,14.8,15.0,Cánh ca đ bên trái.
+vi_026,Balanced,1,True,0.4666666666666667,0.59,Đoiđā... chúng ta tht s đi sao?
+vi_026,Balanced,2,True,0.6,0.6566666666666666,Đoiđă... chúng ta tht s đi sao?
+vi_026,Balanced,3,True,0.6666666666666666,0.79,Đoiđă... chúng ta tht su đi sao?
+vi_026,Balanced,4,True,0.8,0.8566666666666667,Đoiđā... chúng ta tht s đi sao?
+vi_026,Balanced,5,True,0.8666666666666667,0.9233333333333333,Đoiđ... chúng ta tht s đi sao?
+vi_026,Balanced,6,True,0.9333333333333333,1.0566666666666666,Đoi đ... chúng ta tht s đi sao?
+vi_026,Balanced,7,True,1.0666666666666667,1.4,Đoiđã... chúng ta tht s đi sao?
+vi_026,Balanced,8,True,1.4,1.4566666666666666,Đoiđā... chúng ta tht s đi sao?
+vi_026,Balanced,9,True,1.4666666666666666,1.59,Đoiđã... chúng ta tht s đi sao?
+vi_026,Balanced,10,True,1.6,1.6566666666666667,Đoi đã... chúng ta tht s đi sao?
+vi_026,Balanced,11,True,1.6666666666666667,2.1333333333333333,Đi đã... chúng ta tht s đi sao?
+vi_026,Balanced,13,True,6.4,6.733333333333333,Hãy đi tôi đây 126
+vi_026,Balanced,14,True,6.733333333333333,6.79,Hãy đoi tôi đây 126
+vi_026,Balanced,15,True,6.8,6.8566666666666665,Hãy đi tôi đây 126
+vi_026,Balanced,16,True,6.866666666666666,6.923333333333334,Hãy đoi tôi đây 126
+vi_026,Balanced,17,True,6.933333333333334,7.056666666666667,Hãy đi tôi đây 126
+vi_026,Balanced,18,True,7.066666666666666,7.123333333333334,Hãy đoi tôi đây 126
+vi_026,Balanced,19,True,7.133333333333334,7.19,Hãyđoitôil đây 126
+vi_026,Balanced,20,True,7.2,7.8,Hãy đi tôi đây 126
+vi_026,Balanced,21,True,7.8,7.8566666666666665,Hãy đoi tôi đây 126
+vi_026,Balanced,22,True,7.866666666666666,8.2,Hãy đi tôi đây 126
+vi_026,Balanced,23,True,8.2,8.256666666666668,Hãyđitôi đây 126
+vi_026,Balanced,24,True,8.266666666666667,8.39,Hãy đoi tôi đây 126
+vi_026,Balanced,25,True,8.4,8.58,Hãy đi tôi đây 126
+vi_026,Balanced,26,True,9.333333333333334,10.066666666666666,Không th tin đã na đêm! 2026
+vi_026,Balanced,27,True,10.066666666666666,10.123333333333333,Không thê tin đã na đêm! 2026
+vi_026,Balanced,28,True,10.133333333333333,10.466666666666667,Không th tin đã na đêm! 2026
+vi_026,Balanced,29,True,10.466666666666667,10.523333333333333,Không th tin đă na đêm! 2026
+vi_026,Balanced,31,True,11.4,11.456666666666667,Không th tin đăna đêm! 2026
+vi_026,Balanced,32,True,11.466666666666667,11.523333333333333,Không thê tin đã na đêm! 2026
+vi_026,Balanced,33,True,11.533333333333333,11.59,Không th tin đã na đêm! 2026
+vi_026,Balanced,34,True,11.6,11.656666666666666,Không thê tin đă na đêm! 2026
+vi_026,Balanced,35,True,11.666666666666666,11.846666666666666,Không thê tin đã na đêm! 2026
+vi_026,Balanced,36,True,12.266666666666667,13.0,Cánh ca đò bên trái.
+vi_026,Balanced,37,True,13.0,13.056666666666667,Cánh ca đ bên trái.
+vi_026,Balanced,38,True,13.066666666666666,13.123333333333333,Cánh ca đò bên trái.
+vi_026,Balanced,39,True,13.133333333333333,13.19,Cánh ca đ bên trái.
+vi_026,Balanced,40,True,13.2,13.256666666666668,Cánhca đ bên trái.
+vi_026,Balanced,41,True,13.266666666666667,13.323333333333334,Cánh ca đò bên trái.
+vi_026,Balanced,42,True,13.333333333333334,13.39,Cánh ca đ bên trái.
+vi_026,Balanced,43,True,13.4,13.456666666666667,Cánh ca đò bên trái.
+vi_026,Balanced,44,True,13.466666666666667,13.59,Cánh ca đ bên trái.
+vi_026,Balanced,45,True,13.6,14.266666666666666,Cánh ca đò bên trái.
+vi_026,Balanced,46,True,14.266666666666667,14.466666666666667,Cánh ca đ bên trái.
+vi_026,Balanced,47,True,14.466666666666667,14.59,Cánh ca đò bên trái.
+vi_026,Balanced,48,True,14.6,14.656666666666666,Cánh ca đ bên trái.
+vi_026,Balanced,49,True,14.666666666666666,14.723333333333333,Cánh ca đò bên trái.
+vi_026,Balanced,50,True,14.733333333333333,14.913333333333332,Cánh ca đ bên trái.
+vi_027,Fast,2,True,3.466666666666667,3.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_027,Fast,3,True,3.8666666666666667,3.99,"Bn nói 19,95 hay 90,15?"
+vi_027,Fast,4,True,4.0,4.266666666666667,"Ban nói 19,95 hay 90,15?"
+vi_027,Fast,5,True,4.266666666666667,4.666666666666667,"Bn nói 19,95 hay 90,15?"
+vi_027,Fast,6,True,4.666666666666667,4.79,"Ban nói 19,95 hay 90,15?"
+vi_027,Fast,7,True,4.8,4.923333333333334,"Bn nói 19,95 hay 90,15?"
+vi_027,Fast,8,True,4.933333333333334,5.6,"Ban nói 19,95 hay 90,15?"
+vi_027,Fast,9,True,6.4,6.8,Đi đã... chúng ta tht s đi sao? 127
+vi_027,Fast,10,True,6.8,6.923333333333334,Đi đã.. chúng tà tht s đi sao? 127
+vi_027,Fast,11,True,6.933333333333334,7.2,Đi đã... chúng ta tht s đi sao? 127
+vi_027,Fast,12,True,7.2,7.323333333333333,Đoi đã... chúng ta tht s đi sao? 127
+vi_027,Fast,15,True,11.466666666666667,11.59,Chúng ta di vào sáng mai
+vi_027,Fast,16,True,11.6,11.723333333333333,Chúng ta đi vào sáng mai
+vi_027,Fast,17,True,11.733333333333333,11.856666666666667,Chúng ta di vào sáng mai
+vi_027,Fast,18,True,11.866666666666667,12.066666666666666,Chúng ta đi vào sáng mai
+vi_027,Balanced,2,True,3.4,3.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_027,Balanced,3,True,3.8666666666666667,3.9233333333333333,"Bn nói 19,95 hay 90,15?"
+vi_027,Balanced,4,True,3.933333333333333,4.2,"Ban nói 19,95 hay 90,15?"
+vi_027,Balanced,5,True,4.2,4.666666666666666,"Bn nói 19,95 hay 90,15?"
+vi_027,Balanced,6,True,4.666666666666667,4.723333333333334,"Ban nói 19,95 hay 90,15?"
+vi_027,Balanced,7,True,4.733333333333333,4.933333333333333,"Bn nói 19,95 hay 90,15?"
+vi_027,Balanced,8,True,4.933333333333334,5.533333333333333,"Ban nói 19,95 hay 90,15?"
+vi_027,Balanced,9,True,6.4,6.733333333333333,Đi đã... chúng ta tht s đi sao? 127
+vi_027,Balanced,10,True,6.733333333333333,6.79,Đi đã.. chúng tatht s đi sao? 127
+vi_027,Balanced,11,True,6.8,6.8566666666666665,Đi đã.. chúng tà tht s đi sao? 127
+vi_027,Balanced,12,True,6.866666666666666,7.133333333333333,Đi đã.. chúng ta tht s đi sao? 127
+vi_027,Balanced,13,True,7.133333333333334,7.19,Đi đã... chúng tatht s đi sao? 127
+vi_027,Balanced,14,True,7.2,7.256666666666667,Đoi đã... chúng ta tht s đi sao? 127
+vi_027,Balanced,17,True,11.4,11.6,Chúng ta di vào sáng mai
+vi_027,Balanced,18,True,11.6,11.656666666666666,Chúng ta đi vào sáng mai
+vi_027,Balanced,19,True,11.666666666666666,11.723333333333333,Chúng tadi vào sáng mai
+vi_027,Balanced,20,True,11.733333333333333,11.790000000000001,Chúng ta di vào sáng mai
+vi_027,Balanced,21,True,11.8,11.98,Chúng ta đi vào sáng mai
+vi_028,Fast,2,True,2.533333333333333,2.7333333333333334,Không th tin đãna đêm!
+vi_028,Fast,4,True,5.2,5.323333333333333,Cánh ca đbên trái. 2026
+vi_028,Fast,5,True,5.333333333333333,5.866666666666666,Cánh ca đ bên trái. 2026
+vi_028,Fast,8,True,10.0,10.266666666666666,"Bannói 19,95 hay 90,15?"
+vi_028,Fast,9,True,10.266666666666667,10.666666666666666,"Ban nói 19,95 hay 90,15?"
+vi_028,Fast,10,True,10.666666666666666,10.866666666666665,"Bąn nói 19,95 hay 90,15?"
+vi_028,Fast,11,True,12.266666666666667,12.39,Đi đã... chúng ta tht sư đi sao?
+vi_028,Fast,12,True,12.4,12.523333333333333,Đơi đã... chúng ta tht s đi sao?
+vi_028,Fast,13,True,12.533333333333333,12.656666666666666,Đi đã... chúng ta tht sư đi sao?
+vi_028,Fast,14,True,12.666666666666666,12.790000000000001,Đqi đã... chúng ta tht s đi sao?
+vi_028,Fast,15,True,12.8,12.923333333333334,Đi đã... chúng ta tht s đi sao?
+vi_028,Fast,16,True,12.933333333333334,13.333333333333332,Đqi đã... chúng ta tht s đi sao?
+vi_028,Balanced,2,True,2.533333333333333,2.7133333333333334,Không th tin đãna đêm!
+vi_028,Balanced,4,True,5.2,5.256666666666667,Cánh ca đbên trái. 2026
+vi_028,Balanced,5,True,5.266666666666667,5.8,Cánh ca đ bên trái. 2026
+vi_028,Balanced,7,True,7.8,7.8566666666666665,Chúng ta đi vào tői mai 128
+vi_028,Balanced,8,True,7.866666666666666,9.0,Chúng ta đi vào ti mai 128
+vi_028,Balanced,10,True,10.0,10.2,"Bannói 19,95 hay 90,15?"
+vi_028,Balanced,11,True,10.2,10.466666666666667,"Ban nói 19,95 hay 90,15?"
+vi_028,Balanced,12,True,10.466666666666667,10.523333333333333,"Bannói 19,95 hay 90,15?"
+vi_028,Balanced,13,True,10.533333333333333,10.59,"Ban nói 19,95 hay 90,15?"
+vi_028,Balanced,14,True,10.6,10.78,"Bąn nói 19,95 hay 90,15?"
+vi_028,Balanced,15,True,12.266666666666667,12.323333333333334,Đi đã... chúng ta tht sư đi sao?
+vi_028,Balanced,16,True,12.333333333333334,12.456666666666667,Đơi đã... chúng ta tht s đi sao?
+vi_028,Balanced,17,True,12.466666666666667,12.523333333333333,Đqi đã... chúng ta tht sư đi sao?
+vi_028,Balanced,18,True,12.533333333333333,12.59,Đi đã... chúng ta tht sư đi sao?
+vi_028,Balanced,19,True,12.6,12.656666666666666,Đqi đã... chúng ta tht sư đi sao?
+vi_028,Balanced,20,True,12.666666666666666,12.723333333333333,Đqi đã... chúng ta tht s đi sao?
+vi_028,Balanced,21,True,12.733333333333333,12.933333333333334,Đi đã... chúng ta tht s đi sao?
+vi_028,Balanced,22,True,12.933333333333334,13.133333333333333,Đqi đã... chúng ta tht s đi sao?
+vi_028,Balanced,23,True,13.133333333333333,13.19,Đi đã... chúng ta tht sư đi sao?
+vi_028,Balanced,24,True,13.2,13.323333333333334,Đqi đã... chúng ta tht s đi sao?
+vi_029,Fast,3,True,5.2,5.323333333333333,Hãy đoi tôi đây
+vi_029,Fast,4,True,5.333333333333333,6.0,Hãy đi tôi đây
+vi_029,Fast,5,True,6.4,6.666666666666667,Không th tin đã na đêm! 129
+vi_029,Fast,7,True,9.333333333333334,10.0,Cánh ca đò bên trái.
+vi_029,Fast,8,True,10.0,10.266666666666666,Cánhca đò bên trái.
+vi_029,Balanced,3,True,5.2,5.256666666666667,Hãy đoi tôi đây
+vi_029,Balanced,4,True,5.266666666666667,6.0,Hãy đi tôi đây
+vi_029,Balanced,5,True,6.4,6.666666666666666,Không th tin đã na đêm! 129
+vi_029,Balanced,7,True,7.4,7.456666666666667,Không th tin đã na đêm! 129
+vi_029,Balanced,8,True,7.466666666666667,7.8,Không thê tin đã na đêm! 129
+vi_029,Balanced,10,True,10.0,10.2,Cánhca đò bên trái.
+vi_029,Balanced,11,True,10.2,10.466666666666667,Cánh ca đò bên trái.
+vi_029,Balanced,12,True,10.466666666666667,10.523333333333333,Cánhca đ bên trái.
+vi_029,Balanced,13,True,10.533333333333333,10.733333333333333,Cánh ca đò bên trái.
+vi_029,Balanced,14,True,10.733333333333333,10.790000000000001,Cánh ca đ bên trái.
+vi_029,Balanced,15,True,10.8,11.0,Cánh ca đò bên trái.
+vi_030,Fast,2,True,3.466666666666667,3.8666666666666667,Đi đã... chúng ta tht s đi sao?
+vi_030,Fast,3,True,3.8666666666666667,3.99,Đi đã... chúng ta thât s đi sao?
+vi_030,Fast,7,True,12.266666666666667,12.533333333333333,Không th tin đã na đêm! 50%
+vi_030,Fast,8,True,12.533333333333333,12.656666666666666,Không thê tin đã na đêm! 50%
+vi_030,Fast,9,True,12.666666666666666,12.790000000000001,Không th tin đã na đêm! 50%
+vi_030,Fast,11,True,13.733333333333333,13.856666666666667,Không th tin đã na đêm! 50%
+vi_030,Fast,12,True,13.866666666666667,13.99,Không thê tin đã na đêm! 50%
+vi_030,Fast,13,True,14.0,14.4,Không th tin đã na đêm! 50%
+vi_030,Fast,15,True,17.333333333333332,17.456666666666663,Cánh ca đ bên trái. 2029
+vi_030,Fast,16,True,17.466666666666665,17.666666666666664,Cánh ca đò bên trái. 2029
+vi_030,Balanced,2,True,3.4,3.8,Đi đã... chúng ta tht s đi sao?
+vi_030,Balanced,3,True,3.8,3.856666666666667,Đoi đã... chúng ta thât s đi sao?
+vi_030,Balanced,4,True,3.8666666666666667,3.99,Đi đã... chúng ta thât s đi sao?
+vi_030,Balanced,8,True,12.266666666666667,12.323333333333334,Không th tin đã na đêm! 50%
+vi_030,Balanced,9,True,12.333333333333334,12.39,Không thê tin đã na đêm! 50%
+vi_030,Balanced,10,True,12.4,12.456666666666667,Không th tin đã na đêm! 50%
+vi_030,Balanced,11,True,12.466666666666667,12.666666666666666,Không thê tin đã na đêm! 50%
+vi_030,Balanced,12,True,12.666666666666666,12.790000000000001,Không th tin đã na đêm! 50%
+vi_030,Balanced,13,True,12.8,13.4,Không thê tin đã na đêm! 50%
+vi_030,Balanced,14,True,13.4,13.456666666666667,Không th tin đã na đêm! 50%
+vi_030,Balanced,15,True,13.466666666666667,13.523333333333333,Không thê tin đã na đêm! 50%
+vi_030,Balanced,16,True,13.533333333333333,13.59,Không th tin đã na đêm! 50%
+vi_030,Balanced,17,True,13.6,13.656666666666666,Không thê tin đã na đêm! 50%
+vi_030,Balanced,18,True,13.666666666666666,13.866666666666667,Không th tin đã na đêm! 50%
+vi_030,Balanced,19,True,13.866666666666667,13.99,Không thê tin đã na đêm! 50%
+vi_030,Balanced,20,True,14.0,14.056666666666667,Không th tin đã na đêm! 50%
+vi_030,Balanced,21,True,14.066666666666666,14.123333333333333,Không thê tin đã na đêm! 50%
+vi_030,Balanced,22,True,14.133333333333333,14.4,Không th tin đã na đêm! 50%
+vi_030,Balanced,24,True,17.266666666666666,17.32333333333333,Cánh cađbên trái.2029
+vi_030,Balanced,25,True,17.333333333333332,17.389999999999997,Cánh ca đ bên trái. 2029
+vi_030,Balanced,26,True,17.4,17.6,Cánh ca đò bên trái. 2029
+vi_031,Fast,1,True,0.5333333333333333,0.6566666666666666,Cánh ca đ bên trái.
+vi_031,Fast,2,True,0.6666666666666666,0.79,Cánh ca đó bên trái.
+vi_031,Fast,6,True,7.466666666666667,7.59,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Fast,7,True,7.6,8.0,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Fast,8,True,8.0,8.123333333333333,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Fast,9,True,8.133333333333333,8.333333333333332,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Fast,10,True,9.333333333333334,10.133333333333333,Đi đã.. chúng ta tht s đi sao? 50%
+vi_031,Fast,11,True,10.133333333333333,10.256666666666668,Đo'i đã... chúng ta thât s đi sao? 50%
+vi_031,Balanced,1,True,0.4666666666666667,0.6666666666666666,Cánh ca đ bên trái.
+vi_031,Balanced,2,True,0.6666666666666666,0.7233333333333333,Cánh ca đó bên trái.
+vi_031,Balanced,5,True,6.4,6.6,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Balanced,6,True,6.6,6.656666666666667,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Balanced,7,True,6.666666666666667,6.723333333333334,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Balanced,8,True,6.733333333333333,6.79,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Balanced,10,True,7.466666666666667,7.523333333333333,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Balanced,11,True,7.533333333333333,7.656666666666667,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Balanced,12,True,7.666666666666667,7.723333333333334,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Balanced,13,True,7.733333333333333,8.0,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Balanced,14,True,8.0,8.056666666666667,"Bn nói 19,95 hay 90,15? 131"
+vi_031,Balanced,15,True,8.066666666666666,8.266666666666666,"Ban nói 19,95 hay 90,15? 131"
+vi_031,Balanced,16,True,9.333333333333334,10.133333333333333,Đi đã.. chúng ta tht s đi sao? 50%
+vi_031,Balanced,17,True,10.133333333333333,10.19,Đo'i đã... chúng ta thât s đi sao? 50%
+vi_031,Balanced,18,True,10.2,10.6,Đi đã... chúng ta tht s đi sao? 50%
+vi_031,Balanced,19,True,10.6,10.656666666666666,Đi đã... chúng ta thât s đi sao? 50%
+vi_032,Fast,3,True,6.4,6.8,Cánh ca đ bên trái. 132
+vi_032,Fast,4,True,6.8,6.923333333333334,Cánh ca đo bên trái. 132
+vi_032,Fast,5,True,6.933333333333334,7.056666666666667,Cánh ca đ bên trái. 132
+vi_032,Fast,6,True,7.066666666666666,7.333333333333333,Cánh ca đó bên trái. 132
+vi_032,Fast,8,True,8.266666666666667,8.39,Cánh ca đó bên trái. 132
+vi_032,Fast,9,True,8.4,8.6,Cánh ca đ bên trái. 132
+vi_032,Balanced,3,True,6.4,6.733333333333333,Cánh ca đ bên trái. 132
+vi_032,Balanced,4,True,6.733333333333333,6.79,Cánh ca đó bên trái. 132
+vi_032,Balanced,5,True,6.8,6.8566666666666665,Cánh ca đo bên trái. 132
+vi_032,Balanced,6,True,6.866666666666666,6.99,Cánh ca đ bên trái. 132
+vi_032,Balanced,7,True,7.0,7.266666666666667,Cánh ca đó bên trái. 132
+vi_032,Balanced,9,True,8.266666666666667,8.323333333333334,Cánh ca đó bên trái. 132
+vi_032,Balanced,10,True,8.333333333333334,8.533333333333333,Cánh ca đ bên trái. 132
+vi_033,Fast,2,True,1.7333333333333334,1.8566666666666667,Đi đã... chúng ta thât su đi sao?
+vi_033,Fast,3,True,1.8666666666666667,2.4,Đi đã.. chúng ta tht s đi sao?
+vi_033,Fast,5,True,6.4,6.666666666666667,Hãy đi tôi đây 133
+vi_033,Fast,6,True,6.666666666666667,6.79,Hãy đi ti đây 133
+vi_033,Fast,8,True,9.333333333333334,10.0,Không th tin đã na đêm! 2026
+vi_033,Fast,9,True,10.0,10.123333333333333,Không thê tin đã na đêm! 2026
+vi_033,Fast,10,True,10.133333333333333,10.666666666666666,Không th tin đã na đêm! 2026
+vi_033,Fast,11,True,10.666666666666666,10.790000000000001,Không thê tin đã na đêm! 2026
+vi_033,Fast,12,True,10.8,11.466666666666667,Không th tin đã na đêm! 2026
+vi_033,Fast,13,True,11.466666666666667,11.59,Không th tin đă na đêm! 2026
+vi_033,Fast,14,True,11.6,12.0,Không th tin đã na đêm! 2026
+vi_033,Fast,17,True,16.666666666666668,16.79,Chng ta đi vào ti mai 2032
+vi_033,Fast,18,True,16.8,17.0,Chúng ta đi vào ti mai 2032
+vi_033,Balanced,2,True,1.6666666666666667,1.7233333333333334,Đi đã... chúng ta tht sư đi sao
+vi_033,Balanced,3,True,1.7333333333333334,1.79,Đi đã... chúng ta thât su đi sao?
+vi_033,Balanced,4,True,1.8,1.8566666666666667,Đi đã... chúng ta tht sư đi sao?
+vi_033,Balanced,5,True,1.8666666666666667,2.3333333333333335,Đi đã... chúng ta tht s đi sao?
+vi_033,Balanced,7,True,6.4,6.666666666666666,Hãy đi tôi đây 133
+vi_033,Balanced,8,True,6.666666666666667,6.723333333333334,Hãy đi ti đây 133
+vi_033,Balanced,10,True,9.333333333333334,10.0,Không th tin đã na đêm! 2026
+vi_033,Balanced,11,True,10.0,10.056666666666667,Không thê tin đã na đêm! 2026
+vi_033,Balanced,12,True,10.066666666666666,10.666666666666666,Không th tin đã na đêm! 2026
+vi_033,Balanced,13,True,10.666666666666666,10.723333333333333,Không thê tin đã na đêm! 2026
+vi_033,Balanced,14,True,10.733333333333333,11.466666666666667,Không th tin đã na đêm! 2026
+vi_033,Balanced,15,True,11.466666666666667,11.523333333333333,Không th tin đă na đêm! 2026
+vi_033,Balanced,16,True,11.533333333333333,11.933333333333334,Không th tin đã na đêm! 2026
+vi_033,Balanced,19,True,16.666666666666668,16.723333333333333,Chng ta đi vào ti mai 2032
+vi_033,Balanced,20,True,16.733333333333334,16.913333333333334,Chúng ta đi vào ti mai 2032
+vi_034,Fast,2,True,2.533333333333333,2.7333333333333334,Chúng ta đi vào tôi mai 50%
+vi_034,Fast,3,True,3.466666666666667,3.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_034,Fast,4,True,3.8666666666666667,3.99,"Bn nói 19,95 hay 90,15?"
+vi_034,Fast,6,True,5.066666666666666,5.19,"Bn nói 19,95 hay 90,15?"
+vi_034,Fast,7,True,5.2,5.866666666666666,"Ban nói 19,95 hay 90,15?"
+vi_034,Fast,9,True,8.533333333333333,8.656666666666666,Đi đã... chúng ta tht sư đi sao? 134
+vi_034,Fast,10,True,8.666666666666666,8.790000000000001,Đi đã... chúng ta tht su đi sao? 134
+vi_034,Fast,11,True,8.8,9.066666666666666,Đi đã.. chúng ta tht s đi sao? 134
+vi_034,Balanced,2,True,2.533333333333333,2.7133333333333334,Chúng ta đi vào tôi mai 50%
+vi_034,Balanced,3,True,3.4,3.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_034,Balanced,4,True,3.8666666666666667,3.9233333333333333,"Bn nói 19,95 hay 90,15?"
+vi_034,Balanced,6,True,5.066666666666666,5.19,"Bn nói 19,95 hay 90,15?"
+vi_034,Balanced,7,True,5.2,5.3999999999999995,"Ban nói 19,95 hay 90,15?"
+vi_034,Balanced,8,True,5.4,5.456666666666667,"Bn nói 19,95 hay 90,15?"
+vi_034,Balanced,9,True,5.466666666666667,5.666666666666666,"Ban nói 19,95 hay 90,15?"
+vi_034,Balanced,10,True,5.666666666666667,5.723333333333334,"Bn nói 19,95 hay 90,15?"
+vi_034,Balanced,11,True,5.733333333333333,5.913333333333333,"Ban nói 19,95 hay 90,15?"
+vi_034,Balanced,12,True,6.4,7.133333333333333,Đi đã... chúng ta tht s đi sao? 134
+vi_034,Balanced,13,True,7.133333333333334,7.19,Đi đã.. chúng ta tht su đi sao? 134
+vi_034,Balanced,14,True,7.2,7.933333333333333,Đi đã... chúng ta tht s đi sao? 134
+vi_034,Balanced,15,True,7.933333333333334,7.99,Đoi đã... chúng ta tht su đi sao? 134
+vi_034,Balanced,16,True,8.0,8.533333333333333,Đi đã... chúng ta tht s đi sao? 134
+vi_034,Balanced,17,True,8.533333333333333,8.59,Đi đã... chúng ta tht sư đi sao? 134
+vi_034,Balanced,18,True,8.6,8.656666666666666,Đi đã... chúng ta tht s đi sao? 134
+vi_034,Balanced,19,True,8.666666666666666,8.723333333333333,Đi đã... chúng ta tht su đi sao? 134
+vi_034,Balanced,20,True,8.733333333333333,9.0,Đi đã... chúng ta tht s đi sao? 134
+vi_035,Fast,3,True,6.4,6.8,Chúng ta đi vào ti mai 135
+vi_035,Fast,4,True,6.8,7.066666666666666,Chúng ta di vào ti mai 135
+vi_035,Fast,7,True,9.866666666666667,9.99,"Bn nói 19,95 hay 90,15?"
+vi_035,Fast,8,True,10.0,10.123333333333333,"Ban noi 19.95 hay 90,15?"
+vi_035,Fast,9,True,10.133333333333333,10.533333333333333,"Ban nói 19,95 hay 90,15?"
+vi_035,Fast,10,True,10.533333333333333,10.656666666666666,"Ban nol 19,95 hay 90,15?"
+vi_035,Fast,11,True,10.666666666666666,10.790000000000001,"Ban nói 19,95 hay 90,15?"
+vi_035,Fast,12,True,10.8,11.066666666666666,"Bn nói 19,95 hay 90,15?"
+vi_035,Balanced,3,True,6.4,6.8,Chúng ta đi vào ti mai 135
+vi_035,Balanced,4,True,6.8,7.0,Chúng ta di vào ti mai 135
+vi_035,Balanced,5,True,7.0,7.123333333333334,Chúng ta đi vào ti mai 135
+vi_035,Balanced,6,True,7.133333333333334,7.19,Chúng ta di vao ti mai 135
+vi_035,Balanced,7,True,7.2,7.256666666666667,Chúng ta đi vào ti mai 135
+vi_035,Balanced,8,True,7.266666666666667,7.323333333333333,Chúng ta di vào ti mai 135
+vi_035,Balanced,11,True,9.866666666666667,9.923333333333334,"Bn nói 19,95 hay 90,15?"
+vi_035,Balanced,12,True,9.933333333333334,9.99,"Ban nói 19,95 hay 90,15?"
+vi_035,Balanced,13,True,10.0,10.123333333333333,"Ban noi 19,95 hay 90,15?"
+vi_035,Balanced,14,True,10.133333333333333,10.466666666666667,"Ban nói 19,95 hay 90,15?"
+vi_035,Balanced,15,True,10.466666666666667,10.59,"Ban nol 19,95 hay 90,15?"
+vi_035,Balanced,16,True,10.6,10.656666666666666,"Ban noi 19,95 hay 90,15?"
+vi_035,Balanced,17,True,10.666666666666666,10.790000000000001,"Ban nói 19,95 hay 90,15?"
+vi_035,Balanced,18,True,10.8,11.0,"Bn nói 19,95 hay 90,15?"
+vi_035,Balanced,20,True,13.133333333333333,13.19,Đi đă... chúng ta tht s đi sao?
+vi_035,Balanced,21,True,13.2,13.799999999999999,Đi đã.. chúng ta tht s đi sao?
+vi_035,Balanced,22,True,13.8,13.856666666666667,Đi đă... chúng ta tht s đi sao?
+vi_035,Balanced,23,True,13.866666666666667,14.066666666666666,Đi đã.. chúng ta tht s đi sao?
+vi_035,Balanced,24,True,14.066666666666666,14.246666666666666,Đi đă... chúng ta tht s đi sao?
+vi_036,Fast,3,True,4.133333333333334,4.333333333333334,Hãy đơi tôi đây
+vi_036,Fast,6,True,12.266666666666667,12.666666666666666,Chúng ta đi vào ti mai
+vi_036,Fast,7,True,12.666666666666666,13.066666666666666,Chúng ta đi vào tői mai
+vi_036,Fast,8,True,13.066666666666666,13.19,Chúng ta đi vào ti mai
+vi_036,Fast,9,True,13.2,13.6,Chúng ta đi vào tői mai
+vi_036,Balanced,3,True,4.133333333333334,4.3133333333333335,Hãy đơi tôi đây
+vi_036,Balanced,6,True,12.266666666666667,12.666666666666666,Chúng ta đi vào ti mai
+vi_036,Balanced,7,True,12.666666666666666,12.866666666666667,Chúng ta đi vào tői mai
+vi_036,Balanced,8,True,12.866666666666667,12.923333333333334,Chúng ta đi vào ti mai
+vi_036,Balanced,9,True,12.933333333333334,12.99,Chúng ta đi vào tői mai
+vi_036,Balanced,10,True,13.0,13.2,Chúng ta đi vào ti mai
+vi_036,Balanced,11,True,13.2,13.256666666666668,Chúng ta đi vào tői mai
+vi_036,Balanced,12,True,13.266666666666667,13.323333333333334,Chúng ta đi vào ti mai
+vi_036,Balanced,13,True,13.333333333333334,13.6,Chúng ta đi vào tői mai
+vi_037,Fast,2,True,1.3333333333333333,1.4566666666666666,"Bn nói 19,95 hay 90,15?"
+vi_037,Fast,3,True,1.4666666666666666,1.8666666666666667,"Ban nói 19,95 hay 90,15?"
+vi_037,Fast,4,True,3.466666666666667,3.5900000000000003,Đoi đã... chúng ta thât su đi sao?
+vi_037,Fast,5,True,3.6,4.0,Đi đã... chúng ta tht s đi sao?
+vi_037,Fast,6,True,4.0,4.123333333333334,Đoi đă... chúng ta tht s đi sao?
+vi_037,Fast,8,True,4.8,4.923333333333334,Đi đă.. chúng ta tht s đi sao?
+vi_037,Fast,9,True,4.933333333333334,5.133333333333334,Đi đã... chúng ta tht s đi sao?
+vi_037,Fast,10,True,6.4,6.933333333333334,Chúng ta đi vào sáng mai 137
+vi_037,Fast,11,True,6.933333333333334,7.056666666666667,Chng ta đi vào sáng mai 137
+vi_037,Fast,12,True,7.066666666666666,7.19,Chúng ta đivào sáng mai 137
+vi_037,Fast,13,True,7.2,7.323333333333333,Chúng ta đi vào sáng mal 137
+vi_037,Fast,15,True,8.0,8.123333333333333,Chúng ta đi vào sáng mal 137
+vi_037,Fast,16,True,8.133333333333333,8.333333333333332,Chúng ta đi vào sáng mai 137
+vi_037,Fast,17,True,9.333333333333334,10.0,Hãy đi tôi đây
+vi_037,Fast,18,True,10.0,10.123333333333333,Hy đi tôi đây
+vi_037,Fast,19,True,10.133333333333333,10.533333333333333,Hãy đi tôi đây
+vi_037,Fast,20,True,10.533333333333333,10.656666666666666,Hây đi tôi đây
+vi_037,Fast,22,True,12.266666666666667,12.666666666666666,Không th tin đã na đêm!
+vi_037,Fast,23,True,12.666666666666666,12.790000000000001,Không thé tin đã na đêm!
+vi_037,Fast,24,True,12.8,13.333333333333332,Không th tin đã na đêm!
+vi_037,Fast,25,True,13.333333333333334,13.733333333333333,Không thé tin đã na đêm!
+vi_037,Fast,26,True,13.733333333333333,14.4,Không th tin đã na đêm!
+vi_037,Fast,27,True,14.4,14.523333333333333,Không thé tin đã na đêm!
+vi_037,Fast,28,True,14.533333333333333,14.733333333333333,Không th tin đã na đêm!
+vi_037,Fast,29,True,15.2,15.466666666666667,Cánh ca đó bên trái. 2036
+vi_037,Fast,30,True,15.466666666666667,15.59,Cánh ca đò bên trái. 2036
+vi_037,Fast,31,True,15.6,15.723333333333333,Cánh ca đó bên trái. 2036
+vi_037,Fast,32,True,15.733333333333333,15.856666666666667,Cánh ca đò bên trái. 2036
+vi_037,Fast,34,True,17.333333333333332,17.456666666666663,Cánh cra đó bên trái. 2036
+vi_037,Fast,35,True,17.466666666666665,17.866666666666667,Cánh ca đó bên trái. 2036
+vi_037,Balanced,2,True,1.1333333333333333,1.19,"Bn nói 19,95 hay 90,15?"
+vi_037,Balanced,3,True,1.2,1.3233333333333333,"Ban nói 19,95 hay 90,15?"
+vi_037,Balanced,4,True,1.3333333333333333,1.39,"Bn nói 19,95 hay 90,15?"
+vi_037,Balanced,5,True,1.4,1.5233333333333334,"Ban nói 19,95 hay 90,15?"
+vi_037,Balanced,6,True,1.5333333333333334,1.59,"Bn nói 19,95 hay 90,15?"
+vi_037,Balanced,7,True,1.6,1.6566666666666667,"Ban nói 19,95 hay 90,15?"
+vi_037,Balanced,8,True,1.6666666666666667,1.7233333333333334,"Bąn nói 19,95 hay 90,15?"
+vi_037,Balanced,9,True,1.7333333333333334,1.9133333333333333,"Ban nói 19,95 hay 90,15?"
+vi_037,Balanced,10,True,3.4,3.456666666666667,Đoi đă... chúng ta tht su đi sao?
+vi_037,Balanced,11,True,3.466666666666667,3.5233333333333334,Đoi đã... chúng ta thât su đi sao?
+vi_037,Balanced,12,True,3.533333333333333,3.933333333333333,Đi đã... chúng ta tht s đi sao?
+vi_037,Balanced,13,True,3.933333333333333,3.99,Đoi đã... chúng ta thât s đi sao?
+vi_037,Balanced,14,True,4.0,4.056666666666667,Đoi đă... chúng ta tht s đi sao?
+vi_037,Balanced,15,True,4.066666666666666,4.123333333333334,Đoi đã... chúng ta tht s đi sao?
+vi_037,Balanced,17,True,4.8,4.8566666666666665,Đi đă.. chúng ta tht s đi sao?
+vi_037,Balanced,18,True,4.866666666666666,4.923333333333334,Đoi đã... chúng ta tht su đi sao?
+vi_037,Balanced,19,True,4.933333333333334,5.113333333333333,Đi đã... chúng ta tht s đi sao?
+vi_037,Balanced,20,True,6.4,6.933333333333333,Chúng ta đi vào sáng mai 137
+vi_037,Balanced,21,True,6.933333333333334,6.99,Chng ta đi vào sáng mai 137
+vi_037,Balanced,22,True,7.0,7.056666666666667,Chúng ta đi vào sáng mai 137
+vi_037,Balanced,23,True,7.066666666666666,7.123333333333334,Chúng ta đivào sáng mai 137
+vi_037,Balanced,24,True,7.133333333333334,7.19,Chúng ta dilvào sáng mai 137
+vi_037,Balanced,25,True,7.2,7.256666666666667,Chúng ta đi vào sáng mal 137
+vi_037,Balanced,27,True,8.0,8.056666666666667,Chúng ta đi vào sáng mal 137
+vi_037,Balanced,28,True,8.066666666666666,8.19,Chúng ta đi vào sáng mai 137
+vi_037,Balanced,29,True,8.2,8.379999999999999,Chúng ta đilvào sáng mal 137
+vi_037,Balanced,30,True,9.333333333333334,10.0,Hãy đi tôi đây
+vi_037,Balanced,31,True,10.0,10.056666666666667,Hy đi tôi đây
+vi_037,Balanced,32,True,10.066666666666666,10.123333333333333,Hây đi tôi đây
+vi_037,Balanced,33,True,10.133333333333333,10.19,Hãy đi tôi đây
+vi_037,Balanced,34,True,10.2,10.256666666666668,Hăy đi tôi đây
+vi_037,Balanced,35,True,10.266666666666667,10.533333333333333,Hãy đi tôi đây
+vi_037,Balanced,36,True,10.533333333333333,10.59,Hây đi tôi đây
+vi_037,Balanced,38,True,11.4,11.58,Hây đoi tôi đây
+vi_037,Balanced,39,True,12.266666666666667,12.666666666666666,Không th tin đã na đêm!
+vi_037,Balanced,40,True,12.666666666666666,12.723333333333333,Không thé tin đã na đêm!
+vi_037,Balanced,41,True,12.733333333333333,13.333333333333334,Không th tin đã na đêm!
+vi_037,Balanced,42,True,13.333333333333334,13.733333333333333,Không thé tin đã na đêm!
+vi_037,Balanced,43,True,13.733333333333333,14.4,Không th tin đã na đêm!
+vi_037,Balanced,44,True,14.4,14.523333333333333,Không thé tin đã na đêm!
+vi_037,Balanced,45,True,14.533333333333333,14.713333333333333,Không th tin đã na đêm!
+vi_037,Balanced,46,True,15.2,15.4,Cánh ca đó bên trái. 2036
+vi_037,Balanced,47,True,15.4,15.523333333333333,Cánh ca đò bên trái. 2036
+vi_037,Balanced,48,True,15.533333333333333,15.733333333333333,Cánh ca đó bên trái. 2036
+vi_037,Balanced,49,True,15.733333333333333,15.790000000000001,Cánh ca đò bên trái. 2036
+vi_037,Balanced,51,True,16.6,16.656666666666666,Cánh cra đó bên trái. 2036
+vi_037,Balanced,52,True,16.666666666666668,17.0,Cánh ca đó bên trái. 2036
+vi_037,Balanced,53,True,17.0,17.056666666666665,Cánh cra đó bên trái. 2036
+vi_037,Balanced,54,True,17.066666666666666,17.333333333333332,Cánh ca đó bên trái. 2036
+vi_037,Balanced,55,True,17.333333333333332,17.389999999999997,Cánh cra đó bên trái. 2036
+vi_037,Balanced,56,True,17.4,17.8,Cánh ca đó bên trái. 2036
+vi_038,Fast,1,True,0.5333333333333333,0.6566666666666666,Cánh ca đò bên trái.
+vi_038,Fast,2,True,0.6666666666666666,0.79,Cánh ca đó bên trái.
+vi_038,Fast,3,True,0.8,1.2,Cánh ca đò bên trái
+vi_038,Fast,4,True,1.2,1.3233333333333333,Cánh ca đo bên trái.
+vi_038,Fast,5,True,1.3333333333333333,1.4566666666666666,Cánh ca đó bên trái.
+vi_038,Fast,7,True,3.466666666666667,4.0,Chúng ta đi vào tói mai
+vi_038,Fast,8,True,4.0,4.123333333333334,Chúng ta đi vào tôi mai
+vi_038,Fast,9,True,4.133333333333334,4.256666666666667,Chúng ta đi vào tói mai
+vi_038,Fast,10,True,4.266666666666667,4.533333333333333,Chúng ta đi vào tôi mai
+vi_038,Fast,11,True,4.533333333333333,4.656666666666667,Chúng ta đi vào tói mai
+vi_038,Fast,12,True,4.666666666666667,4.933333333333334,Chúng ta đi vào tôi mai
+vi_038,Fast,13,True,4.933333333333334,5.056666666666667,Chúng ta đi vào tói mal
+vi_038,Fast,14,True,5.066666666666666,5.19,Chúng ta đi vào tói mai
+vi_038,Fast,15,True,5.2,5.4,Chúng ta di vào tói mai
+vi_038,Fast,16,True,6.4,7.066666666666666,"Ban nói 19,95 hay 90,15? 138"
+vi_038,Fast,17,True,7.066666666666666,7.19,"Ban nôi 19,95 hay 90,15? 138"
+vi_038,Fast,18,True,7.2,7.323333333333333,"Ban noi 19,95 hay 90,15? 138"
+vi_038,Fast,20,True,9.333333333333334,9.733333333333333,Đoi đä... chúng ta thât su đi sao?
+vi_038,Fast,21,True,9.733333333333333,9.856666666666667,Đoi đă... chúng ta thât su đi sao?
+vi_038,Fast,22,True,9.866666666666667,9.99,Đi đã... chúng ta tht s đi sao?
+vi_038,Fast,23,True,10.0,10.123333333333333,Đoi dä... chúng ta thât su đi sao?
+vi_038,Fast,24,True,10.133333333333333,10.256666666666668,Doilda... chúng ta thât su đi sao?
+vi_038,Fast,25,True,10.266666666666667,10.39,Doi đä... chúng ta thât su đi sao?
+vi_038,Fast,26,True,10.4,10.523333333333333,Doidã... chúng ta thât su đi sao?
+vi_038,Fast,27,True,10.533333333333333,10.656666666666666,Doidä... chúng ta thât su đi sao?
+vi_038,Fast,28,True,10.666666666666666,10.790000000000001,Đoi đã... chúng ta tht s đi sao?
+vi_038,Fast,29,True,10.8,11.066666666666666,Đoi đă... chúng ta thât su đi sao?
+vi_038,Fast,30,True,11.066666666666666,11.19,Đoi đã... chúng ta thât su đi sao?
+vi_038,Fast,31,True,11.2,11.323333333333334,Đoi đä... chúng ta thât su di sao?
+vi_038,Fast,32,True,11.333333333333334,11.6,Đoi đä... chúng ta thât su đi sao?
+vi_038,Fast,33,True,11.6,11.799999999999999,Đoi dä... chung ta thât su di sao?
+vi_038,Balanced,1,True,0.4666666666666667,0.6666666666666666,Cánh ca đò bên trái.
+vi_038,Balanced,2,True,0.6666666666666666,0.7233333333333333,Cánh ca đó bên trái.
+vi_038,Balanced,3,True,0.7333333333333333,1.2,Cánh ca đò bên trái.
+vi_038,Balanced,4,True,1.2,1.2566666666666666,Cánh ca đo bên trái.
+vi_038,Balanced,5,True,1.2666666666666666,1.3233333333333333,Cánh ca đò bên trái.
+vi_038,Balanced,6,True,1.3333333333333333,1.39,Cánh ca đó bên trái.
+vi_038,Balanced,7,True,1.4,1.5233333333333334,Cánh ca đò bên trái.
+vi_038,Balanced,8,True,1.5333333333333334,1.59,Cánh ca đ bên trái.
+vi_038,Balanced,9,True,1.6,1.9333333333333333,Cánh ca đò bên trái.
+vi_038,Balanced,10,True,1.9333333333333333,1.99,Cánh ca đ bên trái
+vi_038,Balanced,11,True,2.0,2.18,Cánh ca đò bên trái.
+vi_038,Balanced,13,True,4.0,4.056666666666667,Chúng ta đi vào tôi mai
+vi_038,Balanced,14,True,4.066666666666666,4.19,Chúng ta đi vào tói mai
+vi_038,Balanced,15,True,4.2,4.323333333333333,Chúng ta đi vào tôi mai
+vi_038,Balanced,16,True,4.333333333333333,4.390000000000001,Chúng ta đi vào tói mai
+vi_038,Balanced,17,True,4.4,4.456666666666667,Chúng ta đi vào tôi mai
+vi_038,Balanced,18,True,4.466666666666667,4.59,Chúng ta đi vào tói mai
+vi_038,Balanced,19,True,4.6,4.866666666666666,Chúng ta đi vào tôi mai
+vi_038,Balanced,20,True,4.866666666666666,4.923333333333334,Chúng ta đi vào tói mai
+vi_038,Balanced,21,True,4.933333333333334,4.99,Chúng ta đi vào tói mal
+vi_038,Balanced,22,True,5.0,5.123333333333334,Chúng ta đi vào tói mai
+vi_038,Balanced,23,True,5.133333333333334,5.19,Chúng ta đi vào tôi mai
+vi_038,Balanced,24,True,5.2,5.38,Chúng ta di vào tói mai
+vi_038,Balanced,25,True,6.4,7.066666666666666,"Ban nói 19,95 hay 90,15? 138"
+vi_038,Balanced,26,True,7.066666666666666,7.19,"Ban nôi 19,95 hay 90,15? 138"
+vi_038,Balanced,27,True,7.2,7.256666666666667,"Ban noi 19,95 hay 90,15? 138"
+vi_038,Balanced,29,True,8.2,8.256666666666668,"Ban noi 19,95 hay 90,15? 138"
+vi_038,Balanced,30,True,8.266666666666667,8.323333333333334,"Ban nói 19,95 hay 90,15? 138"
+vi_038,Balanced,31,True,8.333333333333334,8.39,"Ban noi 19,95 hay 90,15? 138"
+vi_038,Balanced,32,True,8.4,8.58,"Ban nói 19,95 hay 90,15? 138"
+vi_038,Balanced,33,True,9.333333333333334,9.666666666666666,Đoi đä... chúng ta thât su đi sao?
+vi_038,Balanced,34,True,9.666666666666666,9.723333333333333,Đoi đã... chúng ta thât su đi sao?
+vi_038,Balanced,35,True,9.733333333333333,9.790000000000001,Đoi đă... chúng ta thât su đi sao?
+vi_038,Balanced,36,True,9.8,9.923333333333334,Đi đã... chúng ta tht s đi sao?
+vi_038,Balanced,37,True,9.933333333333334,9.99,Đi đãchúng ta tht s đi sao?
+vi_038,Balanced,38,True,10.0,10.123333333333333,Đoi dä... chúng ta thât su đi sao?
+vi_038,Balanced,39,True,10.133333333333333,10.19,Doilda... chúng ta thât su đi sao?
+vi_038,Balanced,40,True,10.2,10.4,Doi đä... chúng ta thât su' đi sao?
+vi_038,Balanced,41,True,10.4,10.456666666666667,Doidã... chúng ta thât su đi sao?
+vi_038,Balanced,42,True,10.466666666666667,10.523333333333333,Doi dä... chúng ta thât su đi sao?
+vi_038,Balanced,43,True,10.533333333333333,10.59,Doidä... chúng ta thât su đi sao?
+vi_038,Balanced,44,True,10.6,10.656666666666666,Đoi dä... chúng ta thât su đi sao?
+vi_038,Balanced,45,True,10.666666666666666,10.723333333333333,Đoi đã... chúng ta tht s đi sao?
+vi_038,Balanced,46,True,10.733333333333333,10.790000000000001,Đoi đã... chúng ta thât su đi sao?
+vi_038,Balanced,47,True,10.8,10.856666666666667,Đoi đă... chúng ta thât su đi sao?
+vi_038,Balanced,48,True,10.866666666666667,10.923333333333334,Đoi đã... chúng ta thât su đi sao?
+vi_038,Balanced,49,True,10.933333333333334,10.99,Đoi đă... chúng ta thât su đi sao?
+vi_038,Balanced,50,True,11.0,11.2,Đoi đã... chúng ta thât su đi sao?
+vi_038,Balanced,51,True,11.2,11.256666666666668,Đoi đä... chúng ta thât su di sao?
+vi_038,Balanced,52,True,11.266666666666667,11.323333333333334,Đoi đă... chúng ta thât su đi sao?
+vi_038,Balanced,53,True,11.333333333333334,11.39,Đoi đä... chúng ta thât su đi sao?
+vi_038,Balanced,54,True,11.4,11.456666666666667,Đi đã... chúng ta tht s đi sao?
+vi_038,Balanced,55,True,11.466666666666667,11.59,Đoi đä. chúng ta thât su đi sao?
+vi_038,Balanced,56,True,11.6,11.78,Đoi dä... chung ta thât su di sao?
+vi_039,Fast,3,True,6.4,6.523333333333333,Cánh ca đò bên trái. 139
+vi_039,Fast,4,True,6.533333333333333,6.656666666666667,Cánh ca đó bên trái. 139
+vi_039,Fast,5,True,6.666666666666667,6.79,Cánh ca đ bên trái. 139
+vi_039,Fast,6,True,6.8,6.923333333333334,Cánh ca đó bên trái. 139
+vi_039,Fast,7,True,6.933333333333334,7.056666666666667,Cánh ca đ bên trái. 139
+vi_039,Fast,8,True,7.066666666666666,7.19,Cánh ca đo bên trái. 139
+vi_039,Fast,10,True,8.266666666666667,8.39,Cánh ca đò bên trái. 139
+vi_039,Fast,11,True,8.4,8.799999999999999,Cánh ca đó bên trái. 139
+vi_039,Fast,13,True,11.466666666666667,11.59,Chúng ta đivào tői mai
+vi_039,Fast,14,True,11.6,12.0,Chúng ta đi vào ti mai
+vi_039,Fast,16,True,15.2,15.323333333333334,Đoi đã... chúng ta tht su đi sao? 2038
+vi_039,Fast,17,True,15.333333333333334,15.733333333333333,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Fast,18,True,15.733333333333333,15.856666666666667,Đi đã... chúng ta tht su đi sao? 2038
+vi_039,Fast,19,True,15.866666666666667,16.133333333333333,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Fast,20,True,16.133333333333333,16.4,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Fast,21,True,16.4,16.523333333333333,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Fast,22,True,16.533333333333335,16.656666666666666,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Fast,23,True,16.666666666666668,16.933333333333334,Đơi đã... chúng ta tht sư đi sao? 2038
+vi_039,Balanced,3,True,6.4,6.523333333333333,Cánh ca đò bên trái. 139
+vi_039,Balanced,4,True,6.533333333333333,6.656666666666667,Cánh ca đó bên trái. 139
+vi_039,Balanced,5,True,6.666666666666667,6.79,Cánh ca đ bên trái. 139
+vi_039,Balanced,6,True,6.8,6.923333333333334,Cánh ca đó bên trái. 139
+vi_039,Balanced,7,True,6.933333333333334,6.99,Cánh ca đ bên trái. 139
+vi_039,Balanced,8,True,7.0,7.056666666666667,Cánh ca đó bên trái. 139
+vi_039,Balanced,9,True,7.066666666666666,7.123333333333334,Cánh ca đo bên trái. 139
+vi_039,Balanced,10,True,7.133333333333334,7.19,Cánh cra đo bên trái. 139
+vi_039,Balanced,11,True,7.2,7.8,Cánh ca đó bên trái. 139
+vi_039,Balanced,12,True,7.8,7.8566666666666665,Cánhca đó bên trái. 139
+vi_039,Balanced,13,True,7.866666666666666,8.266666666666666,Cánh ca đó bên trái. 139
+vi_039,Balanced,14,True,8.266666666666667,8.39,Cánh ca đò bên trái. 139
+vi_039,Balanced,15,True,8.4,8.456666666666667,Cánh ca đó bên trái. 139
+vi_039,Balanced,16,True,8.466666666666667,8.523333333333333,Cánh ca đ bên trái. 139
+vi_039,Balanced,17,True,8.533333333333333,8.59,Cánh ca đó bên trái. 139
+vi_039,Balanced,18,True,8.6,8.656666666666666,Cánh ca đ bên trái: 139
+vi_039,Balanced,19,True,8.666666666666666,8.723333333333333,Cánh ca đó bên trái. 139
+vi_039,Balanced,20,True,8.733333333333333,8.913333333333332,Cánh ca đ bên trái. 139
+vi_039,Balanced,22,True,11.4,11.456666666666667,Chúng ta đi vào tői mai
+vi_039,Balanced,23,True,11.466666666666667,11.523333333333333,Chúng ta đivào tői mai
+vi_039,Balanced,24,True,11.533333333333333,11.656666666666666,Chúng ta đi vào ti mai
+vi_039,Balanced,25,True,11.666666666666666,11.723333333333333,Chúng ta đi vào tői mai
+vi_039,Balanced,26,True,11.733333333333333,11.933333333333334,Chúng ta đi vào ti mai
+vi_039,Balanced,28,True,15.2,15.256666666666668,Đoi đã... chúng ta tht su đi sao? 2038
+vi_039,Balanced,29,True,15.266666666666667,15.323333333333334,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Balanced,30,True,15.333333333333334,15.39,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,31,True,15.4,15.456666666666667,Đo'i đã... chúng ta tht su đi sao? 2038
+vi_039,Balanced,32,True,15.466666666666667,15.523333333333333,Đo'i đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,33,True,15.533333333333333,15.59,Đoi đã... chúng ta tht su đi sao? 2038
+vi_039,Balanced,34,True,15.6,15.656666666666666,Đo'i đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,35,True,15.666666666666666,15.723333333333333,Đoi đã... chúng ta tht su đi sao? 2038
+vi_039,Balanced,36,True,15.733333333333333,15.790000000000001,Đi đã... chúng ta tht su đi sao? 2038
+vi_039,Balanced,37,True,15.8,15.923333333333334,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Balanced,38,True,15.933333333333334,15.99,Đi đã... chúng ta thât sur đi sao? 2038
+vi_039,Balanced,39,True,16.0,16.056666666666665,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Balanced,40,True,16.066666666666666,16.12333333333333,Đoi đă... chúng ta thât sưr đi sao? 2038
+vi_039,Balanced,41,True,16.133333333333333,16.189999999999998,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,42,True,16.2,16.256666666666664,Đoi đă... chúng ta thât sưr đi sao? 2038
+vi_039,Balanced,43,True,16.266666666666666,16.32333333333333,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,44,True,16.333333333333332,16.389999999999997,Đoi đã... chúng ta thât sưr đi sao? 2038
+vi_039,Balanced,45,True,16.4,16.456666666666663,Đoi đã... chúng ta thât s đi sao? 2038
+vi_039,Balanced,46,True,16.466666666666665,16.523333333333333,Đi đã... chúng ta thât sur đi sao? 2038
+vi_039,Balanced,47,True,16.533333333333335,16.656666666666666,Đoi đã... chúng ta thât su đi sao? 2038
+vi_039,Balanced,48,True,16.666666666666668,16.866666666666667,Đơi đã... chúng ta tht sư đi sao? 2038
+vi_040,Fast,1,True,0.5333333333333333,0.7999999999999999,Đi đã... chúng ta tht s đi sao?
+vi_040,Fast,2,True,0.8,1.0666666666666667,Điđã... chúng ta tht s đi sao?
+vi_040,Balanced,1,True,0.4666666666666667,0.59,Đi đã... chúng ta tht s đi sao?
+vi_040,Balanced,2,True,0.6,0.6566666666666666,Điđã... chúng ta tht s đi sao?
+vi_040,Balanced,3,True,0.6666666666666666,0.79,Đi đã... chúng ta tht s đi sao?
+vi_040,Balanced,4,True,0.8,1.0666666666666667,Điđã... chúng ta tht s đi sao?
+vi_040,Balanced,7,True,5.266666666666667,5.323333333333333,Chúng ta đivào sáng mai
+vi_040,Balanced,8,True,5.333333333333333,5.8,Chúng ta đi vào sáng mai
+vi_040,Balanced,9,True,6.4,7.133333333333333,Hãy đi tôi đây 140
+vi_040,Balanced,10,True,7.133333333333334,7.19,Hãy đitôi đây 140
+vi_040,Balanced,12,True,8.2,8.256666666666668,Hãy đitôi đây 140
+vi_040,Balanced,13,True,8.266666666666667,8.323333333333334,Hãy đi tôi đây 140
+vi_040,Balanced,14,True,8.333333333333334,8.39,Hãyđi tôi đây 140
+vi_040,Balanced,15,True,8.4,9.0,Hãy đi tôi đây 140
+vi_041,Fast,3,True,6.4,6.523333333333333,Đoi đã.. chúng ta thât su di sao? 141
+vi_041,Fast,4,True,6.533333333333333,6.656666666666667,Đoi dä... chúng ta thât su đi sao? 141
+vi_041,Fast,5,True,6.666666666666667,6.79,Đoi đã.. chúng ta thât su đi sao? 141
+vi_041,Fast,6,True,6.8,7.0,Đoi dä... chúng ta thât su di sao? 141
+vi_041,Fast,8,True,10.0,10.266666666666666,Chúng ta di vào sáng mai
+vi_041,Fast,9,True,10.266666666666667,10.533333333333333,Chúng ta đi vào sáng mai
+vi_041,Fast,10,True,10.533333333333333,10.656666666666666,Chung ta di vào sáng mai
+vi_041,Fast,11,True,10.666666666666666,11.066666666666666,Chúng ta đi vào sáng mai
+vi_041,Fast,13,True,15.2,15.6,Không th tin đă na đêm! 2040
+vi_041,Fast,14,True,15.6,15.866666666666665,Không th tin dă na đêm! 2040
+vi_041,Fast,15,True,15.866666666666667,15.99,Không th tin đă na đêm! 2040
+vi_041,Fast,16,True,16.0,16.12333333333333,Không th tin đå na đêm! 2040
+vi_041,Fast,18,True,16.8,17.333333333333332,Không th tin đã na đêm! 2040
+vi_041,Balanced,3,True,6.4,6.456666666666667,Đoi đã.. chúng ta thât su di sao? 141
+vi_041,Balanced,5,True,6.666666666666667,6.723333333333334,Đoi đã.. chúng ta thât su đi sao? 141
+vi_041,Balanced,6,True,6.733333333333333,6.8566666666666665,Đoi dä... chúng ta thât su di sao? 141
+vi_041,Balanced,7,True,6.866666666666666,7.046666666666666,Đoi dä... chúng ta thât su đi sao? 141
+vi_041,Balanced,9,True,10.0,10.2,Chúng ta di vào sáng mai
+vi_041,Balanced,10,True,10.2,10.533333333333333,Chúng ta đi vào sáng mai
+vi_041,Balanced,11,True,10.533333333333333,10.59,Chung ta di vào sáng mai
+vi_041,Balanced,12,True,10.6,11.0,Chúng ta đi vào sáng mai
+vi_041,Balanced,14,True,15.2,15.6,Không th tin đă na đêm! 2040
+vi_041,Balanced,15,True,15.6,15.656666666666666,Không th tin dă na đêm! 2040
+vi_041,Balanced,16,True,15.666666666666666,15.723333333333333,Không th tin đă nra đêm! 2040
+vi_041,Balanced,17,True,15.733333333333333,15.856666666666667,Không th tin dă na đêm! 2040
+vi_041,Balanced,18,True,15.866666666666667,15.99,Không th tin đă na đêm! 2040
+vi_041,Balanced,19,True,16.0,16.056666666666665,Không th tin đå na đêm! 2040
+vi_041,Balanced,20,True,16.066666666666666,16.189999999999998,Không th tin đă na đêm! 2040
+vi_041,Balanced,21,True,16.2,16.256666666666664,Không th tin đå na đêm! 2040
+vi_041,Balanced,22,True,16.266666666666666,16.8,Không th tin đă na đêm! 2040
+vi_041,Balanced,23,True,16.8,17.333333333333332,Không th tin đã na đêm! 2040
+vi_042,Fast,1,True,0.5333333333333333,0.6566666666666666,Không th tin dă na đêm!
+vi_042,Fast,2,True,0.6666666666666666,0.79,Không th tin đă na đêm!
+vi_042,Fast,3,True,0.8,1.0666666666666667,Không th tin då na đêm!
+vi_042,Fast,4,True,1.0666666666666667,1.5999999999999999,Không th tin đã na đêm!
+vi_042,Fast,5,True,1.6,1.7233333333333334,Không th tin đå na đêm!
+vi_042,Fast,6,True,1.7333333333333334,1.8566666666666667,Không th tin đã na đêm!
+vi_042,Fast,7,True,1.8666666666666667,2.1333333333333333,Không th tin đå na đêm!
+vi_042,Fast,8,True,2.1333333333333333,2.4,Không thê tin đå nra đêm!
+vi_042,Fast,9,True,2.4,2.5233333333333334,Không th tin đã na đêm!
+vi_042,Fast,10,True,2.533333333333333,2.6566666666666667,Không th tin đă na đêm!
+vi_042,Fast,11,True,2.6666666666666665,2.79,Không th tin đă nra đêm!
+vi_042,Fast,12,True,2.8,2.9233333333333333,Không thê tin đă nra đêm!
+vi_042,Fast,13,True,2.933333333333333,3.1333333333333333,Không th tin đå nra đêm!
+vi_042,Fast,14,True,3.466666666666667,3.8666666666666667,Cánh ca đò bên trái. 2026
+vi_042,Fast,15,True,3.8666666666666667,3.99,Cánh cra đò bên trái. 2026
+vi_042,Fast,16,True,4.0,4.123333333333334,Cánh cra dò bên trái. 2026
+vi_042,Fast,17,True,4.133333333333334,4.256666666666667,Cánh cra đò bên trái. 2026
+vi_042,Fast,18,True,4.266666666666667,4.533333333333333,Cánh ca đò bên trái. 2026
+vi_042,Fast,19,True,4.533333333333333,4.8,Cánh cra đò bên trái. 2026
+vi_042,Fast,20,True,6.4,7.066666666666666,Chúng ta đi vào tôi mai 142
+vi_042,Fast,21,True,7.066666666666666,7.333333333333333,Chúng ta di vao tôi mai 142
+vi_042,Fast,24,True,10.0,10.123333333333333,"Ban noi 19.95 hay 90,15? 50%"
+vi_042,Fast,25,True,10.133333333333333,10.533333333333333,"Ban nói 19,95 hay 90,15? 50%"
+vi_042,Fast,26,True,10.533333333333333,10.656666666666666,"Ban noi 19,95 hay 90,15? 50%"
+vi_042,Fast,27,True,10.666666666666666,11.2,"Ban nói 19,95 hay 90,15? 50%"
+vi_042,Fast,28,True,12.266666666666667,12.39,Đoi đä... chúng ta thât su đi sao?
+vi_042,Fast,29,True,12.4,12.799999999999999,Đoi dä... chúng ta thât su đi sao?
+vi_042,Fast,30,True,12.8,12.923333333333334,Đoi dä... chúng ta thât su di sao?
+vi_042,Fast,31,True,12.933333333333334,13.056666666666667,Đoi đä... chúng ta thât su đi sao?
+vi_042,Fast,32,True,13.066666666666666,13.466666666666667,Đoi dä... chúng ta thât su đi sao?
+vi_042,Fast,33,True,13.466666666666667,13.59,Doi dä... chúng ta thât su đi sao?
+vi_042,Fast,34,True,13.6,13.723333333333333,Đoi dä... chúng ta thât su đi sao?
+vi_042,Fast,35,True,13.733333333333333,13.856666666666667,Doi dä... chúng ta thât su đi sao?
+vi_042,Fast,36,True,13.866666666666667,13.99,Đoi đä... chúng ta thât su đi sao?
+vi_042,Fast,37,True,14.0,14.123333333333333,Đoi dä... chúng ta thât su đi sao?
+vi_042,Fast,38,True,14.133333333333333,14.256666666666668,Đoi dã... chúng ta thât su di sao?
+vi_042,Fast,39,True,14.266666666666667,14.466666666666667,Đoi dä... chúng ta thât su đi sao?
+vi_042,Fast,41,True,16.666666666666668,17.599999999999998,Chúng ta di vào sáng mai 2041
+vi_042,Balanced,1,True,0.4666666666666667,0.5233333333333333,Không th tin đă na đêm!
+vi_042,Balanced,2,True,0.5333333333333333,0.6566666666666666,Không th tin dă na đêm!
+vi_042,Balanced,3,True,0.6666666666666666,0.7233333333333333,Không th tin đă na đêm!
+vi_042,Balanced,4,True,0.7333333333333333,0.8566666666666667,Không th tin då na đêm!
+vi_042,Balanced,5,True,0.8666666666666667,0.9233333333333333,Không th tin dă na đêm!
+vi_042,Balanced,6,True,0.9333333333333333,0.99,Không th tin då na đêm!
+vi_042,Balanced,7,True,1.0,1.5333333333333332,Không th tin đã na đêm!
+vi_042,Balanced,8,True,1.5333333333333334,1.59,Không th tin đă na đêm!
+vi_042,Balanced,9,True,1.6,1.7233333333333334,Không th tin đå na đêm!
+vi_042,Balanced,10,True,1.7333333333333334,1.79,Không th tin đã na đêm!
+vi_042,Balanced,11,True,1.8,2.066666666666667,Không th tin đå na đêm!
+vi_042,Balanced,12,True,2.066666666666667,2.4,Không thê tin đå nra đêm!
+vi_042,Balanced,13,True,2.4,2.456666666666667,Không th tin đã na đêm!
+vi_042,Balanced,14,True,2.466666666666667,2.5233333333333334,Không th tin đå nra đêm!
+vi_042,Balanced,15,True,2.533333333333333,2.6566666666666667,Không th tin đă na đêm!
+vi_042,Balanced,16,True,2.6666666666666665,2.79,Không th tin đă nra đêm!
+vi_042,Balanced,17,True,2.8,2.856666666666667,Không thê tin đă nra đêm!
+vi_042,Balanced,18,True,2.8666666666666667,2.9233333333333333,Không th tin đă nra đêm!
+vi_042,Balanced,19,True,2.933333333333333,2.99,Không th tin đå nra đêm!
+vi_042,Balanced,20,True,3.0,3.18,Không th tin đă na đêm!
+vi_042,Balanced,21,True,3.4,3.5233333333333334,Cánh ca đò bên trái. 2026
+vi_042,Balanced,22,True,3.533333333333333,3.5900000000000003,Cánh ca dò bên trái. 2026
+vi_042,Balanced,23,True,3.6,3.8666666666666667,Cánh ca đò bên trái. 2026
+vi_042,Balanced,24,True,3.8666666666666667,3.99,Cánh cra đò bên trái. 2026
+vi_042,Balanced,25,True,4.0,4.056666666666667,Cánh cra dò bên trái. 2026
+vi_042,Balanced,26,True,4.066666666666666,4.266666666666667,Cánh cra đò bên trái. 2026
+vi_042,Balanced,27,True,4.266666666666667,4.323333333333333,Cánh ca đò bên trái. 2026
+vi_042,Balanced,28,True,4.333333333333333,4.390000000000001,Cánh cra đò bên trái. 2026
+vi_042,Balanced,29,True,4.4,4.456666666666667,Cánh ca đò bên trái. 2026
+vi_042,Balanced,30,True,4.466666666666667,4.8,Cánh cra đò bên trái. 2026
+vi_042,Balanced,31,True,6.4,6.733333333333333,Chúng ta đi vào tôi mai 142
+vi_042,Balanced,32,True,6.733333333333333,6.79,Chúng ta di vào tôi mai 142
+vi_042,Balanced,33,True,6.8,7.066666666666666,Chúng ta đi vào tôi mai 142
+vi_042,Balanced,34,True,7.066666666666666,7.123333333333334,Chúng ta di vao tôi mai 142
+vi_042,Balanced,35,True,7.133333333333334,7.19,Chúng ta đi vào tôi mai 142
+vi_042,Balanced,36,True,7.2,7.256666666666667,Chúng ta di vao tôi mai 142
+vi_042,Balanced,37,True,7.266666666666667,7.323333333333333,Chung ta đi vào tôi mai 142
+vi_042,Balanced,40,True,10.0,10.123333333333333,"Ban noi 19.95 hay 90,15? 50%"
+vi_042,Balanced,41,True,10.133333333333333,10.533333333333333,"Ban nói 19,95 hay 90,15? 50%"
+vi_042,Balanced,42,True,10.533333333333333,10.656666666666666,"Ban noi 19,95 hay 90,15? 50%"
+vi_042,Balanced,43,True,10.666666666666666,11.2,"Ban nói 19,95 hay 90,15? 50%"
+vi_042,Balanced,44,True,12.266666666666667,12.323333333333334,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,45,True,12.333333333333334,12.799999999999999,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,46,True,12.8,12.856666666666667,Đoi dä... chúng ta thât su di sao?
+vi_042,Balanced,47,True,12.866666666666667,12.923333333333334,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,48,True,12.933333333333334,12.99,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,49,True,13.0,13.266666666666666,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,50,True,13.266666666666667,13.323333333333334,Đoi đã... chúng ta thât su đi sao?
+vi_042,Balanced,51,True,13.333333333333334,13.39,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,52,True,13.4,13.456666666666667,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,53,True,13.466666666666667,13.523333333333333,Doi dä... chúng ta thât su đi sao?
+vi_042,Balanced,54,True,13.533333333333333,13.59,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,55,True,13.6,13.656666666666666,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,56,True,13.666666666666666,13.723333333333333,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,57,True,13.733333333333333,13.790000000000001,Doi dä... chúng ta thât su đi sao?
+vi_042,Balanced,58,True,13.8,14.0,Đoi đä... chúng ta thât su đi sao?
+vi_042,Balanced,59,True,14.0,14.056666666666667,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,60,True,14.066666666666666,14.123333333333333,Đoi dä... chúng ta thât su di sao?
+vi_042,Balanced,61,True,14.133333333333333,14.19,Đoi dã... chúng ta thât su di sao?
+vi_042,Balanced,62,True,14.2,14.256666666666668,Đoi dä... chúng ta thât su di sao?
+vi_042,Balanced,63,True,14.266666666666667,14.446666666666667,Đoi dä... chúng ta thât su đi sao?
+vi_042,Balanced,65,True,16.6,17.6,Chúng ta di vào sáng mai 2041
+vi_043,Fast,4,True,9.333333333333334,9.456666666666667,Cánh ca đ bên trái.
+vi_043,Fast,5,True,9.466666666666667,9.59,Cánh ca đó bên trái.
+vi_043,Fast,6,True,9.6,10.0,Cánh ca đ bên trái.
+vi_043,Fast,7,True,10.0,10.123333333333333,Cánhca đ bên trái.
+vi_043,Fast,8,True,10.133333333333333,10.256666666666668,Cánhca đó bên trái.
+vi_043,Fast,9,True,10.266666666666667,10.533333333333333,Cánh ca đ bên trái.
+vi_043,Fast,10,True,10.533333333333333,10.656666666666666,Cánhca đó bên trái.
+vi_043,Balanced,3,True,6.4,7.133333333333333,Không th tin đã na đêm! 143
+vi_043,Balanced,4,True,7.133333333333334,7.19,Không thê tin đã na đêm! 143
+vi_043,Balanced,5,True,7.2,7.256666666666667,Không th tin đã na đêm! 143
+vi_043,Balanced,6,True,7.266666666666667,7.323333333333333,Không thê tin đã na đêm! 143
+vi_043,Balanced,8,True,9.333333333333334,9.456666666666667,Cánh ca đ bên trái.
+vi_043,Balanced,9,True,9.466666666666667,9.523333333333333,Cánh ca đó bên trái.
+vi_043,Balanced,10,True,9.533333333333333,10.0,Cánh ca đ bên trái.
+vi_043,Balanced,11,True,10.0,10.056666666666667,Cánhca đ bên trái.
+vi_043,Balanced,12,True,10.066666666666666,10.123333333333333,Cánhca đbên trái.
+vi_043,Balanced,13,True,10.133333333333333,10.19,Cánhca đó bên trái.
+vi_043,Balanced,14,True,10.2,10.466666666666667,Cánh ca đ bên trái.
+vi_043,Balanced,15,True,10.466666666666667,10.523333333333333,Cánhca đ bên trái.
+vi_043,Balanced,16,True,10.533333333333333,10.59,Cánhca đó bên trái.
+vi_043,Balanced,18,True,11.4,11.58,Cánh cuađo bên trái.
+vi_044,Fast,1,True,0.5333333333333333,0.6566666666666666,"Ban nói 19,95 hay 90,15?"
+vi_044,Fast,2,True,0.6666666666666666,0.9333333333333333,"Bn nói 19,95 hay 90,15?"
+vi_044,Fast,3,True,0.9333333333333333,1.3333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_044,Fast,4,True,1.3333333333333333,1.4566666666666666,"Bąn nói 19,95 hay 90,15?"
+vi_044,Fast,5,True,1.4666666666666666,1.59,"Ban nói 19,95 hay 90,15?"
+vi_044,Fast,6,True,1.6,1.7233333333333334,"Bn nói 19,95 hay 90,15?"
+vi_044,Fast,7,True,1.7333333333333334,1.8566666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_044,Fast,8,True,1.8666666666666667,2.1333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_044,Fast,9,True,3.466666666666667,3.8666666666666667,Đi đã... chúng ta tht s đi sao? 50%
+vi_044,Fast,10,True,3.8666666666666667,4.133333333333334,Đoi đã.. chúng ta tht s đi sao? 50%
+vi_044,Fast,11,True,4.133333333333334,4.256666666666667,Đi đã.. chúng ta tht s đi sao? 50%
+vi_044,Fast,12,True,4.266666666666667,4.390000000000001,Đoiđã... chúng ta tht s đi sao? 50%
+vi_044,Fast,13,True,4.4,4.8,Đoi đã.. chúng ta tht s đi sao? 50%
+vi_044,Fast,14,True,4.8,4.923333333333334,Đoiđã.. chúng ta tht s đi sao? 50%
+vi_044,Fast,15,True,4.933333333333334,5.333333333333333,Đi đã.. chúng ta tht s đi sao? 50%
+vi_044,Fast,16,True,6.4,7.066666666666666,Chúng ta đi vào sáng mai 144
+vi_044,Fast,17,True,7.066666666666666,7.333333333333333,Chúng ta di vào sáng mai 144
+vi_044,Fast,19,True,8.266666666666667,8.39,Chúng ta di vào sáng mai 144
+vi_044,Fast,20,True,8.4,8.6,Chúng ta đi vào sáng mai 144
+vi_044,Fast,22,True,11.466666666666667,11.59,Hãyđitôi đây
+vi_044,Fast,23,True,11.6,11.799999999999999,Hãyđi tôi đây
+vi_044,Balanced,1,True,0.4666666666666667,0.5233333333333333,"Bn nói 19,95 hay 90,15?"
+vi_044,Balanced,2,True,0.5333333333333333,0.6566666666666666,"Ban nói 19,95 hay 90,15?"
+vi_044,Balanced,3,True,0.6666666666666666,0.8666666666666667,"Bn nói 19,95 hay 90,15?"
+vi_044,Balanced,4,True,0.8666666666666667,1.2666666666666666,"Ban nói 19,95 hay 90,15?"
+vi_044,Balanced,5,True,1.2666666666666666,1.39,"Bąn nói 19,95 hay 90,15?"
+vi_044,Balanced,6,True,1.4,1.5233333333333334,"Ban nói 19,95 hay 90,15?"
+vi_044,Balanced,7,True,1.5333333333333334,1.6566666666666667,"Bn nói 19,95 hay 90,15?"
+vi_044,Balanced,8,True,1.6666666666666667,1.8666666666666667,"Bąn nói 19,95 hay 90,15?"
+vi_044,Balanced,9,True,1.8666666666666667,2.1333333333333333,"Ban nói 19,95 hay 90,15?"
+vi_044,Balanced,10,True,3.4,3.6666666666666665,Đi đã... chúng ta tht s đi sao? 50%
+vi_044,Balanced,11,True,3.6666666666666665,3.7233333333333336,Đoi đã... chúng ta tht s đi sao? 50%
+vi_044,Balanced,12,True,3.7333333333333334,3.856666666666667,Đi đã... chúng ta tht s đi sao? 50%
+vi_044,Balanced,13,True,3.8666666666666667,3.9233333333333333,Đoi đã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,14,True,3.933333333333333,3.99,Đi đã... chúng ta tht s đi sao? 50%
+vi_044,Balanced,15,True,4.0,4.056666666666667,Đoi đã... chúng ta tht s đi sao? 50%
+vi_044,Balanced,16,True,4.066666666666666,4.19,Đi đã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,17,True,4.2,4.323333333333333,Đoiđã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,18,True,4.333333333333333,4.733333333333333,Đoi đã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,19,True,4.733333333333333,4.8566666666666665,Đoiđã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,20,True,4.866666666666666,4.923333333333334,Đoi đã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,21,True,4.933333333333334,5.266666666666667,Đi đã.. chúng ta tht s đi sao? 50%
+vi_044,Balanced,22,True,6.4,7.0,Chúng ta đi vào sáng mai 144
+vi_044,Balanced,23,True,7.0,7.266666666666667,Chúng ta di vào sáng mai 144
+vi_044,Balanced,25,True,8.2,8.323333333333334,Chúng ta di vào sáng mai 144
+vi_044,Balanced,26,True,8.333333333333334,8.533333333333333,Chúng ta đi vào sáng mai 144
+vi_044,Balanced,28,True,11.4,11.456666666666667,Hãyđoitôi đây
+vi_044,Balanced,29,True,11.466666666666667,11.523333333333333,Hãyđitôi đây
+vi_044,Balanced,30,True,11.533333333333333,11.656666666666666,Hãyđi tôi đây
+vi_044,Balanced,31,True,11.666666666666666,11.846666666666666,Hãyđitôi đây
+vi_045,Fast,1,True,0.5333333333333333,0.7999999999999999,Cánhca đ bên trái. 50%
+vi_045,Fast,2,True,0.8,0.9233333333333333,Cánh ca đ bên trái. 50%
+vi_045,Fast,3,True,0.9333333333333333,1.0566666666666666,Cánh ca đò bên trái. 50%
+vi_045,Fast,4,True,1.0666666666666667,1.3333333333333333,Cánh ca đ bên trái. 50%
+vi_045,Fast,6,True,2.1333333333333333,2.256666666666667,Cánh ca đ bên trái. 50%
+vi_045,Fast,7,True,2.2666666666666666,2.466666666666667,Cánh ca đò bên trái. 50%
+vi_045,Fast,10,True,9.333333333333334,9.456666666666667,Đi đã... chúng ta thât s đi sao?
+vi_045,Fast,11,True,9.466666666666667,9.733333333333333,Đi đã... chúng ta tht s đi sao?
+vi_045,Fast,12,True,9.733333333333333,10.0,Đoi đã... chúng ta thât s đi sao?
+vi_045,Fast,13,True,10.0,10.123333333333333,Đi đã... chúng ta tht s đi sao?
+vi_045,Fast,14,True,10.133333333333333,10.256666666666668,Đoi đã.. chúng ta thât s đi sao?
+vi_045,Fast,15,True,10.266666666666667,10.39,Đi đã.. chúng ta tht s đi sao?
+vi_045,Fast,16,True,10.4,10.666666666666666,Đoi đã... chúng ta thât su đi sao?
+vi_045,Fast,17,True,10.666666666666666,10.790000000000001,Đi đã.. chúng ta tht s đi sao?
+vi_045,Fast,18,True,10.8,11.333333333333332,Đoi đã.. chúng ta thât s đi sao?
+vi_045,Fast,19,True,11.333333333333334,11.6,Đi đã... chúng ta tht s đi sao?
+vi_045,Fast,20,True,11.6,11.723333333333333,Đoi đã... chúng ta thât su đi sao?
+vi_045,Fast,21,True,11.733333333333333,11.856666666666667,Đoi đã... chúng ta tht s đi sao?
+vi_045,Fast,22,True,11.866666666666667,12.066666666666666,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,1,True,0.4666666666666667,0.7333333333333333,Cánhca đ bên trái. 50%
+vi_045,Balanced,2,True,0.7333333333333333,0.79,Cánh ca đò bên trái. 50%
+vi_045,Balanced,3,True,0.8,0.9233333333333333,Cánh ca đ bên trái. 50%
+vi_045,Balanced,4,True,0.9333333333333333,1.0566666666666666,Cánh ca đò bên trái. 50%
+vi_045,Balanced,5,True,1.0666666666666667,1.2666666666666666,Cánh ca đ bên trái. 50%
+vi_045,Balanced,6,True,1.2666666666666666,1.5333333333333332,Cánh ca đò bên trái. 50%
+vi_045,Balanced,7,True,1.5333333333333334,1.59,Cánh ca đ bên trái. 50%
+vi_045,Balanced,8,True,1.6,1.9333333333333333,Cánh ca đò bên trái. 50%
+vi_045,Balanced,9,True,1.9333333333333333,1.99,Cánh ca đ bên trái. 50%
+vi_045,Balanced,10,True,2.0,2.1233333333333335,Cánh ca đò bên trái. 50%
+vi_045,Balanced,11,True,2.1333333333333333,2.1900000000000004,Cánh ca đ bên trái. 50%
+vi_045,Balanced,12,True,2.2,2.3800000000000003,Cánh ca đò bên trái. 50%
+vi_045,Balanced,14,True,5.133333333333334,5.19,Chúng ta đi vào tői mai
+vi_045,Balanced,15,True,5.2,5.533333333333333,Chúng ta đi vào tói mai
+vi_045,Balanced,17,True,9.333333333333334,9.39,Đi đã... chúng ta thât s đi sao?
+vi_045,Balanced,18,True,9.4,9.456666666666667,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,19,True,9.466666666666667,9.523333333333333,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,20,True,9.533333333333333,9.59,Đo'i đã... chúng ta thât s đi sao?
+vi_045,Balanced,21,True,9.6,9.723333333333333,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,22,True,9.733333333333333,9.790000000000001,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,23,True,9.8,9.856666666666667,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,24,True,9.866666666666667,9.923333333333334,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,25,True,9.933333333333334,10.056666666666667,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,26,True,10.066666666666666,10.19,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,27,True,10.2,10.323333333333334,Đi đã.. chúng ta tht s đi sao?
+vi_045,Balanced,28,True,10.333333333333334,10.39,Đoi đã.. chúng ta thât s đi sao?
+vi_045,Balanced,29,True,10.4,10.456666666666667,Đoi đã... chúng ta thât su đi sao?
+vi_045,Balanced,30,True,10.466666666666667,10.523333333333333,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,31,True,10.533333333333333,10.59,Đoi đã... chúng ta thât su đi sao?
+vi_045,Balanced,32,True,10.6,10.656666666666666,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,33,True,10.666666666666666,10.723333333333333,Đi đã.. chúng ta tht s đi sao?
+vi_045,Balanced,34,True,10.733333333333333,10.856666666666667,Đoi đã.. chúng ta thât s đi sao?
+vi_045,Balanced,35,True,10.866666666666667,10.923333333333334,Đi đã.. chúng ta tht s đi sao?
+vi_045,Balanced,36,True,10.933333333333334,11.266666666666666,Đoi đã.. chúng ta thât s đi sao?
+vi_045,Balanced,37,True,11.266666666666667,11.323333333333334,Đi đã.. chúng ta thât s đi sao?
+vi_045,Balanced,38,True,11.333333333333334,11.6,Đi đã... chúng ta tht s đi sao?
+vi_045,Balanced,39,True,11.6,11.656666666666666,Đoi đã... chúng ta thât su đi sao?
+vi_045,Balanced,40,True,11.666666666666666,11.723333333333333,Đi đã.. chúng ta tht s đi sao?
+vi_045,Balanced,41,True,11.733333333333333,11.790000000000001,Đoi đã... chúng ta tht s đi sao?
+vi_045,Balanced,42,True,11.8,11.856666666666667,Đoi đã... chúng ta thât s đi sao?
+vi_045,Balanced,43,True,11.866666666666667,12.046666666666667,Đi đã... chúng ta tht s đi sao?
+vi_046,Fast,2,True,1.6,1.7233333333333334,Hãy đi tôi đy
+vi_046,Fast,3,True,1.7333333333333334,2.6666666666666665,Hãy đi tôi đây
+vi_046,Fast,5,True,6.4,6.8,Cánh ca đ bên trái. 146
+vi_046,Fast,6,True,6.8,6.923333333333334,Cánh ca d bên trái. 146
+vi_046,Fast,7,True,6.933333333333334,7.056666666666667,Cánh ca đ bên trái. 146
+vi_046,Fast,8,True,7.066666666666666,7.19,Cánh ca dò bên trái. 146
+vi_046,Fast,10,True,8.133333333333333,8.256666666666668,Cánh ca đò bên trái. 146
+vi_046,Fast,11,True,8.266666666666667,9.066666666666666,Cánh ca đ bên trái. 146
+vi_046,Fast,12,True,9.333333333333334,9.6,Chúng ta đi vào tôi mai
+vi_046,Fast,14,True,10.0,10.2,Chúng ta đi vào tôi mai
+vi_046,Fast,16,True,15.2,15.323333333333334,Đi đã.. chúng ta tht s đi sao? 2045
+vi_046,Fast,17,True,15.333333333333334,15.456666666666667,Đoi đã... chúng ta thât s đi sao? 2045
+vi_046,Fast,18,True,15.466666666666667,15.59,Đoi đã... chúng ta tht s đi sao? 2045
+vi_046,Fast,19,True,15.6,15.723333333333333,Đoi đã... chúng ta thât s đi sao? 2045
+vi_046,Fast,20,True,15.733333333333333,15.856666666666667,Đoi đã... chúng ta tht s đi sao? 2045
+vi_046,Fast,21,True,15.866666666666667,15.99,Đi đã.. chúng ta tht s đi sao? 2045
+vi_046,Fast,23,True,16.8,17.066666666666666,Đoi đã... chúng ta tht s đi sao? 2045
+vi_046,Balanced,2,True,1.5333333333333334,1.7333333333333334,Hãy đi tôi đy
+vi_046,Balanced,3,True,1.7333333333333334,2.6,Hãy đi tôi đây
+vi_046,Balanced,4,True,3.4,3.6666666666666665,Không th tin đã na đêm!
+vi_046,Balanced,5,True,3.6666666666666665,3.7233333333333336,Không thê tin đã na đêm!
+vi_046,Balanced,7,True,6.4,6.8,Cánh ca đ bên trái. 146
+vi_046,Balanced,8,True,6.8,6.8566666666666665,Cánh ca d bên trái. 146
+vi_046,Balanced,9,True,6.866666666666666,6.99,Cánh ca đ bên trái. 146
+vi_046,Balanced,10,True,7.0,7.056666666666667,Cánh ca đò bên trái. 146
+vi_046,Balanced,11,True,7.066666666666666,7.123333333333334,Cánh ca dò bên trái. 146
+vi_046,Balanced,12,True,7.133333333333334,7.19,Cánh ca đò bên trái. 146
+vi_046,Balanced,14,True,8.133333333333333,8.19,Cánh ca đò bên trái. 146
+vi_046,Balanced,15,True,8.2,9.0,Cánh ca đ bên trái. 146
+vi_046,Balanced,16,True,9.333333333333334,9.6,Chúng ta đi vào tôi mai
+vi_046,Balanced,18,True,9.933333333333334,10.056666666666667,Chúng ta đi vào tôi mai
+vi_046,Balanced,19,True,10.066666666666666,10.246666666666666,Chúng ta đi vào ti mai
+vi_046,Balanced,21,True,15.2,15.256666666666668,Đi đã.. chúng ta tht s đi sao? 2045
+vi_046,Balanced,22,True,15.266666666666667,15.466666666666667,Đoi đã... chúng ta thât s đi sao? 2045
+vi_046,Balanced,23,True,15.466666666666667,15.523333333333333,Đoi đã... chúng ta tht s đi sao? 2045
+vi_046,Balanced,24,True,15.533333333333333,15.656666666666666,Đoi đã... chúng ta thât s đi sao? 2045
+vi_046,Balanced,25,True,15.666666666666666,15.790000000000001,Đoi đã... chúng ta tht s đi sao? 2045
+vi_046,Balanced,26,True,15.8,15.923333333333334,Đi đã... chúng ta tht s đi sao? 2045
+vi_046,Balanced,28,True,16.8,17.066666666666666,Đoi đã... chúng ta tht s đi sao? 2045
+vi_047,Fast,1,True,0.5333333333333333,0.9333333333333333,Đ'i đā.. chúng ta tht s' đi sao?
+vi_047,Fast,2,True,0.9333333333333333,1.0566666666666666,Đ'i đă.. chúng ta tht s' đi sao?
+vi_047,Fast,3,True,1.0666666666666667,1.19,Đ'i đā.. chúng ta tht s đi sao?
+vi_047,Fast,4,True,1.2,1.7333333333333334,Đi đã.. chúng ta tht s đi sao?
+vi_047,Fast,5,True,1.7333333333333334,1.8566666666666667,Đ'i đã... chúng ta thât s đi sao?
+vi_047,Fast,6,True,1.8666666666666667,1.99,Đ'i đã... chúng ta tht s đi sao?
+vi_047,Fast,7,True,2.0,2.1233333333333335,Đ'i đã... chúng ta tht su đi sao?
+vi_047,Fast,10,True,4.8,4.923333333333334,Chúng ta di vào sáng mai
+vi_047,Fast,11,True,4.933333333333334,5.2,Chúng ta đi vào sáng mai
+vi_047,Fast,12,True,5.2,5.323333333333333,Chúng ta di vao sáng mai
+vi_047,Fast,13,True,5.333333333333333,5.6,Chúng ta đi vào sáng mai
+vi_047,Fast,14,True,5.6,5.723333333333334,Chúng ta di vào sáng mai
+vi_047,Fast,15,True,5.733333333333333,5.8566666666666665,Chúng ta đi yào sáng mai
+vi_047,Fast,16,True,5.866666666666666,6.066666666666666,Chúng ta đi vào sáng mai
+vi_047,Fast,18,True,6.933333333333334,7.056666666666667,Hāy đi tôi đây 147
+vi_047,Fast,19,True,7.066666666666666,7.19,Hãy di tôi đây 147
+vi_047,Fast,20,True,7.2,7.323333333333333,Hãy doi toi đây 147
+vi_047,Fast,21,True,7.333333333333333,7.866666666666666,Hãy đi tôi đây 147
+vi_047,Fast,23,True,10.0,10.123333333333333,Không thé tin đã na đêm! 2026
+vi_047,Fast,24,True,10.133333333333333,10.533333333333333,Không th tin đã na đêm! 2026
+vi_047,Fast,25,True,10.533333333333333,10.656666666666666,Không the tin đã na đêm! 2026
+vi_047,Fast,26,True,10.666666666666666,11.066666666666666,Không th tin đã na đêm! 2026
+vi_047,Balanced,1,True,0.4666666666666667,0.7333333333333333,Đ'i đā.. chúng ta tht s' đi sao?
+vi_047,Balanced,2,True,0.7333333333333333,0.79,Đ'i đā... chúng ta tht s' di sao?
+vi_047,Balanced,3,True,0.8,0.9233333333333333,Đ'i đā.. chúng ta tht s' đi sao?
+vi_047,Balanced,4,True,0.9333333333333333,0.99,Đ'i đă.. chúng ta tht s' đi sao?
+vi_047,Balanced,5,True,1.0,1.1233333333333333,Đ'i đā.. chúng ta tht s' đi sao?
+vi_047,Balanced,6,True,1.1333333333333333,1.19,Đ'i đă.. chúng ta tht s' đi sao?
+vi_047,Balanced,7,True,1.2,1.7333333333333334,Đ'i đã... chúng ta tht s đi sao?
+vi_047,Balanced,8,True,1.7333333333333334,1.79,Đ'i đã... chúng ta thât s đi sao?
+vi_047,Balanced,9,True,1.8,1.9233333333333333,Đ'i đã.. chúng ta tht s đi sao?
+vi_047,Balanced,10,True,1.9333333333333333,2.056666666666667,Đ'i đã... chúng ta tht su đi sao?
+vi_047,Balanced,11,True,2.066666666666667,2.1233333333333335,Đ'i đã.. chúng ta tht sư đi sao?
+vi_047,Balanced,14,True,4.8,4.8566666666666665,Chúng ta di vào sáng mai
+vi_047,Balanced,15,True,4.866666666666666,5.133333333333333,Chúng ta đi vào sáng mai
+vi_047,Balanced,16,True,5.133333333333334,5.19,Chúng ta đi vào sang mai
+vi_047,Balanced,17,True,5.2,5.323333333333333,Chúng ta di vao sáng mai
+vi_047,Balanced,18,True,5.333333333333333,5.6,Chúng ta đi vào sáng mai
+vi_047,Balanced,19,True,5.6,5.656666666666667,Chúng ta di vào sáng mai
+vi_047,Balanced,20,True,5.666666666666667,5.79,Chúng ta đi yào sáng mai
+vi_047,Balanced,21,True,5.8,5.8566666666666665,Chúng ta di vào sáng mai
+vi_047,Balanced,22,True,5.866666666666666,6.046666666666666,Chúng ta đi vào sáng mai
+vi_047,Balanced,23,True,6.4,6.733333333333333,Hãy đi tôi đây 147
+vi_047,Balanced,24,True,6.733333333333333,6.79,Hãy đi ti đây 147
+vi_047,Balanced,25,True,6.8,6.8566666666666665,Hãy đi tôi đây 147
+vi_047,Balanced,26,True,6.866666666666666,6.923333333333334,Hy di tôi đây 147
+vi_047,Balanced,27,True,6.933333333333334,6.99,Hāy đi tôi đây 147
+vi_047,Balanced,28,True,7.0,7.2,Hãy di tôi đây 147
+vi_047,Balanced,29,True,7.2,7.256666666666667,Hãy doi toi đây 147
+vi_047,Balanced,30,True,7.266666666666667,7.323333333333333,Hay đi tôi đây 147
+vi_047,Balanced,33,True,10.0,10.056666666666667,Không thé tin đã na đêm! 2026
+vi_047,Balanced,34,True,10.066666666666666,10.123333333333333,Không the tin đã na đêm! 2026
+vi_047,Balanced,35,True,10.133333333333333,10.533333333333333,Không th tin đã na đêm! 2026
+vi_047,Balanced,36,True,10.533333333333333,10.59,Không the tin đã na đêm! 2026
+vi_047,Balanced,37,True,10.6,11.0,Không th tin đã na đêm! 2026
+vi_048,Fast,1,True,0.5333333333333333,0.7999999999999999,Chúng ta đi vào ti mai
+vi_048,Fast,2,True,0.8,1.0666666666666667,Chúng ta di vào ti mai
+vi_048,Fast,5,True,4.133333333333334,4.4,"Bąn nói 19,95 hay 90,15?"
+vi_048,Fast,6,True,4.4,4.8,"Ban nói 19,95 hay 90,15?"
+vi_048,Fast,7,True,6.4,6.523333333333333,Di đã... chúng ta tht su đi sao? 148
+vi_048,Fast,8,True,6.533333333333333,6.656666666666667,Dri dã.. chúng ta tht su đi sao? 148
+vi_048,Fast,9,True,6.666666666666667,6.79,Di đã... chúng ta tht s đi sao? 148
+vi_048,Fast,10,True,6.8,6.923333333333334,Doi đã... chung ta tht sur di sao? 148
+vi_048,Fast,11,True,6.933333333333334,7.056666666666667,Doi dã... chung ta thât su di sao? 148
+vi_048,Fast,12,True,7.066666666666666,7.19,Doi đã... chung ta thât su đi sao? 148
+vi_048,Fast,13,True,7.2,7.323333333333333,Doi đã... chung ta tht su di sao? 148
+vi_048,Fast,14,True,7.333333333333333,7.456666666666667,Di đã... chúng ta tht s đi sao? 148
+vi_048,Fast,15,True,7.466666666666667,7.59,Đori đã... chúng ta tht su di sao? 148
+vi_048,Fast,16,True,7.6,7.723333333333334,Đori dã.. chúng ta tht su di sao? 148
+vi_048,Fast,17,True,7.733333333333333,7.8566666666666665,Đori dă.. chúng ta tht su đi sao? 148
+vi_048,Fast,18,True,7.866666666666666,7.99,Đori đã... chúng ta tht su đi sao? 148
+vi_048,Fast,19,True,8.0,8.2,Đoi đã.. chúng ta tht su đi sao? 148
+vi_048,Fast,21,True,10.0,10.123333333333333,Chung ta di vào sáng mai
+vi_048,Fast,22,True,10.133333333333333,10.256666666666668,Chung ta đi vào sáng mai
+vi_048,Fast,23,True,10.266666666666667,10.533333333333333,Chúng ta đi vào sáng mai
+vi_048,Fast,24,True,10.533333333333333,10.656666666666666,Chúng ta di vào sáng mai
+vi_048,Fast,25,True,10.666666666666666,11.2,Chúng ta đi vào sáng mai
+vi_048,Fast,26,True,12.266666666666667,12.799999999999999,Hãy đi tôi dây
+vi_048,Fast,27,True,12.8,12.923333333333334,Hãy đi tôi đây
+vi_048,Fast,28,True,12.933333333333334,13.2,Hãy đi tôi dây
+vi_048,Fast,29,True,13.2,13.733333333333333,Hãy đi tôi đây
+vi_048,Fast,31,True,15.2,15.323333333333334,Khöng th tin đã na đêm! 2047
+vi_048,Fast,32,True,15.333333333333334,16.0,Không th tin đã na đêm! 2047
+vi_048,Fast,33,True,16.0,16.53333333333333,Khöng th tin đã na đêm! 2047
+vi_048,Balanced,1,True,0.4666666666666667,0.7333333333333333,Chúng ta đi vào ti mai
+vi_048,Balanced,2,True,0.7333333333333333,1.0666666666666667,Chúng ta di vào ti mai
+vi_048,Balanced,3,True,1.0666666666666667,1.2666666666666666,Chúng ta đi vào ti mai
+vi_048,Balanced,4,True,1.2666666666666666,1.3233333333333333,Chúng ta di vào ti mai
+vi_048,Balanced,6,True,3.4,3.6666666666666665,"Ban nói 19,95 hay 90,15?"
+vi_048,Balanced,7,True,3.6666666666666665,3.7233333333333336,"Bąn nói 19,95 hay 90,15?"
+vi_048,Balanced,8,True,3.7333333333333334,3.933333333333333,"Ban nói 19,95 hay 90,15?"
+vi_048,Balanced,9,True,3.933333333333333,3.99,"Bąn nói 19,95 hay 90,15?"
+vi_048,Balanced,10,True,4.0,4.123333333333334,"Ban nói 19,95 hay 90,15?"
+vi_048,Balanced,11,True,4.133333333333334,4.333333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_048,Balanced,12,True,4.333333333333333,4.733333333333333,"Ban nói 19,95 hay 90,15?"
+vi_048,Balanced,13,True,4.733333333333333,4.913333333333333,"Bąn nói 19,95 hay 90,15?"
+vi_048,Balanced,14,True,6.4,6.456666666666667,Di đã... chúng ta tht su đi sao? 148
+vi_048,Balanced,15,True,6.466666666666667,6.523333333333333,Di đã... chúng ta tht s đi sao? 148
+vi_048,Balanced,16,True,6.533333333333333,6.59,Dri dã.. chúng ta tht su đi sao? 148
+vi_048,Balanced,17,True,6.6,6.656666666666667,Đi đã... chúng ta tht su đi sao? 148
+vi_048,Balanced,18,True,6.666666666666667,6.723333333333334,Di đã... chúng ta tht s đi sao? 148
+vi_048,Balanced,19,True,6.733333333333333,6.79,Doi đã... chúng ta tht sur di sao? 148
+vi_048,Balanced,20,True,6.8,6.8566666666666665,Doi đã... chung ta tht sur di sao? 148
+vi_048,Balanced,21,True,6.866666666666666,6.923333333333334,Doi đã... chúng ta tht su đi sao? 148
+vi_048,Balanced,22,True,6.933333333333334,6.99,Doi dã... chung ta thât su di sao? 148
+vi_048,Balanced,23,True,7.0,7.056666666666667,Doi đã... chung ta tht su di sao? 148
+vi_048,Balanced,24,True,7.066666666666666,7.123333333333334,Doi đã... chung ta thât su đi sao? 148
+vi_048,Balanced,25,True,7.133333333333334,7.256666666666667,Doi đã... chung ta tht su di sao? 148
+vi_048,Balanced,26,True,7.266666666666667,7.323333333333333,Doi đã.. chung ta thât su di sao? 148
+vi_048,Balanced,27,True,7.333333333333333,7.390000000000001,Di đã... chúng ta tht s đi sao? 148
+vi_048,Balanced,28,True,7.4,7.456666666666667,Đri đã... chúng ta tht su đi sao? 148
+vi_048,Balanced,29,True,7.466666666666667,7.523333333333333,Đori đã... chúng ta tht su di sao? 148
+vi_048,Balanced,30,True,7.533333333333333,7.59,Do'i đã.. chúng ta tht su di sao? 148
+vi_048,Balanced,31,True,7.6,7.656666666666667,Đori dã.. chúng ta tht su di sao? 148
+vi_048,Balanced,32,True,7.666666666666667,7.723333333333334,Đoi dã.. chúng ta tht su đi sao? 148
+vi_048,Balanced,33,True,7.733333333333333,7.79,Đori dă.. chúng ta tht su đi sao? 148
+vi_048,Balanced,34,True,7.8,7.8566666666666665,Dori dã... chúng ta tht su di sao? 148
+vi_048,Balanced,35,True,7.866666666666666,7.923333333333334,Đori đã... chúng ta tht su đi sao? 148
+vi_048,Balanced,36,True,7.933333333333334,7.99,Đoi đã... chúng ta tht sur đi sao? 148
+vi_048,Balanced,37,True,8.0,8.18,Đoi đã.. chúng ta tht su đi sao? 148
+vi_048,Balanced,39,True,10.0,10.123333333333333,Chung ta di vào sáng mai
+vi_048,Balanced,40,True,10.133333333333333,10.19,Chung ta đi vào sáng mai
+vi_048,Balanced,41,True,10.2,10.533333333333333,Chúng ta đi vào sáng mai
+vi_048,Balanced,42,True,10.533333333333333,10.59,Chúng ta di vào sáng mai
+vi_048,Balanced,43,True,10.6,11.2,Chúng ta đi vào sáng mai
+vi_048,Balanced,44,True,12.266666666666667,12.733333333333333,Hãy đi tôi dây
+vi_048,Balanced,45,True,12.733333333333333,12.856666666666667,Hãy đi tôi đây
+vi_048,Balanced,46,True,12.866666666666667,13.2,Hãy đi tôi dây
+vi_048,Balanced,47,True,13.2,13.4,Hãy đi tôi đây
+vi_048,Balanced,48,True,13.4,13.456666666666667,Hãy đi tôi dây
+vi_048,Balanced,49,True,13.466666666666667,13.666666666666666,Hãy đi tôi đây
+vi_048,Balanced,50,True,13.666666666666666,13.723333333333333,Hãy đgi tôi dây
+vi_048,Balanced,52,True,15.2,15.256666666666668,Khöng th tin đã na đêm! 2047
+vi_048,Balanced,53,True,15.266666666666667,15.933333333333334,Không th tin đã na đêm! 2047
+vi_048,Balanced,54,True,15.933333333333334,16.53333333333333,Khöng th tin đã na đêm! 2047
+vi_049,Fast,3,True,6.4,6.8,Chúng ta đi vào ti mai 149
+vi_049,Fast,4,True,6.8,7.066666666666666,Chúng ta di vào ti mai 149
+vi_049,Fast,5,True,7.066666666666666,7.19,Chúng ta đi vào ti mai 149
+vi_049,Fast,6,True,7.2,7.323333333333333,Chúng ta di vo ti mai 149
+vi_049,Fast,9,True,10.133333333333333,10.256666666666668,"Ban nói-19,95 hay 90,15?"
+vi_049,Fast,10,True,10.266666666666667,10.933333333333334,"Ban nói 19,95 hay 90,15?"
+vi_049,Fast,11,True,10.933333333333334,11.466666666666667,"Bn nói 19,95 hay 90,15?"
+vi_049,Fast,12,True,12.266666666666667,12.39,Đoi đã... chúng ta thât s đi sao?
+vi_049,Fast,13,True,12.4,12.799999999999999,Đi đã... chúng ta tht s đi sao?
+vi_049,Fast,14,True,12.8,12.923333333333334,Đi đã.. chúng ta tht sư đi sao?
+vi_049,Fast,16,True,14.0,14.123333333333333,Đi đă... chúng ta tht s đi sao?
+vi_049,Fast,17,True,14.133333333333333,14.256666666666668,Đi đã... chúng ta tht s đi sao?
+vi_049,Fast,18,True,14.266666666666667,14.39,Đi đã... chúng ta thât s đi sao?
+vi_049,Fast,19,True,14.4,14.666666666666666,Đi đã.. chúng ta tht s đi sao?
+vi_049,Balanced,3,True,6.4,6.8,Chúng ta đi vào ti mai 149
+vi_049,Balanced,4,True,6.8,7.066666666666666,Chúng ta di vào ti mai 149
+vi_049,Balanced,5,True,7.066666666666666,7.19,Chúng ta đi vào ti mai 149
+vi_049,Balanced,6,True,7.2,7.256666666666667,Chúng ta di vo ti mai 149
+vi_049,Balanced,7,True,7.266666666666667,7.323333333333333,Chúng ta di vào ti mai 149
+vi_049,Balanced,10,True,10.133333333333333,10.19,"Ban nói-19,95 hay 90,15?"
+vi_049,Balanced,11,True,10.2,10.933333333333334,"Ban nói 19,95 hay 90,15?"
+vi_049,Balanced,12,True,10.933333333333334,10.99,"Bn nói 19,95 hay 90,15?"
+vi_049,Balanced,13,True,11.0,11.056666666666667,"Ban nói 19,95 hay 90,15?"
+vi_049,Balanced,14,True,11.066666666666666,11.123333333333333,"Bn nói 19,95 hay 90,15?"
+vi_049,Balanced,15,True,11.133333333333333,11.19,"Ban nói 19,95 hay 90,15?"
+vi_049,Balanced,16,True,11.2,11.4,"Bn nói 19,95 hay 90,15?"
+vi_049,Balanced,17,True,11.4,11.58,"Ban nói 19,95 hay 90,15?"
+vi_049,Balanced,18,True,12.266666666666667,12.39,Đoi đã... chúng ta thât s đi sao?
+vi_049,Balanced,19,True,12.4,12.799999999999999,Đi đã... chúng ta tht s đi sao?
+vi_049,Balanced,20,True,12.8,12.856666666666667,Đi đã.. chúng ta tht sư đi sao?
+vi_049,Balanced,22,True,14.0,14.056666666666667,Đi đă... chúng ta tht s đi sao?
+vi_049,Balanced,23,True,14.066666666666666,14.19,Đi đã... chúng ta tht s đi sao?
+vi_049,Balanced,24,True,14.2,14.256666666666668,Đoi đã... chúng ta thât s đi sao?
+vi_049,Balanced,25,True,14.266666666666667,14.323333333333334,Đi đã... chúng ta thât s đi sao?
+vi_049,Balanced,26,True,14.333333333333334,14.666666666666666,Đi đã.. chúng ta tht s đi sao?
+vi_050,Fast,2,True,3.466666666666667,4.133333333333334,Hãy đi tôi đây
+vi_050,Fast,3,True,4.133333333333334,4.256666666666667,Hăy đi tôi đây
+vi_050,Fast,5,True,6.4,7.2,Không th tin đã na đêm! 150
+vi_050,Fast,6,True,7.2,7.323333333333333,Không th tin đă na đêm! 150
+vi_050,Fast,8,True,8.266666666666667,8.39,Không th tin đ na đêm! 150
+vi_050,Fast,9,True,8.4,8.6,Không thê tin đã na đêm! 150
+vi_050,Fast,10,True,9.333333333333334,10.0,Cánh ca đ bên trái.
+vi_050,Fast,11,True,10.0,10.123333333333333,Cán ca đ bên trái.
+vi_050,Fast,12,True,10.133333333333333,10.256666666666668,Cán cađ bên trái.
+vi_050,Fast,14,True,12.266666666666667,12.533333333333333,Chúng ta đi vào tôi mai
+vi_050,Fast,15,True,12.533333333333333,13.2,Chúng ta đi vào ti mai
+vi_050,Fast,16,True,13.2,13.323333333333334,Chúng ta đi vào tôi mai
+vi_050,Fast,17,True,13.333333333333334,13.6,Chúng ta đi vào ti mai
+vi_050,Fast,18,True,13.6,13.723333333333333,Chúng ta đi vào tôi mai
+vi_050,Balanced,1,True,0.4666666666666667,0.8666666666666667,Chúng ta đi vào sáng mai 2026
+vi_050,Balanced,2,True,0.8666666666666667,0.9233333333333333,Chúng ta đi yào sáng mai 2026
+vi_050,Balanced,5,True,4.133333333333334,4.19,Hăy đi tôi đây
+vi_050,Balanced,6,True,4.2,4.866666666666666,Hãy đi tôi đây
+vi_050,Balanced,7,True,4.866666666666666,4.923333333333334,Hãy đoi tôi đây
+vi_050,Balanced,8,True,4.933333333333334,5.266666666666667,Hãy đi tôi đây
+vi_050,Balanced,9,True,6.4,7.2,Không th tin đã na đêm! 150
+vi_050,Balanced,10,True,7.2,7.256666666666667,Không th tin đă na đêm! 150
+vi_050,Balanced,12,True,8.266666666666667,8.323333333333334,Không th tin đ na đêm! 150
+vi_050,Balanced,13,True,8.333333333333334,8.39,Không th tin đã na đêm! 150
+vi_050,Balanced,14,True,8.4,8.456666666666667,Không thê tin đã na đêm! 150
+vi_050,Balanced,15,True,8.466666666666667,8.646666666666667,Không th tin đã na đêm! 150
+vi_050,Balanced,16,True,9.333333333333334,10.0,Cánh ca đ bên trái.
+vi_050,Balanced,17,True,10.0,10.056666666666667,Cán ca đ bên trái.
+vi_050,Balanced,18,True,10.066666666666666,10.123333333333333,Cánh ca đ bên trái.
+vi_050,Balanced,19,True,10.133333333333333,10.19,Cán cađ bên trái.
+vi_050,Balanced,21,True,12.266666666666667,12.466666666666667,Chúng ta đi vào tôi mai
+vi_050,Balanced,22,True,12.466666666666667,13.2,Chúng ta đi vào ti mai
+vi_050,Balanced,23,True,13.2,13.323333333333334,Chúng ta đi vào tôi mai
+vi_050,Balanced,24,True,13.333333333333334,13.39,Chúng ta đi vào ti mai
+vi_050,Balanced,25,True,13.4,13.456666666666667,Chúng ta đi vào tôi mai
+vi_050,Balanced,26,True,13.466666666666667,13.59,Chúng ta đi vào ti mai
+vi_050,Balanced,27,True,13.6,13.656666666666666,Chúng ta đi vào tôi mai

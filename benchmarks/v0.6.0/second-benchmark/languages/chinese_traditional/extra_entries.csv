@@ -1,0 +1,11 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+chinese_cht_001,Balanced,2,True,3.375,3.875,請等我
+chinese_cht_003,Fast,5,True,11.0,12.0,等等.....我們真的要走嗎？
+chinese_cht_003,Balanced,4,True,9.333333333333334,10.0,等等.....我們真的要走嗎？
+chinese_cht_003,Balanced,5,True,9.708333333333332,10.333333333333334,我們真的要走嗎？
+chinese_cht_003,Balanced,7,True,11.375,11.916666666666666,我們真的要走嗎？
+chinese_cht_006,Fast,2,True,4.0,5.0,你說的是19.95還是90.15？
+chinese_cht_016,Fast,4,True,10.0,11.0,請等我一下
+chinese_cht_036,Fast,2,True,4.0,5.0,請等我一下
+chinese_cht_046,Fast,4,True,10.0,11.0,我們明天晚上出發
+chinese_cht_050,Balanced,2,True,3.375,3.7916666666666665,請等我

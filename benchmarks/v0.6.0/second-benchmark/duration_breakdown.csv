@@ -1,0 +1,5 @@
+mode,duration_group,expected_cues,time_matched,time_capture_pct,near_exact_cues,near_exact_pct,strict_exact_cues,strict_exact_pct
+Fast,short (<1 s),140,1,0.7142857142857143,0,0.0,0,0.0
+Fast,regular (>=1 s),4060,4060,100.0,3446,84.8768472906404,3133,77.16748768472907
+Balanced,short (<1 s),140,140,100.0,119,85.0,114,81.42857142857143
+Balanced,regular (>=1 s),4060,4060,100.0,3430,84.48275862068965,3133,77.16748768472907

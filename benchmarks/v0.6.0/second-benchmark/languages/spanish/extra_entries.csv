@@ -1,0 +1,5 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+es_006,Fast,2,True,4.0,5.0,"¿Dijiste 19,95 o 90,15?"
+es_016,Fast,4,True,10.0,11.0,Espera un momento
+es_036,Fast,2,True,4.0,5.0,Espera un momento
+es_046,Fast,4,True,10.0,11.0,Nos vamos mañana tarde

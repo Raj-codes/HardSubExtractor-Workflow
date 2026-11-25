@@ -1,0 +1,75 @@
+{
+  "status": "passed",
+  "languages": 23,
+  "clips": 1150,
+  "cues": 6900,
+  "per_language": {
+    "Arabic": 50,
+    "Chinese (Simplified)": 50,
+    "Chinese (Traditional)": 50,
+    "Dutch": 50,
+    "English": 50,
+    "Filipino": 50,
+    "French": 50,
+    "German": 50,
+    "Hindi": 50,
+    "Indonesian": 50,
+    "Italian": 50,
+    "Japanese": 50,
+    "Korean": 50,
+    "Malay": 50,
+    "Polish": 50,
+    "Portuguese": 50,
+    "Russian": 50,
+    "Spanish": 50,
+    "Swedish": 50,
+    "Tamil": 50,
+    "Turkish": 50,
+    "Ukrainian": 50,
+    "Vietnamese": 50
+  },
+  "color_filter_counts": {
+    "White": 782,
+    "Any color": 368
+  },
+  "outline_counts": {
+    "0": 460,
+    "1": 345,
+    "2": 345
+  },
+  "nominal_size_counts": {
+    "12": 207,
+    "14": 207,
+    "16": 207,
+    "18": 207,
+    "20": 184,
+    "23": 138
+  },
+  "font_requested_counts": {
+    "Arial": 442,
+    "Tahoma": 24,
+    "Microsoft YaHei": 26,
+    "SimSun": 24,
+    "Microsoft JhengHei": 26,
+    "Microsoft JhengHei UI": 24,
+    "Calibri": 384,
+    "Nirmala UI": 52,
+    "Nirmala Text": 48,
+    "Yu Gothic": 26,
+    "MS Gothic": 24,
+    "Malgun Gothic": 50
+  },
+  "font_fallback_cases": [],
+  "cue_duration_seconds": {
+    "minimum": 0.5333333333333332,
+    "maximum": 2.6000000000000014,
+    "mean": 1.9866666666666664,
+    "under_1_second": 230,
+    "at_least_1_second": 6670
+  },
+  "low_contrast_cues": [],
+  "overlay_unconfirmed_cues": [],
+  "errors": [],
+  "source_sha256": "280cb385b84657c8cd83c30184a3b3f2c9b0c5e3bc2b46db5a799a50026c7070",
+  "video_bytes": 2053768608
+}

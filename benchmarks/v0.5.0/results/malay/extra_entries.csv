@@ -1,0 +1,262 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+ms_001,Fast,3,True,6.4,7.066666666666666,Saya tak percaya sudah tengah malam! 101
+ms_001,Fast,4,True,7.066666666666666,7.19,Saya tak percaya sudan tengah malam! 101
+ms_001,Balanced,3,True,6.4,7.066666666666666,Saya tak percaya sudah tengah malam! 101
+ms_001,Balanced,4,True,7.066666666666666,7.123333333333334,Saya tak percaya sudan tengah malam! 101
+ms_001,Balanced,8,True,15.2,15.799999999999999,Awak kata 19.95 atau 90.15? 2000
+ms_001,Balanced,9,True,15.8,15.856666666666667,Awak kata 19.95 atau 90.15?2000
+ms_002,Fast,2,True,3.466666666666667,3.8666666666666667,Tunggu.. kita benar-benar pergi?
+ms_002,Fast,3,True,3.8666666666666667,3.99,Tunggu....kita benar-benar pergi?
+ms_002,Fast,7,True,11.2,11.323333333333334,Tunggu saya disini
+ms_002,Fast,8,True,11.333333333333334,11.733333333333333,Tunggu saya di sini
+ms_002,Balanced,2,True,3.4,3.6666666666666665,Tunggu:.. kita benar-benar pergi?
+ms_002,Balanced,3,True,3.6666666666666665,3.7233333333333336,Tunggun. kita benar-benar pergi?
+ms_002,Balanced,4,True,3.7333333333333334,3.856666666666667,Tunggu.. kita benar-benar pergi?
+ms_002,Balanced,5,True,3.8666666666666667,3.99,Tunggu....kita benar-benar pergi?
+ms_002,Balanced,8,True,8.333333333333334,8.39,Kita bertelak esok pagi 102
+ms_002,Balanced,9,True,8.4,8.58,Kita bertolak esok pagi 102
+ms_002,Balanced,11,True,11.2,11.256666666666668,Tunggu saya disini
+ms_002,Balanced,12,True,11.266666666666667,11.733333333333333,Tunggu saya di sini
+ms_003,Fast,4,True,9.333333333333334,10.0,Tunggu... kita benar-benar pergi?
+ms_003,Fast,5,True,10.0,10.266666666666666,Tunggu...kita benar-benar pergi?
+ms_003,Fast,7,True,11.466666666666667,11.59,Tunggu...kita benar-benar pergi?
+ms_003,Fast,8,True,11.6,12.0,Tunggu... kita benar-benar pergi?
+ms_003,Balanced,2,True,2.066666666666667,2.1233333333333335,Pintu merah di sebelah kiti
+ms_003,Balanced,3,True,2.1333333333333333,2.3333333333333335,Pintu merah di sebelah kiri.
+ms_003,Balanced,6,True,9.333333333333334,10.0,Tunggu... kita benar-benar pergi?
+ms_003,Balanced,7,True,10.0,10.2,Tunggu...kita benar-benar pergi?
+ms_003,Balanced,9,True,11.466666666666667,11.523333333333333,Tunggu...kita benar-benar pergi?
+ms_003,Balanced,10,True,11.533333333333333,11.933333333333334,Tunggu... kita benar-benar pergi?
+ms_004,Fast,2,True,2.4,2.5233333333333334,Tunggu saya dí sini
+ms_004,Fast,3,True,2.533333333333333,2.7333333333333334,Tunggu saya di sini
+ms_004,Fast,5,True,6.4,6.666666666666667,Pintu merah di sebelah kiri. 104
+ms_004,Fast,6,True,6.666666666666667,6.79,Pintu merah disebelah kiri. 104
+ms_004,Balanced,2,True,2.4,2.456666666666667,Tunggu saya dí sini
+ms_004,Balanced,3,True,2.466666666666667,2.646666666666667,Tunggu saya di sini
+ms_004,Balanced,5,True,6.4,6.666666666666666,Pintu merah di sebelah kiri. 104
+ms_004,Balanced,6,True,6.666666666666667,6.723333333333334,Pintu merah disebelah kiri. 104
+ms_005,Fast,5,True,10.0,10.266666666666666,Saya tak pereaya sudah tengah malam! 2026
+ms_005,Fast,6,True,10.266666666666667,10.39,Saya tak percaya sudah tengah malam! 2026
+ms_005,Fast,7,True,10.4,10.523333333333333,Saya tak pereaya sudah tengah malam! 2026
+ms_005,Fast,8,True,10.533333333333333,11.066666666666666,Saya tak percaya sudah tengah malam! 2026
+ms_005,Balanced,5,True,9.933333333333334,10.056666666666667,Saya tak pereaya sudah tengah malam! 2026
+ms_005,Balanced,6,True,10.066666666666666,10.123333333333333,Saya tak percaya sudah tengah malam! 2026
+ms_005,Balanced,7,True,10.133333333333333,10.19,Saya tak pereaya sudah tengah malam! 2026
+ms_005,Balanced,8,True,10.2,10.4,Saya tak percaya sudah tengah malam! 2026
+ms_005,Balanced,9,True,10.4,10.456666666666667,Saya tak pereaya sudah tengah malam! 2026
+ms_005,Balanced,10,True,10.466666666666667,10.523333333333333,Saya tak permaya sudah tengah malam! 2026
+ms_005,Balanced,11,True,10.533333333333333,11.0,Saya tak percaya sudah tengah malam! 2026
+ms_008,Fast,5,True,11.6,11.799999999999999,Pintu merahdi sebelah kiri.
+ms_008,Balanced,4,True,9.333333333333334,9.933333333333334,Pintu merah di sebelah kiri.
+ms_008,Balanced,5,True,9.933333333333334,9.99,Pintumerah di sebelah kiri.
+ms_008,Balanced,7,True,11.6,11.656666666666666,Pintu merahdi sebelah kiri.
+ms_008,Balanced,8,True,11.666666666666666,11.846666666666666,Pintu merah di sebelah kiri.
+ms_009,Balanced,2,True,1.6666666666666667,1.7233333333333334,Awak kata 19.95 atau 90 15?
+ms_009,Balanced,3,True,1.7333333333333334,2.3333333333333335,Awak kata 19.95 atau 90.15?
+ms_010,Balanced,4,True,9.333333333333334,9.933333333333334,Tunggu... kita benar-benar pergi?
+ms_010,Balanced,5,True,9.933333333333334,9.99,Tunggu.kita benar-benar pergi?
+ms_011,Fast,4,True,6.666666666666667,6.79,Pintu merah disebelah kiri. 111
+ms_011,Fast,5,True,6.8,7.0,Pintu merahdi sebelah kiri. 111
+ms_011,Fast,7,True,10.133333333333333,10.256666666666668,Kitabertolak esok malam
+ms_011,Fast,8,True,10.266666666666667,11.066666666666666,Kita bertolak esok malam
+ms_011,Balanced,4,True,6.666666666666667,6.79,Pintu merah disebelah kiri. 111
+ms_011,Balanced,5,True,6.8,6.8566666666666665,Pintu merahdi sebelah kiri. 111
+ms_011,Balanced,6,True,6.866666666666666,7.046666666666666,Pintu merah di sebelah kiri. 111
+ms_011,Balanced,8,True,10.133333333333333,10.19,Kitabertolak esok malam
+ms_011,Balanced,9,True,10.2,10.466666666666667,Kita bertolak esok malam
+ms_011,Balanced,10,True,10.466666666666667,10.523333333333333,Kitabertolak esok malam
+ms_011,Balanced,11,True,10.533333333333333,11.0,Kita bertolak esok malam
+ms_015,Fast,4,True,8.666666666666666,8.866666666666665,Saya tak percaya sudah tengah malam!115
+ms_015,Fast,6,True,11.466666666666667,11.733333333333333,Pintu merahdi sebelah kiri.
+ms_015,Fast,7,True,11.733333333333333,12.0,Pintu merah di sebelah kiri.
+ms_015,Fast,10,True,16.533333333333335,16.656666666666666,Awak kata 19.95 atau 90.15?2014
+ms_015,Fast,11,True,16.666666666666668,16.933333333333334,Awak kata 19.95 atau 90.15? 2014
+ms_015,Balanced,4,True,8.6,8.799999999999999,Saya tak percaya sudah tengah malam!115
+ms_015,Balanced,6,True,11.4,11.456666666666667,Pintu merahdisebelah kiri.
+ms_015,Balanced,7,True,11.466666666666667,11.523333333333333,Pintu merahdi sebelah kiri.
+ms_015,Balanced,8,True,11.533333333333333,11.59,Pintu merah di sebelah kiri.
+ms_015,Balanced,9,True,11.6,11.723333333333333,Pintu merahdi sebelah kiri.
+ms_015,Balanced,10,True,11.733333333333333,11.933333333333334,Pintu merah di sebelah kiri.
+ms_015,Balanced,13,True,15.933333333333334,15.99,Awak kata 19.95 atau 90.15?2014
+ms_015,Balanced,14,True,16.0,16.53333333333333,Awak kata 19.95 atau 90.15? 2014
+ms_015,Balanced,15,True,16.533333333333335,16.656666666666666,Awak kata 19.95 atau 90.15?2014
+ms_015,Balanced,16,True,16.666666666666668,16.866666666666667,Awak kata 19.95 atau 90.15? 2014
+ms_016,Balanced,7,True,17.0,17.18,Pintumerah di sebelah kiri. 2015
+ms_017,Fast,5,True,10.533333333333333,10.656666666666666,Tunggu.kita benar-benar pergi?
+ms_017,Fast,6,True,10.666666666666666,11.066666666666666,Tunggu... kita benar-benar pergi?
+ms_017,Balanced,5,True,10.533333333333333,10.59,Tunggu.kita benar-benar pergi?
+ms_017,Balanced,6,True,10.6,11.0,Tunggu... kita benar-benar pergi?
+ms_018,Balanced,3,True,6.4,6.733333333333333,Pintu merah di sebelah kiri. 118
+ms_018,Balanced,4,True,6.733333333333333,6.79,Pintu merah disebelah kiri. 118
+ms_018,Balanced,7,True,12.266666666666667,13.0,Awak kata 19.95 atau 90.15? 2026
+ms_018,Balanced,8,True,13.0,13.056666666666667,Awak kata 19 95 atau 90.15? 2026
+ms_019,Balanced,2,True,1.8,1.98,Tunggu...kita benar-benar pergi?
+ms_019,Balanced,5,True,9.333333333333334,10.066666666666666,Saya tak percaya sudah tengah malam! 2026
+ms_019,Balanced,6,True,10.066666666666666,10.123333333333333,Saya tak percaya studah tengah malam! 2026
+ms_022,Balanced,4,True,9.333333333333334,9.933333333333334,Pintu merah di sebelah kiri.
+ms_022,Balanced,5,True,9.933333333333334,9.99,Pintumerah di sebelah kiri.
+ms_026,Fast,2,True,2.0,2.2,Tunggu...kita benar-benar pergi?
+ms_026,Fast,6,True,11.466666666666667,11.59,Saya tak percayasudah tengah malam! 2026
+ms_026,Fast,7,True,11.6,11.799999999999999,Saya tak percaya sudah tengah malam! 2026
+ms_026,Balanced,2,True,2.0,2.056666666666667,Tunggu...kita benar-benar pergi?
+ms_026,Balanced,3,True,2.066666666666667,2.246666666666667,Tunggu... kita benar-benar pergi?
+ms_026,Balanced,6,True,8.2,8.256666666666668,Tunggursaya di sini 126
+ms_026,Balanced,7,True,8.266666666666667,8.533333333333333,Tunggu saya di sini 126
+ms_026,Balanced,9,True,11.466666666666667,11.523333333333333,Saya tak percayasudah tengah malam! 2026
+ms_026,Balanced,10,True,11.533333333333333,11.733333333333333,Saya tak percaya sudah tengah malam! 2026
+ms_027,Fast,3,True,6.4,6.8,Tunggu... kita benar-benar pergi? 127
+ms_027,Fast,4,True,6.8,6.923333333333334,Tunggu...kita benar-benar pergi? 127
+ms_027,Fast,5,True,6.933333333333334,7.2,Tunggu... kita benar-benar pergi? 127
+ms_027,Fast,6,True,7.2,7.323333333333333,Tunggu...kita benar-benar pergi? 127
+ms_027,Fast,8,True,8.266666666666667,8.39,Tunggu...kita benar-benar pergi?127
+ms_027,Fast,9,True,8.4,8.799999999999999,Tunggu... kita benar-benar pergi? 127
+ms_027,Fast,11,True,11.6,11.866666666666665,Kitabertolak esok pagi
+ms_027,Fast,12,True,11.866666666666667,12.066666666666666,Kita bertolak esok pagi
+ms_027,Balanced,3,True,6.4,6.8,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,4,True,6.8,6.923333333333334,Tunggu...kita benar-benar pergi? 127
+ms_027,Balanced,5,True,6.933333333333334,6.99,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,6,True,7.0,7.056666666666667,Tunggu...kita benar-benar pergi? 127
+ms_027,Balanced,7,True,7.066666666666666,7.19,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,8,True,7.2,7.256666666666667,Tunggu...kita benar-benar pergi? 127
+ms_027,Balanced,9,True,7.266666666666667,7.8,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,10,True,7.8,7.8566666666666665,Tunggu...kita benar-benar pergi? 127
+ms_027,Balanced,11,True,7.866666666666666,8.2,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,12,True,8.2,8.256666666666668,Tunggu...kitalbenar-benar pergi? 127
+ms_027,Balanced,13,True,8.266666666666667,8.323333333333334,Tunggu...kita benar-benar pergi?127
+ms_027,Balanced,14,True,8.333333333333334,8.39,Tunggu...kita benar-benarpergi?127
+ms_027,Balanced,15,True,8.4,8.799999999999999,Tunggu... kita benar-benar pergi? 127
+ms_027,Balanced,17,True,11.533333333333333,11.59,Kitalbertolak esok pagi
+ms_027,Balanced,18,True,11.6,11.799999999999999,Kitabertolak esok pagi
+ms_027,Balanced,19,True,11.8,11.98,Kita bertolak esok pagi
+ms_028,Fast,1,True,0.5333333333333333,0.7999999999999999,Saya tak percaya sudah tengah malam!
+ms_028,Fast,2,True,0.8,0.9233333333333333,Saya takpercaya sudah tengah malam!
+ms_028,Fast,3,True,0.9333333333333333,1.2,Sayatakpercaya sudah tengah malam!
+ms_028,Fast,4,True,1.2,1.3233333333333333,Saya tak percaya sudah tengah malam!
+ms_028,Fast,5,True,1.3333333333333333,1.4566666666666666,Sayatak percaya sudah tengah malam!
+ms_028,Fast,8,True,5.2,5.466666666666667,Pintu merah disebelah kiri. 2026
+ms_028,Fast,9,True,5.466666666666667,5.866666666666666,Pintu merah di sebelah kiri. 2026
+ms_028,Fast,10,True,6.4,7.066666666666666,Kita bertolak esok malam 128
+ms_028,Fast,11,True,7.066666666666666,7.19,Kita bertolakesok malam 128
+ms_028,Fast,13,True,8.266666666666667,8.39,Kitalbertolak esok malam 128
+ms_028,Fast,14,True,8.4,9.066666666666666,Kita bertolak esok malam 128
+ms_028,Fast,16,True,10.133333333333333,10.256666666666668,Awakkata 19.95 atau 90.15?
+ms_028,Fast,17,True,10.266666666666667,10.39,Awak kata 19.95 atau 90.15?
+ms_028,Fast,18,True,10.4,10.523333333333333,Awakkata 19.95 atau 90.15?
+ms_028,Fast,19,True,10.533333333333333,10.799999999999999,Awak kata 19.95 atau 90.15?
+ms_028,Balanced,1,True,0.4666666666666667,0.5233333333333333,Saya takpercaya sudah tengah malam!
+ms_028,Balanced,2,True,0.5333333333333333,0.7999999999999999,Saya tak percaya sudah tengah malam!
+ms_028,Balanced,3,True,0.8,0.8566666666666667,Saya takpercaya sudah tengah malam!
+ms_028,Balanced,4,True,0.8666666666666667,1.1333333333333333,Sayatakpercaya sudah tengah malam!
+ms_028,Balanced,5,True,1.1333333333333333,1.19,Sayatak percaya sudah tengah malam!
+ms_028,Balanced,6,True,1.2,1.3233333333333333,Saya tak percaya sudah tengah malam!
+ms_028,Balanced,7,True,1.3333333333333333,1.39,Sayatak percaya sudah tengah malam!
+ms_028,Balanced,10,True,5.2,5.3999999999999995,Pintu merah disebelah kiri. 2026
+ms_028,Balanced,11,True,5.4,5.8,Pintu merah di sebelah kiri. 2026
+ms_028,Balanced,12,True,6.4,7.066666666666666,Kita bertolak esok malam 128
+ms_028,Balanced,13,True,7.066666666666666,7.123333333333334,Kita bertolakesok malam 128
+ms_028,Balanced,14,True,7.133333333333334,7.8,Kita bertolak esok malam 128
+ms_028,Balanced,15,True,7.8,7.8566666666666665,Kita bertolāk esok malam 128
+ms_028,Balanced,16,True,7.866666666666666,8.2,Kita bertolak esok malam 128
+ms_028,Balanced,17,True,8.2,8.256666666666668,Kita bertolāk esok malam 128
+ms_028,Balanced,18,True,8.266666666666667,8.323333333333334,Kitalbertolak esok malam 128
+ms_028,Balanced,19,True,8.333333333333334,9.0,Kita bertolak esok malam 128
+ms_028,Balanced,21,True,10.133333333333333,10.19,Awakkata 19.95 atau 90.15?
+ms_028,Balanced,22,True,10.2,10.4,Awak kata 19.95 atau 90.15?
+ms_028,Balanced,23,True,10.4,10.523333333333333,Awakkata 19.95 atau 90.15?
+ms_028,Balanced,24,True,10.533333333333333,10.733333333333333,Awak kata 19.95 atau 90.15?
+ms_032,Fast,3,True,6.4,6.666666666666667,Pintu merah di sebelah kiri. 132
+ms_032,Fast,4,True,6.666666666666667,6.79,Pintu merah disebelah kiri. 132
+ms_032,Balanced,3,True,6.4,6.666666666666666,Pintu merah di sebelah kiri. 132
+ms_032,Balanced,4,True,6.666666666666667,6.723333333333334,Pintu merah disebelah kiri. 132
+ms_033,Balanced,4,True,9.333333333333334,9.933333333333334,Saya tak percaya sudah tengah malam! 2026
+ms_033,Balanced,5,True,9.933333333333334,9.99,Saya tak pereaya sudah tengah malam! 2026
+ms_034,Balanced,3,True,6.4,6.733333333333333,Tunggu... kita benar-benar pergi? 134
+ms_034,Balanced,4,True,6.733333333333333,6.79,Tunggu... kita behar-benar pergi? 134
+ms_039,Fast,4,True,8.266666666666667,8.39,Pintu merah disebelah kiri. 139
+ms_039,Fast,5,True,8.4,8.799999999999999,Pintu merah di sebelah kiri. 139
+ms_039,Fast,7,True,11.6,11.866666666666665,Kitabertolak esok malam
+ms_039,Fast,8,True,11.866666666666667,12.066666666666666,Kita bertolak esok malam
+ms_039,Balanced,4,True,8.2,8.323333333333334,Pintu merah disebelah kiri. 139
+ms_039,Balanced,5,True,8.333333333333334,8.799999999999999,Pintu merah di sebelah kiri. 139
+ms_039,Balanced,7,True,11.533333333333333,11.656666666666666,Kitabertolak esok malam
+ms_039,Balanced,8,True,11.666666666666666,11.723333333333333,Kita bertolak esok malam
+ms_039,Balanced,9,True,11.733333333333333,11.790000000000001,Kitabertolak esok malam
+ms_039,Balanced,10,True,11.8,11.98,Kita bertolak esok malam
+ms_040,Fast,5,True,10.4,10.523333333333333,Saya takpercaya sudah tengah malam! 2026
+ms_040,Fast,6,True,10.533333333333333,10.799999999999999,Saya tak percaya sudah tengah malam! 2026
+ms_040,Balanced,3,True,6.4,7.133333333333333,Tunggu saya di sini 140
+ms_040,Balanced,4,True,7.133333333333334,7.19,Tunggusaya di sini 140
+ms_040,Balanced,5,True,7.2,7.8,Tunggu saya di sini 140
+ms_040,Balanced,6,True,7.8,7.8566666666666665,Tunggú saya di sini 140
+ms_040,Balanced,9,True,10.4,10.456666666666667,Saya takpercaya sudah tengah malam! 2026
+ms_040,Balanced,10,True,10.466666666666667,10.733333333333333,Saya tak percaya sudah tengah malam! 2026
+ms_041,Fast,2,True,2.6666666666666665,2.79,Kitabertolak esok malam
+ms_041,Fast,3,True,2.8,3.0,Kita bertolak esok malam
+ms_041,Fast,6,True,6.8,7.0,Tunggu... kitalbenar-benar pergi? 141
+ms_041,Fast,8,True,10.0,10.266666666666666,Kitabertolak esok pagi
+ms_041,Fast,9,True,10.266666666666667,10.533333333333333,Kita bertolak esok pagi
+ms_041,Fast,10,True,10.533333333333333,10.656666666666666,Kitalbertolak esok pagi
+ms_041,Fast,11,True,10.666666666666666,11.066666666666666,Kita bertolak esok pagi
+ms_041,Balanced,2,True,2.6666666666666665,2.7233333333333336,Kitabertolak esok malam
+ms_041,Balanced,3,True,2.7333333333333334,2.9133333333333336,Kita bertolak esok malam
+ms_041,Balanced,6,True,6.8,6.8566666666666665,Tunggu... kitalbenar-benar pergi? 141
+ms_041,Balanced,7,True,6.866666666666666,7.046666666666666,Tunggu...kita benar-benar pergi? 141
+ms_041,Balanced,9,True,10.0,10.2,Kitabertolak esok pagi
+ms_041,Balanced,10,True,10.2,10.533333333333333,Kita bertolak esok pagi
+ms_041,Balanced,11,True,10.533333333333333,10.59,Kitalbertolak esok pagi
+ms_041,Balanced,12,True,10.6,10.656666666666666,Kitabertolak esok pagi
+ms_041,Balanced,13,True,10.666666666666666,11.0,Kita bertolak esok pagi
+ms_042,Fast,5,True,10.4,10.523333333333333,Awakikata 19.95 atau 90.15? 50%
+ms_042,Fast,6,True,10.533333333333333,11.2,Awak kata 19.95 atau 90.15? 50%
+ms_042,Balanced,5,True,10.4,10.456666666666667,Awakikata 19.95 atau 90.15? 50%
+ms_042,Balanced,6,True,10.466666666666667,11.2,Awak kata 19.95 atau 90.15? 50%
+ms_043,Fast,4,True,9.333333333333334,10.0,Pintu merah di sebelah kiri.
+ms_043,Fast,5,True,10.0,10.266666666666666,Pintumerah di sebelah kiri.
+ms_043,Fast,6,True,10.266666666666667,10.533333333333333,Pintu merah di sebelah kiri.
+ms_043,Fast,7,True,10.533333333333333,10.656666666666666,Pintumerah di sebelah kiri.
+ms_043,Balanced,4,True,9.333333333333334,9.933333333333334,Pintu merah di sebelah kiri.
+ms_043,Balanced,5,True,9.933333333333334,10.2,Pintumerah di sebelah kiri.
+ms_043,Balanced,6,True,10.2,10.466666666666667,Pintu merah di sebelah kiri.
+ms_043,Balanced,7,True,10.466666666666667,10.59,Pintumerah di sebelah kiri.
+ms_043,Balanced,9,True,11.4,11.58,Pintu merahdisebelah kiri.
+ms_044,Fast,1,True,0.5333333333333333,0.7999999999999999,Awak kata 19.95 atau 90.15?
+ms_044,Fast,2,True,0.8,0.9233333333333333,"Awak kata,19.95 atau 90.15?"
+ms_044,Fast,7,True,11.466666666666667,11.59,Tunggusaya di sini
+ms_044,Fast,8,True,11.6,11.799999999999999,Tunggu saya di sini
+ms_044,Balanced,1,True,0.4666666666666667,0.7999999999999999,Awak kata 19.95 atau 90.15?
+ms_044,Balanced,2,True,0.8,0.8566666666666667,"Awak kata,19.95 atau 90.15?"
+ms_044,Balanced,7,True,11.4,11.456666666666667,Tunggusayadi sini
+ms_044,Balanced,8,True,11.466666666666667,11.523333333333333,Tunggusaya di sini
+ms_044,Balanced,9,True,11.533333333333333,11.733333333333333,Tunggu saya di sini
+ms_045,Fast,1,True,0.5333333333333333,1.2,Pintu merah di sebelah kiri. 50%
+ms_045,Fast,2,True,1.2,1.3233333333333333,Pintumerah di sebelah kiri. 50%
+ms_045,Fast,7,True,11.6,11.723333333333333,Tunggu...kita benar-benar pergi?
+ms_045,Fast,8,True,11.733333333333333,12.0,Tunggu... kita benar-benar pergi?
+ms_045,Balanced,1,True,0.4666666666666667,1.1333333333333333,Pintu merah di sebelah kiri. 50%
+ms_045,Balanced,2,True,1.1333333333333333,1.2566666666666666,Pintumerah di sebelah kiri. 50%
+ms_045,Balanced,6,True,9.333333333333334,9.933333333333334,Tunggu... kita benar-benar pergi?
+ms_045,Balanced,7,True,9.933333333333334,9.99,Tunggu....kita benar-benar pergi?
+ms_045,Balanced,9,True,11.6,11.723333333333333,Tunggu...kita benar-benar pergi?
+ms_045,Balanced,10,True,11.733333333333333,11.933333333333334,Tunggu... kita benar-benar pergi?
+ms_046,Fast,1,True,0.5333333333333333,0.6566666666666666,Tunggu saya di sini
+ms_046,Fast,2,True,0.6666666666666666,0.79,Tunggu saya di sin
+ms_046,Fast,5,True,6.4,6.666666666666667,Pintu merah di sebelah kiri. 146
+ms_046,Fast,6,True,6.666666666666667,6.79,Pintu merah disebelah kiri. 146
+ms_046,Balanced,1,True,0.4666666666666667,0.6666666666666666,Tunggu saya di sini
+ms_046,Balanced,2,True,0.6666666666666666,0.7233333333333333,Tunggu saya di sin
+ms_046,Balanced,5,True,6.4,6.666666666666666,Pintu merah di sebelah kiri. 146
+ms_046,Balanced,6,True,6.666666666666667,6.723333333333334,Pintu merah disebelah kiri. 146
+ms_047,Fast,5,True,10.133333333333333,10.256666666666668,Saya tak perraya sudah tengah malam! 2026
+ms_047,Fast,6,True,10.266666666666667,10.39,Saya tak percaya sudah tengah malam! 2026
+ms_047,Fast,7,True,10.4,10.523333333333333,Saya tak pereaya sudah tengah malam! 2026
+ms_047,Fast,8,True,10.533333333333333,11.066666666666666,Saya tak percaya sudah tengah malam! 2026
+ms_047,Balanced,5,True,9.933333333333334,9.99,Saya tak pereeya sudah tengah malam! 2026
+ms_047,Balanced,6,True,10.0,10.123333333333333,Saya tak percaya sudah tengah malam! 2026
+ms_047,Balanced,7,True,10.133333333333333,10.19,Saya tak perraya sudah tengah malam! 2026
+ms_047,Balanced,8,True,10.2,10.4,Saya tak percaya sudah tengah malam! 2026
+ms_047,Balanced,9,True,10.4,10.523333333333333,Saya tak pereaya sudah tengah malam! 2026
+ms_047,Balanced,10,True,10.533333333333333,11.0,Saya tak percaya sudah tengah malam! 2026
+ms_049,Fast,2,True,1.2,1.3233333333333333,Saya takpercaya sudah tengah malam!
+ms_049,Fast,3,True,1.3333333333333333,1.8666666666666667,Saya tak percaya sudah tengah malam!
+ms_049,Balanced,2,True,1.2,1.2566666666666666,Saya takpercaya sudah tengah malam!
+ms_049,Balanced,3,True,1.2666666666666666,1.8666666666666667,Saya tak percaya sudah tengah malam!

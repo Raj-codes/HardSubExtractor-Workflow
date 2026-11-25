@@ -1,0 +1,12 @@
+* text=auto eol=lf
+
+# Build artifacts and authored binary documents stay byte-for-byte intact.
+*.pdf binary
+*.ico binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.exe binary
+*.zip binary
+*.tar.gz binary
+*.mp4 binary

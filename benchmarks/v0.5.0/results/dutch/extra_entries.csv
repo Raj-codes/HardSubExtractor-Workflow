@@ -1,0 +1,224 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+nl_001,Fast,6,True,15.2,15.323333333333334,"Zei je 19,95 of 90,15? 2000"
+nl_001,Fast,7,True,15.333333333333334,16.266666666666666,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Fast,8,True,16.266666666666666,16.389999999999997,"Zei je 19,95 of 90,15? 2000"
+nl_001,Fast,9,True,16.4,16.523333333333333,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Fast,10,True,16.533333333333335,16.8,"Zei je 19,95 of 90,15? 2000"
+nl_001,Fast,11,True,16.8,16.923333333333332,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Balanced,3,True,6.4,7.133333333333333,Ik kan het bijna niet geloven! 101
+nl_001,Balanced,4,True,7.133333333333334,7.19,Ik kan het bijna hiet geloven! 101
+nl_001,Balanced,8,True,15.2,15.256666666666668,"Zei je 19,95 of 90,15? 2000"
+nl_001,Balanced,9,True,15.266666666666667,15.933333333333334,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Balanced,10,True,15.933333333333334,15.99,"Zei je 19,95 of 90,15? 2000"
+nl_001,Balanced,11,True,16.0,16.266666666666666,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Balanced,12,True,16.266666666666666,16.389999999999997,"Zei je 19,95 of 90,15? 2000"
+nl_001,Balanced,13,True,16.4,16.523333333333333,"Zei je 19,95 of 90, 15? 2000"
+nl_001,Balanced,14,True,16.533333333333335,16.8,"Zei je 19,95 of 90,15? 2000"
+nl_001,Balanced,15,True,16.8,16.923333333333332,"Zei je 19,95 of 90, 15? 2000"
+nl_002,Fast,1,True,0.5333333333333333,0.6566666666666666,"Zei je 19,95 of 90,15?"
+nl_002,Fast,3,True,1.3333333333333333,1.5999999999999999,"Zei je 19,95 of 90,15?"
+nl_002,Fast,4,True,1.6,1.7233333333333334,"Zei je 19,95 of 90, 15?"
+nl_002,Fast,5,True,1.7333333333333334,2.1333333333333333,"Zei je 19,95 of 90,15?"
+nl_002,Fast,7,True,6.4,6.523333333333333,We vertrekken morgen vroeg 102
+nl_002,Fast,8,True,6.533333333333333,6.656666666666667,We vertrekken morgen vreeg 102
+nl_002,Balanced,1,True,0.4666666666666667,0.5233333333333333,"Zei je 19,95 of 90, 15?"
+nl_002,Balanced,2,True,0.5333333333333333,0.59,"Zei je 19,95 of 90,15?"
+nl_002,Balanced,4,True,1.3333333333333333,1.39,"Zei je 19,95 of 90,15?"
+nl_002,Balanced,5,True,1.4,1.4566666666666666,"Zei je 19,95 of 90, 15?"
+nl_002,Balanced,6,True,1.4666666666666666,1.59,"Zei je 19,95 of 90,15?"
+nl_002,Balanced,7,True,1.6,1.6566666666666667,"Zei je 19,95 of 90, 15?"
+nl_002,Balanced,8,True,1.6666666666666667,1.9333333333333333,"Zei je 19,95 of 90,15?"
+nl_002,Balanced,9,True,1.9333333333333333,1.99,"Zei je 19,95 of 90, 15?"
+nl_002,Balanced,10,True,2.0,2.18,"Zei je 19,95 of 90,15?"
+nl_002,Balanced,12,True,6.4,6.523333333333333,We vertrekken morgen vroeg 102
+nl_002,Balanced,13,True,6.533333333333333,6.59,We vertrekken morgen vreeg 102
+nl_002,Balanced,16,True,11.666666666666666,11.846666666666666,Wacht ep mij
+nl_003,Fast,1,True,0.5333333333333333,0.9333333333333333,De rode deur is links.
+nl_003,Fast,2,True,0.9333333333333333,1.0566666666666666,De róde deur is links.
+nl_003,Fast,3,True,1.0666666666666667,1.19,De gode deur is links.
+nl_003,Balanced,1,True,0.4666666666666667,0.8666666666666667,De rode deur is links.
+nl_003,Balanced,2,True,0.8666666666666667,0.9233333333333333,De røde deur is links.
+nl_003,Balanced,3,True,0.9333333333333333,0.99,De róde deur is links.
+nl_003,Balanced,4,True,1.0,1.0566666666666666,De rode deur is links.
+nl_003,Balanced,5,True,1.0666666666666667,1.1233333333333333,De gode deur is links.
+nl_003,Balanced,9,True,9.333333333333334,10.066666666666666,Wacht... gaan we echt?
+nl_003,Balanced,10,True,10.066666666666666,10.123333333333333,Wacht.gaan we echt?
+nl_003,Balanced,12,True,11.4,11.456666666666667,Wacht...gaan we echt?
+nl_003,Balanced,13,True,11.466666666666667,11.933333333333334,Wacht... gaan we echt?
+nl_005,Fast,3,True,6.4,6.666666666666667,Wacht op mij 105
+nl_005,Fast,4,True,6.666666666666667,6.79,Wacht ep mij 105
+nl_005,Fast,6,True,9.333333333333334,10.0,Ik kan het bijna niet geloven! 2026
+nl_005,Fast,7,True,10.0,10.123333333333333,Ik kan het bina niet geloven! 2026
+nl_005,Fast,8,True,10.133333333333333,10.256666666666668,Ik kan he bijna niet geloven! 2026
+nl_005,Balanced,3,True,6.4,6.666666666666666,Wacht op mij 105
+nl_005,Balanced,4,True,6.666666666666667,6.79,Wacht ep mij 105
+nl_005,Balanced,5,True,6.8,7.133333333333333,Wacht op mij 105
+nl_005,Balanced,6,True,7.133333333333334,7.19,Wacht up mij 105
+nl_005,Balanced,8,True,9.333333333333334,10.0,Ik kan het bijna niet geloven! 2026
+nl_005,Balanced,9,True,10.0,10.056666666666667,Ik kan het bina niet geloven! 2026
+nl_005,Balanced,10,True,10.066666666666666,10.123333333333333,Ik kan het bijna niet geloven! 2026
+nl_005,Balanced,11,True,10.133333333333333,10.19,Ik kan he bijna niet geloven! 2026
+nl_007,Fast,4,True,9.333333333333334,10.133333333333333,"Zei je 19,95 of 90,15?"
+nl_007,Fast,5,True,10.133333333333333,10.256666666666668,"Zeije 19,95 of 90,15?"
+nl_007,Balanced,4,True,9.333333333333334,10.133333333333333,"Zei je 19,95 of 90,15?"
+nl_007,Balanced,5,True,10.133333333333333,10.19,"Zeije 19,95 of 90,15?"
+nl_007,Balanced,6,True,10.2,10.466666666666667,"Zei je 19,95 of 90,15?"
+nl_007,Balanced,7,True,10.466666666666667,10.523333333333333,"Zeije 19,95 of 90,15?"
+nl_010,Balanced,4,True,8.2,8.256666666666668,"Zei je 19,95 of 90, 15? 110"
+nl_010,Balanced,5,True,8.266666666666667,9.0,"Zei je 19,95 of 90,15? 110"
+nl_014,Fast,4,True,9.333333333333334,10.133333333333333,"Zei je 19,95 of 90,15?"
+nl_014,Fast,5,True,10.133333333333333,10.256666666666668,"Zeije 19,95 of 90,15?"
+nl_014,Balanced,4,True,9.333333333333334,10.133333333333333,"Zei je 19,95 of 90,15?"
+nl_014,Balanced,5,True,10.133333333333333,10.19,"Zeije 19,95 of 90,15?"
+nl_014,Balanced,6,True,10.2,10.466666666666667,"Zei je 19,95 of 90,15?"
+nl_014,Balanced,7,True,10.466666666666667,10.523333333333333,"Zeije 19,95 of 90,15?"
+nl_015,Fast,1,True,0.5333333333333333,0.9333333333333333,We vertrekken morgen vroeg 2026
+nl_015,Fast,2,True,0.9333333333333333,1.0566666666666666,Wevertrekken morgen vroeg 2026
+nl_015,Fast,4,True,1.7333333333333334,2.0,Wevertrekken morgen vroeg 2026
+nl_015,Fast,5,True,2.0,2.4,We vertrekken morgen vroeg 2026
+nl_015,Fast,8,True,9.333333333333334,10.133333333333333,De rode deur is links.
+nl_015,Fast,9,True,10.133333333333333,10.256666666666668,Derode deur is links.
+nl_015,Balanced,1,True,0.4666666666666667,0.8666666666666667,We vertrekken morgen vroeg 2026
+nl_015,Balanced,2,True,0.8666666666666667,1.0666666666666667,Wevertrekken morgen vroeg 2026
+nl_015,Balanced,3,True,1.0666666666666667,1.4,We vertrekken morgen vroeg 2026
+nl_015,Balanced,4,True,1.4,1.4566666666666666,Wevertrekken morgen vroeg 2026
+nl_015,Balanced,5,True,1.4666666666666666,1.7333333333333334,We vertrekken morgen vroeg 2026
+nl_015,Balanced,6,True,1.7333333333333334,1.9333333333333333,Wevertrekken morgen vroeg 2026
+nl_015,Balanced,7,True,1.9333333333333333,2.3333333333333335,We vertrekken morgen vroeg 2026
+nl_015,Balanced,10,True,9.333333333333334,10.133333333333333,De rode deur is links.
+nl_015,Balanced,11,True,10.133333333333333,10.19,Derode deur is links.
+nl_015,Balanced,12,True,10.2,10.466666666666667,De rode deur is links.
+nl_015,Balanced,13,True,10.466666666666667,10.523333333333333,Derode deur is links.
+nl_016,Fast,4,True,8.133333333333333,8.4,We vertrekken morgen vroeg116
+nl_016,Fast,5,True,8.4,9.066666666666666,We vertrekken morgen vroeg 116
+nl_016,Balanced,4,True,8.066666666666666,8.19,We vertrekken morgen vroeg116
+nl_016,Balanced,5,True,8.2,8.256666666666668,We vertrekken morgen vroeg 116
+nl_016,Balanced,6,True,8.266666666666667,8.323333333333334,We vertrekken morgen vroeg116
+nl_016,Balanced,7,True,8.333333333333334,8.456666666666667,We vertrekken morgen vroeg 116
+nl_016,Balanced,8,True,8.466666666666667,8.523333333333333,We vertrekken morgen vroeg116
+nl_016,Balanced,9,True,8.533333333333333,9.0,We vertrekken morgen vroeg 116
+nl_019,Fast,3,True,6.4,6.666666666666667,Wacht op mij 119
+nl_019,Fast,4,True,6.666666666666667,6.79,Wacht ep mij 119
+nl_019,Balanced,3,True,6.4,6.666666666666666,Wacht op mij 119
+nl_019,Balanced,4,True,6.666666666666667,6.723333333333334,Wacht ep mij 119
+nl_021,Fast,5,True,11.466666666666667,11.59,"Zeije 19,95 of 90,15?"
+nl_021,Fast,6,True,11.6,12.0,"Zei je 19,95 of 90,15?"
+nl_021,Balanced,2,True,1.4,1.4566666666666666,İk kan het bijna niet geloven!
+nl_021,Balanced,3,True,1.4666666666666666,2.3333333333333335,Ik kan het bijna niet geloven!
+nl_021,Balanced,7,True,11.466666666666667,11.59,"Zeije 19,95 of 90,15?"
+nl_021,Balanced,8,True,11.6,11.933333333333334,"Zei je 19,95 of 90,15?"
+nl_024,Fast,3,True,6.4,6.933333333333334,"Zei je 19,95 of 90,15? 124"
+nl_024,Fast,4,True,6.933333333333334,7.056666666666667,"Zeitje 19,95 of 90,15? 124"
+nl_024,Balanced,3,True,6.4,6.933333333333333,"Zei je 19,95 of 90,15? 124"
+nl_024,Balanced,4,True,6.933333333333334,6.99,"Zeitje 19,95 of 90,15? 124"
+nl_025,Fast,3,True,4.8,4.923333333333334,İk kan het bijna niet geloven!
+nl_025,Fast,4,True,4.933333333333334,5.133333333333334,Ik kan het bijna niet geloven!
+nl_025,Fast,8,True,15.2,15.466666666666667,Wacht... gaan we echt? 2024
+nl_025,Fast,9,True,15.466666666666667,15.733333333333333,Wacht...gaan we echt? 2024
+nl_025,Balanced,3,True,4.8,4.8566666666666665,İk kan het bijna niet geloven!
+nl_025,Balanced,4,True,4.866666666666666,4.923333333333334,Ík kan het bijna niet geloven!
+nl_025,Balanced,5,True,4.933333333333334,5.113333333333333,Ik kan het bijna niet geloven!
+nl_025,Balanced,9,True,15.2,15.466666666666667,Wacht... gaan we echt? 2024
+nl_025,Balanced,10,True,15.466666666666667,15.523333333333333,Wacht...gaan we echt? 2024
+nl_025,Balanced,11,True,15.533333333333333,15.59,Wacht... gaan we echt? 2024
+nl_025,Balanced,12,True,15.6,15.656666666666666,Wacht...gaan we echt? 2024
+nl_026,Balanced,3,True,6.4,6.733333333333333,Wacht op mij 126
+nl_026,Balanced,4,True,6.733333333333333,6.79,Wachtop mij 126
+nl_027,Fast,4,True,9.333333333333334,10.133333333333333,We vertrekken morgen vroeg
+nl_027,Fast,5,True,10.133333333333333,10.256666666666668,Wevertrekken morgen vroeg
+nl_027,Balanced,3,True,6.4,7.133333333333333,Wacht... gaan we echt? 127
+nl_027,Balanced,4,True,7.133333333333334,7.19,Wacht...gaan we echt? 127
+nl_027,Balanced,6,True,9.333333333333334,10.133333333333333,We vertrekken morgen vroeg
+nl_027,Balanced,7,True,10.133333333333333,10.19,Wevertrekken morgen vroeg
+nl_027,Balanced,8,True,10.2,10.466666666666667,We vertrekken morgen vroeg
+nl_027,Balanced,9,True,10.466666666666667,10.523333333333333,Wevertrekken morgen vroeg
+nl_028,Fast,5,True,10.133333333333333,10.256666666666668,"Zeilje 19,95 of 90,15?"
+nl_028,Fast,6,True,10.266666666666667,10.799999999999999,"Zei je 19,95 of 90,15?"
+nl_028,Fast,8,True,15.2,15.323333333333334,Wevertrekken morgen vroeg 2027
+nl_028,Fast,9,True,15.333333333333334,15.456666666666667,We vertrekken morgen vroeg 2027
+nl_028,Fast,10,True,15.466666666666667,15.59,Wevertrekken morgen vroeg 2027
+nl_028,Fast,11,True,15.6,15.866666666666665,We vertrekken morgen vroeg 2027
+nl_028,Fast,13,True,16.8,17.066666666666666,We vertrekken morgen vroeg 2027
+nl_028,Balanced,5,True,10.066666666666666,10.123333333333333,"Zeije 19,95 of 90,15?"
+nl_028,Balanced,6,True,10.133333333333333,10.19,"Zeilje 19,95 of 90,15?"
+nl_028,Balanced,7,True,10.2,10.466666666666667,"Zei je 19,95 of 90,15?"
+nl_028,Balanced,8,True,10.466666666666667,10.523333333333333,"Zeije 19,95 of 90,15?"
+nl_028,Balanced,9,True,10.533333333333333,10.733333333333333,"Zei je 19,95 of 90,15?"
+nl_028,Balanced,11,True,15.2,15.323333333333334,Wevertrekken morgen vroeg 2027
+nl_028,Balanced,12,True,15.333333333333334,15.39,We vertrekken morgen vroeg 2027
+nl_028,Balanced,13,True,15.4,15.523333333333333,Wevertrekken morgen vroeg 2027
+nl_028,Balanced,14,True,15.533333333333333,15.866666666666667,We vertrekken morgen vroeg 2027
+nl_028,Balanced,16,True,16.8,17.0,We vertrekken morgen vroeg 2027
+nl_028,Balanced,17,True,17.0,17.18,Wevertrekken morgen vroeg 2027
+nl_029,Balanced,3,True,5.266666666666667,5.323333333333333,Wachtop mij
+nl_029,Balanced,4,True,5.333333333333333,6.0,Wacht op mij
+nl_030,Fast,2,True,1.7333333333333334,1.8566666666666667,"Zei je 19,95 of 90, 15?"
+nl_030,Fast,3,True,1.8666666666666667,3.0666666666666664,"Zei je 19,95 of 90,15?"
+nl_030,Balanced,1,True,0.4666666666666667,1.7333333333333334,"Zei je 19,95 of 90,15?"
+nl_030,Balanced,2,True,1.7333333333333334,1.79,"Zei je 19,95 of 90, 15?"
+nl_032,Fast,5,True,12.266666666666667,13.466666666666667,"Zei je 19,95 of 90,15? 2026"
+nl_032,Fast,6,True,13.466666666666667,13.59,"Zei je19,95 of 90,15? 2026"
+nl_032,Fast,9,True,16.133333333333333,16.256666666666664,Wacht...gaan we echt? 2031
+nl_032,Fast,10,True,16.266666666666666,16.666666666666668,Wacht... gaan we echt? 2031
+nl_032,Balanced,5,True,12.266666666666667,13.466666666666667,"Zei je 19,95 of 90,15? 2026"
+nl_032,Balanced,6,True,13.466666666666667,13.523333333333333,"Zei je19,95 of 90,15? 2026"
+nl_032,Balanced,9,True,16.066666666666666,16.189999999999998,Wacht...gaan we echt? 2031
+nl_032,Balanced,10,True,16.2,16.6,Wacht... gaan we echt? 2031
+nl_033,Fast,4,True,9.333333333333334,10.533333333333333,Ik kan het bijna niet geloven! 2026
+nl_033,Fast,5,True,10.533333333333333,10.656666666666666,Ik kanhet bijna niet geloven! 2026
+nl_033,Balanced,4,True,9.333333333333334,10.533333333333333,Ik kan het bijna niet geloven! 2026
+nl_033,Balanced,5,True,10.533333333333333,10.59,Ik kanhet bijna niet geloven! 2026
+nl_035,Fast,3,True,6.4,6.8,We vertrekken morgen laat 135
+nl_035,Fast,4,True,6.8,6.923333333333334,We vertrekke morgen laat 135
+nl_035,Balanced,3,True,6.4,6.733333333333333,We vertrekken morgen laat 135
+nl_035,Balanced,4,True,6.733333333333333,6.79,We vertrekkern morgen laat 135
+nl_035,Balanced,5,True,6.8,6.8566666666666665,We vertrekke morgen laat 135
+nl_038,Fast,3,True,6.4,7.2,"Zei je 19,95 of 90,15? 138"
+nl_038,Fast,4,True,7.2,7.323333333333333,"Zeije 19,95 of 90,15? 138"
+nl_038,Balanced,3,True,6.4,7.2,"Zei je 19,95 of 90,15? 138"
+nl_038,Balanced,4,True,7.2,7.256666666666667,"Zeije 19,95 of 90,15? 138"
+nl_041,Fast,3,True,5.2,5.466666666666667,"Zei je 19 95 of 90,15?"
+nl_041,Fast,4,True,5.466666666666667,6.0,"Zei je 19,95 of 90,15?"
+nl_041,Balanced,3,True,5.2,5.3999999999999995,"Zei je 19 95 of 90,15?"
+nl_041,Balanced,4,True,5.4,6.0,"Zei je 19,95 of 90,15?"
+nl_041,Balanced,6,True,6.733333333333333,6.79,Wacht....gaan we echt? 141
+nl_041,Balanced,7,True,6.8,6.9799999999999995,Wacht.. gaan we echt? 141
+nl_042,Fast,5,True,10.0,10.123333333333333,"Zeije 19 95 of 90,15? 50%"
+nl_042,Fast,6,True,10.133333333333333,10.256666666666668,"Zeilje 19.95 of 90,15? 50%"
+nl_042,Fast,7,True,10.266666666666667,10.533333333333333,"Zei je 19.95 of 90,15? 50%"
+nl_042,Fast,8,True,10.533333333333333,10.656666666666666,"Zei je 19 95 of 90,15? 50%"
+nl_042,Fast,9,True,10.666666666666666,11.2,"Zei je 19.95 of 90,15? 50%"
+nl_042,Balanced,5,True,10.0,10.056666666666667,"Zeije 19 95 of 90,15? 50%"
+nl_042,Balanced,6,True,10.066666666666666,10.123333333333333,"Zei je 19 95 of 90,15? 50%"
+nl_042,Balanced,7,True,10.133333333333333,10.19,"Zeilje 19.95 of 90,15? 50%"
+nl_042,Balanced,8,True,10.2,10.466666666666667,"Zei je 19.95 of 90,15? 50%"
+nl_042,Balanced,9,True,10.466666666666667,10.523333333333333,"Zeije 19.95 of 90,15? 50%"
+nl_042,Balanced,10,True,10.533333333333333,10.59,"Zei je 19 95 of 90,15? 50%"
+nl_042,Balanced,11,True,10.6,11.2,"Zei je 19.95 of 90,15? 50%"
+nl_043,Fast,3,True,6.4,6.523333333333333,k kan het bijna niet geloven! 143
+nl_043,Fast,4,True,6.533333333333333,7.066666666666666,Ik kan het bijna niet geloven! 143
+nl_043,Fast,5,True,7.066666666666666,7.19,Ik kan het bijnaniet geloven! 143
+nl_043,Balanced,3,True,6.4,6.456666666666667,k kan het bijna niet geloven! 143
+nl_043,Balanced,4,True,6.466666666666667,6.733333333333333,Ik kan het bijna niet geloven! 143
+nl_043,Balanced,5,True,6.733333333333333,6.79,Ik kan het bijnaniet geloven! 143
+nl_043,Balanced,6,True,6.8,7.066666666666666,Ik kan het bijna niet geloven! 143
+nl_043,Balanced,7,True,7.066666666666666,7.19,Ik kan het bijnaniet geloven! 143
+nl_043,Balanced,10,True,10.466666666666667,10.523333333333333,Derode deur is links.
+nl_043,Balanced,11,True,10.533333333333333,11.4,De rode deur is links.
+nl_043,Balanced,12,True,11.4,11.58,De rodedeuris links.
+nl_044,Fast,5,True,11.466666666666667,11.59,Wachtop mij
+nl_044,Fast,6,True,11.6,11.799999999999999,Wacht op mij
+nl_044,Balanced,3,True,6.4,6.733333333333333,We vertrekken morgen vroeg 144
+nl_044,Balanced,4,True,6.733333333333333,6.79,We vertrekkenimorgen vroeg 144
+nl_044,Balanced,7,True,11.4,11.456666666666667,Wachtopmij
+nl_044,Balanced,8,True,11.466666666666667,11.523333333333333,Wachtop mij
+nl_044,Balanced,9,True,11.533333333333333,11.733333333333333,Wacht op mij
+nl_047,Fast,5,True,10.133333333333333,10.256666666666668,Ik kan hat bijna niet geloven! 2026
+nl_047,Fast,6,True,10.266666666666667,11.066666666666666,Ik kan het bijna niet geloven! 2026
+nl_047,Balanced,4,True,9.333333333333334,10.133333333333333,Ik kan het bijna niet geloven! 2026
+nl_047,Balanced,5,True,10.133333333333333,10.19,Ik kan hat bijna niet geloven! 2026
+nl_049,Fast,4,True,9.333333333333334,10.133333333333333,"Zei je 19,95 of 90,15?"
+nl_049,Fast,5,True,10.133333333333333,10.256666666666668,"Zei je-19,95 of 90,15?"
+nl_049,Balanced,4,True,9.333333333333334,10.066666666666666,"Zei je 19,95 of 90,15?"
+nl_049,Balanced,5,True,10.066666666666666,10.123333333333333,"Zei je 19 95 of 90,15?"
+nl_049,Balanced,6,True,10.133333333333333,10.19,"Zei je-19,95 of 90,15?"

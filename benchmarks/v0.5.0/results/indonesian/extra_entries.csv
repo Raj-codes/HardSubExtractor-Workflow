@@ -1,0 +1,337 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+id_001,Fast,3,True,6.4,7.066666666666666,Aku tak percaya sudah tengah malam! 101
+id_001,Fast,4,True,7.066666666666666,7.19,Aku tak percaya sudan tengah malam! 101
+id_001,Fast,9,True,16.4,16.8,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Fast,10,True,16.8,16.923333333333332,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Fast,11,True,16.933333333333334,17.056666666666665,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Fast,12,True,17.066666666666666,17.866666666666667,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,3,True,6.4,7.066666666666666,Aku tak percaya sudah tengah malam! 101
+id_001,Balanced,4,True,7.066666666666666,7.123333333333334,Aku tak percaya sudan tengah malam! 101
+id_001,Balanced,6,True,9.333333333333334,9.933333333333334,Pintu merah ada di sebelah kiri.
+id_001,Balanced,7,True,9.933333333333334,9.99,Pinta merah ada di sebelah kiri.
+id_001,Balanced,9,True,11.0,11.056666666666667,Pintú merah ada di sebelah kiri.
+id_001,Balanced,10,True,11.066666666666666,11.466666666666667,Pintu merah ada di sebelah kiri.
+id_001,Balanced,12,True,15.2,15.533333333333333,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,13,True,15.533333333333333,15.59,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,14,True,15.6,15.656666666666666,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,15,True,15.666666666666666,15.723333333333333,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,16,True,15.733333333333333,16.333333333333332,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,17,True,16.333333333333332,16.456666666666663,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,18,True,16.466666666666665,16.523333333333333,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,19,True,16.533333333333335,16.59,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,20,True,16.6,16.656666666666666,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,21,True,16.666666666666668,16.79,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,22,True,16.8,16.923333333333332,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,23,True,16.933333333333334,17.056666666666665,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,24,True,17.066666666666666,17.12333333333333,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,25,True,17.133333333333333,17.189999999999998,"Kamu bilang 19 95 atau 90,15? 2000"
+id_001,Balanced,26,True,17.2,17.666666666666668,"Kamu bilang 19,95 atau 90,15? 2000"
+id_001,Balanced,27,True,17.666666666666668,17.723333333333333,"Kamu bilang 19,95 atau 90, 15? 2000"
+id_001,Balanced,28,True,17.733333333333334,17.913333333333334,"Kamu bilang 19,95 atau 90,15? 2000"
+id_002,Fast,2,True,3.466666666666667,3.8666666666666667,Tunggu.. kita benar-benar pergi?
+id_002,Fast,3,True,3.8666666666666667,3.99,Tunggu....kita benar-benar pergi?
+id_002,Balanced,2,True,3.4,3.6666666666666665,Tunggu:.. kita benar-benar pergi?
+id_002,Balanced,3,True,3.6666666666666665,3.7233333333333336,Tunggun. kita benar-benar pergi?
+id_002,Balanced,4,True,3.7333333333333334,3.856666666666667,Tunggu.. kita benar-benar pergi?
+id_002,Balanced,5,True,3.8666666666666667,3.99,Tunggu....kita benar-benar pergi?
+id_002,Balanced,9,True,12.266666666666667,13.533333333333333,Aku tak percaya sudah tengah malam!
+id_002,Balanced,10,True,13.533333333333333,13.59,Aku tak percaya sudah tengahmalam!
+id_003,Fast,1,True,0.5333333333333333,0.6566666666666666,Pintu merah ada di sebelah kiri.
+id_003,Fast,2,True,0.6666666666666666,0.79,Pintu merab ada di sebelah kiri.
+id_003,Fast,4,True,1.6,1.7233333333333334,Pintu merah ada di sebelah kiril
+id_003,Fast,5,True,1.7333333333333334,2.4,Pintu merah ada di sebelah kiri
+id_003,Fast,8,True,9.333333333333334,10.0,Tunggu... kita benar-benar pergi?
+id_003,Fast,9,True,10.0,10.266666666666666,Tunggu...kita benar-benar pergi?
+id_003,Fast,11,True,11.466666666666667,11.59,Tunggu...kita benar-benar pergi?
+id_003,Fast,12,True,11.6,12.0,Tunggu... kita benar-benar pergi?
+id_003,Balanced,1,True,0.4666666666666667,0.59,Pintu merah ada di sebelah kiri.
+id_003,Balanced,2,True,0.6,0.7233333333333333,Pintu merab ada di sebelah kiri.
+id_003,Balanced,4,True,1.6,1.6566666666666667,Pintu merah ada di sebelah kiril
+id_003,Balanced,5,True,1.6666666666666667,2.3333333333333335,Pintu merah ada di sebelah kiri
+id_003,Balanced,8,True,9.333333333333334,10.0,Tunggu... kita benar-benar pergi?
+id_003,Balanced,9,True,10.0,10.2,Tunggu...kita benar-benar pergi?
+id_003,Balanced,11,True,11.466666666666667,11.523333333333333,Tunggu...kita benar-benar pergi?
+id_003,Balanced,12,True,11.533333333333333,11.933333333333334,Tunggu... kita benar-benar pergi?
+id_004,Fast,3,True,6.4,6.666666666666667,Pintu merah ada di sebelah kiri. 104
+id_004,Fast,4,True,6.666666666666667,6.79,Pintu merah adadi sebelah kiri. 104
+id_004,Balanced,3,True,6.4,6.666666666666666,Pintu merah ada di sebelah kiri. 104
+id_004,Balanced,4,True,6.666666666666667,6.723333333333334,Pintu merah adadi sebelah kiri. 104
+id_005,Fast,5,True,10.133333333333333,10.256666666666668,Aku tak pereaya sudah tengah malam! 2026
+id_005,Fast,6,True,10.266666666666667,10.39,Aku tak percaya sudah tengah malam! 2026
+id_005,Fast,7,True,10.4,10.523333333333333,Aku tak pereaya sudah tengah malam! 2026
+id_005,Fast,8,True,10.533333333333333,11.066666666666666,Aku tak percaya sudah tengah malam! 2026
+id_005,Balanced,5,True,9.933333333333334,9.99,Aku tak pereaya sudah tengah malam! 2026
+id_005,Balanced,6,True,10.0,10.123333333333333,Aku tak percaya sudah tengah malam! 2026
+id_005,Balanced,7,True,10.133333333333333,10.19,Aku tak pereaya sudah tengah malam! 2026
+id_005,Balanced,8,True,10.2,10.4,Aku tak percaya sudah tengah malam! 2026
+id_005,Balanced,9,True,10.4,10.523333333333333,Aku tak pereaya sudah tengah malam! 2026
+id_005,Balanced,10,True,10.533333333333333,11.0,Aku tak percaya sudah tengah malam! 2026
+id_008,Fast,4,True,9.333333333333334,10.4,Pintu merah ada di sebelah kiri.
+id_008,Fast,5,True,10.4,10.523333333333333,Pintumerah ada di sebelah kiri.
+id_008,Balanced,4,True,9.333333333333334,10.4,Pintu merah ada di sebelah kiri.
+id_008,Balanced,5,True,10.4,10.456666666666667,Pintumerah ada di sebelah kiri.
+id_009,Balanced,5,True,11.533333333333333,11.59,Tunggursebentar 50%
+id_009,Balanced,6,True,11.6,11.933333333333334,Tunggu Sebentar 50%
+id_010,Balanced,4,True,9.333333333333334,9.933333333333334,Tunggu... kita benar-benar pergi?
+id_010,Balanced,5,True,9.933333333333334,9.99,Tunggu.kita benar-benar pergi?
+id_011,Balanced,4,True,6.866666666666666,7.046666666666666,Pintu merahada di sebelah kiri. 111
+id_012,Fast,3,True,6.4,6.8,Tunggu sebentar 112
+id_012,Fast,4,True,6.8,6.923333333333334,Tunggusebentar 112
+id_012,Fast,5,True,6.933333333333334,7.056666666666667,Tunggu sebentar 112
+id_012,Fast,6,True,7.066666666666666,7.19,Tunggusebentar 112
+id_012,Balanced,3,True,6.4,6.8,Tunggu sebentar 112
+id_012,Balanced,4,True,6.8,6.8566666666666665,Tunggusebentar 112
+id_012,Balanced,5,True,6.866666666666666,7.066666666666666,Tunggu sebentar 112
+id_012,Balanced,6,True,7.066666666666666,7.19,Tunggusebentar 112
+id_013,Fast,7,True,16.533333333333335,16.8,Aku tak percaya sudah tengah malam!2012
+id_013,Fast,8,True,16.8,16.923333333333332,Aku tak percaya sudah tengah malam! 2012
+id_013,Fast,9,True,16.933333333333334,17.056666666666665,Aku tak percaya sudah tengah malam!2012
+id_013,Fast,10,True,17.066666666666666,17.866666666666667,Aku tak percaya sudah tengah malam! 2012
+id_013,Balanced,7,True,16.533333333333335,16.8,Aku tak percaya sudah tengah malam!2012
+id_013,Balanced,8,True,16.8,16.923333333333332,Aku tak percaya sudah tengah malam! 2012
+id_013,Balanced,9,True,16.933333333333334,16.99,Aku tak percaya sudah tengah malam!2012
+id_013,Balanced,10,True,17.0,17.12333333333333,Aku tak percaya sudah tengah malam! 2012
+id_013,Balanced,11,True,17.133333333333333,17.189999999999998,Aku tak percaya sudah tengah malam!2012
+id_013,Balanced,12,True,17.2,17.8,Aku tak percaya sudah tengah malam! 2012
+id_015,Fast,3,True,6.4,6.523333333333333,Aku tak percaya sudah tengah malam!115
+id_015,Fast,5,True,8.666666666666666,8.866666666666665,Aku tak percaya sudah tengah malam!115
+id_015,Fast,6,True,9.333333333333334,10.0,Pintu merah ada di sebelah kiri.
+id_015,Fast,7,True,10.0,10.123333333333333,Pintu merahada di sebelah kiri.
+id_015,Fast,8,True,10.133333333333333,10.4,Pintu merah ada di sebelah kiri.
+id_015,Fast,9,True,10.4,10.523333333333333,Pintumerah ada di sebelah kiri.
+id_015,Fast,11,True,11.466666666666667,11.866666666666665,Pintu merahada di sebelah kiri.
+id_015,Fast,12,True,11.866666666666667,12.066666666666666,Pintu merah ada di sebelah kiri.
+id_015,Balanced,3,True,6.4,6.523333333333333,Aku tak percaya sudah tengah malam!115
+id_015,Balanced,4,True,6.533333333333333,6.59,Aku tak percaya sudah tengah malam! 115
+id_015,Balanced,5,True,6.6,6.656666666666667,Aku tak percaya sudah tengah malam!115
+id_015,Balanced,7,True,8.6,8.799999999999999,Aku tak percaya sudah tengah malam!115
+id_015,Balanced,8,True,9.333333333333334,10.0,Pintu merah ada di sebelah kiri.
+id_015,Balanced,9,True,10.0,10.123333333333333,Pintu merahada di sebelah kiri.
+id_015,Balanced,10,True,10.133333333333333,10.4,Pintu merah ada di sebelah kiri.
+id_015,Balanced,11,True,10.4,10.456666666666667,Pintumerah ada di sebelah kiri.
+id_015,Balanced,13,True,11.4,11.456666666666667,Pintu merahadadi sebelah kiri.
+id_015,Balanced,14,True,11.466666666666667,11.799999999999999,Pintu merahada di sebelah kiri.
+id_015,Balanced,15,True,11.8,11.98,Pintu merah ada di sebelah kiri.
+id_017,Fast,5,True,10.533333333333333,10.656666666666666,Tunggu.kita benar-benar pergi?
+id_017,Fast,6,True,10.666666666666666,11.066666666666666,Tunggu... kita benar-benar pergi?
+id_017,Balanced,3,True,6.4,6.733333333333333,"Kamu bilang 19,95 atau 90,15? 117"
+id_017,Balanced,4,True,6.733333333333333,6.79,"Kamu bilang 19 95 atau 90,15? 117"
+id_017,Balanced,7,True,10.533333333333333,10.59,Tunggu.kita benar-benar pergi?
+id_017,Balanced,8,True,10.6,11.0,Tunggu... kita benar-benar pergi?
+id_019,Balanced,2,True,1.8,1.98,Tunggu...kita benar-benar pergi?
+id_022,Fast,5,True,10.4,10.523333333333333,Pinturmerah ada di sebelah kiri.
+id_022,Fast,6,True,10.533333333333333,10.799999999999999,Pintu merah ada di sebelah kiri.
+id_022,Balanced,5,True,10.4,10.456666666666667,Pinturmerah ada di sebelah kiri.
+id_022,Balanced,6,True,10.466666666666667,10.733333333333333,Pintu merah ada di sebelah kiri.
+id_026,Fast,2,True,2.0,2.2,Tunggu...kita benar-benar pergi?
+id_026,Fast,4,True,6.4,7.066666666666666,Tunggu sebentar 126
+id_026,Fast,5,True,7.066666666666666,7.19,Tungguisebentar 126
+id_026,Fast,7,True,8.266666666666667,8.39,Tunggusebentar 126
+id_026,Fast,8,True,8.4,8.6,Tunggu sebentar 126
+id_026,Fast,9,True,9.333333333333334,9.733333333333333,Akutak percaya sudah tengah malam! 2026
+id_026,Fast,11,True,11.6,11.799999999999999,Aku tak percayasudah tengah malam! 2026
+id_026,Balanced,2,True,2.0,2.056666666666667,Tunggu...kita benar-benar pergi?
+id_026,Balanced,3,True,2.066666666666667,2.246666666666667,Tunggu... kita benar-benar pergi?
+id_026,Balanced,5,True,6.4,7.066666666666666,Tunggu sebentar 126
+id_026,Balanced,6,True,7.066666666666666,7.123333333333334,Tungguisebentar 126
+id_026,Balanced,8,True,8.2,8.256666666666668,Tungguisebentar 126
+id_026,Balanced,9,True,8.266666666666667,8.323333333333334,Tunggusebentar 126
+id_026,Balanced,10,True,8.333333333333334,8.533333333333333,Tunggu sebentar 126
+id_026,Balanced,11,True,9.333333333333334,9.733333333333333,Akutak percaya sudah tengah malam! 2026
+id_026,Balanced,13,True,11.533333333333333,11.59,Akutak percaya sudah tengah malam! 2026
+id_026,Balanced,14,True,11.6,11.656666666666666,Aku tak percayasudah tengah malam! 2026
+id_026,Balanced,15,True,11.666666666666666,11.846666666666666,Akultak percayasudah tengah malam! 2026
+id_026,Balanced,18,True,15.933333333333334,16.113333333333333,Kita berangkat besok malam 2025
+id_027,Fast,1,True,0.5333333333333333,0.6566666666666666,Kitaberangkat besok malam
+id_027,Fast,4,True,6.4,6.8,Tunggu... kita benar-benar pergi? 127
+id_027,Fast,5,True,6.8,6.923333333333334,Tunggu...kita benar-benar pergi? 127
+id_027,Fast,6,True,6.933333333333334,7.2,Tunggu... kita benar-benar pergi? 127
+id_027,Fast,7,True,7.2,7.323333333333333,Tunggu...kita benar-benar pergi? 127
+id_027,Fast,9,True,8.266666666666667,8.39,Tunggu...kita benar-benar pergi?127
+id_027,Fast,10,True,8.4,8.799999999999999,Tunggu... kita benar-benar pergi? 127
+id_027,Fast,11,True,9.333333333333334,10.0,Kita berangkat besok pagi
+id_027,Fast,12,True,10.0,10.123333333333333,Kitalberangkat besok pagi
+id_027,Fast,13,True,10.133333333333333,10.256666666666668,Kitaberangkat besok pagi
+id_027,Fast,16,True,15.2,15.323333333333334,Aku tak percaya sudah tengah malam! 2026
+id_027,Fast,17,True,15.333333333333334,15.456666666666667,Aku tak percaya sudah tengah malam!2026
+id_027,Fast,18,True,15.466666666666667,15.59,Akutak percaya sudah tengah malam!2026
+id_027,Fast,19,True,15.6,15.866666666666665,Aku tak percaya sudah tengah malam!2026
+id_027,Balanced,1,True,0.4666666666666667,0.59,Kitaberangkat besok malam
+id_027,Balanced,4,True,6.4,6.8,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,5,True,6.8,6.923333333333334,Tunggu...kita benar-benar pergi? 127
+id_027,Balanced,6,True,6.933333333333334,6.99,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,7,True,7.0,7.056666666666667,Tunggu...kita benar-benar pergi? 127
+id_027,Balanced,8,True,7.066666666666666,7.19,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,9,True,7.2,7.256666666666667,Tunggu...kita benar-benar pergi? 127
+id_027,Balanced,10,True,7.266666666666667,7.8,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,11,True,7.8,7.8566666666666665,Tunggu...kita benar-benar pergi? 127
+id_027,Balanced,12,True,7.866666666666666,8.2,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,13,True,8.2,8.256666666666668,Tunggu...kitalbenar-benar pergi? 127
+id_027,Balanced,14,True,8.266666666666667,8.323333333333334,Tunggu...kita benar-benar pergi?127
+id_027,Balanced,15,True,8.333333333333334,8.39,Tunggu...kita benar-benarpergi?127
+id_027,Balanced,16,True,8.4,8.799999999999999,Tunggu... kita benar-benar pergi? 127
+id_027,Balanced,17,True,9.333333333333334,10.0,Kita berangkat besok pagi
+id_027,Balanced,18,True,10.0,10.056666666666667,Kitalberangkat besok pagi
+id_027,Balanced,19,True,10.066666666666666,10.123333333333333,Kita berangkat besok pagi
+id_027,Balanced,20,True,10.133333333333333,10.19,Kitaberangkat besok pagi
+id_027,Balanced,21,True,10.2,10.466666666666667,Kita berangkat besok pagi
+id_027,Balanced,22,True,10.466666666666667,10.523333333333333,Kitaberangkat besok pagi
+id_027,Balanced,25,True,15.2,15.256666666666668,Aku tak percaya sudah tengah malam! 2026
+id_027,Balanced,26,True,15.266666666666667,15.466666666666667,Aku tak percaya sudah tengah malam!2026
+id_027,Balanced,27,True,15.466666666666667,15.523333333333333,Akutak percaya sudah tengah malam!2026
+id_027,Balanced,28,True,15.533333333333333,15.799999999999999,Aku tak percaya sudah tengah malam!2026
+id_027,Balanced,29,True,15.8,15.856666666666667,Akutak percaya sudah tengah malam! 2026
+id_028,Fast,1,True,0.5333333333333333,1.0666666666666667,Aku tak percaya sudah tengah malam!
+id_028,Fast,2,True,1.0666666666666667,1.19,Aku takpercaya sudah tengah malam!
+id_028,Fast,3,True,1.2,1.4666666666666666,Akutakpercaya sudah tengah malam!
+id_028,Fast,4,True,1.4666666666666666,1.7333333333333334,Akutak percaya sudah tengah malam!
+id_028,Fast,7,True,5.2,5.323333333333333,Pintu merah ada disebelah kiri. 2026
+id_028,Fast,8,True,5.333333333333333,5.866666666666666,Pintu merah ada di sebelah kiri. 2026
+id_028,Fast,11,True,10.133333333333333,10.256666666666668,"Kamulbilang 19,95 atau 90,15?"
+id_028,Fast,12,True,10.266666666666667,10.39,"Kamu bilang 19,95 atau 90,15?"
+id_028,Fast,13,True,10.4,10.523333333333333,"Kamu,bilang 19,95 atau 90,15?"
+id_028,Fast,14,True,10.533333333333333,10.799999999999999,"Kamu bilang 19,95 atau 90,15?"
+id_028,Balanced,1,True,0.4666666666666667,0.5233333333333333,Aku takpercaya sudah tengah malam!
+id_028,Balanced,2,True,0.5333333333333333,0.8666666666666667,Aku tak percaya sudah tengah malam!
+id_028,Balanced,3,True,0.8666666666666667,0.9233333333333333,Akutakpercaya sudah tengah malam!
+id_028,Balanced,4,True,0.9333333333333333,1.0566666666666666,Aku tak percaya sudah tengah malam!
+id_028,Balanced,5,True,1.0666666666666667,1.1233333333333333,Aku takpercaya sudah tengah malam!
+id_028,Balanced,6,True,1.1333333333333333,1.19,Aku tak percaya sudah tengah malam!
+id_028,Balanced,7,True,1.2,1.2566666666666666,Akutakpercaya sudah tengah malam!
+id_028,Balanced,8,True,1.2666666666666666,1.3233333333333333,Aku tak percaya sudah tengah malam!
+id_028,Balanced,9,True,1.3333333333333333,1.39,Akutakpercaya sudah tengah malam!
+id_028,Balanced,10,True,1.4,1.4566666666666666,Aku tak percaya sudah tengah malam!
+id_028,Balanced,11,True,1.4666666666666666,1.5233333333333334,Akutak percaya sudah tengah malam!
+id_028,Balanced,12,True,1.5333333333333334,1.59,Aku tak percaya sudah tengah malam!
+id_028,Balanced,13,True,1.6,1.6566666666666667,Akutak percaya sudah tengah malam!
+id_028,Balanced,16,True,5.2,5.323333333333333,Pintu merah ada disebelah kiri. 2026
+id_028,Balanced,17,True,5.333333333333333,5.8,Pintu merah ada di sebelah kiri. 2026
+id_028,Balanced,18,True,6.4,6.733333333333333,Kita berangkat besok malam 128
+id_028,Balanced,19,True,6.733333333333333,6.79,Kita berangkatlbesok malam 128
+id_028,Balanced,22,True,10.133333333333333,10.19,"Kamulbilang 19,95 atau 90,15?"
+id_028,Balanced,23,True,10.2,10.4,"Kamu bilang 19,95 atau 90,15?"
+id_028,Balanced,24,True,10.4,10.523333333333333,"Kamu,bilang 19,95 atau 90,15?"
+id_028,Balanced,25,True,10.533333333333333,10.733333333333333,"Kamu bilang 19,95 atau 90,15?"
+id_034,Balanced,3,True,4.866666666666666,4.923333333333334,"Kamu bilang 19,95atau 90,15?"
+id_034,Balanced,4,True,4.933333333333334,5.266666666666667,"Kamu bilang 19,95 atau 90,15?"
+id_034,Balanced,5,True,5.266666666666667,5.323333333333333,"Kamu bilang19,95 atau 90,15?"
+id_034,Balanced,6,True,5.333333333333333,5.8,"Kamu bilang 19,95 atau 90,15?"
+id_034,Balanced,7,True,6.4,6.733333333333333,Tunggu... kita benar-benar pergi? 134
+id_034,Balanced,8,True,6.733333333333333,6.79,Tunggu... kita behar-benar pergi? 134
+id_035,Fast,2,True,3.466666666666667,4.533333333333333,Pintu merah ada di sebelah kiri. 2026
+id_035,Fast,3,True,4.533333333333333,4.656666666666667,Pintu merah ada di sebelah kirì. 2026
+id_035,Balanced,2,True,3.4,4.466666666666667,Pintu merah ada di sebelah kiri. 2026
+id_035,Balanced,3,True,4.466666666666667,4.59,Pintu merah ada di sebelah kirì. 2026
+id_039,Balanced,4,True,8.333333333333334,8.39,Pintu merahada di sebelah kiri. 139
+id_039,Balanced,5,True,8.4,8.799999999999999,Pintu merah ada di sebelah kiri. 139
+id_040,Fast,3,True,6.4,7.066666666666666,Tunggu sebentar 140
+id_040,Fast,4,True,7.066666666666666,7.19,Tunggusebentar 140
+id_040,Fast,7,True,10.4,10.523333333333333,Aku takpercaya sudah tengah malam! 2026
+id_040,Fast,8,True,10.533333333333333,10.799999999999999,Aku tak percaya sudah tengah malam! 2026
+id_040,Balanced,3,True,6.4,7.066666666666666,Tunggu sebentar 140
+id_040,Balanced,4,True,7.066666666666666,7.123333333333334,Tunggusebentar 140
+id_040,Balanced,5,True,7.133333333333334,7.19,Tunggüsebentar 140
+id_040,Balanced,8,True,10.4,10.456666666666667,Aku takpercaya sudah tengah malam! 2026
+id_040,Balanced,9,True,10.466666666666667,10.733333333333333,Aku tak percaya sudah tengah malam! 2026
+id_041,Fast,4,True,6.8,7.0,Tunggu... kitalbenar-benar pergi? 141
+id_041,Fast,5,True,9.333333333333334,10.0,Kita berangkat besok pagi
+id_041,Fast,6,True,10.0,10.123333333333333,Kitaberangkat besok pagi
+id_041,Fast,7,True,10.133333333333333,10.256666666666668,Kitalberangkat besok pagi
+id_041,Fast,10,True,15.2,15.6,Aku tak percaya sudah tengah malam! 2040
+id_041,Fast,11,True,15.6,15.866666666666665,Akutak percaya sudah tengah malam! 2040
+id_041,Balanced,4,True,6.8,6.8566666666666665,Tunggu... kitalbenar-benar pergi? 141
+id_041,Balanced,5,True,6.866666666666666,7.046666666666666,Tunggu...kita benar-benar pergi? 141
+id_041,Balanced,7,True,10.0,10.056666666666667,Kitaberangkat besok pagi
+id_041,Balanced,8,True,10.066666666666666,10.19,Kitalberangkat besok pagi
+id_041,Balanced,9,True,10.2,10.466666666666667,Kita berangkat besok pagi
+id_041,Balanced,10,True,10.466666666666667,10.523333333333333,Kitaberangkat besok pagi
+id_041,Balanced,11,True,10.533333333333333,11.0,Kita berangkat besok pagi
+id_041,Balanced,13,True,15.2,15.4,Aku tak percaya sudah tengah malam! 2040
+id_041,Balanced,14,True,15.4,15.456666666666667,Akutak percaya sudah tengah malam! 2040
+id_041,Balanced,15,True,15.466666666666667,15.523333333333333,Aku tak percaya sudah tengah malam! 2040
+id_041,Balanced,16,True,15.533333333333333,15.656666666666666,Akutak percaya sudah tengah malam! 2040
+id_041,Balanced,17,True,15.666666666666666,15.723333333333333,Aku tak percaya sudah tengah malam! 2040
+id_041,Balanced,18,True,15.733333333333333,15.856666666666667,Akutak percaya sudah tengah malam! 2040
+id_042,Fast,4,True,7.733333333333333,7.8566666666666665,Kitaberangkat besok malam 142
+id_042,Fast,5,True,7.866666666666666,8.133333333333333,Kita berangkat besok malam 142
+id_042,Fast,7,True,10.0,10.266666666666666,"Kamulbilang 19,95 atau 90,15? 50%"
+id_042,Fast,8,True,10.266666666666667,10.39,"Kamu bilang 19,95 atau 90,15? 50%"
+id_042,Fast,9,True,10.4,10.523333333333333,"Kamubilang 19,95 atau 90,15? 50%"
+id_042,Fast,10,True,10.533333333333333,11.2,"Kamu bilang 19,95 atau 90,15? 50%"
+id_042,Balanced,1,True,0.4666666666666667,0.59,Aku tak percaya sudah tengah malam!
+id_042,Balanced,2,True,0.6,0.6566666666666666,Akutak percaya sudah tengah malam!
+id_042,Balanced,3,True,0.6666666666666666,0.7233333333333333,Aku tak percaya sudah tengah malam!
+id_042,Balanced,4,True,0.7333333333333333,0.79,Akutak percaya sudah tengah malam!
+id_042,Balanced,8,True,7.733333333333333,7.79,Kitaberangkat besok malam 142
+id_042,Balanced,9,True,7.8,8.066666666666666,Kita berangkat besok malam 142
+id_042,Balanced,11,True,10.0,10.2,"Kamulbilang 19,95 atau 90,15? 50%"
+id_042,Balanced,12,True,10.2,10.4,"Kamu bilang 19,95 atau 90,15? 50%"
+id_042,Balanced,13,True,10.4,10.523333333333333,"Kamubilang 19,95 atau 90,15? 50%"
+id_042,Balanced,14,True,10.533333333333333,11.2,"Kamu bilang 19,95 atau 90,15? 50%"
+id_043,Fast,1,True,0.5333333333333333,1.0666666666666667,Kita berangkat besok pagi 2026
+id_043,Fast,2,True,1.0666666666666667,1.19,Kitaberangkat besok pagi 2026
+id_043,Fast,6,True,7.066666666666666,7.19,Akutak percaya sudah tengah malam! 143
+id_043,Fast,7,True,7.2,7.466666666666667,Aku tak percaya sudah tengah malam! 143
+id_043,Fast,8,True,7.466666666666667,7.59,Akutak percaya sudah tengah malam! 143
+id_043,Fast,9,True,7.6,7.866666666666666,Aku tak percaya sudah tengah malam! 143
+id_043,Fast,10,True,7.866666666666666,7.99,Akutak percaya sudah tengah malam! 143
+id_043,Fast,11,True,8.0,8.266666666666666,Aku tak percaya sudah tengah malam! 143
+id_043,Fast,12,True,9.333333333333334,10.133333333333333,Pintu merah ada di sebelah kiri.
+id_043,Fast,13,True,10.133333333333333,10.256666666666668,Pintulmerah ada di sebelah kiri.
+id_043,Fast,14,True,10.266666666666667,10.39,Pintu merah ada di sebelah kiri.
+id_043,Fast,15,True,10.4,10.523333333333333,Pintuimerah ada di sebelah kiri.
+id_043,Balanced,1,True,0.4666666666666667,1.0,Kita berangkat besok pagi 2026
+id_043,Balanced,2,True,1.0,1.1233333333333333,Kitaberangkat besok pagi 2026
+id_043,Balanced,6,True,7.066666666666666,7.123333333333334,Akutak percaya sudah tengah malam! 143
+id_043,Balanced,7,True,7.133333333333334,7.466666666666667,Aku tak percaya sudah tengah malam! 143
+id_043,Balanced,8,True,7.466666666666667,7.59,Akutak percaya sudah tengah malam! 143
+id_043,Balanced,9,True,7.6,7.866666666666666,Aku tak percaya sudah tengah malam! 143
+id_043,Balanced,10,True,7.866666666666666,7.923333333333334,Akutak percaya sudah tengah malam! 143
+id_043,Balanced,11,True,7.933333333333334,8.266666666666666,Aku tak percaya sudah tengah malam! 143
+id_043,Balanced,12,True,9.333333333333334,10.133333333333333,Pintu merah ada di sebelah kiri.
+id_043,Balanced,13,True,10.133333333333333,10.19,Pintulmerah ada di sebelah kiri.
+id_043,Balanced,14,True,10.2,10.4,Pintu merah ada di sebelah kiri.
+id_043,Balanced,15,True,10.4,10.456666666666667,Pintuimerah ada di sebelah kiri.
+id_043,Balanced,16,True,10.466666666666667,10.523333333333333,Pintumerah ada di sebelah kiri.
+id_043,Balanced,18,True,11.4,11.58,Pintu merahadadisebelah kiri.
+id_044,Fast,5,True,11.466666666666667,11.59,Tunggusebentar
+id_044,Fast,6,True,11.6,11.799999999999999,Tunggu sebentar
+id_044,Fast,7,True,12.266666666666667,12.933333333333334,Aku tak percaya sudah tengah malam!
+id_044,Fast,8,True,12.933333333333334,13.056666666666667,Akutak percaya sudah tengah malam!
+id_044,Fast,10,True,14.0,14.123333333333333,Akutak percaya sudah tengah malam!
+id_044,Fast,11,True,14.133333333333333,14.933333333333334,Aku tak percaya sudah tengah malam!
+id_044,Balanced,4,True,8.333333333333334,8.39,Kitalberangkat besok pagi 144
+id_044,Balanced,5,True,8.4,8.58,Kita berangkat besok pagi 144
+id_044,Balanced,7,True,11.4,11.523333333333333,Tunggusebentar
+id_044,Balanced,8,True,11.533333333333333,11.656666666666666,Tunggu sebentar
+id_044,Balanced,9,True,11.666666666666666,11.846666666666666,Tunggusebentar
+id_044,Balanced,10,True,12.266666666666667,12.933333333333334,Aku tak percaya sudah tengah malam!
+id_044,Balanced,11,True,12.933333333333334,12.99,Akutak percaya sudah tengah malam!
+id_044,Balanced,13,True,13.933333333333334,14.056666666666667,Akutak percaya sudah tengah malam!
+id_044,Balanced,14,True,14.066666666666666,14.866666666666667,Aku tak percaya sudah tengah malam!
+id_045,Fast,5,True,11.6,11.723333333333333,Tunggu...kita benar-benar pergi?
+id_045,Fast,6,True,11.733333333333333,12.0,Tunggu... kita benar-benar pergi?
+id_045,Balanced,4,True,9.333333333333334,9.933333333333334,Tunggu... kita benar-benar pergi?
+id_045,Balanced,5,True,9.933333333333334,9.99,Tunggu....kita benar-benar pergi?
+id_045,Balanced,7,True,11.6,11.723333333333333,Tunggu...kita benar-benar pergi?
+id_045,Balanced,8,True,11.733333333333333,11.933333333333334,Tunggu... kita benar-benar pergi?
+id_047,Fast,5,True,10.133333333333333,10.256666666666668,Aku tak pertaya sudah tengah malam! 2026
+id_047,Fast,6,True,10.266666666666667,10.39,Aku tak percaya sudah tengah malam! 2026
+id_047,Fast,7,True,10.4,10.523333333333333,Aku tak pereaya sudah tengah malam! 2026
+id_047,Fast,8,True,10.533333333333333,11.066666666666666,Aku tak percaya sudah tengah malam! 2026
+id_047,Balanced,5,True,10.066666666666666,10.123333333333333,Aku tak persaya sudah tengah malam! 2026
+id_047,Balanced,6,True,10.133333333333333,10.19,Aku tak pertaya sudah tengah malam! 2026
+id_047,Balanced,7,True,10.2,10.4,Aku tak percaya sudah tengah malam! 2026
+id_047,Balanced,8,True,10.4,10.456666666666667,Aku tak pereaya sudah tengah malam! 2026
+id_047,Balanced,9,True,10.466666666666667,10.523333333333333,Aku tak pertaya sudah tengah malam! 2026
+id_047,Balanced,10,True,10.533333333333333,11.0,Aku tak percaya sudah tengah malam! 2026
+id_048,Fast,6,True,15.2,16.0,Aku tak percaya sudah tengah malam! 2047
+id_048,Fast,7,True,16.0,16.12333333333333,Aku tak percaya sudah tengah malaml 2047
+id_048,Fast,9,True,17.2,17.32333333333333,Aku tak percaya sudah tengah malaml 2047
+id_048,Fast,10,True,17.333333333333332,17.599999999999998,Aku tak percaya sudah tengah malam! 2047
+id_048,Balanced,7,True,16.0,16.12333333333333,Aku tak percaya sudah tengah malaml 2047
+id_048,Balanced,8,True,16.133333333333333,16.866666666666667,Aku tak percaya sudah tengah malam! 2047
+id_048,Balanced,9,True,16.866666666666667,16.923333333333332,Aku tak percaya sudah tengah malaml 2047
+id_048,Balanced,10,True,16.933333333333334,17.2,Aku tak percaya sudah tengah malam! 2047
+id_048,Balanced,11,True,17.2,17.256666666666664,Aku tak percaya sudah tengah malaml 2047
+id_048,Balanced,12,True,17.266666666666666,17.6,Aku tak percaya sudah tengah malam! 2047

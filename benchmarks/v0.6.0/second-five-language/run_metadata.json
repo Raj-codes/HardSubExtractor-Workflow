@@ -1,0 +1,56 @@
+{
+  "benchmark": "v0.6.0 second five-language corpus run",
+  "date": "2026-11-16",
+  "app_version": "0.6.0",
+  "app_source_sha256": "8d9bb3010092d24a9df5cf1826427446997fb72e53f25735384086cabfc0a503",
+  "hardware": "NVIDIA GeForce RTX 4070, 12,282 MiB reported VRAM; NVIDIA driver 591.86",
+  "gpu_selected": true,
+  "software": "Python 3.12.3, PaddleOCR 3.7.0, PaddleX 3.7.2, ONNX Runtime GPU 1.30.0",
+  "gpu_provider_note": "CUDAExecutionProvider and CPU fallback were listed for both ONNX sessions. ONNX Runtime emitted a CUDA plugin-device warning; per-inference placement was not traced.",
+  "dataset_location": "Test-video/dataset (media omitted from source repository)",
+  "dataset_source_video": {
+    "sha256": "280cb385b84657c8cd83c30184a3b3f2c9b0c5e3bc2b46db5a799a50026c7070",
+    "width": 320,
+    "height": 240,
+    "fps": 15.0,
+    "frames": 284,
+    "duration": 18.933333333333334
+  },
+  "dataset_index_sha256": "55115df7b6218f6c6ec3c9899151b417fcf5ba6118bf4e3393bc9222e0840502",
+  "dataset_manifest_sha256": "d06133c96f359a5ef51ef454489e101339aa7c0c666a4a9ebebcabfd931a9528",
+  "archived_index_byte_identical": true,
+  "archived_manifest_byte_identical": true,
+  "settings": {
+    "minimum_ocr_confidence": 0.8,
+    "subtitle_specific_filter": true,
+    "centered_filter": true,
+    "region": "bottom 35%",
+    "device": "GPU selected",
+    "text_color_filter": "White for white cues; Any color for yellow/cyan cues"
+  },
+  "modes": {
+    "Fast": {
+      "target_fps": 1
+    },
+    "Balanced": {
+      "target_fps": 3
+    }
+  },
+  "scope": {
+    "languages": [
+      "English",
+      "German",
+      "Italian",
+      "Spanish",
+      "French"
+    ],
+    "clips_per_language": 50,
+    "cues_per_clip": 6,
+    "runs_per_language_mode": 50
+  },
+  "historical_source_hash_audit": {
+    "v0_5_readme_hash": "521bdee29db5c6fb316170948697f9a952b443b01397beacf8259e020d15385f",
+    "v0_5_tag_app_source_hash": "521bdee29db5c6fb316170948697f9a952b443b01397beacf8259e020d15385f",
+    "actual_dataset_source_video_hash": "280cb385b84657c8cd83c30184a3b3f2c9b0c5e3bc2b46db5a799a50026c7070"
+  }
+}

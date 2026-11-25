@@ -1,0 +1,384 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+tl_001,Fast,3,True,6.4,7.2,Hindi ako makapaniwalang hatinggabi na! 101
+tl_001,Fast,4,True,7.2,7.323333333333333,Hindi ako makapaniwalang hatinggabi na!101
+tl_001,Fast,7,True,10.533333333333333,10.656666666666666,Nesa kaliwa ang pulang pinto.
+tl_001,Fast,8,True,10.666666666666666,11.466666666666667,Nasa kaliwa ang pulang pinto.
+tl_001,Fast,11,True,17.466666666666665,17.59,Sabi mo ba ay 19.95 o 90 15? 2000
+tl_001,Fast,12,True,17.6,17.866666666666667,Sabi mo ba ay 19.95 o 90.15? 2000
+tl_001,Balanced,3,True,6.4,7.2,Hindi ako makapaniwalang hatinggabi na! 101
+tl_001,Balanced,4,True,7.2,7.323333333333333,Hindi ako makapaniwalang hatinggabi na!101
+tl_001,Balanced,7,True,10.533333333333333,10.59,Nesa kaliwa ang pulang pinto.
+tl_001,Balanced,8,True,10.6,11.466666666666667,Nasa kaliwa ang pulang pinto.
+tl_001,Balanced,11,True,17.466666666666665,17.523333333333333,Sabi mo ba ay 19.95 o 90 15? 2000
+tl_001,Balanced,12,True,17.533333333333335,17.8,Sabi mo ba ay 19.95 o 90.15? 2000
+tl_002,Fast,2,True,1.6,1.7233333333333334,Sabi mo ba ay 19.95 o 90.159
+tl_002,Fast,3,True,1.7333333333333334,2.1333333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_002,Fast,4,True,3.466666666666667,3.8666666666666667,Teka... aalis ba talaga tayo?
+tl_002,Fast,5,True,3.8666666666666667,3.99,Teka....aalis ba talaga tayo?
+tl_002,Fast,9,True,12.266666666666667,12.39,Hindi ako makapaniwalang hatinggabi na!
+tl_002,Fast,10,True,12.4,12.523333333333333,Hindi ako makapaniwalang hatinggabina!
+tl_002,Balanced,2,True,1.6,1.6566666666666667,Sabi mo ba ay 19.95 o 90.159
+tl_002,Balanced,3,True,1.6666666666666667,1.9333333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_002,Balanced,4,True,1.9333333333333333,1.99,Sabi mo ba ay 19.95 o 90 15?
+tl_002,Balanced,5,True,2.0,2.056666666666667,Sabi mo ba ay 19.95 o 90.15?
+tl_002,Balanced,6,True,2.066666666666667,2.246666666666667,Sabi mo ba ay 19.95 o 90 15?
+tl_002,Balanced,7,True,3.4,3.6666666666666665,Teka... aalis ba talaga tayo?
+tl_002,Balanced,8,True,3.6666666666666665,3.7233333333333336,Tekan. aalis ba talaga tayo?
+tl_002,Balanced,9,True,3.7333333333333334,3.856666666666667,Teka... aalis ba talaga tayo?
+tl_002,Balanced,10,True,3.8666666666666667,3.9233333333333333,Teka....aalis ba talaga tayo?
+tl_002,Balanced,14,True,12.266666666666667,12.39,Hindi ako makapaniwalang hatinggabi na!
+tl_002,Balanced,15,True,12.4,12.456666666666667,Hindi ako makapaniwalang hatinggabina!
+tl_003,Fast,4,True,9.333333333333334,10.0,Teka... aalis ba talaga tayo?
+tl_003,Fast,5,True,10.0,10.123333333333333,Teka....aalis ba talaga tayo?
+tl_003,Balanced,3,True,6.4,6.733333333333333,Sabi mo ba ay 19.95 o 90.15? 103
+tl_003,Balanced,4,True,6.733333333333333,6.79,Sabi mo ba ay 19 95 o 90.15? 103
+tl_003,Balanced,6,True,9.333333333333334,10.0,Teka... aalis ba talaga tayo?
+tl_003,Balanced,7,True,10.0,10.056666666666667,Teka....aalis ba talaga tayo?
+tl_003,Balanced,8,True,10.066666666666666,10.123333333333333,Teka..maalis ba talaga tayo?
+tl_003,Balanced,10,True,11.533333333333333,11.59,Teka...aalis ba talaga tayo?
+tl_003,Balanced,11,True,11.6,11.933333333333334,Teka... aalis ba talaga tayo?
+tl_005,Fast,5,True,10.133333333333333,10.256666666666668,Hindi ako mahapaniwalang hatinggabi na! 2026
+tl_005,Fast,6,True,10.266666666666667,11.066666666666666,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_005,Balanced,5,True,10.066666666666666,10.123333333333333,Hindi ako makapanhyalang hatinggabi na! 2026
+tl_005,Balanced,6,True,10.133333333333333,10.19,Hindi ako mahapaniwalang hatinggabi na! 2026
+tl_005,Balanced,7,True,10.2,10.466666666666667,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_005,Balanced,8,True,10.466666666666667,10.523333333333333,Hindi ako mahapaniwalang hatinggabi na! 2026
+tl_005,Balanced,9,True,10.533333333333333,11.0,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_007,Fast,4,True,9.333333333333334,10.133333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_007,Fast,5,True,10.133333333333333,10.256666666666668,Sabimo ba ay 19.95 o 90.15?
+tl_007,Balanced,4,True,9.333333333333334,10.133333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_007,Balanced,5,True,10.133333333333333,10.19,Sabimo ba ay 19.95 o 90.15?
+tl_009,Fast,2,True,1.6,1.7233333333333334,Sabi mo ba ay 19.95 o 90 15?
+tl_009,Fast,3,True,1.7333333333333334,2.4,Sabi mo ba ay 19.95 o 90.15?
+tl_009,Balanced,1,True,0.4666666666666667,1.0,Sabi mo ba ay 19.95 o 90.15?
+tl_009,Balanced,2,True,1.0,1.0566666666666666,Sabimo ba ay 19.95 o 90.15?
+tl_009,Balanced,3,True,1.0666666666666667,1.6,Sabi mo ba ay 19.95 o 90.15?
+tl_009,Balanced,4,True,1.6,1.6566666666666667,Sabi mo ba ay 19.95 o 90 15?
+tl_010,Balanced,5,True,9.933333333333334,9.99,Teka.alis ba talaga tayo?
+tl_010,Balanced,6,True,10.0,10.056666666666667,Teka... aalis ba talaga tayo?
+tl_010,Balanced,7,True,10.066666666666666,10.123333333333333,Teka...aalis ba talaga tayo?
+tl_010,Balanced,8,True,10.133333333333333,10.466666666666667,Teka... aalis ba talaga tayo?
+tl_010,Balanced,9,True,10.466666666666667,10.523333333333333,Teka...aalis ba talaga tayo?
+tl_010,Balanced,10,True,10.533333333333333,10.733333333333333,Teka... aalis ba talaga tayo?
+tl_011,Fast,2,True,3.466666666666667,4.133333333333334,Hindiako makapaniwalang hatinggabi na!50%
+tl_011,Fast,3,True,4.133333333333334,4.256666666666667,Hindiako makapaniwalang hatinggabina!50%
+tl_011,Fast,5,True,5.2,5.323333333333333,Hindilako makapaniwalang hatinggabi na!50%
+tl_011,Fast,6,True,5.333333333333333,5.456666666666667,Hindi ako makapaniwalang hatinggabi na! 50%
+tl_011,Fast,7,True,5.466666666666667,6.0,Hindiako makapaniwalang hatinggabi na!50%
+tl_011,Balanced,2,True,3.4,4.066666666666666,Hindiako makapaniwalang hatinggabi na!50%
+tl_011,Balanced,3,True,4.066666666666666,4.19,Hindiako makapaniwalang hatinggabina!50%
+tl_011,Balanced,5,True,5.133333333333334,5.256666666666667,Hindilako makapaniwalang hatinggabi na!50%
+tl_011,Balanced,6,True,5.266666666666667,5.323333333333333,Hindiako makapaniwalang hatinggabi na!50%
+tl_011,Balanced,7,True,5.333333333333333,5.390000000000001,Hindi ako makapaniwalang hatinggabi na! 50%
+tl_011,Balanced,8,True,5.4,6.0,Hindiako makapaniwalang hatinggabi na!50%
+tl_011,Balanced,11,True,12.266666666666667,12.733333333333333,Sabi mo ba ay 19.95 o 90.15? 2026
+tl_011,Balanced,12,True,12.733333333333333,12.790000000000001,Sabimo ba ay 19.95 o 90.15? 2026
+tl_012,Fast,4,True,9.333333333333334,9.456666666666667,Hindiako makapaniwalang hatinggabi na!2026
+tl_012,Fast,5,True,9.466666666666667,9.733333333333333,Hindi ako makapaniwalang hatinggabi na!2026
+tl_012,Balanced,3,True,6.4,6.733333333333333,Hintayin mo ako 112
+tl_012,Balanced,4,True,6.733333333333333,6.79,Hintayinimo ako 112
+tl_012,Balanced,6,True,9.333333333333334,9.39,Hindiako makapaniwalang hatinggabi na!2026
+tl_012,Balanced,7,True,9.4,9.523333333333333,Hindi ako makapaniwalang hatinggabi na!2026
+tl_012,Balanced,8,True,9.533333333333333,9.59,Hindiako makapaniwalang hatinggabi na!2026
+tl_012,Balanced,9,True,9.6,9.723333333333333,Hindi ako makapaniwalang hatinggabi na!2026
+tl_012,Balanced,10,True,9.733333333333333,9.790000000000001,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_012,Balanced,11,True,9.8,9.856666666666667,Hindiako makapaniwalang hatinggabi na! 2026
+tl_012,Balanced,12,True,9.866666666666667,9.923333333333334,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_012,Balanced,13,True,9.933333333333334,9.99,Hindiako makapaniwalang hatinggabi na! 2026
+tl_012,Balanced,15,True,11.0,11.056666666666667,Hindi ako makapaniwalang hatinggabina! 2026
+tl_012,Balanced,16,True,11.066666666666666,11.123333333333333,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_012,Balanced,17,True,11.133333333333333,11.313333333333333,Hindi ako makapaniwalang hatinggabina! 2026
+tl_013,Fast,4,True,7.866666666666666,7.99,Teka... aalis ba talaga tayo?113
+tl_013,Fast,5,True,8.0,8.266666666666666,Teka... aalis ba talaga tayo? 113
+tl_013,Fast,8,True,15.2,15.323333333333334,Hindiako makapaniwalang hatinggabi na!2012
+tl_013,Fast,9,True,15.333333333333334,15.456666666666667,Hindi ako makapaniwalang hatinggabi na!2012
+tl_013,Fast,10,True,15.466666666666667,15.59,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Fast,11,True,15.6,16.0,Hindi ako makapaniwalang hatinggabi na!2012
+tl_013,Fast,12,True,16.0,16.12333333333333,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Fast,13,True,16.133333333333333,16.4,Hindiako makapaniwalang hatinggabi na!2012
+tl_013,Fast,14,True,16.4,16.666666666666668,Hindiako makapaniwalang hatinggabina!2012
+tl_013,Fast,15,True,16.666666666666668,16.79,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Balanced,4,True,7.866666666666666,7.99,Teka... aalis ba talaga tayo?113
+tl_013,Balanced,5,True,8.0,8.266666666666666,Teka... aalis ba talaga tayo? 113
+tl_013,Balanced,8,True,15.2,15.323333333333334,Hindiako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,9,True,15.333333333333334,15.39,Hindi ako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,10,True,15.4,15.456666666666667,Hindiako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,11,True,15.466666666666667,15.523333333333333,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Balanced,12,True,15.533333333333333,15.799999999999999,Hindi ako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,13,True,15.8,15.856666666666667,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Balanced,14,True,15.866666666666667,15.923333333333334,Hindi ako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,15,True,15.933333333333334,16.056666666666665,Hindiako makapaniwalang hatinggabi na! 2012
+tl_013,Balanced,16,True,16.066666666666666,16.4,Hindiako makapaniwalang hatinggabi na!2012
+tl_013,Balanced,17,True,16.4,16.666666666666668,Hindiako makapaniwalang hatinggabina!2012
+tl_013,Balanced,18,True,16.666666666666668,16.723333333333333,Hindiako makapaniwalang hatinggabi na! 2012
+tl_014,Fast,1,True,0.5333333333333333,0.7999999999999999,Hindiako makapaniwalang hatinggabi na!
+tl_014,Fast,2,True,0.8,1.0666666666666667,Hindiakomakapaniwalang hatinggabi na!
+tl_014,Fast,4,True,1.8666666666666667,2.1333333333333333,Hindi ako makapaniwalang hatinggabi na!
+tl_014,Balanced,1,True,0.4666666666666667,0.7999999999999999,Hindiako makapaniwalang hatinggabi na!
+tl_014,Balanced,2,True,0.8,0.8566666666666667,Hindiakomakapaniwalang hatinggabi na!
+tl_014,Balanced,3,True,0.8666666666666667,0.9233333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_014,Balanced,4,True,0.9333333333333333,0.99,Hindiakomakapaniwalang hatinggabi na!
+tl_014,Balanced,6,True,1.8666666666666667,2.1333333333333333,Hindi ako makapaniwalang hatinggabi na!
+tl_015,Fast,3,True,6.4,6.523333333333333,Hindiako makapaniwalang hatinggabi na!115
+tl_015,Fast,4,True,6.533333333333333,6.656666666666667,Hindiako makapaniwalanghatinggabi na!115
+tl_015,Fast,5,True,6.666666666666667,6.79,Hindiako makapaniwalang hatinggabi na!115
+tl_015,Fast,6,True,6.8,7.066666666666666,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Fast,7,True,7.066666666666666,7.19,Hindi ako makapaniwalang hatinggabi na! 115
+tl_015,Fast,8,True,7.2,7.323333333333333,Hindiako makapaniwalanghatinggabi na! 115
+tl_015,Fast,9,True,7.333333333333333,7.6,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Fast,10,True,7.6,7.723333333333334,Hindi ako makapaniwalanghatinggabi na! 115
+tl_015,Fast,11,True,7.733333333333333,7.8566666666666665,Hindiako makapaniwalanghatinggabi na! 115
+tl_015,Fast,12,True,7.866666666666666,7.99,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Fast,13,True,8.0,8.533333333333333,Hindi ako makapaniwalang hatinggabi na! 115
+tl_015,Fast,14,True,8.533333333333333,8.799999999999999,Hindi ako makapaniwalang hatinggabi na!115
+tl_015,Fast,18,True,16.0,16.266666666666666,Sabi mo ba ay 19.95 o 90.15?2014
+tl_015,Fast,19,True,16.266666666666666,16.389999999999997,Sabi mo ba ay 19.95 o 90.15? 2014
+tl_015,Fast,20,True,16.4,16.8,Sabi mo ba ay 19.95 o 90.15?2014
+tl_015,Fast,21,True,16.8,17.0,Sabi mo ba ay 19.95 o 90.15? 2014
+tl_015,Balanced,3,True,6.4,6.523333333333333,Hindiako makapaniwalang hatinggabi na!115
+tl_015,Balanced,4,True,6.533333333333333,6.59,Hindiako makapaniwalanghatinggabi na!115
+tl_015,Balanced,5,True,6.6,6.8,Hindiako makapaniwalang hatinggabi na!115
+tl_015,Balanced,6,True,6.8,7.066666666666666,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,7,True,7.066666666666666,7.123333333333334,Hindi ako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,8,True,7.133333333333334,7.19,Hindiako makapaniwalang hatinggabi na!115
+tl_015,Balanced,9,True,7.2,7.323333333333333,Hindiako makapaniwalanghatinggabi na! 115
+tl_015,Balanced,10,True,7.333333333333333,7.533333333333333,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,11,True,7.533333333333333,7.59,Hindiako makapaniwalanghatinggabi na! 115
+tl_015,Balanced,12,True,7.6,7.656666666666667,Hindi ako makapaniwalanghatinggabi na! 115
+tl_015,Balanced,13,True,7.666666666666667,7.723333333333334,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,14,True,7.733333333333333,7.79,Hindiako makapaniwalanghatinggabi na! 115
+tl_015,Balanced,15,True,7.8,7.923333333333334,Hindiako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,16,True,7.933333333333334,8.533333333333333,Hindi ako makapaniwalang hatinggabi na! 115
+tl_015,Balanced,17,True,8.533333333333333,8.799999999999999,Hindi ako makapaniwalang hatinggabi na!115
+tl_015,Balanced,21,True,15.933333333333334,16.266666666666666,Sabi mo ba ay 19.95 o 90.15?2014
+tl_015,Balanced,22,True,16.266666666666666,16.32333333333333,Sabi mo ba ay 19.95 o 90.15? 2014
+tl_015,Balanced,23,True,16.333333333333332,16.733333333333334,Sabi mo ba ay 19.95 o 90.15?2014
+tl_015,Balanced,24,True,16.733333333333334,16.913333333333334,Sabi mo ba ay 19.95 o 90.15? 2014
+tl_017,Fast,5,True,10.133333333333333,10.256666666666668,Teka..aalis ba talaga tayo?
+tl_017,Fast,6,True,10.266666666666667,10.39,Teka... aalis ba talaga tayo?
+tl_017,Fast,7,True,10.4,10.523333333333333,Teka..aalis ba talaga tayo?
+tl_017,Fast,8,True,10.533333333333333,11.066666666666666,Teka... aalis ba talaga tayo?
+tl_017,Balanced,5,True,10.133333333333333,10.19,Teka..aalis ba talaga tayo?
+tl_017,Balanced,6,True,10.2,10.323333333333334,Teka... aalis ba talaga tayo?
+tl_017,Balanced,7,True,10.333333333333334,10.456666666666667,Teka...aalis ba talaga tayo?
+tl_017,Balanced,8,True,10.466666666666667,11.0,Teka... aalis ba talaga tayo?
+tl_018,Fast,2,True,3.466666666666667,3.5900000000000003,Hindi ako makapaniwalang hatinggabi na!
+tl_018,Fast,3,True,3.6,3.7233333333333336,Hindiako makapaniwalang hatinggabi na
+tl_018,Fast,5,True,6.4,6.8,Nasa kaliwa ang pulang pinto. 118
+tl_018,Fast,6,True,6.8,6.923333333333334,Nasa kaliva ang pulang pinto. 118
+tl_018,Balanced,2,True,3.4,3.456666666666667,Hindiako makapaniwalang hatinggabi na!
+tl_018,Balanced,3,True,3.466666666666667,3.5900000000000003,Hindi ako makapaniwalang hatinggabi na!
+tl_018,Balanced,4,True,3.6,3.6566666666666667,Hindiako makapaniwalang hatinggabi na
+tl_018,Balanced,5,True,3.6666666666666665,3.7233333333333336,Hindi ako makapaniwalang hatinggabi nal
+tl_018,Balanced,7,True,6.4,6.8,Nasa kaliwa ang pulang pinto. 118
+tl_018,Balanced,8,True,6.8,6.8566666666666665,Nasa kaliva ang pulang pinto. 118
+tl_019,Fast,4,True,9.333333333333334,9.456666666666667,Hindi ako makapaniwalang hatinggabi nal 2026
+tl_019,Fast,5,True,9.466666666666667,9.59,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_019,Fast,6,True,9.6,10.266666666666666,Hindi ako makapaniwalang hatinggabi nal 2026
+tl_019,Balanced,4,True,9.333333333333334,9.39,Hindi ako makapaniwalang hatinggabi nal 2026
+tl_019,Balanced,5,True,9.4,9.6,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_019,Balanced,6,True,9.6,9.799999999999999,Hindi ako makapaniwalang hatinggabi nal 2026
+tl_019,Balanced,7,True,9.8,9.856666666666667,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_019,Balanced,8,True,9.866666666666667,10.2,Hindi ako makapaniwalang hatinggabi nal 2026
+tl_020,Fast,3,True,6.4,6.8,Teka... aalis ba talaga tayo? 120
+tl_020,Fast,4,True,6.8,6.923333333333334,Teka...aalis ba talaga tayo? 120
+tl_020,Fast,6,True,8.266666666666667,8.39,Teka...aalis ba talaga tayo? 120
+tl_020,Fast,7,True,8.4,8.6,Teka... aalis ba talaga tayo? 120
+tl_020,Fast,10,True,15.2,15.323333333333334,Hindi ako makapaniwalang hatinggabi na! 2019
+tl_020,Fast,11,True,15.333333333333334,15.456666666666667,Hindiako makapaniwalang hatinggabi na! 2019
+tl_020,Balanced,3,True,6.4,6.8,Teka... aalis ba talaga tayo? 120
+tl_020,Balanced,4,True,6.8,6.8566666666666665,Teka...aalis ba talaga tayo? 120
+tl_020,Balanced,6,True,8.266666666666667,8.323333333333334,Teka...aalis ba talaga tayo? 120
+tl_020,Balanced,7,True,8.333333333333334,8.533333333333333,Teka... aalis ba talaga tayo? 120
+tl_020,Balanced,10,True,15.2,15.323333333333334,Hindi ako makapaniwalang hatinggabi na! 2019
+tl_020,Balanced,11,True,15.333333333333334,15.39,Hindiako makapaniwalang hatinggabi na! 2019
+tl_020,Balanced,12,True,15.4,15.799999999999999,Hindi ako makapaniwalang hatinggabi na! 2019
+tl_020,Balanced,13,True,15.8,15.856666666666667,Hindiako makapaniwalang hatinggabi na! 2019
+tl_021,Fast,1,True,0.5333333333333333,0.7999999999999999,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Fast,2,True,0.8,0.9233333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_021,Fast,3,True,0.9333333333333333,1.2,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Fast,4,True,1.2,1.3233333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_021,Fast,5,True,1.3333333333333333,1.4566666666666666,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Fast,6,True,1.4666666666666666,1.59,Hindiako makapaniwalang hatinggabi na!
+tl_021,Fast,9,True,6.4,7.066666666666666,Aalis tayo bukas ng gabi 121
+tl_021,Fast,10,True,7.066666666666666,7.19,Aalis tayo bukās ng gabi 121
+tl_021,Balanced,1,True,0.4666666666666667,0.7999999999999999,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Balanced,2,True,0.8,0.8566666666666667,Hindiako makapaniwalang hatinggabi na!
+tl_021,Balanced,3,True,0.8666666666666667,1.2,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Balanced,4,True,1.2,1.2566666666666666,Hindiako makapaniwalang hatinggabi na!
+tl_021,Balanced,5,True,1.2666666666666666,1.4666666666666666,Hindi ako makapaniwalang hatinggabi na!
+tl_021,Balanced,6,True,1.4666666666666666,1.5233333333333334,Hindiako makapaniwalang hatinggabi na!
+tl_021,Balanced,9,True,6.4,7.066666666666666,Aalis tayo bukas ng gabi 121
+tl_021,Balanced,10,True,7.066666666666666,7.123333333333334,Aalis tayo bukās ng gabi 121
+tl_021,Balanced,12,True,9.333333333333334,9.933333333333334,Sabi mo ba ay 19.95 o 90.15?
+tl_021,Balanced,13,True,9.933333333333334,9.99,Sabimo ba ay 19.95 o 90.15?
+tl_022,Fast,4,True,7.466666666666667,7.59,Hindiako makapaniwalang hatinggabi na! 122
+tl_022,Fast,5,True,7.6,7.866666666666666,Hindi ako makapaniwalang hatinggabi na! 122
+tl_022,Fast,6,True,7.866666666666666,7.99,Hindiako makapaniwalang hatinggabi na! 122
+tl_022,Fast,7,True,8.0,9.066666666666666,Hindi ako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,3,True,6.4,7.133333333333333,Hindi ako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,4,True,7.133333333333334,7.19,Hindiako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,5,True,7.2,7.466666666666667,Hindi ako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,6,True,7.466666666666667,7.523333333333333,Hindiako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,7,True,7.533333333333333,7.866666666666666,Hindi ako makapaniwalang hatinggabi na! 122
+tl_022,Balanced,8,True,7.866666666666666,7.923333333333334,Hindiako makapaniwalang hatinggabi na! 122
+tl_023,Fast,3,True,6.4,6.8,Aalis tayo bukas ng umaga 123
+tl_023,Fast,4,True,6.8,6.923333333333334,Aalis tayolbukas ng umaga 123
+tl_023,Balanced,3,True,6.4,6.8,Aalis tayo bukas ng umaga 123
+tl_023,Balanced,4,True,6.8,6.8566666666666665,Aalis tayolbukas ng umaga 123
+tl_026,Fast,4,True,9.333333333333334,10.0,Hindi ako makapaniwalang hatinggabi na!2026
+tl_026,Balanced,3,True,6.4,6.733333333333333,Hintayin mo ako 126
+tl_026,Balanced,4,True,6.733333333333333,6.79,Hintayinmo ako 126
+tl_026,Balanced,6,True,9.333333333333334,9.799999999999999,Hindi ako makapaniwalang hatinggabi na!2026
+tl_026,Balanced,7,True,9.8,9.856666666666667,Hindilako makapaniwalang hatinggabi na!2026
+tl_026,Balanced,8,True,9.866666666666667,9.923333333333334,Hindi ako makapaniwalang hatinggabi na!2026
+tl_026,Balanced,9,True,9.933333333333334,9.99,Hindiako makapaniwalang hatinggabi na! 2026
+tl_027,Fast,3,True,4.8,4.923333333333334,Sabi mo ba ay 19.95 o90.15?
+tl_027,Fast,4,True,4.933333333333334,5.056666666666667,Sabi mo ba ay 19.95 o 90.15?
+tl_027,Fast,5,True,5.066666666666666,5.19,Sabi mo ba ay 19.95o 90.15?
+tl_027,Fast,6,True,5.2,5.6,Sabi mo ba ay 19.95 o 90.15?
+tl_027,Fast,7,True,6.4,7.2,Teka... aalis ba talaga tayo? 127
+tl_027,Fast,8,True,7.2,7.323333333333333,Teka...aalis ba talaga tayo? 127
+tl_027,Fast,10,True,8.266666666666667,8.39,Teka....aalis ba talaga tayo? 127
+tl_027,Fast,11,True,8.4,8.799999999999999,Teka... aalis ba talaga tayo? 127
+tl_027,Fast,13,True,11.466666666666667,11.866666666666665,Aalis tayobukas ng umaga
+tl_027,Fast,14,True,11.866666666666667,12.066666666666666,Aalis tayo bukas ng umaga
+tl_027,Fast,16,True,15.2,15.6,Hindiako makapaniwalang hatinggabi na!2026
+tl_027,Fast,17,True,15.6,15.723333333333333,Hindiakomakapaniwalang hatinggabi na!2026
+tl_027,Fast,19,True,16.533333333333335,16.656666666666666,Hindiako makapaniwalang hatinggabina!2026
+tl_027,Fast,20,True,16.666666666666668,16.933333333333334,Hindiako makapaniwalang hatinggabi na!2026
+tl_027,Balanced,3,True,4.8,4.8566666666666665,Sabi mo ba ay 19.95 o90.15?
+tl_027,Balanced,4,True,4.866666666666666,5.066666666666666,Sabi mo ba ay 19.95 o 90.15?
+tl_027,Balanced,5,True,5.066666666666666,5.123333333333334,Sabi mo ba ay 19.95o 90.15?
+tl_027,Balanced,6,True,5.133333333333334,5.533333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_027,Balanced,7,True,6.4,7.2,Teka... aalis ba talaga tayo? 127
+tl_027,Balanced,8,True,7.2,7.256666666666667,Teka...aalis ba talaga tayo? 127
+tl_027,Balanced,10,True,8.2,8.323333333333334,Teka...aalis ba talaga tayo? 127
+tl_027,Balanced,11,True,8.333333333333334,8.799999999999999,Teka... aalis ba talaga tayo? 127
+tl_027,Balanced,13,True,11.466666666666667,11.799999999999999,Aalis tayobukas ng umaga
+tl_027,Balanced,14,True,11.8,11.98,Aalis tayo bukas ng umaga
+tl_027,Balanced,16,True,15.2,15.533333333333333,Hindiako makapaniwalang hatinggabi na!2026
+tl_027,Balanced,17,True,15.533333333333333,15.656666666666666,Hindiakomakapaniwalang hatinggabi na!2026
+tl_027,Balanced,19,True,16.466666666666665,16.666666666666668,Hindiako makapaniwalang hatinggabina!2026
+tl_027,Balanced,20,True,16.666666666666668,16.866666666666667,Hindiako makapaniwalang hatinggabi na!2026
+tl_028,Fast,1,True,0.5333333333333333,1.0666666666666667,Hindiakomakapaniwalang hatinggabi na!
+tl_028,Fast,3,True,2.0,2.1233333333333335,Hindi ako makapaniwalang hatinggabi na!
+tl_028,Fast,4,True,2.1333333333333333,2.6666666666666665,Hindi ako makapaniwalang hatinggabina!
+tl_028,Fast,8,True,10.0,10.123333333333333,Sabimobaay 19.95o 90.15?
+tl_028,Fast,9,True,10.133333333333333,10.256666666666668,Sabilmoba ay 19.95 o 90.15?
+tl_028,Fast,10,True,10.266666666666667,10.39,Sabi mo ba ay 19.95 o 90.15?
+tl_028,Fast,11,True,10.4,10.666666666666666,Sabimo ba ay 19.95 o 90.15?
+tl_028,Fast,12,True,10.666666666666666,10.866666666666665,Sabi mo ba ay 19.95 o 90.15?
+tl_028,Balanced,1,True,0.4666666666666667,1.0666666666666667,Hindiakomakapaniwalang hatinggabi na!
+tl_028,Balanced,2,True,1.0666666666666667,1.1233333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_028,Balanced,3,True,1.1333333333333333,1.19,Hindiakomakapaniwalang hatinggabi na!
+tl_028,Balanced,5,True,1.9333333333333333,2.1333333333333333,Hindi ako makapaniwalang hatinggabi na!
+tl_028,Balanced,6,True,2.1333333333333333,2.6,Hindi ako makapaniwalang hatinggabina!
+tl_028,Balanced,8,True,6.4,6.733333333333333,Aalis tayo bukas ng gabi 128
+tl_028,Balanced,9,True,6.733333333333333,6.79,Aalis tayo búkas ng gabi 128
+tl_028,Balanced,12,True,10.0,10.123333333333333,Sabimobaay 19.95o 90.15?
+tl_028,Balanced,13,True,10.133333333333333,10.19,Sabilmoba ay 19.95 o 90.15?
+tl_028,Balanced,14,True,10.2,10.4,Sabi mo ba ay 19.95 o 90.15?
+tl_028,Balanced,15,True,10.4,10.6,Sabimo ba ay 19.95 o 90.15?
+tl_028,Balanced,16,True,10.6,10.78,Sabi mo ba ay 19.95 o 90.15?
+tl_029,Fast,4,True,9.333333333333334,10.0,Nasa kaliwa ang pulang pinto.
+tl_029,Fast,5,True,10.0,10.123333333333333,Nasa kaliwarang pulang pinto.
+tl_029,Balanced,4,True,9.333333333333334,10.0,Nasa kaliwa ang pulang pinto.
+tl_029,Balanced,5,True,10.0,10.056666666666667,Nasa kaliwarang pulang pinto.
+tl_030,Fast,6,True,13.6,14.0,Hindiako makapaniwalang hatinggabi na! 50%
+tl_030,Fast,7,True,14.0,14.4,Hindi ako makapaniwalang hatinggabi na! 50%
+tl_030,Balanced,6,True,13.6,13.656666666666666,Hindiako makapaniwalang hatinggabi na! 50%
+tl_030,Balanced,7,True,13.666666666666666,13.723333333333333,Hindi ako makapaniwalang hatinggabi na! 50%
+tl_030,Balanced,8,True,13.733333333333333,14.0,Hindiako makapaniwalang hatinggabi na! 50%
+tl_030,Balanced,9,True,14.0,14.4,Hindi ako makapaniwalang hatinggabi na! 50%
+tl_033,Balanced,3,True,4.733333333333333,4.79,Aalistayo bukas ng umaga 50%
+tl_033,Balanced,4,True,4.8,5.533333333333333,Aalis tayo bukas ng umaga 50%
+tl_034,Balanced,4,True,7.8,7.8566666666666665,Teka...aalis ba talaga tayo? 134
+tl_034,Balanced,5,True,7.866666666666666,9.0,Teka... aalis ba talaga tayo? 134
+tl_037,Balanced,3,True,6.4,7.133333333333333,Aalis tayo bukas ng umaga 137
+tl_037,Balanced,4,True,7.133333333333334,7.19,Aalis tayo búkas ng umaga 137
+tl_038,Fast,6,True,14.266666666666667,14.39,Aalis tayo bukas ng úmaga
+tl_038,Fast,7,True,14.4,14.933333333333334,Aalis tayo bukas ng umaga
+tl_038,Balanced,4,True,8.333333333333334,8.39,Sabi mo baray 19.95 o 90.15? 138
+tl_038,Balanced,5,True,8.4,8.58,Sabi mo ba ay 19.95 o 90.15? 138
+tl_038,Balanced,8,True,14.266666666666667,14.39,Aalis tayo bukas ng úmaga
+tl_038,Balanced,9,True,14.4,14.866666666666667,Aalis tayo bukas ng umaga
+tl_039,Balanced,3,True,6.4,6.733333333333333,Nasa kaliwa ang pulang pinto. 139
+tl_039,Balanced,4,True,6.733333333333333,6.79,Nasa kaliwarang pulang pinto. 139
+tl_041,Fast,4,True,9.333333333333334,10.0,Aalis tayo bukas ng umaga
+tl_041,Fast,5,True,10.0,10.123333333333333,Aalis tayobukas ng umaga
+tl_041,Fast,8,True,15.2,15.323333333333334,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Fast,9,True,15.333333333333334,15.456666666666667,Hindiako makapaniwalang hatinggabi na! 2040
+tl_041,Fast,10,True,15.466666666666667,15.733333333333333,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Fast,11,True,15.733333333333333,15.856666666666667,Hindiako makapaniwalang hatinggabi na! 2040
+tl_041,Fast,12,True,15.866666666666667,16.4,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Fast,13,True,16.4,16.523333333333333,Hindi ako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,4,True,9.333333333333334,10.0,Aalis tayo bukas ng umaga
+tl_041,Balanced,5,True,10.0,10.056666666666667,Aalis tayobukas ng umaga
+tl_041,Balanced,8,True,15.2,15.323333333333334,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,9,True,15.333333333333334,15.39,Hindiako makapaniwalang hatinggabi na! 2040
+tl_041,Balanced,10,True,15.4,15.523333333333333,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,11,True,15.533333333333333,15.59,Hindi ako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,12,True,15.6,15.656666666666666,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,13,True,15.666666666666666,15.790000000000001,Hindiako makapaniwalang hatinggabi na! 2040
+tl_041,Balanced,14,True,15.8,16.4,Hindiako makapaniwalang hatinggabi na!2040
+tl_041,Balanced,15,True,16.4,16.456666666666663,Hindi ako makapaniwalang hatinggabi na!2040
+tl_042,Fast,1,True,0.5333333333333333,0.9333333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_042,Fast,2,True,0.9333333333333333,1.0566666666666666,Hindi ako makapaniwalang hatinggabi na!
+tl_042,Fast,3,True,1.0666666666666667,1.7333333333333334,Hindiako makapaniwalang hatinggabi na!
+tl_042,Fast,8,True,10.4,10.523333333333333,Sabimo ba ay 19.95 o 90.15? 50%
+tl_042,Fast,9,True,10.533333333333333,10.656666666666666,Sabilmo ba ay 19.95 o 90.15? 50%
+tl_042,Fast,10,True,10.666666666666666,11.2,Sabi mo ba ay 19.95 o 90.15? 50%
+tl_042,Balanced,1,True,0.4666666666666667,0.7333333333333333,Hindiako makapaniwalang hatinggabi na!
+tl_042,Balanced,2,True,0.7333333333333333,0.79,Hindiako makapaniwalang hatinggabina!
+tl_042,Balanced,3,True,0.8,0.8566666666666667,Hindiako makapaniwalang hatinggabi na!
+tl_042,Balanced,4,True,0.8666666666666667,0.99,Hindi ako makapaniwalang hatinggabi na!
+tl_042,Balanced,5,True,1.0,1.6666666666666667,Hindiako makapaniwalang hatinggabi na!
+tl_042,Balanced,10,True,10.066666666666666,10.123333333333333,Sabimo ba ay 19.95 o 90.15? 50%
+tl_042,Balanced,11,True,10.133333333333333,10.4,Sabi mo ba ay 19.95 o 90.15? 50%
+tl_042,Balanced,12,True,10.4,10.523333333333333,Sabimo ba ay 19.95 o 90.15? 50%
+tl_042,Balanced,13,True,10.533333333333333,10.59,Sabilmo ba ay 19.95 o 90.15? 50%
+tl_042,Balanced,14,True,10.6,11.2,Sabi mo ba ay 19.95 o 90.15? 50%
+tl_043,Fast,3,True,6.4,6.8,Hindiako makapaniwalang hatinggabi na!143
+tl_043,Fast,5,True,8.0,8.123333333333333,Hindi ako makapaniwalang hatinggabi na! 143
+tl_043,Fast,6,True,8.133333333333333,8.333333333333332,Hindiako makapaniwalang hatinggabi na! 143
+tl_043,Fast,9,True,15.2,15.466666666666667,Sabi mo ba ay 19.95 o 90.15? 2042
+tl_043,Fast,10,True,15.466666666666667,15.733333333333333,Sabimo ba ay 19.95 o 90.15? 2042
+tl_043,Balanced,3,True,6.4,6.8,Hindiako makapaniwalang hatinggabi na!143
+tl_043,Balanced,5,True,8.0,8.123333333333333,Hindi ako makapaniwalang hatinggabi na! 143
+tl_043,Balanced,6,True,8.133333333333333,8.19,Hindiako makapaniwalang hatinggabi na! 143
+tl_043,Balanced,7,True,8.2,8.379999999999999,Hindiako makapaniwalang hatinggabina! 143
+tl_043,Balanced,10,True,15.2,15.466666666666667,Sabi mo ba ay 19.95 o 90.15? 2042
+tl_043,Balanced,11,True,15.466666666666667,15.666666666666666,Sabimo ba ay 19.95 o 90.15? 2042
+tl_044,Fast,1,True,0.5333333333333333,0.6566666666666666,Sabimo ba ay 19.95 o 90.15?
+tl_044,Fast,6,True,12.266666666666667,12.533333333333333,Hindi ako makapaniwalang hatinggabi na!
+tl_044,Fast,8,True,14.533333333333333,14.799999999999999,Hindi ako makapaniwalang hatinggabi na!
+tl_044,Fast,9,True,14.8,15.0,Hindi ako makapaniwalang hatinggabina!
+tl_044,Balanced,1,True,0.4666666666666667,0.6666666666666666,Sabimo ba ay 19.95 o 90.15?
+tl_044,Balanced,6,True,11.4,11.456666666666667,Hintayinmo ako
+tl_044,Balanced,7,True,11.466666666666667,11.733333333333333,Hintayin mo ako
+tl_044,Balanced,8,True,12.266666666666667,12.466666666666667,Hindi ako makapaniwalang hatinggabi na!
+tl_044,Balanced,10,True,14.533333333333333,14.733333333333333,Hindi ako makapaniwalang hatinggabi na!
+tl_044,Balanced,11,True,14.733333333333333,14.913333333333332,Hindi ako makapaniwalang hatinggabina!
+tl_045,Fast,4,True,9.333333333333334,10.133333333333333,Teka... aalis ba talaga tayo?
+tl_045,Fast,5,True,10.133333333333333,10.256666666666668,Teka....aalis ba talaga tayo?
+tl_045,Balanced,4,True,8.2,8.256666666666668,Sabi mo baray 19.95 o 90.15? 145
+tl_045,Balanced,5,True,8.266666666666667,8.799999999999999,Sabi mo ba ay 19.95 o 90.15? 145
+tl_045,Balanced,6,True,9.333333333333334,10.133333333333333,Teka... aalis ba talaga tayo?
+tl_045,Balanced,7,True,10.133333333333333,10.19,Teka....aalis ba talaga tayo?
+tl_047,Balanced,4,True,9.333333333333334,9.933333333333334,Hindi ako makapaniwalang hatinggabi na! 2026
+tl_047,Balanced,5,True,9.933333333333334,9.99,Hindi ako maknpaniwalang hatinggabi na! 2026
+tl_048,Fast,3,True,4.666666666666667,4.866666666666667,Sabi mo ba ay 19.95 o 90.157
+tl_048,Fast,5,True,9.333333333333334,10.133333333333333,Aalis tayo bukas ng umaga
+tl_048,Fast,6,True,10.133333333333333,10.256666666666668,Aallis tayo bukas ng umaga
+tl_048,Balanced,3,True,4.666666666666667,4.723333333333334,Sabi mo ba ay 19.95 o 90.157
+tl_048,Balanced,4,True,4.733333333333333,4.913333333333333,Sabi mo ba ay 19.95 o 90.15?
+tl_048,Balanced,6,True,9.333333333333334,10.066666666666666,Aalis tayo bukas ng umaga
+tl_048,Balanced,7,True,10.066666666666666,10.123333333333333,Anlis tayo bukas ng umaga
+tl_048,Balanced,8,True,10.133333333333333,10.19,Aallis tayo bukas ng umaga
+tl_048,Balanced,11,True,15.2,15.666666666666666,Hindi ako makapaniwalang hatinggabi na! 2047
+tl_048,Balanced,12,True,15.666666666666666,15.723333333333333,Hindi ako makapaniwalang hatinggabi nal 2047
+tl_048,Balanced,13,True,15.733333333333333,15.790000000000001,Hindi ako makapaniwalang hatinggabi na! 2047
+tl_048,Balanced,14,True,15.8,15.856666666666667,Hindi ako makapaniwalang hatinggabi nal 2047
+tl_048,Balanced,15,True,15.866666666666667,16.466666666666665,Hindi ako makapaniwalang hatinggabi na! 2047
+tl_048,Balanced,16,True,16.466666666666665,16.523333333333333,Hindi ako makapaniwalang hatinggabi nal! 2047

@@ -1,0 +1,145 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+en_001,3 FPS (Faster),4,True,7.666666666666667,8.0,can't believe it's already midnight. 101
+en_001,3 FPS (Faster),5,True,8.0,8.333333333333334,I can't believe it's already midnight. 101
+en_001,6 FPS (Fast),4,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_001,6 FPS (Fast),5,True,10.133333333333333,10.256666666666668,The ted door is on the left
+en_002,6 FPS (Fast),2,True,3.466666666666667,3.8666666666666667,Wait... are we really going
+en_002,6 FPS (Fast),3,True,3.8666666666666667,3.99,Wait....are we really going?
+en_002,6 FPS (Fast),7,True,12.266666666666667,12.799999999999999,I can't believe it's already midnight.
+en_002,6 FPS (Fast),8,True,12.8,12.923333333333334,can't believe it's already midnight.
+en_002,6 FPS (Fast),9,True,12.933333333333334,13.466666666666667,I can't believe it's already midnight.
+en_002,6 FPS (Fast),10,True,13.466666666666667,13.59,can't believe it's already midnight.
+en_003,1 FPS (Ultra Fast),4,True,10.0,11.0,Wait...are we really going?
+en_003,3 FPS (Faster),3,True,6.666666666666667,7.666666666666666,Did you say 19:95 or 90.15? 103
+en_003,3 FPS (Faster),4,True,7.666666666666667,8.0,Did you say 19.95 or 90.152 103
+en_003,3 FPS (Faster),6,True,9.333333333333334,10.0,Wait... are we really going?
+en_003,3 FPS (Faster),7,True,10.0,10.333333333333334,Wait...are we really going?
+en_003,6 FPS (Fast),4,True,9.333333333333334,10.0,Wait... are we really going?
+en_003,6 FPS (Fast),5,True,10.0,10.123333333333333,Wait...are we really going?
+en_004,3 FPS (Faster),5,True,10.0,10.333333333333334,We will-leave tonight
+en_004,3 FPS (Faster),6,True,10.333333333333334,11.0,We will leave tonight
+en_004,6 FPS (Fast),3,True,4.266666666666667,4.390000000000001,can't believe it's already midnight.
+en_004,6 FPS (Fast),4,True,4.4,4.8,I can't believe it's already midnight.
+en_004,6 FPS (Fast),5,True,4.8,4.923333333333334,can't believe it's already midnight.
+en_004,6 FPS (Fast),6,True,4.933333333333334,5.056666666666667,Ican't believe it's already midnight.
+en_004,6 FPS (Fast),7,True,5.066666666666666,5.866666666666666,I can't believe it's already midnight.
+en_004,6 FPS (Fast),10,True,10.0,10.123333333333333,We will-leave tonight
+en_004,6 FPS (Fast),11,True,10.133333333333333,10.799999999999999,We will leave tonight
+en_005,3 FPS (Faster),5,True,10.0,10.333333333333334,I can't belleve it's already midnight. 2026
+en_005,3 FPS (Faster),6,True,10.333333333333334,11.0,I can't believe it's already midnight. 2026
+en_005,6 FPS (Fast),3,True,6.4,6.8,Wait for me 105
+en_005,6 FPS (Fast),4,True,6.8,6.923333333333334,Walt for me 105
+en_005,6 FPS (Fast),5,True,6.933333333333334,7.056666666666667,Wait for me 105
+en_005,6 FPS (Fast),6,True,7.066666666666666,7.19,Walt for me 105
+en_005,6 FPS (Fast),9,True,10.0,10.266666666666666,I can't belleve it's already midnight. 2026
+en_005,6 FPS (Fast),10,True,10.266666666666667,10.39,I can't believe it's already midnight. 2026
+en_005,6 FPS (Fast),11,True,10.4,10.523333333333333,I can't halieve it's already midnight. 2026
+en_005,6 FPS (Fast),12,True,10.533333333333333,10.656666666666666,I ean't believe it's already midnight. 2026
+en_005,6 FPS (Fast),13,True,10.666666666666666,11.066666666666666,I can't believe it's already midnight. 2026
+en_006,1 FPS (Ultra Fast),2,True,4.0,5.0,Did you say 19.95 or 90.15?
+en_009,6 FPS (Fast),2,True,1.7333333333333334,1.8566666666666667,Did you say 19.95 or 90 15?
+en_009,6 FPS (Fast),3,True,1.8666666666666667,2.4,Did you say 19.95 or 90.15?
+en_015,6 FPS (Fast),3,True,6.4,7.066666666666666,I can't believe it's already midnight. 115
+en_015,6 FPS (Fast),4,True,7.066666666666666,7.19,Ican't believe it's already midnight. 115
+en_015,6 FPS (Fast),6,True,8.266666666666667,8.39,Ican't believe it's already midnight. 115
+en_015,6 FPS (Fast),7,True,8.4,8.799999999999999,I can't believe it's already midnight. 115
+en_015,6 FPS (Fast),8,True,9.333333333333334,10.4,The red door is on the left.
+en_015,6 FPS (Fast),9,True,10.4,10.523333333333333,Thered door is on the left.
+en_016,1 FPS (Ultra Fast),4,True,10.0,11.0,Wait for me
+en_017,3 FPS (Faster),3,True,6.666666666666667,7.0,Did you say 19 95 or 90.15? 117
+en_017,6 FPS (Fast),3,True,6.4,6.666666666666667,Did you say 19.95 or 90.15? 117
+en_017,6 FPS (Fast),4,True,6.666666666666667,6.79,Did you say 19 95 or 90.15? 117
+en_017,6 FPS (Fast),7,True,10.4,10.523333333333333,Wait..are we really going?
+en_017,6 FPS (Fast),8,True,10.533333333333333,11.066666666666666,Wait... are we really going?
+en_018,3 FPS (Faster),6,True,13.333333333333334,13.666666666666666,Did you say 19.95 or 90 15? 2026
+en_018,3 FPS (Faster),7,True,13.666666666666666,14.666666666666666,Did you say 19.95 or 90.15? 2026
+en_018,6 FPS (Fast),6,True,13.333333333333334,13.6,Did you say 19.95 or 90 15? 2026
+en_018,6 FPS (Fast),7,True,13.6,14.4,Did you say 19.95 or 90.15? 2026
+en_019,1 FPS (Ultra Fast),5,True,11.0,12.0,I can't believe it's already midnight. 2026
+en_019,3 FPS (Faster),4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_019,3 FPS (Faster),5,True,10.0,10.333333333333334,can't believe it's already midnight. 2026
+en_019,6 FPS (Fast),4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_019,6 FPS (Fast),5,True,10.0,10.266666666666666,can't believe it's already midnight. 2026
+en_019,6 FPS (Fast),6,True,10.266666666666667,10.533333333333333,I can't believe it's already midnight. 2026
+en_019,6 FPS (Fast),7,True,10.533333333333333,10.656666666666666,Ican't believe it's already midnight. 2026
+en_020,1 FPS (Ultra Fast),4,True,10.0,11.0,We will-leave tomorrow 50%
+en_020,3 FPS (Faster),4,True,9.333333333333334,10.0,We will leave tomorrow 50%
+en_020,3 FPS (Faster),5,True,10.0,10.333333333333334,We will-leave tomorrow 50%
+en_020,6 FPS (Fast),4,True,9.333333333333334,10.0,We will leave tomorrow 50%
+en_020,6 FPS (Fast),5,True,10.0,10.123333333333333,We will-leave tomorrow 50%
+en_020,6 FPS (Fast),9,True,16.533333333333335,16.733333333333334,can't believe it's already midnight. 2019
+en_023,6 FPS (Fast),3,True,6.4,6.8,We will leave tomorrow 123
+en_023,6 FPS (Fast),4,True,6.8,6.923333333333334,We willlleave tomorrow 123
+en_023,6 FPS (Fast),5,True,6.933333333333334,7.056666666666667,We will leave tomorrow 123
+en_023,6 FPS (Fast),6,True,7.066666666666666,7.19,We willlleave tomorrow 123
+en_026,1 FPS (Ultra Fast),4,True,10.0,11.0,I can't believe lit's already midnight. 2026
+en_026,3 FPS (Faster),4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_026,3 FPS (Faster),5,True,10.0,10.333333333333334,I can't believe lit's already midnight. 2026
+en_026,3 FPS (Faster),7,True,11.666666666666666,12.0,I can't believe lit's already midnight. 2026
+en_026,6 FPS (Fast),4,True,9.333333333333334,10.0,I can't believe it's already midnight. 2026
+en_026,6 FPS (Fast),5,True,10.0,10.123333333333333,I can't believe lit's already midnight. 2026
+en_026,6 FPS (Fast),7,True,11.6,11.799999999999999,I can't believe lit's already midnight. 2026
+en_027,1 FPS (Ultra Fast),4,True,10.0,11.0,We willleave tomorrow
+en_027,3 FPS (Faster),4,True,9.333333333333334,10.0,We will leave tomorrow
+en_027,3 FPS (Faster),5,True,10.0,10.333333333333334,We willleave tomorrow
+en_027,3 FPS (Faster),7,True,11.666666666666666,12.0,We willleave tomorrow
+en_027,6 FPS (Fast),4,True,9.333333333333334,10.0,We will leave tomorrow
+en_027,6 FPS (Fast),5,True,10.0,10.123333333333333,We willleave tomorrow
+en_027,6 FPS (Fast),7,True,11.466666666666667,11.866666666666665,We willleave tomorrow
+en_027,6 FPS (Fast),8,True,11.866666666666667,12.066666666666666,We will leave tomorrow
+en_027,6 FPS (Fast),11,True,16.8,17.0,I can't believe it's already midnight. 2026
+en_028,1 FPS (Ultra Fast),2,True,2.0,3.0,I can't believe it's already midnight.
+en_028,3 FPS (Faster),2,True,1.3333333333333333,1.6666666666666665,I can't believe it's already midnight.
+en_028,3 FPS (Faster),3,True,1.6666666666666667,2.0,Ican't believe it's already midnight.
+en_028,3 FPS (Faster),4,True,2.0,2.6666666666666665,I can't believe it's already midnight.
+en_028,6 FPS (Fast),1,True,0.5333333333333333,0.7999999999999999,Ican't believe it's already midnight.
+en_028,6 FPS (Fast),2,True,0.8,1.0666666666666667,I can't believe it's already midnight.
+en_028,6 FPS (Fast),3,True,1.0666666666666667,1.19,Ican't believe it's already midnight.
+en_034,6 FPS (Fast),5,True,10.133333333333333,10.256666666666668,We will-leave tomorrow
+en_034,6 FPS (Fast),6,True,10.266666666666667,10.799999999999999,We will leave tomorrow
+en_035,6 FPS (Fast),1,True,0.5333333333333333,1.0666666666666667,I can't believe it's already midnight.
+en_035,6 FPS (Fast),2,True,1.0666666666666667,1.19,"I can't believe,it's already midnight."
+en_036,1 FPS (Ultra Fast),2,True,4.0,5.0,Wait for me
+en_037,1 FPS (Ultra Fast),6,True,14.0,15.0,I can't believe it's already midnight.
+en_037,3 FPS (Faster),5,True,12.333333333333334,13.0,I can't believe it's already midnight.
+en_037,3 FPS (Faster),6,True,13.0,13.333333333333334,Ican't believe it's already midnight.
+en_037,6 FPS (Fast),5,True,12.266666666666667,12.933333333333334,I can't believe it's already midnight.
+en_037,6 FPS (Fast),6,True,12.933333333333334,13.056666666666667,Ican't believe it's already midnight.
+en_037,6 FPS (Fast),8,True,14.133333333333333,14.256666666666668,Ican't believe it's already midnight.
+en_037,6 FPS (Fast),9,True,14.266666666666667,14.666666666666666,I can't believe it's already midnight.
+en_040,6 FPS (Fast),5,True,10.4,10.523333333333333,I can'tibelieve it's already midnight. 2026
+en_040,6 FPS (Fast),6,True,10.533333333333333,10.799999999999999,I can't believe it's already midnight. 2026
+en_043,1 FPS (Ultra Fast),5,True,11.0,12.0,The red door is on the left.
+en_043,3 FPS (Faster),4,True,9.333333333333334,10.0,The red door is on the left.
+en_043,3 FPS (Faster),5,True,10.0,10.333333333333334,The reddoor is on the left.
+en_043,6 FPS (Fast),2,True,3.466666666666667,3.5900000000000003,Wait for me
+en_043,6 FPS (Fast),3,True,3.6,3.7233333333333336,Wait forme
+en_043,6 FPS (Fast),5,True,6.4,6.8,I can't believe it's already midnight. 143
+en_043,6 FPS (Fast),6,True,6.8,7.066666666666666,Ican't believe it's already midnight. 143
+en_043,6 FPS (Fast),7,True,7.066666666666666,7.19,I can't believe it's already midnight. 143
+en_043,6 FPS (Fast),8,True,7.2,7.323333333333333,Ican't believe it's already midnight. 143
+en_043,6 FPS (Fast),9,True,7.333333333333333,7.6,I can't believe it's already midnight. 143
+en_043,6 FPS (Fast),10,True,7.6,7.723333333333334,Ican't believe it's already midnight. 143
+en_043,6 FPS (Fast),11,True,7.733333333333333,8.133333333333333,I can't believe it's already midnight. 143
+en_043,6 FPS (Fast),12,True,8.133333333333333,8.333333333333332,Ican't believe it's already midnight. 143
+en_043,6 FPS (Fast),13,True,9.333333333333334,10.0,The red door is on the left.
+en_043,6 FPS (Fast),14,True,10.0,10.123333333333333,The reddoor is on the left.
+en_043,6 FPS (Fast),15,True,10.133333333333333,10.4,The red door is on the left.
+en_043,6 FPS (Fast),16,True,10.4,10.523333333333333,Theired door is on the left.
+en_044,3 FPS (Faster),4,True,8.333333333333334,8.666666666666666,We willleave tomorrow 144
+en_044,6 FPS (Fast),3,True,6.4,7.066666666666666,We will leave tomorrow 144
+en_044,6 FPS (Fast),4,True,7.066666666666666,7.19,We willleave tomorrow 144
+en_044,6 FPS (Fast),7,True,12.266666666666667,12.39,I can't believe it's already midnight.
+en_044,6 FPS (Fast),8,True,12.4,12.799999999999999,Ican't believe it's already midnight.
+en_044,6 FPS (Fast),9,True,12.8,12.923333333333334,I can't believe it's already midnight.
+en_046,1 FPS (Ultra Fast),4,True,10.0,11.0,We will leave tonight
+en_047,6 FPS (Fast),4,True,7.066666666666666,7.19,Waft lor me 147
+en_047,6 FPS (Fast),5,True,7.2,7.866666666666666,Wait for me 147
+en_047,6 FPS (Fast),7,True,10.133333333333333,10.256666666666668,I can't belleve it's already midnight. 2026
+en_047,6 FPS (Fast),8,True,10.266666666666667,11.066666666666666,I can't believe it's already midnight. 2026
+en_049,3 FPS (Faster),5,True,10.666666666666666,11.0,Did you say 19.95or 90.15?
+en_049,3 FPS (Faster),6,True,11.0,11.666666666666666,Did you say 19.95 or 90.15?
+en_049,6 FPS (Fast),5,True,10.666666666666666,10.790000000000001,Did you say 19.95or 90.15?
+en_049,6 FPS (Fast),6,True,10.8,11.466666666666667,Did you say 19.95 or 90.15?
+en_050,6 FPS (Fast),4,True,9.333333333333334,10.133333333333333,The red door is on the left.
+en_050,6 FPS (Fast),5,True,10.133333333333333,10.256666666666668,The red-door is on the left.

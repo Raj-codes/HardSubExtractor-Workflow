@@ -1,0 +1,32 @@
+{
+  "cases_checked": 1150,
+  "character_occurrences_checked": 147721,
+  "font_files": {
+    "Arial / 400 / arial.ttf #0": 238,
+    "Calibri / 400 / calibri.ttf #0": 192,
+    "Arial / 700 / arialbd.ttf #0": 204,
+    "Calibri / 700 / calibrib.ttf #0": 192,
+    "Yu Gothic / 400 / YuGothR.ttc #0": 14,
+    "MS Gothic / 400 / msgothic.ttc #0": 12,
+    "Yu Gothic / 700 / YuGothB.ttc #0": 12,
+    "MS Gothic / 700 / msgothic.ttc #0": 12,
+    "Malgun Gothic / 400 / malgun.ttf #0": 26,
+    "Malgun Gothic / 700 / malgunbd.ttf #0": 24,
+    "Microsoft YaHei / 400 / msyh.ttc #0": 14,
+    "SimSun / 400 / simsun.ttc #0": 12,
+    "Microsoft YaHei / 700 / msyhbd.ttc #0": 12,
+    "SimSun / 700 / simsun.ttc #0": 12,
+    "Microsoft JhengHei / 400 / msjh.ttc #0": 14,
+    "Microsoft JhengHei UI / 400 / msjh.ttc #1": 12,
+    "Microsoft JhengHei / 700 / msjhbd.ttc #0": 12,
+    "Microsoft JhengHei UI / 700 / msjhbd.ttc #1": 12,
+    "Nirmala UI / 400 / Nirmala.ttc #0": 28,
+    "Nirmala Text / 400 / Nirmala.ttc #3": 24,
+    "Nirmala UI / 700 / Nirmala.ttc #1": 24,
+    "Nirmala Text / 700 / Nirmala.ttc #4": 24,
+    "Tahoma / 400 / tahoma.ttf #0": 12,
+    "Tahoma / 700 / tahomabd.ttf #0": 12
+  },
+  "missing_primary_font_characters": {},
+  "limitations": "Checks selected primary font character maps only. Windows may substitute glyphs; no native-language proofreading or shaping validation is implied."
+}

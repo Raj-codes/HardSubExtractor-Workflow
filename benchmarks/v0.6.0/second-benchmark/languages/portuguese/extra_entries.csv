@@ -1,0 +1,5 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+pt_006,Fast,2,True,4.0,5.0,"Você disse 19,95 ou 90,15?"
+pt_016,Fast,4,True,10.0,11.0,Espere por mim
+pt_036,Fast,2,True,4.0,5.0,Espere por mim
+pt_046,Fast,4,True,10.0,11.0,Vamos sair amanhã à noite

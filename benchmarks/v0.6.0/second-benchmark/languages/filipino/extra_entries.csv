@@ -1,0 +1,7 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+tl_006,Fast,2,True,4.0,5.0,Sabi mo ba ay 19.95 o 90.15?
+tl_016,Fast,4,True,10.0,11.0,Hintayin mo ako
+tl_028,Balanced,5,True,9.708333333333332,10.333333333333334,Sabimobaay 19.95o 90.15?
+tl_028,Balanced,6,True,10.041666666666668,10.708333333333332,Sabi mo ba ay 19.95 o 90.15?
+tl_036,Fast,2,True,4.0,5.0,Hintayin mo ako
+tl_046,Fast,4,True,10.0,11.0,Aalis tayo bukas ng gabi

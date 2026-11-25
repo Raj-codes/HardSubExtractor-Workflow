@@ -1,0 +1,1196 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+sv_001,Fast,1,True,0.5333333333333333,0.6566666666666666,Vi àker i morgon bitti 2026
+sv_001,Fast,2,True,0.6666666666666666,0.79,Vi aker i morgon bitti 2026
+sv_001,Fast,3,True,0.8,0.9233333333333333,Vi àker i morgon bitti 2026
+sv_001,Fast,4,True,0.9333333333333333,1.1333333333333333,Vi áker i morgon bitti 2026
+sv_001,Fast,5,True,3.466666666666667,3.5900000000000003,Vănta pà mig
+sv_001,Fast,6,True,3.6,3.8666666666666667,Vănta på mig
+sv_001,Fast,7,True,3.8666666666666667,4.133333333333334,Vănta pá mig
+sv_001,Fast,8,True,4.133333333333334,4.256666666666667,Vanta pá mig
+sv_001,Fast,10,True,4.8,4.923333333333334,Vănta pà mig
+sv_001,Fast,11,True,4.933333333333334,5.133333333333334,Vănta pá mig
+sv_001,Fast,14,True,10.133333333333333,11.2,Den röda dörren är till vanster.
+sv_001,Fast,15,True,11.2,11.323333333333334,Den röda dörren är till vänster.
+sv_001,Fast,16,True,11.333333333333334,11.533333333333333,Den röda dörren är till vanster.
+sv_001,Fast,17,True,12.266666666666667,12.39,Vi àker i morgon kväll
+sv_001,Fast,18,True,12.4,12.799999999999999,Vi áker i morgon kvall
+sv_001,Fast,19,True,12.8,12.923333333333334,Vi àker i morgon kvall
+sv_001,Fast,21,True,13.866666666666667,13.99,Vi àker i morgon kväll
+sv_001,Fast,22,True,14.0,14.266666666666666,Vi áker i morgon kvall
+sv_001,Fast,23,True,14.266666666666667,14.39,Vi àker i morgon kvall
+sv_001,Fast,24,True,14.4,14.523333333333333,Vi aker i morgon kvall
+sv_001,Fast,25,True,14.533333333333333,14.733333333333333,Vi āker i morgon kvall
+sv_001,Balanced,1,True,0.4666666666666667,0.5233333333333333,Vi áker i morgon bitti 2026
+sv_001,Balanced,2,True,0.5333333333333333,0.59,Vi àker i morgon bitti 2026
+sv_001,Balanced,3,True,0.6,0.7233333333333333,Vi aker i morgon bitti 2026
+sv_001,Balanced,4,True,0.7333333333333333,0.79,Vi áker i morgon bitti 2026
+sv_001,Balanced,5,True,0.8,0.8566666666666667,Vi àker i morgon bitti 2026
+sv_001,Balanced,6,True,0.8666666666666667,0.9233333333333333,Vi aker i morgon bitti 2026
+sv_001,Balanced,7,True,0.9333333333333333,1.1133333333333333,Vi áker i morgon bitti 2026
+sv_001,Balanced,8,True,3.4,3.456666666666667,Vanta pá mig
+sv_001,Balanced,9,True,3.466666666666667,3.5900000000000003,Vănta pà mig
+sv_001,Balanced,10,True,3.6,3.6566666666666667,Vănta på mig
+sv_001,Balanced,11,True,3.6666666666666665,3.7233333333333336,Vănta pà mig
+sv_001,Balanced,12,True,3.7333333333333334,3.79,Vănta på mig
+sv_001,Balanced,13,True,3.8,4.133333333333333,Vănta pá mig
+sv_001,Balanced,14,True,4.133333333333334,4.256666666666667,Vanta pá mig
+sv_001,Balanced,16,True,4.8,4.8566666666666665,Vănta pà mig
+sv_001,Balanced,17,True,4.866666666666666,4.99,Vănta pá mig
+sv_001,Balanced,18,True,5.0,5.18,Vănta pà mig
+sv_001,Balanced,19,True,6.4,7.133333333333333,Jag kan inte tro att det är midnatt! 101
+sv_001,Balanced,20,True,7.133333333333334,7.19,Jag kan inte tre att det är midnatt! 101
+sv_001,Balanced,23,True,10.066666666666666,10.333333333333334,Den röda dörren är till vanster.
+sv_001,Balanced,24,True,10.333333333333334,10.39,Den röda dörren är till vänster.
+sv_001,Balanced,25,True,10.4,10.6,Den röda dörren är till vanster.
+sv_001,Balanced,26,True,10.6,10.656666666666666,Den röda dörren är till vänster.
+sv_001,Balanced,27,True,10.666666666666666,11.2,Den röda dörren är till vanster.
+sv_001,Balanced,28,True,11.2,11.256666666666668,Den röda dörren är till vänster.
+sv_001,Balanced,29,True,11.266666666666667,11.466666666666667,Den röda dörren är till vanster.
+sv_001,Balanced,30,True,12.266666666666667,12.323333333333334,Vi àker i morgon kväll
+sv_001,Balanced,31,True,12.333333333333334,12.39,Vi àker i morgon kvall
+sv_001,Balanced,32,True,12.4,12.456666666666667,Vi áker i morgon kvall
+sv_001,Balanced,33,True,12.466666666666667,12.523333333333333,Vi àker i morgon kvall
+sv_001,Balanced,34,True,12.533333333333333,12.733333333333333,Vi áker i morgon kvall
+sv_001,Balanced,35,True,12.733333333333333,12.856666666666667,Vi àker i morgon kvall
+sv_001,Balanced,36,True,12.866666666666667,13.133333333333333,Vi áker i morgon kvall
+sv_001,Balanced,37,True,13.133333333333333,13.19,Vi àker i morgon kvall
+sv_001,Balanced,38,True,13.2,13.256666666666668,Vi áker i morgon kvall
+sv_001,Balanced,39,True,13.266666666666667,13.323333333333334,Vi aker i morgon kvall
+sv_001,Balanced,40,True,13.333333333333334,13.39,Vi áker i morgon kvall
+sv_001,Balanced,41,True,13.4,13.456666666666667,Vi aker i morgon kvall
+sv_001,Balanced,42,True,13.466666666666667,13.523333333333333,Vi áker i morgon kvall
+sv_001,Balanced,43,True,13.533333333333333,13.59,Vi àker i morgon kvall
+sv_001,Balanced,44,True,13.6,13.656666666666666,Vi áker i morgon kvall
+sv_001,Balanced,45,True,13.666666666666666,13.723333333333333,Vi aker i morgon kvall
+sv_001,Balanced,46,True,13.733333333333333,13.856666666666667,Vi áker i morgon kvall
+sv_001,Balanced,47,True,13.866666666666667,13.99,Vi àker i morgon kväll
+sv_001,Balanced,48,True,14.0,14.266666666666666,Vi áker i morgon kvall
+sv_001,Balanced,49,True,14.266666666666667,14.39,Vi àker i morgon kvall
+sv_001,Balanced,50,True,14.4,14.456666666666667,Vi aker i morgon kvall
+sv_001,Balanced,51,True,14.466666666666667,14.666666666666666,Vi āker i morgon kvall
+sv_002,Fast,1,True,0.5333333333333333,1.0666666666666667,"Sa du 19,95 eller 90,15?"
+sv_002,Fast,2,True,1.0666666666666667,1.19,"Sa du,19,95 eller 90,15?"
+sv_002,Fast,4,True,3.466666666666667,3.8666666666666667,Vänta... ska vi verkligen áka?
+sv_002,Fast,5,True,3.8666666666666667,3.99,Vänta....ska vi verkligen áka?
+sv_002,Fast,7,True,5.2,5.4,Vänta... ska vi verkligen åka?
+sv_002,Fast,8,True,6.4,6.666666666666667,Vi àker i morgon bitti 102
+sv_002,Fast,9,True,6.666666666666667,6.79,Vi áker i morgon bitti 102
+sv_002,Fast,10,True,6.8,7.066666666666666,Vi aker i morgon bitti 102
+sv_002,Fast,11,True,7.066666666666666,7.19,Vi àker i morgon bitti 102
+sv_002,Fast,12,True,7.2,7.466666666666667,Vi aker i morgon bitti 102
+sv_002,Fast,13,True,7.466666666666667,7.59,Vi àker i morgon bitti 102
+sv_002,Fast,14,True,7.6,7.723333333333334,Vi ăker i morgon bitti 102
+sv_002,Fast,15,True,7.733333333333333,7.8566666666666665,Vi áker i morgon bitti 102
+sv_002,Fast,16,True,7.866666666666666,8.266666666666666,Vi àker i morgon bitti 102
+sv_002,Fast,17,True,8.266666666666667,8.39,Vi aker i morgon bitti 102
+sv_002,Fast,18,True,8.4,8.6,Vi àker i morgon bitti 102
+sv_002,Fast,19,True,9.333333333333334,9.456666666666667,Vănta pà mig
+sv_002,Fast,20,True,9.466666666666667,9.59,Vănta pá mig
+sv_002,Fast,21,True,9.6,9.723333333333333,Vănta pà mig
+sv_002,Fast,22,True,9.733333333333333,9.856666666666667,Vănta pá mig
+sv_002,Fast,23,True,9.866666666666667,9.99,Vanta pá mig
+sv_002,Fast,24,True,10.0,10.4,Vanta pà mig
+sv_002,Fast,25,True,10.4,10.523333333333333,Vanta pá mig
+sv_002,Fast,26,True,10.533333333333333,10.656666666666666,Vanta pà mig
+sv_002,Fast,27,True,10.666666666666666,10.933333333333334,Vanta pá mig
+sv_002,Fast,28,True,10.933333333333334,11.333333333333332,Vănta pá mig
+sv_002,Fast,29,True,11.333333333333334,11.456666666666667,Vanta pá mig
+sv_002,Fast,30,True,11.466666666666667,11.733333333333333,Vanta pà mig
+sv_002,Balanced,1,True,0.4666666666666667,1.0666666666666667,"Sa du 19,95 eller 90,15?"
+sv_002,Balanced,2,True,1.0666666666666667,1.1233333333333333,"Sa du,19,95 eller 90,15?"
+sv_002,Balanced,4,True,3.4,3.8666666666666667,Vänta... ska vi verkligen áka?
+sv_002,Balanced,5,True,3.8666666666666667,3.9233333333333333,Vänta....ska vi verkligen áka?
+sv_002,Balanced,6,True,3.933333333333333,4.2,Vänta... ska vi verkligen áka?
+sv_002,Balanced,7,True,4.2,4.256666666666667,Vänta..ska vi verkligen áka?
+sv_002,Balanced,8,True,4.266666666666667,4.6,Vänta... ska vi verkligen áka?
+sv_002,Balanced,9,True,4.6,4.656666666666667,Vänta... ska vi verkligen aka?
+sv_002,Balanced,10,True,4.666666666666667,4.723333333333334,Vänta... ska vi verkligen áka?
+sv_002,Balanced,11,True,4.733333333333333,4.79,Vänta... ska vi verkligen åka?
+sv_002,Balanced,12,True,4.8,5.2,Vänta... ska vi verkligen áka?
+sv_002,Balanced,13,True,5.2,5.38,Vänta... ska vi verkligen åka?
+sv_002,Balanced,14,True,6.4,6.666666666666666,Vi àker i morgon bitti 102
+sv_002,Balanced,15,True,6.666666666666667,6.723333333333334,Vi áker i morgon bitti 102
+sv_002,Balanced,16,True,6.733333333333333,7.066666666666666,Vi aker i morgon bitti 102
+sv_002,Balanced,17,True,7.066666666666666,7.123333333333334,Vi àker i morgon bitti 102
+sv_002,Balanced,18,True,7.133333333333334,7.3999999999999995,Vi aker I morgon bitti 102
+sv_002,Balanced,19,True,7.4,7.6,Vi àker i morgon bitti 102
+sv_002,Balanced,20,True,7.6,7.723333333333334,Vi ăker i morgon bitti 102
+sv_002,Balanced,21,True,7.733333333333333,7.79,Vi áker i morgon bitti 102
+sv_002,Balanced,22,True,7.8,8.2,Vi àker i morgon bitti 102
+sv_002,Balanced,23,True,8.2,8.323333333333334,Vi aker i morgon bitti 102
+sv_002,Balanced,24,True,8.333333333333334,8.39,Vi akeni morgon bitti 102
+sv_002,Balanced,25,True,8.4,8.456666666666667,Vi àker i morgon bitti 102
+sv_002,Balanced,26,True,8.466666666666667,8.646666666666667,Vi aker i morgon bitti 102
+sv_002,Balanced,27,True,9.333333333333334,9.39,Vănta pà mig
+sv_002,Balanced,28,True,9.4,9.6,Vănta pá mig
+sv_002,Balanced,29,True,9.6,9.656666666666666,Vănta pà mig
+sv_002,Balanced,30,True,9.666666666666666,9.866666666666667,Vănta pá mig
+sv_002,Balanced,31,True,9.866666666666667,9.923333333333334,Vanta pá mig
+sv_002,Balanced,32,True,9.933333333333334,9.99,Vănta pà mig
+sv_002,Balanced,33,True,10.0,10.056666666666667,Vanta pà mig
+sv_002,Balanced,34,True,10.066666666666666,10.123333333333333,Vanta på mig
+sv_002,Balanced,35,True,10.133333333333333,10.333333333333334,Vanta pà mig
+sv_002,Balanced,36,True,10.333333333333334,10.39,Vanta på mig
+sv_002,Balanced,37,True,10.4,10.523333333333333,Vanta pá mig
+sv_002,Balanced,38,True,10.533333333333333,10.59,Vanta pà mig
+sv_002,Balanced,39,True,10.6,10.933333333333334,Vanta pá mig
+sv_002,Balanced,40,True,10.933333333333334,10.99,Vănta pá mig
+sv_002,Balanced,41,True,11.0,11.056666666666667,Vanta pá mig
+sv_002,Balanced,42,True,11.066666666666666,11.123333333333333,Vănta pá mig
+sv_002,Balanced,43,True,11.133333333333333,11.19,Vanta pá mig
+sv_002,Balanced,44,True,11.2,11.323333333333334,Vănta pá mig
+sv_002,Balanced,45,True,11.333333333333334,11.39,Vanta pá mig
+sv_002,Balanced,46,True,11.4,11.733333333333333,Vanta pà mig
+sv_002,Balanced,48,True,14.333333333333334,14.39,Jag kan inte tro att det ar midnatt!
+sv_002,Balanced,49,True,14.4,14.866666666666667,Jag kan inte tro att det är midnatt!
+sv_003,Fast,2,True,3.466666666666667,4.0,Vi åker i morgon kväll
+sv_003,Fast,3,True,4.0,4.266666666666667,Vi äker i morgon kväll
+sv_003,Fast,4,True,4.266666666666667,4.533333333333333,Vi åker i morgon kväll
+sv_003,Fast,5,True,4.533333333333333,4.656666666666667,Vi äker i morgon kväll
+sv_003,Fast,6,True,4.666666666666667,4.79,Vi åker i morgon kväll
+sv_003,Fast,7,True,4.8,4.923333333333334,Vi àker i morgon kväll
+sv_003,Fast,8,True,4.933333333333334,5.056666666666667,Vi âker i morgon kväll
+sv_003,Fast,9,True,5.066666666666666,5.6,Vi åker i morgon kväll
+sv_003,Fast,11,True,9.333333333333334,9.6,Vanta... ska vi verkligen âka?
+sv_003,Fast,12,True,9.6,10.0,Vānta... ska vi verkligen âka?
+sv_003,Fast,13,True,10.0,10.123333333333333,Vanta...skaviverkligen âka?
+sv_003,Fast,14,True,10.133333333333333,10.256666666666668,Vanta... ska vi verkligen âka?
+sv_003,Fast,15,True,10.266666666666667,10.39,Vānta... ska vi verkligen âka?
+sv_003,Fast,16,True,10.4,10.666666666666666,Vanta... ska vi verkligen âka?
+sv_003,Fast,18,True,11.6,11.723333333333333,Vanta... ska vi verkligen aka?
+sv_003,Fast,19,True,11.733333333333333,12.0,Vānta... ska vi verkligen âka?
+sv_003,Fast,20,True,12.266666666666667,12.533333333333333,Vi åker i morgon bitti
+sv_003,Fast,21,True,12.533333333333333,12.799999999999999,Vi äker i morgon bitti
+sv_003,Fast,22,True,12.8,12.923333333333334,Vi âker i morgon bitti
+sv_003,Fast,23,True,12.933333333333334,13.056666666666667,Vi åker i morgon bitti
+sv_003,Fast,24,True,13.066666666666666,13.19,Vi âker i morgon bitti
+sv_003,Fast,25,True,13.2,13.323333333333334,Vi åker i morgon bitti
+sv_003,Fast,26,True,13.333333333333334,13.733333333333333,Vi âker i morgon bitti
+sv_003,Fast,28,True,16.8,17.0,Vānta pâ mig 2002
+sv_003,Balanced,2,True,3.4,3.933333333333333,Vi åker i morgon kväll
+sv_003,Balanced,3,True,3.933333333333333,4.056666666666667,Vi äker i morgon kväll
+sv_003,Balanced,4,True,4.066666666666666,4.123333333333334,Vi åker i morgon kväll
+sv_003,Balanced,5,True,4.133333333333334,4.19,Vi äker i morgon kväll
+sv_003,Balanced,6,True,4.2,4.256666666666667,Vi âker i morgon kväll
+sv_003,Balanced,7,True,4.266666666666667,4.466666666666667,Vi åker i morgon kväll
+sv_003,Balanced,8,True,4.466666666666667,4.666666666666666,Vi äker i morgon kväll
+sv_003,Balanced,9,True,4.666666666666667,4.723333333333334,Vi åker i morgon kväll
+sv_003,Balanced,10,True,4.733333333333333,4.79,Vi âker i morgon kväl
+sv_003,Balanced,11,True,4.8,4.8566666666666665,Vi àker i morgon kväll
+sv_003,Balanced,12,True,4.866666666666666,4.99,Vi âker i morgon kväll
+sv_003,Balanced,13,True,5.0,5.3999999999999995,Vi åker i morgon kväll
+sv_003,Balanced,14,True,5.4,5.456666666666667,Vi äker i morgon kväll
+sv_003,Balanced,15,True,5.466666666666667,5.6466666666666665,Vi åker i morgon kväll
+sv_003,Balanced,16,True,6.4,7.133333333333333,"Sa du 19,95 eller 90,15? 103"
+sv_003,Balanced,17,True,7.133333333333334,7.19,"Sa du 19,95 elfer 90,15? 103"
+sv_003,Balanced,19,True,9.333333333333334,9.39,Vanta... ska vi verkligen âka?
+sv_003,Balanced,20,True,9.4,9.456666666666667,Vānta... ska vi verkligen âka?
+sv_003,Balanced,21,True,9.466666666666667,9.523333333333333,Vanta... ska vi verkligen âka?
+sv_003,Balanced,22,True,9.533333333333333,10.0,Vānta... ska vi verkligen âka?
+sv_003,Balanced,23,True,10.0,10.056666666666667,Vanta...skaviverkligen âka?
+sv_003,Balanced,24,True,10.066666666666666,10.123333333333333,Vantam ska vi verkligen âka?
+sv_003,Balanced,25,True,10.133333333333333,10.19,Vanta... ska vi verkligen âka?
+sv_003,Balanced,26,True,10.2,10.4,Vānta... ska vi verkligen âka?
+sv_003,Balanced,27,True,10.4,10.6,Vanta... ska vi verkligen âka?
+sv_003,Balanced,29,True,11.6,11.656666666666666,Vanta... ska vi verkligen aka?
+sv_003,Balanced,30,True,11.666666666666666,11.723333333333333,Vanta... ska viverkligen åka?
+sv_003,Balanced,31,True,11.733333333333333,11.933333333333334,Vānta... ska vi verkligen âka?
+sv_003,Balanced,32,True,12.266666666666667,12.466666666666667,Vi åker i morgon bitti
+sv_003,Balanced,33,True,12.466666666666667,12.799999999999999,Vi äker i morgon bitti
+sv_003,Balanced,34,True,12.8,12.856666666666667,Vi âker i morgon bitti
+sv_003,Balanced,35,True,12.866666666666667,12.99,Vi åker i morgon bitti
+sv_003,Balanced,36,True,13.0,13.056666666666667,Vi äker i morgon bitti
+sv_003,Balanced,37,True,13.066666666666666,13.123333333333333,Vi âker i morgon bitti
+sv_003,Balanced,38,True,13.133333333333333,13.19,Vi äker i morgon bitti
+sv_003,Balanced,39,True,13.2,13.256666666666668,Vi åker i morgon bitti
+sv_003,Balanced,40,True,13.266666666666667,13.533333333333333,Vi âker i morgon bitti
+sv_003,Balanced,41,True,13.533333333333333,13.59,Vi àker i morgon bitti
+sv_003,Balanced,42,True,13.6,13.78,Vi âker i morgon bitti
+sv_003,Balanced,44,True,16.8,16.98,Vānta pâ mig 2002
+sv_004,Fast,5,True,10.133333333333333,10.256666666666668,Viaker i morgon kväll
+sv_004,Fast,6,True,10.266666666666667,10.39,Vi åker i morgon kväll
+sv_004,Fast,7,True,10.4,10.523333333333333,åker i morgon kväll
+sv_004,Fast,8,True,10.533333333333333,10.799999999999999,Vi åker i morgon kväll
+sv_004,Balanced,3,True,6.4,7.133333333333333,Den röda dörren är till vänster. 104
+sv_004,Balanced,4,True,7.133333333333334,7.19,Den röda dörren ar till vänster. 104
+sv_004,Balanced,7,True,10.066666666666666,10.123333333333333,Vi åker morgon kväll
+sv_004,Balanced,8,True,10.133333333333333,10.19,Viaker i morgon kväll
+sv_004,Balanced,9,True,10.2,10.4,Vi åker i morgon kväll
+sv_004,Balanced,10,True,10.4,10.456666666666667,åker i morgon kväll
+sv_004,Balanced,11,True,10.466666666666667,10.733333333333333,Vi åker i morgon kväll
+sv_005,Fast,4,True,6.933333333333334,7.056666666666667,Vanta på mig 105
+sv_005,Fast,5,True,7.066666666666666,7.19,Vanta pa mig 105
+sv_005,Fast,6,True,7.2,7.323333333333333,Vanta på mig 105
+sv_005,Fast,7,True,7.333333333333333,7.866666666666666,Vänta på mig 105
+sv_005,Fast,9,True,10.4,10.523333333333333,Jag kaninte tro att det är midnatt! 2026
+sv_005,Fast,10,True,10.533333333333333,11.066666666666666,Jag kan inte tro att det är midnatt! 2026
+sv_005,Balanced,3,True,6.4,6.866666666666666,Vänta på mig 105
+sv_005,Balanced,4,True,6.866666666666666,7.066666666666666,Vanta på mig 105
+sv_005,Balanced,5,True,7.066666666666666,7.123333333333334,Vanta pa mig 105
+sv_005,Balanced,6,True,7.133333333333334,7.333333333333333,Vanta på mig 105
+sv_005,Balanced,9,True,10.4,10.456666666666667,Jag kaninte tro att det är midnatt! 2026
+sv_005,Balanced,10,True,10.466666666666667,11.0,Jag kan inte tro att det är midnatt! 2026
+sv_006,Fast,5,True,10.533333333333333,10.656666666666666,Vi âker i morgon bitti
+sv_006,Fast,6,True,10.666666666666666,11.2,Vi åker i morgon bitti
+sv_006,Balanced,5,True,10.466666666666667,10.666666666666666,Vi âker i morgon bitti
+sv_006,Balanced,6,True,10.666666666666666,11.2,Vi åker i morgon bitti
+sv_007,Balanced,3,True,6.4,7.133333333333333,Vi åker i morgon kväll 107
+sv_007,Balanced,4,True,7.133333333333334,7.19,Vi åkeri morgon kväll 107
+sv_007,Balanced,6,True,8.2,8.379999999999999,Vi åkeri morgon kväll 107
+sv_007,Balanced,7,True,9.333333333333334,9.933333333333334,"Sa du 19,95 eller 90,15?"
+sv_007,Balanced,8,True,9.933333333333334,9.99,"Sardu 19,95 eller 90,15?"
+sv_008,Fast,4,True,9.333333333333334,10.4,Den röda dörren är till vänster.
+sv_008,Fast,5,True,10.4,10.523333333333333,Denröda dörren är till vänster.
+sv_008,Balanced,4,True,9.333333333333334,10.4,Den röda dörren är till vänster.
+sv_008,Balanced,5,True,10.4,10.456666666666667,Denröda dörren är till vänster.
+sv_009,Fast,3,True,6.4,6.8,Vi àker i morgon bitti 109
+sv_009,Fast,4,True,6.8,6.923333333333334,Vi àker imorgon bitti 109
+sv_009,Fast,5,True,6.933333333333334,7.056666666666667,Vi àker i morgon bitti 109
+sv_009,Fast,6,True,7.066666666666666,7.19,Vi àkeri morgon bitti 109
+sv_009,Fast,7,True,7.2,7.323333333333333,Vi àker i morgon bitti 109
+sv_009,Fast,8,True,7.333333333333333,7.456666666666667,Vi âker i morgon bitti 109
+sv_009,Fast,9,True,7.466666666666667,7.733333333333333,Vi àker i morgon bitti 109
+sv_009,Fast,10,True,7.733333333333333,7.8566666666666665,Vi âker i morgon bitti 109
+sv_009,Fast,11,True,7.866666666666666,8.266666666666666,Vi àker i morgon bitti 109
+sv_009,Fast,12,True,8.266666666666667,8.39,Vi âkeri morgon bitti 109
+sv_009,Fast,13,True,8.4,8.523333333333333,Vi âker i morgon bitti 109
+sv_009,Fast,14,True,8.533333333333333,8.799999999999999,Vi àker i morgon bitti 109
+sv_009,Fast,15,True,9.333333333333334,9.6,Vänta pà mig 50%
+sv_009,Fast,16,True,9.6,9.723333333333333,Vänta på mig 50%
+sv_009,Fast,17,True,9.733333333333333,10.133333333333333,Vänta pà mig 50%
+sv_009,Fast,18,True,10.133333333333333,10.256666666666668,Vânta pà mig 50%
+sv_009,Fast,19,True,10.266666666666667,10.39,Vänta pà mig 50%
+sv_009,Fast,20,True,10.4,10.523333333333333,Vänta på mig 50%
+sv_009,Fast,21,True,10.533333333333333,10.656666666666666,Vanta pà mig 50%
+sv_009,Fast,23,True,11.466666666666667,11.59,Vänta på mig 50%
+sv_009,Fast,24,True,11.6,11.723333333333333,Vânta pà mig 50%
+sv_009,Fast,25,True,11.733333333333333,11.856666666666667,Vnta pà mig 50%
+sv_009,Fast,26,True,11.866666666666667,12.066666666666666,Vänta pà mig 50%
+sv_009,Balanced,3,True,6.4,6.8,Vi àker i morgon bitti 109
+sv_009,Balanced,4,True,6.8,6.8566666666666665,Vi àker imorgon bitti 109
+sv_009,Balanced,5,True,6.866666666666666,7.066666666666666,Vi àker i morgon bitti 109
+sv_009,Balanced,6,True,7.066666666666666,7.123333333333334,Vi àkeri morgon bitti 109
+sv_009,Balanced,7,True,7.133333333333334,7.19,Vi àkerimorgon bitti 109
+sv_009,Balanced,8,True,7.2,7.256666666666667,Vi àker i morgon bitti 109
+sv_009,Balanced,9,True,7.266666666666667,7.390000000000001,Vi âker i morgon bitti 109
+sv_009,Balanced,10,True,7.4,7.733333333333333,Vi àker i morgon bitti 109
+sv_009,Balanced,11,True,7.733333333333333,7.79,Vi âker i morgon bitti 109
+sv_009,Balanced,12,True,7.8,7.8566666666666665,Vi âker imorgon bitti 109
+sv_009,Balanced,13,True,7.866666666666666,8.2,Vi àker i morgon bitti 109
+sv_009,Balanced,14,True,8.2,8.256666666666668,Vi àkeri morgon bitti 109
+sv_009,Balanced,15,True,8.266666666666667,8.323333333333334,Vi âkeri morgon bitti 109
+sv_009,Balanced,16,True,8.333333333333334,8.456666666666667,Vi âker i morgon bitti 109
+sv_009,Balanced,17,True,8.466666666666667,8.799999999999999,Vi àker i morgon bitti 109
+sv_009,Balanced,18,True,9.333333333333334,9.6,Vänta pà mig 50%
+sv_009,Balanced,19,True,9.6,9.723333333333333,Vänta på mig 50%
+sv_009,Balanced,20,True,9.733333333333333,10.066666666666666,Vänta pà mig 50%
+sv_009,Balanced,21,True,10.066666666666666,10.123333333333333,Vanta pà mig 50%
+sv_009,Balanced,22,True,10.133333333333333,10.19,Vânta pà mig 50%
+sv_009,Balanced,23,True,10.2,10.323333333333334,Vänta pà mig 50%
+sv_009,Balanced,24,True,10.333333333333334,10.456666666666667,Vänta på mig 50%
+sv_009,Balanced,25,True,10.466666666666667,10.523333333333333,Vnta pà mig 50%
+sv_009,Balanced,26,True,10.533333333333333,10.656666666666666,Vanta pà mig 50%
+sv_009,Balanced,27,True,10.666666666666666,11.4,Vänta pà mig 50%
+sv_009,Balanced,28,True,11.4,11.523333333333333,Vänta på mig 50%
+sv_009,Balanced,29,True,11.533333333333333,11.59,Vanta pà mig 50%
+sv_009,Balanced,30,True,11.6,11.656666666666666,Vânta pà mig 50%
+sv_009,Balanced,31,True,11.666666666666666,11.723333333333333,Vânta pá mig 50%
+sv_009,Balanced,32,True,11.733333333333333,11.790000000000001,Vnta pà mig 50%
+sv_009,Balanced,33,True,11.8,11.98,Vänta pà mig 50%
+sv_010,Fast,4,True,9.333333333333334,9.456666666666667,Vänta... ska vi verkligen aka?
+sv_010,Fast,5,True,9.466666666666667,9.59,Vänta... ska vi verkligen áka?
+sv_010,Fast,7,True,10.133333333333333,10.256666666666668,Vänta...ska vi verkligen áka?
+sv_010,Fast,8,True,10.266666666666667,10.39,Vänta... ska vi verkligen åka?
+sv_010,Fast,9,True,10.4,10.523333333333333,Väntaska vi verkligen aka?
+sv_010,Fast,10,True,10.533333333333333,10.656666666666666,Vänta... ska vi verkligen áka?
+sv_010,Fast,11,True,10.666666666666666,10.866666666666665,Vänta... ska vi verkligen åka?
+sv_010,Fast,12,True,12.266666666666667,12.666666666666666,Vi åker i morgon bitti
+sv_010,Fast,13,True,12.666666666666666,12.790000000000001,Vi âker i morgon bitti
+sv_010,Balanced,4,True,9.333333333333334,9.39,Vänta... ska vi verkligen aka?
+sv_010,Balanced,5,True,9.4,9.6,Vänta... ska vi verkligen áka?
+sv_010,Balanced,6,True,9.6,9.933333333333334,Vänta... ska vi verkligen aka?
+sv_010,Balanced,7,True,9.933333333333334,9.99,Vänta ska vi verkligen åka?
+sv_010,Balanced,8,True,10.0,10.056666666666667,Vänta... ska vi verkligen aka?
+sv_010,Balanced,9,True,10.066666666666666,10.123333333333333,Vänta... ska vi verkligen áka?
+sv_010,Balanced,10,True,10.133333333333333,10.19,Vänta...ska vi verkligen áka?
+sv_010,Balanced,11,True,10.2,10.4,"Vänta.., ska vi verkligen åka?"
+sv_010,Balanced,12,True,10.4,10.456666666666667,Väntaska vi verkligen aka?
+sv_010,Balanced,13,True,10.466666666666667,10.59,Vänta... ska vi verkligen áka?
+sv_010,Balanced,14,True,10.6,10.78,Vänta... ska vi verkligen åka?
+sv_010,Balanced,15,True,12.266666666666667,12.323333333333334,Vi åker i morgon bitti
+sv_010,Balanced,16,True,12.333333333333334,12.39,Vi âker i morgon bitti
+sv_010,Balanced,17,True,12.4,12.6,Vi åker i morgon bitti
+sv_010,Balanced,18,True,12.6,12.723333333333333,Vi âker i morgon bitti
+sv_010,Balanced,19,True,12.733333333333333,12.856666666666667,Vi åker i morgon bitti
+sv_010,Balanced,20,True,12.866666666666667,12.923333333333334,Vi âker i morgon bitti
+sv_010,Balanced,22,True,13.666666666666666,13.723333333333333,Vi âker i morgon bitti
+sv_010,Balanced,23,True,13.733333333333333,13.933333333333334,Vi åker i morgon bitti
+sv_011,Fast,5,True,10.0,10.123333333333333,Vilåkerimorgon kväll
+sv_011,Fast,6,True,10.133333333333333,10.256666666666668,Vilåkeri morgon kväll
+sv_011,Fast,7,True,10.266666666666667,10.533333333333333,Vi åker i morgon kväll
+sv_011,Fast,8,True,10.533333333333333,10.656666666666666,Vi åkerimorgon kväll
+sv_011,Fast,9,True,10.666666666666666,11.066666666666666,Vi åker i morgon kväll
+sv_011,Balanced,4,True,6.733333333333333,6.79,Den röda dörrenär till vänster. 111
+sv_011,Balanced,5,True,6.8,6.9799999999999995,Den röda dörren är till vänster. 111
+sv_011,Balanced,7,True,10.0,10.056666666666667,Vilåkerimorgon kväll
+sv_011,Balanced,8,True,10.066666666666666,10.123333333333333,Viåkerlimorgon kväll
+sv_011,Balanced,9,True,10.133333333333333,10.19,Vilåkeri morgon kväll
+sv_011,Balanced,10,True,10.2,10.466666666666667,Vi åker i morgon kväll
+sv_011,Balanced,11,True,10.466666666666667,10.523333333333333,Viâkerimorgon kväll
+sv_011,Balanced,12,True,10.533333333333333,10.59,Vi åkerimorgon kväll
+sv_011,Balanced,13,True,10.6,11.0,Vi åker i morgon kväll
+sv_012,Balanced,3,True,6.4,6.866666666666666,Vänta på mig 112
+sv_012,Balanced,4,True,6.866666666666666,6.923333333333334,Vanta på mig 112
+sv_012,Balanced,7,True,10.066666666666666,10.123333333333333,Jag kanlinte tro att det är midnatt! 2026
+sv_012,Balanced,8,True,10.133333333333333,10.466666666666667,Jag kan inte tro att det är midnatt! 2026
+sv_012,Balanced,9,True,10.466666666666667,10.523333333333333,Jag kanlinte tro att det är midnatt! 2026
+sv_012,Balanced,10,True,10.533333333333333,11.2,Jag kan inte tro att det är midnatt! 2026
+sv_013,Fast,4,True,9.333333333333334,10.133333333333333,Vi åker i morgon bitti
+sv_013,Fast,5,True,10.133333333333333,10.256666666666668,Viråker i morgon bitti
+sv_013,Balanced,4,True,8.2,8.379999999999999,Vänta... ska viverkligen åka? 113
+sv_013,Balanced,5,True,9.333333333333334,10.133333333333333,Vi åker i morgon bitti
+sv_013,Balanced,6,True,10.133333333333333,10.19,Viråker i morgon bitti
+sv_013,Balanced,7,True,10.2,10.466666666666667,Vi åker i morgon bitti
+sv_013,Balanced,8,True,10.466666666666667,10.523333333333333,Viråker i morgon bitti
+sv_014,Fast,3,True,6.4,6.8,Vi åker i morgon kväll 114
+sv_014,Fast,4,True,6.8,7.066666666666666,Vi åkeri morgon kväll 114
+sv_014,Fast,5,True,7.066666666666666,7.19,Vi åker imorgon kväll 114
+sv_014,Fast,7,True,8.266666666666667,8.39,Vi åkeri morgon kväll 114
+sv_014,Fast,8,True,8.4,8.6,Vi åker i morgon kväll 114
+sv_014,Fast,9,True,9.333333333333334,10.133333333333333,"Sa du 19,95 eller 90,15?"
+sv_014,Fast,10,True,10.133333333333333,10.256666666666668,"Sadu 19,95 eller 90,15?"
+sv_014,Balanced,3,True,6.4,6.8,Vi åker i morgon kväll 114
+sv_014,Balanced,4,True,6.8,6.8566666666666665,Vi åkeri morgon kväll 114
+sv_014,Balanced,5,True,6.866666666666666,6.923333333333334,Vi åkerimorgon kväll 114
+sv_014,Balanced,6,True,6.933333333333334,7.056666666666667,Vi åkeri morgon kväll 114
+sv_014,Balanced,7,True,7.066666666666666,7.123333333333334,Vi åker imorgon kväll 114
+sv_014,Balanced,8,True,7.133333333333334,7.19,Vi åkerimorgon kväll 114
+sv_014,Balanced,9,True,7.2,7.8,Vi åker i morgon kväll 114
+sv_014,Balanced,10,True,7.8,7.8566666666666665,Vi åkeri morgon kväll 114
+sv_014,Balanced,11,True,7.866666666666666,8.2,Vi åker i morgon kväll 114
+sv_014,Balanced,12,True,8.2,8.4,Vi åkeri morgon kväll 114
+sv_014,Balanced,13,True,8.4,8.58,Vi åker i morgon kväll 114
+sv_014,Balanced,14,True,9.333333333333334,10.133333333333333,"Sa du 19,95 eller 90,15?"
+sv_014,Balanced,15,True,10.133333333333333,10.19,"Sadu 19,95 eller 90,15?"
+sv_014,Balanced,16,True,10.2,10.466666666666667,"Sa du 19,95 eller 90,15?"
+sv_014,Balanced,17,True,10.466666666666667,10.523333333333333,"Sadu 19,95 eller 90,15?"
+sv_015,Fast,1,True,0.5333333333333333,0.6566666666666666,Vi åkeri morgon bitti 2026
+sv_015,Fast,5,True,8.266666666666667,8.39,Jag kan inte troatt det är midnatt! 115
+sv_015,Fast,6,True,8.4,8.799999999999999,Jag kan inte tro att det är midnatt! 115
+sv_015,Fast,8,True,12.266666666666667,12.39,Vi åker i morgon kväll
+sv_015,Fast,9,True,12.4,12.523333333333333,Vi åker imorgon kväll
+sv_015,Fast,11,True,15.2,15.323333333333334,"Sadu 19,95 eller 90,15? 2014"
+sv_015,Fast,13,True,16.0,16.53333333333333,"Sadu 19,95 eller 90,15? 2014"
+sv_015,Fast,14,True,16.533333333333335,16.933333333333334,"Sa du 19,95 eller 90,15? 2014"
+sv_015,Balanced,1,True,0.4666666666666667,0.5233333333333333,Vi åker i morgon bitti 2026
+sv_015,Balanced,2,True,0.5333333333333333,0.59,Vi åkeri morgon bitti 2026
+sv_015,Balanced,6,True,8.266666666666667,8.323333333333334,Jag kan inte troatt det är midnatt! 115
+sv_015,Balanced,7,True,8.333333333333334,8.799999999999999,Jag kan inte tro att det är midnatt! 115
+sv_015,Balanced,9,True,11.4,11.456666666666667,Den röda dörrenär till vänster.
+sv_015,Balanced,10,True,11.466666666666667,11.933333333333334,Den röda dörren är till vänster.
+sv_015,Balanced,11,True,12.266666666666667,12.39,Vi åker i morgon kväll
+sv_015,Balanced,12,True,12.4,12.456666666666667,Vi åker imorgon kväll
+sv_015,Balanced,14,True,15.2,15.256666666666668,"Sadu 19,95 eller 90,15? 2014"
+sv_015,Balanced,16,True,16.0,16.466666666666665,"Sadu 19,95 eller 90,15? 2014"
+sv_015,Balanced,17,True,16.466666666666665,16.866666666666667,"Sa du 19,95 eller 90,15? 2014"
+sv_017,Fast,4,True,9.333333333333334,9.456666666666667,Vänta... ska vi verkligen àka?
+sv_017,Fast,5,True,9.466666666666667,9.59,Vänta... ska vi verkligen åka?
+sv_017,Fast,6,True,9.6,9.866666666666665,Vänta... ska vi verkligen àka?
+sv_017,Fast,9,True,15.2,15.6,Vänta på mig 2016
+sv_017,Fast,10,True,15.6,15.723333333333333,/änta på mig 2016
+sv_017,Balanced,4,True,7.133333333333334,7.19,"Sa du 19 95 eller 90,15? 117"
+sv_017,Balanced,5,True,7.2,7.8,"Sa du 19.95 eller 90,15? 117"
+sv_017,Balanced,6,True,9.333333333333334,9.456666666666667,Vänta... ska vi verkligen àka?
+sv_017,Balanced,7,True,9.466666666666667,9.59,Vänta... ska vi verkligen åka?
+sv_017,Balanced,8,True,9.6,9.866666666666667,Vänta... ska vi verkligen àka?
+sv_017,Balanced,11,True,15.2,15.6,Vänta på mig 2016
+sv_017,Balanced,12,True,15.6,15.656666666666666,/änta på mig 2016
+sv_018,Fast,3,True,6.4,6.8,Den röda dörren är till vänster. 118
+sv_018,Fast,4,True,6.8,7.066666666666666,Den röda dorren är till vänster. 118
+sv_018,Fast,5,True,7.066666666666666,7.19,Den röda dörren ar till vänster. 118
+sv_018,Fast,6,True,7.2,7.323333333333333,Den röda dorren är till vänster. 118
+sv_018,Fast,9,True,10.0,10.123333333333333,Vi aker i morgon kväll
+sv_018,Fast,10,True,10.133333333333333,10.533333333333333,Vi åker i morgon kväll
+sv_018,Fast,11,True,10.533333333333333,10.656666666666666,Vi aker i morgon kväl
+sv_018,Fast,12,True,10.666666666666666,11.2,Vi åker i morgon kväll
+sv_018,Fast,13,True,12.266666666666667,12.933333333333334,"Sa du 19,95 eller 90,15? 2026"
+sv_018,Fast,14,True,12.933333333333334,13.056666666666667,"Sa du 19,95 eller 90 15? 2026"
+sv_018,Fast,16,True,15.2,15.323333333333334,Vanta... ska vi verkligen åka? 2017
+sv_018,Fast,17,True,15.333333333333334,15.456666666666667,Vänta... ska vi verkligen àka? 2017
+sv_018,Fast,18,True,15.466666666666667,15.733333333333333,Vänta... ska vi verkligen åka? 2017
+sv_018,Fast,19,True,15.733333333333333,15.856666666666667,Vänta... ska vi verkligen àka? 2017
+sv_018,Fast,20,True,15.866666666666667,15.99,Vänta... ska vi verkligen åka? 2017
+sv_018,Fast,21,True,16.0,16.12333333333333,Vanta... ska vi verkligen åka? 2017
+sv_018,Fast,22,True,16.133333333333333,16.666666666666668,Vänta... ska vi verkligen åka? 2017
+sv_018,Fast,23,True,16.666666666666668,16.79,Vanta... ska vi verkligen åka? 2017
+sv_018,Fast,24,True,16.8,17.466666666666665,Vänta... ska vi verkligen åka? 2017
+sv_018,Fast,25,True,17.466666666666665,17.666666666666664,Vanta... ska vi verkligen åka? 2017
+sv_018,Balanced,2,True,2.2,2.256666666666667,Vānta på mig
+sv_018,Balanced,3,True,2.2666666666666666,3.066666666666667,Vänta på mig
+sv_018,Balanced,5,True,6.4,6.8,Den röda dörren är till vänster. 118
+sv_018,Balanced,6,True,6.8,7.066666666666666,Den röda dorren är till vänster. 118
+sv_018,Balanced,7,True,7.066666666666666,7.123333333333334,Den röda dörren ar till vänster. 118
+sv_018,Balanced,8,True,7.133333333333334,7.19,Den röda dorren ar till vänster. 118
+sv_018,Balanced,9,True,7.2,7.323333333333333,Den röda dorren är till vänster. 118
+sv_018,Balanced,12,True,10.0,10.123333333333333,Vi aker i morgon kväll
+sv_018,Balanced,13,True,10.133333333333333,10.466666666666667,Vi åker i morgon kväll
+sv_018,Balanced,14,True,10.466666666666667,10.523333333333333,Vi äker i morgon kväll
+sv_018,Balanced,15,True,10.533333333333333,10.59,Vi aker i morgon kväl
+sv_018,Balanced,16,True,10.6,10.656666666666666,Vi aker i morgon kväll
+sv_018,Balanced,17,True,10.666666666666666,11.2,Vi åker i morgon kväll
+sv_018,Balanced,18,True,12.266666666666667,12.933333333333334,"Sa du 19,95 eller 90,15? 2026"
+sv_018,Balanced,19,True,12.933333333333334,13.056666666666667,"Sa du 19,95 eller 90 15? 2026"
+sv_018,Balanced,21,True,15.2,15.256666666666668,Vanta... ska vi verkligen åka? 2017
+sv_018,Balanced,22,True,15.266666666666667,15.323333333333334,Vanta... ska vi verkligen àka? 2017
+sv_018,Balanced,23,True,15.333333333333334,15.39,Vänta... ska vi verkligen àka? 2017
+sv_018,Balanced,24,True,15.4,15.456666666666667,Vänta... ska vi verkligen aka? 2017
+sv_018,Balanced,25,True,15.466666666666667,15.733333333333333,Vänta... ska vi verkligen åka? 2017
+sv_018,Balanced,26,True,15.733333333333333,15.856666666666667,Vänta... ska vi verkligen àka? 2017
+sv_018,Balanced,27,True,15.866666666666667,15.923333333333334,Vänta... ska vi verkligen åka? 2017
+sv_018,Balanced,28,True,15.933333333333334,15.99,Vänta... ska vi verkligen àka? 2017
+sv_018,Balanced,29,True,16.0,16.056666666666665,Vanta... ska vi verkligen åka? 2017
+sv_018,Balanced,30,True,16.066666666666666,16.666666666666668,Vänta... ska vi verkligen åka? 2017
+sv_018,Balanced,31,True,16.666666666666668,16.723333333333333,Vanta... ska vi verkligen åka? 2017
+sv_018,Balanced,32,True,16.733333333333334,17.4,Vänta... ska vi verkligen åka? 2017
+sv_018,Balanced,33,True,17.4,17.6,Vanta... ska vi verkligen åka? 2017
+sv_019,Fast,1,True,0.5333333333333333,0.9333333333333333,Vānta... ska vi verkligen âka?
+sv_019,Fast,2,True,0.9333333333333333,1.2,Vānta...ska vi verkligen âka?
+sv_019,Fast,3,True,1.2,1.5999999999999999,Vānta... ska vi verkligen âka?
+sv_019,Fast,4,True,1.6,1.7233333333333334,Vānta... ska vi verkligen åka?
+sv_019,Fast,5,True,1.7333333333333334,1.9333333333333333,Vānta... ska vi verkligen âka?
+sv_019,Fast,6,True,3.466666666666667,3.5900000000000003,Vi âker i morgon bitti
+sv_019,Fast,7,True,3.6,3.7233333333333336,Vi äker i morgon bitti
+sv_019,Fast,8,True,3.7333333333333334,4.0,Vi åker i morgon bitti
+sv_019,Fast,9,True,4.0,4.266666666666667,Vi âker i morgon bitti
+sv_019,Fast,10,True,4.266666666666667,4.390000000000001,Vi àker i morgon bitti
+sv_019,Fast,11,True,4.4,4.666666666666667,Vi âker i morgon bitti
+sv_019,Fast,12,True,4.666666666666667,4.79,Vi åker i morgon bitti
+sv_019,Fast,13,True,4.8,5.066666666666666,Vi âker i morgon bitti
+sv_019,Fast,14,True,6.4,6.8,Vānta på mig 119
+sv_019,Fast,15,True,6.8,6.923333333333334,Vanta pâ mig 119
+sv_019,Fast,16,True,6.933333333333334,7.056666666666667,Vānta på mig 119
+sv_019,Fast,17,True,7.066666666666666,7.333333333333333,Vanta på mig 119
+sv_019,Fast,21,True,15.2,15.323333333333334,Vi åker i morgon kväll 2018
+sv_019,Balanced,1,True,0.4666666666666667,0.9333333333333333,Vānta... ska vi verkligen âka?
+sv_019,Balanced,2,True,0.9333333333333333,1.1333333333333333,Vānta...ska vi verkligen âka?
+sv_019,Balanced,4,True,1.6,1.6566666666666667,Vānta... ska vi verkligen åka?
+sv_019,Balanced,5,True,1.6666666666666667,1.8666666666666667,Vānta... ska vi verkligen âka
+sv_019,Balanced,6,True,3.4,3.6,Vi âker i morgon bitti
+sv_019,Balanced,7,True,3.6,3.6566666666666667,Vi äker i morgon bitti
+sv_019,Balanced,8,True,3.6666666666666665,3.7233333333333336,Vi âker i morgon bitti
+sv_019,Balanced,9,True,3.7333333333333334,3.79,Vi åker i morgon bitti
+sv_019,Balanced,10,True,3.8,3.856666666666667,Vi âker i morgon bitti
+sv_019,Balanced,11,True,3.8666666666666667,3.9233333333333333,Vi åker i morgon bitti
+sv_019,Balanced,12,True,3.933333333333333,4.266666666666667,Vi âker i morgon bitti
+sv_019,Balanced,13,True,4.266666666666667,4.323333333333333,Vi àker i morgon bitti
+sv_019,Balanced,14,True,4.333333333333333,4.666666666666666,Vi âker i morgon bitti
+sv_019,Balanced,15,True,4.666666666666667,4.723333333333334,Vi åker i morgon bitti
+sv_019,Balanced,16,True,4.733333333333333,5.066666666666666,Vi âker i morgon bitti
+sv_019,Balanced,17,True,6.4,6.733333333333333,Vānta på mig 119
+sv_019,Balanced,18,True,6.733333333333333,6.79,Vanta pă mig 119
+sv_019,Balanced,19,True,6.8,6.8566666666666665,Vanta pâ mig 119
+sv_019,Balanced,20,True,6.866666666666666,6.99,Vānta på mig 119
+sv_019,Balanced,21,True,7.0,7.123333333333334,Vanta på mig 119
+sv_019,Balanced,22,True,7.133333333333334,7.19,Vanta pa mig 119
+sv_019,Balanced,23,True,7.2,7.256666666666667,Vanta på mig 119
+sv_019,Balanced,24,True,7.266666666666667,7.8,Vānta på mig 119
+sv_019,Balanced,25,True,7.8,7.8566666666666665,Vanta på mig 119
+sv_019,Balanced,26,True,7.866666666666666,8.266666666666666,Vānta på mig 119
+sv_019,Balanced,29,True,15.2,15.323333333333334,Vi åker i morgon kväll 2018
+sv_019,Balanced,30,True,15.333333333333334,15.799999999999999,Vi âker i morgon kväll 2018
+sv_019,Balanced,31,True,15.8,15.856666666666667,Vi åker i morgon kväll 2018
+sv_019,Balanced,32,True,15.866666666666667,15.923333333333334,Vi âker i morgon kväll 2018
+sv_019,Balanced,33,True,15.933333333333334,15.99,Vi åker i morgon kväll 2018
+sv_019,Balanced,35,True,16.866666666666667,16.923333333333332,Vi åker i morgon kväll 2018
+sv_019,Balanced,36,True,16.933333333333334,16.99,Vi âker i morgon kväll 2018
+sv_019,Balanced,37,True,17.0,17.056666666666665,Vi åker i morgon kväll 2018
+sv_019,Balanced,38,True,17.066666666666666,17.12333333333333,Vi âker i morgon kväll 2018
+sv_019,Balanced,39,True,17.133333333333333,17.189999999999998,Vi åker i morgon kväll 2018
+sv_019,Balanced,40,True,17.2,17.8,Vi âker i morgon kväll 2018
+sv_020,Fast,1,True,0.5333333333333333,0.6566666666666666,Vi âker i morgon kväll
+sv_020,Fast,3,True,1.4666666666666666,1.59,Vi âker i morgon kväll
+sv_020,Fast,4,True,1.6,1.7233333333333334,Vi àker i morgon kväll
+sv_020,Fast,5,True,1.7333333333333334,1.8566666666666667,Vi äker i morgon kväll
+sv_020,Fast,6,True,1.8666666666666667,1.99,Vi âker i morgon kväll
+sv_020,Fast,7,True,2.0,2.2,Vi åker i morgon kväll
+sv_020,Fast,9,True,6.4,6.666666666666667,Vānta... ska vi verkligen âka? 120
+sv_020,Fast,10,True,6.666666666666667,6.79,Vānta... ska vi verkligen åka? 120
+sv_020,Fast,11,True,6.8,6.923333333333334,Vānta..ska vi verkligen äka? 120
+sv_020,Fast,12,True,6.933333333333334,7.2,Vānta... ska vi verkligen âka? 120
+sv_020,Fast,13,True,7.2,7.323333333333333,Vanta... ska vi verkligen âka? 120
+sv_020,Fast,15,True,8.266666666666667,8.39,Vanta...ska viverkligen âka? 120
+sv_020,Fast,16,True,8.4,8.6,Vānta... ska vi verkligen âka? 120
+sv_020,Fast,17,True,9.333333333333334,10.0,Vi âker i morgon bitti 50%
+sv_020,Fast,18,True,10.0,10.266666666666666,Vi aker i morgon bitti 50%
+sv_020,Fast,19,True,10.266666666666667,10.533333333333333,Vi âker i morgon bitti 50%
+sv_020,Fast,20,True,10.533333333333333,10.656666666666666,Vi åker 1 morgon bitti 50%
+sv_020,Fast,21,True,10.666666666666666,10.790000000000001,Vi äker i morgon bitti 50%
+sv_020,Fast,22,True,10.8,11.066666666666666,Vi åker i morgon bitti 50%
+sv_020,Fast,23,True,11.066666666666666,11.19,Vi äker i morgon bitti 50%
+sv_020,Fast,24,True,11.2,11.323333333333334,Vi âker i morgon bitti 50%
+sv_020,Fast,25,True,11.333333333333334,11.456666666666667,Vi åker i morgon bitti 50%
+sv_020,Fast,26,True,11.466666666666667,11.59,Vi àker i morgon bitti 50%
+sv_020,Fast,27,True,11.6,11.799999999999999,Vi åker i morgon bitti 50%
+sv_020,Balanced,1,True,0.4666666666666667,0.59,Vi âker i morgon kväll
+sv_020,Balanced,3,True,1.4,1.5233333333333334,Vi âker i morgon kväll
+sv_020,Balanced,4,True,1.5333333333333334,1.59,Vi åker i morgon kväll
+sv_020,Balanced,5,True,1.6,1.6566666666666667,Vi àker i morgon kväll
+sv_020,Balanced,6,True,1.6666666666666667,1.7233333333333334,Vi åker i morgon kväll
+sv_020,Balanced,7,True,1.7333333333333334,1.79,Vi äker i morgon kväll
+sv_020,Balanced,8,True,1.8,1.8566666666666667,Vi åker i morgon kväll
+sv_020,Balanced,9,True,1.8666666666666667,1.99,Vi âker i morgon kväll
+sv_020,Balanced,10,True,2.0,2.18,Vi åker i morgon kväll
+sv_020,Balanced,12,True,6.4,6.6,Vānta... ska vi verkligen âka? 120
+sv_020,Balanced,13,True,6.6,6.723333333333334,Vānta... ska vi verkligen åka? 120
+sv_020,Balanced,14,True,6.733333333333333,6.79,Vānta... ska vi verkligen âka? 120
+sv_020,Balanced,15,True,6.8,6.8566666666666665,Vānta..ska vi verkligen äka? 120
+sv_020,Balanced,16,True,6.866666666666666,6.923333333333334,Vanta....ska vi verkligen äka? 120
+sv_020,Balanced,17,True,6.933333333333334,7.133333333333333,Vānta... ska vi verkligen âka? 120
+sv_020,Balanced,18,True,7.133333333333334,7.19,Vānta...ska vi verkligen âka? 120
+sv_020,Balanced,19,True,7.2,7.323333333333333,Vanta... ska vi verkligen âka? 120
+sv_020,Balanced,21,True,8.2,8.256666666666668,Vanta... ska vi verkligen âka? 120
+sv_020,Balanced,22,True,8.266666666666667,8.323333333333334,Vanta...ska viverkligen âka? 120
+sv_020,Balanced,23,True,8.333333333333334,8.39,Vanta... ska vi verkligen âka? 120
+sv_020,Balanced,24,True,8.4,8.58,Vānta... ska vi verkligen âka? 120
+sv_020,Balanced,25,True,9.333333333333334,10.0,Vi âker i morgon bitti 50%
+sv_020,Balanced,26,True,10.0,10.056666666666667,Vi aker i morgon bitti 50%
+sv_020,Balanced,27,True,10.066666666666666,10.123333333333333,Vi äker i morgon bitti 50%
+sv_020,Balanced,28,True,10.133333333333333,10.19,Vi aker i morgon bitti 50%
+sv_020,Balanced,29,True,10.2,10.466666666666667,Vi âker i morgon bitti 50%
+sv_020,Balanced,30,True,10.466666666666667,10.523333333333333,Vi aker i morgon bitti 50%
+sv_020,Balanced,31,True,10.533333333333333,10.59,Vi åker 1 morgon bitti 50%
+sv_020,Balanced,32,True,10.6,10.656666666666666,Vi åker i morgon bitti 50%
+sv_020,Balanced,33,True,10.666666666666666,10.790000000000001,Vi äker i morgon bitti 50%
+sv_020,Balanced,34,True,10.8,10.856666666666667,Vi åker i morgon bitti 50%
+sv_020,Balanced,35,True,10.866666666666667,10.923333333333334,Vi äker i morgon bitti 50%
+sv_020,Balanced,36,True,10.933333333333334,10.99,Vi åker i morgon bitti 50%
+sv_020,Balanced,37,True,11.0,11.123333333333333,Vi äker i morgon bitti 50%
+sv_020,Balanced,38,True,11.133333333333333,11.19,Vi āker i morgon bitti 50%
+sv_020,Balanced,39,True,11.2,11.323333333333334,Vi âker i morgon bitti 50%
+sv_020,Balanced,40,True,11.333333333333334,11.39,Vi åker i morgon bitti 50%
+sv_020,Balanced,41,True,11.4,11.456666666666667,Vi âker i morgon bitti 50%
+sv_020,Balanced,42,True,11.466666666666667,11.523333333333333,Vi àker i morgon bitti 50%
+sv_020,Balanced,43,True,11.533333333333333,11.59,Vi aker I morgon bitti 50%
+sv_020,Balanced,44,True,11.6,11.656666666666666,Vi åker i morgon bitti 50%
+sv_020,Balanced,45,True,11.666666666666666,11.846666666666666,Vi aker i morgon bitti 50%
+sv_021,Fast,3,True,5.2,5.323333333333333,Den röda dörren ar till vänster. 2026
+sv_021,Fast,4,True,5.333333333333333,5.6,Den röda dörren är till vänster. 2026
+sv_021,Fast,5,True,6.4,6.8,VI åker I morgon kväll 121
+sv_021,Fast,6,True,6.8,7.333333333333333,Vi âker i morgon kväll 121
+sv_021,Fast,7,True,7.333333333333333,7.733333333333333,Vi åker i morgon kväll 121
+sv_021,Fast,8,True,7.733333333333333,7.8566666666666665,Vi âker i morgon kväll 121
+sv_021,Fast,9,True,7.866666666666666,8.266666666666666,Vi åker I morgon kväll 121
+sv_021,Fast,10,True,8.266666666666667,8.533333333333333,Vi âker I morgon kväll 121
+sv_021,Fast,11,True,8.533333333333333,8.799999999999999,VI åker I morgon kväll 121
+sv_021,Fast,13,True,12.266666666666667,12.39,Vänta... ska vi verkligen åka?
+sv_021,Fast,14,True,12.4,12.523333333333333,Vänta... ska vi verkligen âka?
+sv_021,Fast,17,True,16.133333333333333,16.4,Vi åker I morgon bitti 2020
+sv_021,Fast,18,True,16.4,16.8,Vi âker I morgon bitti 2020
+sv_021,Fast,19,True,16.8,17.0,VI åker I morgon bitti 2020
+sv_021,Balanced,3,True,5.2,5.323333333333333,Den röda dörren ar till vänster. 2026
+sv_021,Balanced,4,True,5.333333333333333,5.533333333333333,Den röda dörren är till vänster. 2026
+sv_021,Balanced,5,True,6.4,6.733333333333333,VI åker I morgon kväll 121
+sv_021,Balanced,6,True,6.733333333333333,6.79,Vi âker iimorgon kväll 121
+sv_021,Balanced,7,True,6.8,7.133333333333333,Vi âker i morgon kväll 121
+sv_021,Balanced,8,True,7.133333333333334,7.19,Vi âker imorgon kväll 121
+sv_021,Balanced,9,True,7.2,7.323333333333333,Vi âker i morgon kväll 121
+sv_021,Balanced,10,True,7.333333333333333,7.390000000000001,Vi åker i morgon kväll 121
+sv_021,Balanced,11,True,7.4,7.456666666666667,Vi âker i morgon kväll 121
+sv_021,Balanced,12,True,7.466666666666667,7.523333333333333,Vi åker i morgon kväll 121
+sv_021,Balanced,13,True,7.533333333333333,7.59,Vi âker i morgon kväll 121
+sv_021,Balanced,14,True,7.6,7.723333333333334,Vi åker I morgon kväll 121
+sv_021,Balanced,15,True,7.733333333333333,7.8566666666666665,Vi âker i morgon kväll 121
+sv_021,Balanced,16,True,7.866666666666666,8.2,Vi åker I morgon kväll 121
+sv_021,Balanced,17,True,8.2,8.256666666666668,Viâker imorgon kväll 121
+sv_021,Balanced,18,True,8.266666666666667,8.466666666666667,Vi âker I morgon kväll 121
+sv_021,Balanced,19,True,8.466666666666667,8.799999999999999,Vi åker i morgon kväll 121
+sv_021,Balanced,21,True,12.266666666666667,12.39,Vänta... ska vi verkligen åka?
+sv_021,Balanced,22,True,12.4,12.523333333333333,Vänta... ska vi verkligen âka?
+sv_021,Balanced,25,True,16.066666666666666,16.189999999999998,Vi åker I morgon bitti 2020
+sv_021,Balanced,26,True,16.2,16.256666666666664,Vi âker I morgon bitti 2020
+sv_021,Balanced,27,True,16.266666666666666,16.32333333333333,Vi åker I morgon bitti 2020
+sv_021,Balanced,28,True,16.333333333333332,16.8,Vi âker I morgon bitti 2020
+sv_021,Balanced,29,True,16.8,16.98,VI åker I morgon bitti 2020
+sv_023,Fast,3,True,5.2,5.323333333333333,Vänta... ska viverkligen åka?
+sv_023,Fast,4,True,5.333333333333333,6.0,Vänta... ska vi verkligen åka?
+sv_023,Fast,5,True,6.4,6.8,Vi åker i morgon bitti 123
+sv_023,Fast,6,True,6.8,6.923333333333334,Vi åkerlilmorgon bitti 123
+sv_023,Fast,7,True,6.933333333333334,7.056666666666667,Vi åker i morgon bitti 123
+sv_023,Fast,8,True,7.066666666666666,7.19,Vi åker ilmorgon bitti 123
+sv_023,Balanced,3,True,5.2,5.323333333333333,Vänta... ska viverkligen åka?
+sv_023,Balanced,4,True,5.333333333333333,6.0,Vänta... ska vi verkligen åka?
+sv_023,Balanced,5,True,6.4,6.733333333333333,Vi åker i morgon bitti 123
+sv_023,Balanced,6,True,6.733333333333333,6.79,Vi åker imorgon bitti 123
+sv_023,Balanced,7,True,6.8,6.8566666666666665,Vi åkerlilmorgon bitti 123
+sv_023,Balanced,8,True,6.866666666666666,7.066666666666666,Vi åker i morgon bitti 123
+sv_023,Balanced,9,True,7.066666666666666,7.19,Vi åker ilmorgon bitti 123
+sv_025,Fast,3,True,6.4,7.066666666666666,Den röda dörren är till vänster. 125
+sv_025,Fast,4,True,7.066666666666666,7.19,Den röda dörren år till vänster. 125
+sv_025,Fast,7,True,10.0,10.123333333333333,Vi akeri morgon kväll
+sv_025,Fast,8,True,10.133333333333333,10.256666666666668,Vi âker i morgon kväll
+sv_025,Fast,9,True,10.266666666666667,10.39,Vi áker i morgon kväl
+sv_025,Fast,10,True,10.4,10.523333333333333,Vi áker i morgon kväll
+sv_025,Fast,11,True,10.533333333333333,10.656666666666666,Vi âkeri morgon kväll
+sv_025,Fast,12,True,10.666666666666666,10.790000000000001,Vi âker i morgon kväll
+sv_025,Fast,13,True,10.8,11.2,Vi åker i morgon kväll
+sv_025,Fast,14,True,11.2,11.466666666666667,Vi àker i morgon kväll
+sv_025,Balanced,3,True,6.4,7.066666666666666,Den röda dörren är till vänster. 125
+sv_025,Balanced,4,True,7.066666666666666,7.123333333333334,Den röda dörren år till vänster. 125
+sv_025,Balanced,6,True,9.333333333333334,9.933333333333334,Vi àker i morgon kväll
+sv_025,Balanced,7,True,9.933333333333334,9.99,Vi àker i morgon kväl
+sv_025,Balanced,8,True,10.0,10.056666666666667,Vi akeri morgon kväll
+sv_025,Balanced,9,True,10.066666666666666,10.19,Vi âker i morgon kväll
+sv_025,Balanced,10,True,10.2,10.256666666666668,Vi àker i morgon kväll
+sv_025,Balanced,11,True,10.266666666666667,10.323333333333334,Vi áker i morgon kväl
+sv_025,Balanced,12,True,10.333333333333334,10.456666666666667,Vi áker i morgon kväll
+sv_025,Balanced,13,True,10.466666666666667,10.523333333333333,Vi âker i morgon kväll
+sv_025,Balanced,14,True,10.533333333333333,10.59,Vi âkeri morgon kväll
+sv_025,Balanced,15,True,10.6,10.799999999999999,Vi âker i morgon kväll
+sv_025,Balanced,16,True,10.8,11.133333333333333,Vi åker i morgon kväll
+sv_025,Balanced,17,True,11.133333333333333,11.4,Vi àker i morgon kväll
+sv_025,Balanced,18,True,11.4,11.58,Vi àkerimorgon kväll
+sv_026,Fast,1,True,0.5333333333333333,0.6566666666666666,Vänta... ska vi verkligen åka?
+sv_026,Fast,2,True,0.6666666666666666,0.79,Vänta... ska vi verkligen âka?
+sv_026,Fast,4,True,3.466666666666667,3.8666666666666667,Vi àker i morgon bitti
+sv_026,Fast,5,True,3.8666666666666667,3.99,Vi åker i morgon bitti
+sv_026,Fast,6,True,4.0,4.266666666666667,Vi àker i morgon bitti
+sv_026,Fast,7,True,4.266666666666667,4.390000000000001,Vi àkeri morgon bitti
+sv_026,Fast,8,True,4.4,4.666666666666667,Vi àker i morgon bitti
+sv_026,Fast,9,True,4.666666666666667,4.933333333333334,Vi àkeri morgon bitti
+sv_026,Fast,10,True,4.933333333333334,5.056666666666667,Vi àker i morgon bitti
+sv_026,Fast,11,True,5.066666666666666,5.19,Vi âker i morgon bitti
+sv_026,Fast,12,True,5.2,5.4,Vi aker imorgon bitti
+sv_026,Fast,13,True,6.4,6.666666666666667,Vänta på mig 126
+sv_026,Fast,14,True,6.666666666666667,7.066666666666666,Vänta pà mig 126
+sv_026,Fast,15,True,7.066666666666666,7.333333333333333,Vänta pă mig 126
+sv_026,Fast,16,True,7.333333333333333,7.456666666666667,Vänta pà mig 126
+sv_026,Fast,18,True,8.266666666666667,8.39,Vänta pă mig 126
+sv_026,Fast,19,True,8.4,8.6,Vänta pà mig 126
+sv_026,Fast,20,True,9.333333333333334,10.0,Jag kan inte tro att det är midnatt! 2026
+sv_026,Fast,21,True,10.0,10.266666666666666,Jag kanlinte tro att det är midnatt! 2026
+sv_026,Fast,24,True,15.2,15.323333333333334,Vi àker i morgon kväll 2025
+sv_026,Fast,25,True,15.333333333333334,15.456666666666667,Vi aker i morgon kväll 2025
+sv_026,Balanced,1,True,0.4666666666666667,0.6666666666666666,Vänta... ska vi verkligen åka?
+sv_026,Balanced,2,True,0.6666666666666666,0.7233333333333333,Vänta... ska vi verkligen âka?
+sv_026,Balanced,3,True,0.7333333333333333,0.79,Vänta... ska vi verkligen aka?
+sv_026,Balanced,5,True,3.4,3.8666666666666667,Vi àker i morgon bitti
+sv_026,Balanced,6,True,3.8666666666666667,3.9233333333333333,Vi åker i morgon bitti
+sv_026,Balanced,7,True,3.933333333333333,4.266666666666667,Vi àker i morgon bitti
+sv_026,Balanced,8,True,4.266666666666667,4.390000000000001,Vi àkeri morgon bitti
+sv_026,Balanced,9,True,4.4,4.6,Vi àker i morgon bitti
+sv_026,Balanced,10,True,4.6,4.723333333333334,Vi àkeri morgon bitti
+sv_026,Balanced,11,True,4.733333333333333,4.79,Vi àker i morgon bitti
+sv_026,Balanced,12,True,4.8,4.8566666666666665,Vi àkeri morgon bitti
+sv_026,Balanced,13,True,4.866666666666666,5.066666666666666,Vi àker i morgon bitti
+sv_026,Balanced,14,True,5.066666666666666,5.123333333333334,Vi âker i morgon bitti
+sv_026,Balanced,15,True,5.133333333333334,5.19,Vi àker i morgon bitti
+sv_026,Balanced,16,True,5.2,5.38,Vi aker imorgon bitti
+sv_026,Balanced,17,True,6.4,6.666666666666666,Vänta på mig 126
+sv_026,Balanced,18,True,6.666666666666667,7.066666666666666,Vänta pà mig 126
+sv_026,Balanced,19,True,7.066666666666666,7.266666666666667,Vänta pă mig 126
+sv_026,Balanced,20,True,7.266666666666667,7.323333333333333,Vänta pá mig 126
+sv_026,Balanced,21,True,7.333333333333333,7.390000000000001,Vänta pà mig 126
+sv_026,Balanced,23,True,8.2,8.256666666666668,Väntapà mig 126
+sv_026,Balanced,24,True,8.266666666666667,8.323333333333334,Vänta pă mig 126
+sv_026,Balanced,25,True,8.333333333333334,8.39,Vänta pá mig 126
+sv_026,Balanced,26,True,8.4,8.456666666666667,Vänta pà mig 126
+sv_026,Balanced,27,True,8.466666666666667,8.646666666666667,Vänta på mig 126
+sv_026,Balanced,28,True,9.333333333333334,10.0,Jag kan inte tro att det är midnatt! 2026
+sv_026,Balanced,29,True,10.0,10.056666666666667,Jag kanlinte tro att det är midnatt! 2026
+sv_026,Balanced,30,True,10.066666666666666,10.123333333333333,Jag kan inte tro att det är midnatt! 2026
+sv_026,Balanced,31,True,10.133333333333333,10.19,Jag kanlinte tro att det är midnatt! 2026
+sv_026,Balanced,34,True,15.2,15.323333333333334,Vi àker i morgon kväll 2025
+sv_026,Balanced,35,True,15.333333333333334,15.39,Vi aker i morgon kväll 2025
+sv_027,Fast,2,True,1.6,1.7233333333333334,Vi åkeri morgon kväll
+sv_027,Fast,3,True,1.7333333333333334,2.4,Vi åker i morgon kväll
+sv_027,Fast,5,True,6.4,6.8,Vänta... ska vi verkligen åka? 127
+sv_027,Fast,6,True,6.8,6.923333333333334,Vänta...skaviverkligenåka? 127
+sv_027,Fast,7,True,6.933333333333334,7.056666666666667,Vänta... ska vi verkligen åka? 127
+sv_027,Fast,8,True,7.066666666666666,7.19,Vänta...skaviverkligen åka? 127
+sv_027,Fast,9,True,7.2,7.323333333333333,Vänta... ska viverkligen åka? 127
+sv_027,Fast,11,True,8.266666666666667,8.39,Vänta...ska viverkligen åka? 127
+sv_027,Fast,12,True,8.4,8.523333333333333,Vänta... skavi verkligen åka? 127
+sv_027,Fast,13,True,8.533333333333333,8.799999999999999,Vänta... ska vi verkligen åka? 127
+sv_027,Fast,14,True,9.333333333333334,9.6,Vi âker i morgon bitti
+sv_027,Fast,15,True,9.6,9.723333333333333,Vi åker i morgon bitti
+sv_027,Fast,16,True,9.733333333333333,10.0,Vi âker i morgon bitti
+sv_027,Fast,17,True,10.0,10.123333333333333,Viakerimorgon bitti
+sv_027,Fast,18,True,10.133333333333333,10.256666666666668,Viläker i morgon bitti
+sv_027,Fast,19,True,10.266666666666667,10.533333333333333,Vi åker i morgon bitti
+sv_027,Fast,20,True,10.533333333333333,10.656666666666666,Vi âkeri morgon bitti
+sv_027,Fast,22,True,11.466666666666667,11.59,Vi åkerimorgon bitti
+sv_027,Fast,23,True,11.6,11.723333333333333,Vilakerilmorgon bitti
+sv_027,Fast,24,True,11.733333333333333,11.856666666666667,Vi äker ilmorgon bitti
+sv_027,Fast,25,True,11.866666666666667,12.066666666666666,Vi åker i morgon bitti
+sv_027,Balanced,2,True,1.5333333333333334,1.59,Vi åker imorgon kväll
+sv_027,Balanced,3,True,1.6,1.6566666666666667,Vi åkeri morgon kväll
+sv_027,Balanced,4,True,1.6666666666666667,2.3333333333333335,Vi åker i morgon kväll
+sv_027,Balanced,6,True,4.866666666666666,4.923333333333334,"Sa du 19,95 eller90,15?"
+sv_027,Balanced,7,True,4.933333333333334,5.533333333333333,"Sa du 19,95 eller 90,15?"
+sv_027,Balanced,8,True,6.4,6.733333333333333,Vänta... ska vi verkligen åka? 127
+sv_027,Balanced,9,True,6.733333333333333,6.79,Vänta... ska viverkligen åka? 127
+sv_027,Balanced,10,True,6.8,6.8566666666666665,Vänta...skaviverkligenåka? 127
+sv_027,Balanced,11,True,6.866666666666666,6.99,Vänta... ska vi verkligen åka? 127
+sv_027,Balanced,12,True,7.0,7.056666666666667,Vänta... skavi verkligen åka? 127
+sv_027,Balanced,13,True,7.066666666666666,7.19,Vänta...skaviverkligen åka? 127
+sv_027,Balanced,14,True,7.2,7.256666666666667,Vänta... ska viverkligen åka? 127
+sv_027,Balanced,16,True,8.2,8.256666666666668,Vänta...skaviverkligen åka? 127
+sv_027,Balanced,17,True,8.266666666666667,8.323333333333334,Vänta...ska viverkligen åka? 127
+sv_027,Balanced,18,True,8.333333333333334,8.39,Vänta...ska vi verkligen åka? 127
+sv_027,Balanced,19,True,8.4,8.456666666666667,Vänta... skavi verkligen åka? 127
+sv_027,Balanced,20,True,8.466666666666667,8.799999999999999,Vänta... ska vi verkligen åka? 127
+sv_027,Balanced,21,True,9.333333333333334,9.6,Vi âker i morgon bitti
+sv_027,Balanced,22,True,9.6,9.723333333333333,Vi åker i morgon bitti
+sv_027,Balanced,23,True,9.733333333333333,10.0,Vi âker i morgon bitti
+sv_027,Balanced,24,True,10.0,10.056666666666667,Viakerimorgon bitti
+sv_027,Balanced,25,True,10.066666666666666,10.123333333333333,Viläkeri morgon bitti
+sv_027,Balanced,26,True,10.133333333333333,10.19,Viläker i morgon bitti
+sv_027,Balanced,27,True,10.2,10.466666666666667,Vi åker i morgon bitti
+sv_027,Balanced,28,True,10.466666666666667,10.523333333333333,Viâker i morgon bitti
+sv_027,Balanced,29,True,10.533333333333333,10.59,Vi âkeri morgon bitti
+sv_027,Balanced,30,True,10.6,10.656666666666666,Vi äker i morgon bitti
+sv_027,Balanced,31,True,10.666666666666666,11.4,Vi åker i morgon bitti
+sv_027,Balanced,32,True,11.4,11.523333333333333,Vi åkerimorgon bitti
+sv_027,Balanced,33,True,11.533333333333333,11.59,Vi äkerimorgon bitti
+sv_027,Balanced,34,True,11.6,11.656666666666666,Vilakerilmorgon bitti
+sv_027,Balanced,35,True,11.666666666666666,11.723333333333333,Vilakerimorgon bitti
+sv_027,Balanced,36,True,11.733333333333333,11.790000000000001,Vi äker ilmorgon bitti
+sv_027,Balanced,37,True,11.8,11.98,Vi åker i morgon bitti
+sv_028,Fast,3,True,6.4,7.066666666666666,Vi åker i morgon kväll 128
+sv_028,Fast,4,True,7.066666666666666,7.333333333333333,Vi åkerimorgon kväll 128
+sv_028,Fast,5,True,7.333333333333333,7.456666666666667,Viåkerimorgon kväll 128
+sv_028,Fast,6,True,7.466666666666667,7.733333333333333,Vi åker i morgon kväll 128
+sv_028,Fast,7,True,7.733333333333333,7.8566666666666665,Viåkerimorgon kväll 128
+sv_028,Fast,8,True,7.866666666666666,8.266666666666666,Vi åker i morgon kväll 128
+sv_028,Fast,9,True,8.266666666666667,8.39,Viråkerimorgon kväll 128
+sv_028,Fast,10,True,8.4,8.523333333333333,Viåker i morgon kväll 128
+sv_028,Fast,11,True,8.533333333333333,8.656666666666666,Vi åker i morgon kväll 128
+sv_028,Fast,12,True,8.666666666666666,8.790000000000001,Vi åkerimorgon kväll 128
+sv_028,Fast,13,True,8.8,9.066666666666666,Vi åker i morgon kväll 128
+sv_028,Fast,15,True,10.0,10.266666666666666,"Sadu 19,95 eller 90,15?"
+sv_028,Fast,16,True,10.266666666666667,10.799999999999999,"Sa du 19,95 eller 90,15?"
+sv_028,Balanced,3,True,6.4,6.733333333333333,Vi åker i morgon kväll 128
+sv_028,Balanced,4,True,6.733333333333333,6.79,Vi åker i mörgon kväll 128
+sv_028,Balanced,5,True,6.8,6.8566666666666665,Vi åker i morgon kväll 128
+sv_028,Balanced,6,True,6.866666666666666,6.923333333333334,Vi åkerimorgon kväll 128
+sv_028,Balanced,7,True,6.933333333333334,6.99,Vi åker i morgon kväll 128
+sv_028,Balanced,8,True,7.0,7.056666666666667,Vi åker imorgon kväll 128
+sv_028,Balanced,9,True,7.066666666666666,7.266666666666667,Vi åkerimorgon kväll 128
+sv_028,Balanced,10,True,7.266666666666667,7.323333333333333,Vi åker i morgon kväll 128
+sv_028,Balanced,11,True,7.333333333333333,7.390000000000001,Viåkerimorgon kväll 128
+sv_028,Balanced,12,True,7.4,7.523333333333333,Vi åker i morgon kväll 128
+sv_028,Balanced,13,True,7.533333333333333,7.59,Vi åker imorgon kväll 128
+sv_028,Balanced,14,True,7.6,7.723333333333334,Vi åker i morgon kväll 128
+sv_028,Balanced,15,True,7.733333333333333,7.79,Viåkerimorgon kväll 128
+sv_028,Balanced,16,True,7.8,7.8566666666666665,Vi åker imorgon kväll 128
+sv_028,Balanced,17,True,7.866666666666666,8.2,Vi åker i morgon kväll 128
+sv_028,Balanced,18,True,8.2,8.256666666666668,Vi åkerimorgon kväll 128
+sv_028,Balanced,19,True,8.266666666666667,8.323333333333334,Viråkerimorgon kväll 128
+sv_028,Balanced,20,True,8.333333333333334,8.39,Viåkerimorgon kväll 128
+sv_028,Balanced,21,True,8.4,8.456666666666667,Viåker i morgon kväll 128
+sv_028,Balanced,22,True,8.466666666666667,8.523333333333333,Vi åkerimorgon kväll 128
+sv_028,Balanced,23,True,8.533333333333333,8.656666666666666,Vi åker i morgon kväll 128
+sv_028,Balanced,24,True,8.666666666666666,8.723333333333333,Vi åkerimorgon kväll 128
+sv_028,Balanced,25,True,8.733333333333333,9.0,Vi åker i morgon kväll 128
+sv_028,Balanced,27,True,10.0,10.2,"Sadu 19,95 eller 90,15?"
+sv_028,Balanced,28,True,10.2,10.466666666666667,"Sa du 19,95 eller 90,15?"
+sv_028,Balanced,29,True,10.466666666666667,10.523333333333333,"Sadu 19,95 eller 90,15?"
+sv_028,Balanced,30,True,10.533333333333333,10.733333333333333,"Sa du 19,95 eller 90,15?"
+sv_029,Fast,6,True,15.2,15.323333333333334,"Sa du 19,95 eller 90,15? 2028"
+sv_029,Fast,7,True,15.333333333333334,15.456666666666667,"Sadu 19,95 eller 90,15? 2028"
+sv_029,Balanced,6,True,15.2,15.323333333333334,"Sa du 19,95 eller 90,15? 2028"
+sv_029,Balanced,7,True,15.333333333333334,15.456666666666667,"Sadu 19,95 eller 90,15? 2028"
+sv_031,Fast,7,True,17.2,17.32333333333333,Vänta på mig2030
+sv_031,Fast,8,True,17.333333333333332,17.866666666666667,Vänta på mig 2030
+sv_031,Balanced,3,True,6.4,6.733333333333333,"Sa du 19,95 eller 90,15? 131"
+sv_031,Balanced,4,True,6.733333333333333,6.79,"Sa du 19,95 êller 90,15? 131"
+sv_031,Balanced,9,True,17.2,17.256666666666664,Vänta på mig2030
+sv_031,Balanced,10,True,17.266666666666666,17.8,Vänta på mig 2030
+sv_033,Fast,1,True,0.5333333333333333,0.6566666666666666,Vänta... ska vi verkligen åka?
+sv_033,Fast,2,True,0.6666666666666666,0.79,Vänta... ska vi verkligen àka?
+sv_033,Fast,3,True,0.8,0.9233333333333333,Vänta... ska vi verkligen aka?
+sv_033,Fast,6,True,6.4,7.2,Vänta på mig 133
+sv_033,Fast,7,True,7.2,7.323333333333333,Vänta pa mig 133
+sv_033,Balanced,1,True,0.4666666666666667,0.59,Vänta... ska vi verkligen åka?
+sv_033,Balanced,2,True,0.6,0.6566666666666666,Vänta... ska vi verkligen aka?
+sv_033,Balanced,3,True,0.6666666666666666,0.7233333333333333,Vänta... ska vi verkligen àka?
+sv_033,Balanced,4,True,0.7333333333333333,0.79,Vänta... ska vi verkligen åka?
+sv_033,Balanced,5,True,0.8,0.8566666666666667,Vänta... ska vi verkligen aka?
+sv_033,Balanced,6,True,0.8666666666666667,1.4,Vänta... ska vi verkligen åka?
+sv_033,Balanced,7,True,1.4,1.4566666666666666,Vänta... ska vi verkligen aka?
+sv_033,Balanced,10,True,4.866666666666666,4.923333333333334,Viåker i morgon bitti 50%
+sv_033,Balanced,11,True,4.933333333333334,5.533333333333333,Vi åker i morgon bitti 50%
+sv_033,Balanced,12,True,6.4,7.2,Vänta på mig 133
+sv_033,Balanced,13,True,7.2,7.256666666666667,Vänta pa mig 133
+sv_034,Fast,5,True,10.0,10.123333333333333,Vi aker i morgon bitti
+sv_034,Fast,6,True,10.133333333333333,10.533333333333333,Vi åker i morgon bitti
+sv_034,Fast,7,True,10.533333333333333,10.656666666666666,Vi aker ì morgon bitti
+sv_034,Fast,8,True,10.666666666666666,10.866666666666665,Vi åker i morgon bitti
+sv_034,Balanced,2,True,3.4,4.2,"Sa du 19,95 eller 90,15?"
+sv_034,Balanced,3,True,4.2,4.256666666666667,"Sadu 19,95 eller 90,15?"
+sv_034,Balanced,7,True,10.0,10.056666666666667,Vi aker i morgon bitti
+sv_034,Balanced,8,True,10.066666666666666,10.466666666666667,Vi åker i morgon bitti
+sv_034,Balanced,9,True,10.466666666666667,10.523333333333333,Vi aker i morgon bitti
+sv_034,Balanced,10,True,10.533333333333333,10.59,Vi aker ì morgon bitti
+sv_034,Balanced,11,True,10.6,10.656666666666666,Vi åker imorgon bitti
+sv_034,Balanced,12,True,10.666666666666666,10.846666666666666,Vi åker i morgon bitti
+sv_037,Fast,3,True,6.4,6.8,VI åker I morgon bitti 137
+sv_037,Fast,4,True,6.8,7.333333333333333,Vi âker i morgon bitti 137
+sv_037,Fast,5,True,7.333333333333333,7.456666666666667,Vi åker i morgon bitti 137
+sv_037,Fast,6,True,7.466666666666667,7.59,Vi âker I morgon bitti 137
+sv_037,Fast,7,True,7.6,7.723333333333334,VI åker I morgon bitti 137
+sv_037,Fast,8,True,7.733333333333333,7.8566666666666665,Vi âker I morgon bitti 137
+sv_037,Fast,9,True,7.866666666666666,8.266666666666666,VI åker I morgon bitti 137
+sv_037,Fast,10,True,9.333333333333334,9.456666666666667,Vănta på mig
+sv_037,Fast,11,True,9.466666666666667,9.733333333333333,Vänta på mig
+sv_037,Fast,12,True,9.733333333333333,9.856666666666667,Vănta på mig
+sv_037,Fast,13,True,9.866666666666667,9.99,Vänta på mig
+sv_037,Fast,14,True,10.0,10.4,Vănta på mig
+sv_037,Fast,15,True,10.4,10.523333333333333,Vnta på mig
+sv_037,Fast,17,True,11.2,11.323333333333334,Vänta på mig
+sv_037,Fast,18,True,11.333333333333334,11.533333333333333,Vănta på mig
+sv_037,Balanced,2,True,3.4,3.933333333333333,Vänta... ska vi verkligen åka?
+sv_037,Balanced,3,True,3.933333333333333,3.99,Vänta... ska vi verkligen âka?
+sv_037,Balanced,5,True,6.4,6.733333333333333,VI åker I morgon bitti 137
+sv_037,Balanced,6,True,6.733333333333333,6.79,VI åker imorgon bitti 137
+sv_037,Balanced,7,True,6.8,7.133333333333333,Vi âker i morgon bitti 137
+sv_037,Balanced,8,True,7.133333333333334,7.19,Vi âker imorgon bitti 137
+sv_037,Balanced,9,True,7.2,7.323333333333333,Vi âker I morgon bitti 137
+sv_037,Balanced,10,True,7.333333333333333,7.456666666666667,Vi åker i morgon bitti 137
+sv_037,Balanced,11,True,7.466666666666667,7.523333333333333,Vi âker I morgon bitti 137
+sv_037,Balanced,12,True,7.533333333333333,7.733333333333333,VI åker I morgon bitti 137
+sv_037,Balanced,13,True,7.733333333333333,7.8566666666666665,Vi âker I morgon bitti 137
+sv_037,Balanced,14,True,7.866666666666666,8.2,VI åker I morgon bitti 137
+sv_037,Balanced,15,True,8.2,8.379999999999999,Vi aker imorgon bitti 137
+sv_037,Balanced,16,True,9.333333333333334,9.456666666666667,Vănta på mig
+sv_037,Balanced,17,True,9.466666666666667,9.523333333333333,Vänta på mig
+sv_037,Balanced,18,True,9.533333333333333,9.59,Vănta på mig
+sv_037,Balanced,19,True,9.6,9.656666666666666,Vänta på mig
+sv_037,Balanced,20,True,9.666666666666666,9.790000000000001,Vănta på mig
+sv_037,Balanced,21,True,9.8,10.0,Vänta på mig
+sv_037,Balanced,22,True,10.0,10.4,Vănta på mig
+sv_037,Balanced,23,True,10.4,10.456666666666667,Vnta på mig
+sv_037,Balanced,25,True,11.2,11.256666666666668,Vänta på mig
+sv_037,Balanced,26,True,11.266666666666667,11.39,Vănta på mig
+sv_037,Balanced,27,True,11.4,11.58,Vănta pâ mig
+sv_038,Fast,2,True,3.466666666666667,4.0,Vi åker i morgon kväll
+sv_038,Fast,4,True,4.666666666666667,4.933333333333334,Vi åker I morgon kväll
+sv_038,Fast,5,True,4.933333333333334,5.056666666666667,Vi âker i morgon kväll
+sv_038,Fast,6,True,5.066666666666666,5.19,Vi åker i morgon kväll
+sv_038,Fast,7,True,5.2,5.4,Vi âker i morgon kväll
+sv_038,Fast,9,True,9.333333333333334,9.456666666666667,Vänta... ska vi verkligen âka?
+sv_038,Fast,10,True,9.466666666666667,9.59,Vänta... ska vi verkligen åka?
+sv_038,Fast,11,True,9.6,10.0,Vänta... ska vi verkligen âka?
+sv_038,Fast,13,True,12.266666666666667,12.933333333333334,Vi âker i morgon bitti
+sv_038,Fast,14,True,12.933333333333334,13.056666666666667,VI åker I morgon bitti
+sv_038,Fast,15,True,13.066666666666666,13.333333333333332,Vi âker i morgon bitti
+sv_038,Fast,16,True,13.333333333333334,13.6,VI åker I morgon bitti
+sv_038,Fast,17,True,13.6,13.723333333333333,Vi âker i morgon bitti
+sv_038,Fast,18,True,13.733333333333333,14.0,VI åker I morgon bitti
+sv_038,Fast,19,True,14.0,14.123333333333333,Vi âker i morgon bitti
+sv_038,Fast,20,True,14.133333333333333,14.256666666666668,VI åker I morgon bitti
+sv_038,Fast,21,True,14.266666666666667,14.533333333333333,Vi âker i morgon bitti
+sv_038,Fast,22,True,14.533333333333333,14.656666666666666,VI åker I morgon bitti
+sv_038,Fast,23,True,14.666666666666666,14.933333333333334,Vi âker i morgon bitti
+sv_038,Balanced,2,True,3.4,3.933333333333333,Vi åker i morgon kväll
+sv_038,Balanced,4,True,4.666666666666667,4.723333333333334,Vi åker I morgon kväll
+sv_038,Balanced,5,True,4.733333333333333,4.79,Vi âker i morgon kväll
+sv_038,Balanced,6,True,4.8,4.923333333333334,Vi åker I morgon kväll
+sv_038,Balanced,7,True,4.933333333333334,5.056666666666667,Vi âker i morgon kväll
+sv_038,Balanced,8,True,5.066666666666666,5.19,Vi åker i morgon kväll
+sv_038,Balanced,9,True,5.2,5.38,Vi âker i morgon kväll
+sv_038,Balanced,11,True,9.333333333333334,9.39,Vänta... ska vi verkligen âka?
+sv_038,Balanced,12,True,9.4,9.6,Vänta... ska vi verkligen åka?
+sv_038,Balanced,13,True,9.6,9.656666666666666,Vänta... ska vi verkligen âka?
+sv_038,Balanced,14,True,9.666666666666666,9.723333333333333,Vänta... ska vi verkligen åka?
+sv_038,Balanced,15,True,9.733333333333333,9.933333333333334,Vänta... ska vi verkligen âka?
+sv_038,Balanced,16,True,9.933333333333334,10.466666666666667,Vänta... ska vi verkligen åka?
+sv_038,Balanced,17,True,10.466666666666667,10.523333333333333,Vanta... ska vi verkligen åka?
+sv_038,Balanced,19,True,11.4,11.456666666666667,Vänta... ska vi verkligen âka?
+sv_038,Balanced,20,True,11.466666666666667,11.733333333333333,Vänta... Ska vi verkligen åka?
+sv_038,Balanced,21,True,12.266666666666667,12.866666666666667,Vi âker i morgon bitti
+sv_038,Balanced,22,True,12.866666666666667,12.99,VI åker I morgon bitti
+sv_038,Balanced,23,True,13.0,13.333333333333334,Vi âker i morgon bitti
+sv_038,Balanced,24,True,13.333333333333334,13.533333333333333,VI åker I morgon bitti
+sv_038,Balanced,25,True,13.533333333333333,13.656666666666666,Vi âker i morgon bitti
+sv_038,Balanced,26,True,13.666666666666666,13.933333333333334,VI åker I morgon bitti
+sv_038,Balanced,27,True,13.933333333333334,14.133333333333333,Vi âker i morgon bitti
+sv_038,Balanced,28,True,14.133333333333333,14.256666666666668,VI åker I morgon bitti
+sv_038,Balanced,29,True,14.266666666666667,14.533333333333333,Vi âker i morgon bitti
+sv_038,Balanced,30,True,14.533333333333333,14.59,VI åker I morgon bitti
+sv_038,Balanced,31,True,14.6,14.866666666666667,Vi âker i morgon bitti
+sv_039,Fast,3,True,6.4,7.066666666666666,Den röda dörren är till vänster. 139
+sv_039,Fast,4,True,7.066666666666666,7.19,Den röda dörren ar till vänster. 139
+sv_039,Fast,6,True,8.266666666666667,8.39,Den röda dörren ar till vänster. 139
+sv_039,Fast,7,True,8.4,8.799999999999999,Den röda dörren är till vänster. 139
+sv_039,Fast,8,True,9.333333333333334,10.0,Vi åker i morgon kväll
+sv_039,Fast,9,True,10.0,10.123333333333333,Vi âker i morgon kväll
+sv_039,Fast,10,True,10.133333333333333,10.533333333333333,Vi åker i morgon kväll
+sv_039,Fast,11,True,10.533333333333333,10.656666666666666,Vi âker i morgon kväll
+sv_039,Fast,13,True,11.466666666666667,11.59,Vi âkerimorgon kväll
+sv_039,Fast,14,True,11.6,11.866666666666665,Viâkerimorgon kväll
+sv_039,Fast,15,True,11.866666666666667,12.066666666666666,Vi åker i morgon kväll
+sv_039,Fast,17,True,15.2,15.466666666666667,Vänta... ska vi verkligen åka? 2038
+sv_039,Fast,18,True,15.466666666666667,15.59,Vänta... ska vi verkligen âka? 2038
+sv_039,Fast,19,True,15.6,16.0,Vänta... ska vi verkligen åka? 2038
+sv_039,Fast,20,True,16.0,16.266666666666666,Vänta... ska vi verkligen âka? 2038
+sv_039,Fast,21,True,16.266666666666666,16.389999999999997,Vänta... ska vi verkligen åka? 2038
+sv_039,Fast,22,True,16.4,16.8,Vänta... ska vi verkligen âka? 2038
+sv_039,Fast,23,True,16.8,17.0,Vänta... ska vi verkligen åka? 2038
+sv_039,Balanced,3,True,5.266666666666667,5.323333333333333,Jag kan inte troratt det är midnatt!
+sv_039,Balanced,4,True,5.333333333333333,5.533333333333333,Jag kan inte tro att det är midnatt!
+sv_039,Balanced,5,True,6.4,7.066666666666666,Den röda dörren är till vänster. 139
+sv_039,Balanced,6,True,7.066666666666666,7.19,Den röda dörren ar till vänster. 139
+sv_039,Balanced,8,True,8.266666666666667,8.323333333333334,Den röda dörren ar till vänster. 139
+sv_039,Balanced,9,True,8.333333333333334,8.799999999999999,Den röda dörren är till vänster. 139
+sv_039,Balanced,10,True,9.333333333333334,10.0,Vi åker i morgon kväll
+sv_039,Balanced,11,True,10.0,10.056666666666667,Vi âker i morgon kväll
+sv_039,Balanced,12,True,10.066666666666666,10.123333333333333,Vitäker i morgon kväll
+sv_039,Balanced,13,True,10.133333333333333,10.466666666666667,Vi åker i morgon kväll
+sv_039,Balanced,14,True,10.466666666666667,10.523333333333333,Vitäker i morgon kväll
+sv_039,Balanced,15,True,10.533333333333333,10.59,Vi âker i morgon kväll
+sv_039,Balanced,17,True,11.4,11.456666666666667,Vi åker imorgon kväll
+sv_039,Balanced,18,True,11.466666666666667,11.523333333333333,Vi âkerimorgon kväll
+sv_039,Balanced,19,True,11.533333333333333,11.799999999999999,Viâkerimorgon kväll
+sv_039,Balanced,20,True,11.8,11.98,Vi åker i morgon kväll
+sv_039,Balanced,22,True,15.2,15.466666666666667,Vänta... ska vi verkligen åka? 2038
+sv_039,Balanced,23,True,15.466666666666667,15.59,Vänta... ska vi verkligen âka? 2038
+sv_039,Balanced,24,True,15.6,15.933333333333334,Vänta... ska vi verkligen åka? 2038
+sv_039,Balanced,25,True,15.933333333333334,16.056666666666665,Vänta... ska vi verkligen âka? 2038
+sv_039,Balanced,26,True,16.066666666666666,16.12333333333333,Vänta... ska vi verkligen åka? 2038
+sv_039,Balanced,27,True,16.133333333333333,16.256666666666664,Vänta... ska vi verkligen âka? 2038
+sv_039,Balanced,28,True,16.266666666666666,16.32333333333333,Vänta... ska vi verkligen åka? 2038
+sv_039,Balanced,29,True,16.333333333333332,16.8,Vänta... ska vi verkligen âka? 2038
+sv_039,Balanced,30,True,16.8,16.98,Vänta... ska vi verkligen åka? 2038
+sv_040,Fast,5,True,10.133333333333333,10.256666666666668,Jag kaninte tro att det är midnatt! 2026
+sv_040,Fast,6,True,10.266666666666667,10.39,Jag kan inte tro att det är midnatt! 2026
+sv_040,Fast,7,True,10.4,10.523333333333333,Jag kaninte tro att det är midnatt! 2026
+sv_040,Fast,8,True,10.533333333333333,10.799999999999999,Jag kan inte tro att det är midnatt! 2026
+sv_040,Balanced,4,True,8.2,8.256666666666668,Vanta på mig 140
+sv_040,Balanced,5,True,8.266666666666667,9.0,Vänta på mig 140
+sv_040,Balanced,7,True,10.066666666666666,10.19,Jag kaninte tro att det är midnatt! 2026
+sv_040,Balanced,8,True,10.2,10.4,Jag kan inte tro att det är midnatt! 2026
+sv_040,Balanced,9,True,10.4,10.456666666666667,Jag kaninte tro att det är midnatt! 2026
+sv_040,Balanced,10,True,10.466666666666667,10.733333333333333,Jag kan inte tro att det är midnatt! 2026
+sv_041,Fast,1,True,0.5333333333333333,0.9333333333333333,Vi aker i morgon kväll
+sv_041,Fast,2,True,0.9333333333333333,1.0566666666666666,Vi àker i morgon kväll
+sv_041,Fast,3,True,1.0666666666666667,1.3333333333333333,Vi áker i morgon kväll
+sv_041,Fast,4,True,1.3333333333333333,1.4566666666666666,Vi åker i morgon kväll
+sv_041,Fast,5,True,1.4666666666666666,1.59,Vi aker i morgon kväll
+sv_041,Fast,6,True,1.6,1.7233333333333334,Vi akeri morgon kväll
+sv_041,Fast,8,True,2.6666666666666665,2.79,Viraker i morgon kväll
+sv_041,Fast,9,True,2.8,3.0,Vi aker i morgon kväll
+sv_041,Fast,11,True,5.2,5.323333333333333,"Sa du 19 95 eller 90,15?"
+sv_041,Fast,12,True,5.333333333333333,5.733333333333333,"Sa du 19,95 eller 90,15?"
+sv_041,Fast,13,True,5.733333333333333,5.8566666666666665,"Sa du 19,95 eller 90 15?"
+sv_041,Fast,14,True,5.866666666666666,6.066666666666666,"Sa du 19,95 eller 90,15?"
+sv_041,Fast,16,True,6.666666666666667,6.79,Vänta... ska vi verkligen áka? 141
+sv_041,Fast,17,True,6.8,7.0,Vänta... skaviverkligen áka? 141
+sv_041,Fast,19,True,10.0,10.123333333333333,Viakeri morgon bitti
+sv_041,Fast,20,True,10.133333333333333,10.256666666666668,Viaker i morgon bitti
+sv_041,Fast,21,True,10.266666666666667,10.533333333333333,Vi aker i morgon bitti
+sv_041,Fast,22,True,10.533333333333333,10.656666666666666,Viaker i morgon bitti
+sv_041,Fast,23,True,10.666666666666666,11.066666666666666,Vi aker i morgon bitti
+sv_041,Fast,24,True,12.266666666666667,12.39,Vănta på mig 50%
+sv_041,Fast,25,True,12.4,12.523333333333333,Vănta pá mig 50%
+sv_041,Fast,26,True,12.533333333333333,12.656666666666666,Vănta på mig 50%
+sv_041,Fast,27,True,12.666666666666666,12.790000000000001,Vänta på mig 50%
+sv_041,Fast,28,True,12.8,12.923333333333334,Vănta på mig 50%
+sv_041,Fast,29,True,12.933333333333334,13.466666666666667,Vänta på mig 50%
+sv_041,Fast,30,True,13.466666666666667,13.59,Vänta pà mig 50%
+sv_041,Fast,31,True,13.6,13.866666666666665,Vänta på mig 50%
+sv_041,Fast,32,True,13.866666666666667,14.133333333333333,Vănta på mig 50%
+sv_041,Balanced,1,True,0.4666666666666667,0.5233333333333333,Vi áker i morgon kväll
+sv_041,Balanced,2,True,0.5333333333333333,0.9333333333333333,Vi aker i morgon kväll
+sv_041,Balanced,3,True,0.9333333333333333,0.99,Vi àker i morgon kväll
+sv_041,Balanced,4,True,1.0,1.0566666666666666,Vi aker i morgon kväll
+sv_041,Balanced,5,True,1.0666666666666667,1.2666666666666666,Vi áker i morgon kväll
+sv_041,Balanced,6,True,1.2666666666666666,1.3233333333333333,Vi àker i morgon kväll
+sv_041,Balanced,7,True,1.3333333333333333,1.39,Vi åker i morgon kväll
+sv_041,Balanced,8,True,1.4,1.5233333333333334,Vi aker i morgon kväll
+sv_041,Balanced,9,True,1.5333333333333334,1.59,Vi aker ilmorgon kväll
+sv_041,Balanced,10,True,1.6,1.6566666666666667,Vi akeri morgon kväll
+sv_041,Balanced,11,True,1.6666666666666667,2.3333333333333335,Vi aker i morgon kväll
+sv_041,Balanced,12,True,2.3333333333333335,2.39,Viraker i morgon kväll
+sv_041,Balanced,13,True,2.4,2.6666666666666665,Vi aker i morgon kväll
+sv_041,Balanced,14,True,2.6666666666666665,2.7233333333333336,Viraker i morgon kväll
+sv_041,Balanced,15,True,2.7333333333333334,2.9133333333333336,Vi aker i morgon kväll
+sv_041,Balanced,17,True,5.2,5.323333333333333,"Sa du 19 95 eller 90,15?"
+sv_041,Balanced,18,True,5.333333333333333,5.733333333333333,"Sa du 19,95 eller 90,15?"
+sv_041,Balanced,19,True,5.733333333333333,5.8566666666666665,"Sa du 19,95 eller 90 15?"
+sv_041,Balanced,20,True,5.866666666666666,6.046666666666666,"Sa du 19,95 eller 90,15?"
+sv_041,Balanced,22,True,6.6,6.723333333333334,Vänta... ska vi verkligen áka? 141
+sv_041,Balanced,23,True,6.733333333333333,6.79,Vänta... ska viverkligen áka? 141
+sv_041,Balanced,24,True,6.8,6.8566666666666665,Vänta... skaviverkligen áka? 141
+sv_041,Balanced,25,True,6.866666666666666,7.046666666666666,Vänta... ska vi verkligen áka? 141
+sv_041,Balanced,27,True,10.0,10.056666666666667,Viakeri morgon bitti
+sv_041,Balanced,28,True,10.066666666666666,10.19,Viaker i morgon bitti
+sv_041,Balanced,29,True,10.2,10.466666666666667,Vi aker i morgon bitti
+sv_041,Balanced,30,True,10.466666666666667,10.59,Viaker i morgon bitti
+sv_041,Balanced,31,True,10.6,11.0,Vi aker i morgon bitti
+sv_041,Balanced,32,True,12.266666666666667,12.323333333333334,Vănta på mig 50%
+sv_041,Balanced,33,True,12.333333333333334,12.39,Vänta på mig 50%
+sv_041,Balanced,34,True,12.4,12.456666666666667,Vănta pá mig 50%
+sv_041,Balanced,35,True,12.466666666666667,12.523333333333333,Vänta på mig 50%
+sv_041,Balanced,36,True,12.533333333333333,12.59,Vănta på mig 50%
+sv_041,Balanced,37,True,12.6,12.656666666666666,Vănta pá mig 50%
+sv_041,Balanced,38,True,12.666666666666666,12.723333333333333,Vänta på mig 50%
+sv_041,Balanced,39,True,12.733333333333333,12.856666666666667,Vănta på mig 50%
+sv_041,Balanced,40,True,12.866666666666667,13.133333333333333,Vänta på mig 50%
+sv_041,Balanced,41,True,13.133333333333333,13.19,Vănta på mig 50%
+sv_041,Balanced,42,True,13.2,13.256666666666668,Vänta på mig 50%
+sv_041,Balanced,43,True,13.266666666666667,13.323333333333334,Vănta pá mig 50%
+sv_041,Balanced,44,True,13.333333333333334,13.39,Vänta på mig 50%
+sv_041,Balanced,45,True,13.4,13.523333333333333,Vänta pà mig 50%
+sv_041,Balanced,46,True,13.533333333333333,13.799999999999999,Vänta på mig 50%
+sv_041,Balanced,47,True,13.8,14.066666666666666,Vănta på mig 50%
+sv_041,Balanced,48,True,14.066666666666666,14.246666666666666,Vänta på mig 50%
+sv_042,Fast,3,True,6.4,6.523333333333333,Viakerimorgon kväll 142
+sv_042,Fast,4,True,6.533333333333333,6.656666666666667,Vi akeri morgon kväll 142
+sv_042,Fast,5,True,6.666666666666667,6.79,Viakerimorgon kväll 142
+sv_042,Fast,6,True,6.8,6.923333333333334,Vi akerilmorgon kväll 142
+sv_042,Fast,7,True,6.933333333333334,7.056666666666667,Viakerimorgon kväll 142
+sv_042,Fast,8,True,7.066666666666666,7.19,Vi akerilmorgon kväll 142
+sv_042,Fast,9,True,7.2,7.323333333333333,Vi akerimorgon kväll 142
+sv_042,Fast,10,True,7.333333333333333,7.456666666666667,Viakerimorgon kväll 142
+sv_042,Fast,11,True,7.466666666666667,7.59,Vi aker i morgon kväll 142
+sv_042,Fast,12,True,7.6,7.723333333333334,Vi akerimorgon kväll 142
+sv_042,Fast,13,True,7.733333333333333,7.8566666666666665,Viakerimorgon kväll 142
+sv_042,Fast,14,True,7.866666666666666,7.99,Vi akerimorgon kväll 142
+sv_042,Fast,15,True,8.0,8.2,Viakerimorgon kväll 142
+sv_042,Fast,17,True,12.266666666666667,12.933333333333334,Vänta... ska vi verkligen áka?
+sv_042,Fast,18,True,12.933333333333334,13.466666666666667,Vänta... ska vi verkligen àka?
+sv_042,Fast,21,True,17.466666666666665,17.666666666666664,Vi aker imorgon bitti 2041
+sv_042,Balanced,3,True,6.4,6.456666666666667,Viakerimorgon kväll 142
+sv_042,Balanced,4,True,6.466666666666667,6.523333333333333,Vi akerimorgon kväll 142
+sv_042,Balanced,5,True,6.533333333333333,6.656666666666667,Vi akeri morgon kväll 142
+sv_042,Balanced,6,True,6.666666666666667,6.723333333333334,Viakerimorgon kväll 142
+sv_042,Balanced,7,True,6.733333333333333,6.79,Vi aker imorgon kväll 142
+sv_042,Balanced,8,True,6.8,6.8566666666666665,Vi akerilmorgon kväll 142
+sv_042,Balanced,9,True,6.866666666666666,6.923333333333334,Vi akerimorgon kväll 142
+sv_042,Balanced,10,True,6.933333333333334,6.99,Viakerimorgon kväll 142
+sv_042,Balanced,11,True,7.0,7.056666666666667,Vi akerimorgon kväll 142
+sv_042,Balanced,12,True,7.066666666666666,7.123333333333334,Vi akerilmorgon kväll 142
+sv_042,Balanced,13,True,7.133333333333334,7.256666666666667,Vi akerimorgon kväll 142
+sv_042,Balanced,14,True,7.266666666666667,7.390000000000001,Viakerimorgon kväll 142
+sv_042,Balanced,15,True,7.4,7.456666666666667,Vi akerimorgon kväll 142
+sv_042,Balanced,16,True,7.466666666666667,7.523333333333333,Vi aker i morgon kväll 142
+sv_042,Balanced,17,True,7.533333333333333,7.59,Vi akeri morgon kväll 142
+sv_042,Balanced,18,True,7.6,7.723333333333334,Vi akerimorgon kväll 142
+sv_042,Balanced,19,True,7.733333333333333,7.79,Viakerimorgon kväll 142
+sv_042,Balanced,20,True,7.8,7.8566666666666665,Viakerilmorgon kväll 142
+sv_042,Balanced,21,True,7.866666666666666,7.99,Vi akerimorgon kväll 142
+sv_042,Balanced,22,True,8.0,8.18,Viakerimorgon kväll 142
+sv_042,Balanced,24,True,10.466666666666667,10.523333333333333,"Sadu 19.95 eller 90,15? 50%"
+sv_042,Balanced,25,True,10.533333333333333,11.2,"Sa du 19.95 eller 90,15? 50%"
+sv_042,Balanced,26,True,12.266666666666667,12.866666666666667,Vänta... ska vi verkligen áka?
+sv_042,Balanced,27,True,12.866666666666667,13.133333333333333,Vänta... ska vi verkligen àka?
+sv_042,Balanced,28,True,13.133333333333333,13.19,Vänta... ska vi verkligen áka?
+sv_042,Balanced,29,True,13.2,13.4,Vänta... ska vi verkligen àka?
+sv_042,Balanced,30,True,13.4,13.523333333333333,Vänta... ska vi verkligen áka?
+sv_042,Balanced,31,True,13.533333333333333,13.59,Vänta... ska vi verkligen àka?
+sv_042,Balanced,34,True,17.466666666666665,17.646666666666665,Vi aker imorgon bitti 2041
+sv_043,Fast,1,True,0.5333333333333333,0.7999999999999999,Vi âker i morgon bitti 2026
+sv_043,Fast,5,True,9.333333333333334,10.0,Den röda dörren är till vänster.
+sv_043,Fast,6,True,10.0,10.123333333333333,Den rödadörren är till vänster.
+sv_043,Fast,7,True,10.133333333333333,10.4,Den röda dörren är till vänster.
+sv_043,Fast,8,True,10.4,10.523333333333333,Deniröda dörren är till vänster.
+sv_043,Balanced,1,True,0.4666666666666667,0.7999999999999999,Vi âker i morgon bitti 2026
+sv_043,Balanced,3,True,3.4,3.456666666666667,Vänta påmig
+sv_043,Balanced,6,True,9.333333333333334,10.0,Den röda dörren är till vänster.
+sv_043,Balanced,7,True,10.0,10.056666666666667,Den rödadörren är till vänster.
+sv_043,Balanced,8,True,10.066666666666666,10.4,Den röda dörren är till vänster.
+sv_043,Balanced,9,True,10.4,10.456666666666667,Deniröda dörren är till vänster.
+sv_044,Fast,3,True,6.4,6.523333333333333,Vi åkerimorgon bitti 144
+sv_044,Fast,4,True,6.533333333333333,6.656666666666667,Vi åker i morgon bitti 144
+sv_044,Fast,5,True,6.666666666666667,6.79,Vi åker imorgon bitti 144
+sv_044,Fast,6,True,6.8,6.923333333333334,Vi åkerimorgon bitti 144
+sv_044,Fast,7,True,6.933333333333334,7.056666666666667,Vi åker i morgon bitti 144
+sv_044,Fast,8,True,7.066666666666666,7.333333333333333,Vi åkerimorgon bitti 144
+sv_044,Fast,9,True,7.333333333333333,7.456666666666667,Vi åkeri morgon bitti 144
+sv_044,Fast,10,True,7.466666666666667,7.59,Vi åker i morgon bitti 144
+sv_044,Fast,11,True,7.6,7.723333333333334,Vi åkeri morgon bitti 144
+sv_044,Fast,12,True,7.733333333333333,7.8566666666666665,Vi åkerimorgon bitti 144
+sv_044,Fast,13,True,7.866666666666666,7.99,Vi åker i morgon bitti 144
+sv_044,Fast,14,True,8.0,8.123333333333333,Vi åkerimorgon bitti 144
+sv_044,Fast,15,True,8.133333333333333,8.256666666666668,Vi åker i morgon bitti 144
+sv_044,Fast,16,True,8.266666666666667,8.39,Viäkerimorgon bitti 144
+sv_044,Fast,17,True,8.4,8.6,Vi âkerimorgon bitti 144
+sv_044,Fast,19,True,11.466666666666667,11.59,Väntapămig
+sv_044,Fast,20,True,11.6,11.799999999999999,Vänta på mig
+sv_044,Balanced,3,True,6.4,6.523333333333333,Vi åkerimorgon bitti 144
+sv_044,Balanced,4,True,6.533333333333333,6.59,Vi åker i morgon bitti 144
+sv_044,Balanced,5,True,6.6,6.656666666666667,Vi åkerimorgon bitti 144
+sv_044,Balanced,6,True,6.666666666666667,6.79,Vi åker imorgon bitti 144
+sv_044,Balanced,7,True,6.8,6.923333333333334,Vi åkerimorgon bitti 144
+sv_044,Balanced,8,True,6.933333333333334,6.99,Vi åker i morgon bitti 144
+sv_044,Balanced,9,True,7.0,7.056666666666667,Vi åkeri morgon bitti 144
+sv_044,Balanced,10,True,7.066666666666666,7.333333333333333,Vi åkerimorgon bitti 144
+sv_044,Balanced,11,True,7.333333333333333,7.390000000000001,Vi åkeri morgon bitti 144
+sv_044,Balanced,12,True,7.4,7.456666666666667,Vi åkerimorgon bitti 144
+sv_044,Balanced,13,True,7.466666666666667,7.523333333333333,Vi åker i morgon bitti 144
+sv_044,Balanced,14,True,7.533333333333333,7.656666666666667,Vi åkeri morgon bitti 144
+sv_044,Balanced,15,True,7.666666666666667,7.79,Vi åkerimorgon bitti 144
+sv_044,Balanced,16,True,7.8,7.8566666666666665,Viâkerimorgon bitti 144
+sv_044,Balanced,17,True,7.866666666666666,7.99,Vi åker i morgon bitti 144
+sv_044,Balanced,18,True,8.0,8.123333333333333,Vi åkerimorgon bitti 144
+sv_044,Balanced,19,True,8.133333333333333,8.19,Vi åker i morgon bitti 144
+sv_044,Balanced,20,True,8.2,8.256666666666668,Vi åkerimorgon bitti 144
+sv_044,Balanced,21,True,8.266666666666667,8.323333333333334,Viäkerimorgon bitti 144
+sv_044,Balanced,22,True,8.333333333333334,8.39,Viâkerimorgon bitti 144
+sv_044,Balanced,23,True,8.4,8.456666666666667,Vi âkerimorgon bitti 144
+sv_044,Balanced,24,True,8.466666666666667,8.646666666666667,Vi åkerimorgon bitti 144
+sv_044,Balanced,26,True,11.4,11.523333333333333,Väntapămig
+sv_044,Balanced,27,True,11.533333333333333,11.656666666666666,Vänta på mig
+sv_044,Balanced,28,True,11.666666666666666,11.846666666666666,Väntapåmig
+sv_045,Fast,5,True,11.466666666666667,11.59,Vänta... ska viverkligen åka?
+sv_045,Fast,6,True,11.6,11.723333333333333,Vänta... ska vi verkligen åka?
+sv_045,Fast,7,True,11.733333333333333,11.856666666666667,Vänta...ska vi verkligen åka?
+sv_045,Fast,8,True,11.866666666666667,12.066666666666666,Vänta... ska vi verkligen åka?
+sv_045,Balanced,5,True,11.466666666666667,11.523333333333333,Vänta... ska viverkligen åka?
+sv_045,Balanced,6,True,11.533333333333333,11.59,Vänta...Ska vi verkligen åka?
+sv_045,Balanced,7,True,11.6,11.723333333333333,Vänta... ska vi verkligen åka?
+sv_045,Balanced,8,True,11.733333333333333,11.790000000000001,Vänta...ska vi verkligen åka?
+sv_045,Balanced,9,True,11.8,11.98,Vänta... ska vi verkligen åka?
+sv_046,Balanced,5,True,10.066666666666666,10.246666666666666,Vi åker Imorgon kväll
+sv_047,Fast,3,True,6.4,6.8,Vänta på mig 147
+sv_047,Fast,4,True,6.8,7.333333333333333,Vanta på mig 147
+sv_047,Balanced,3,True,6.4,6.8,Vänta på mig 147
+sv_047,Balanced,4,True,6.8,7.333333333333333,Vanta på mig 147
+sv_047,Balanced,7,True,10.466666666666667,10.523333333333333,Jag kan into tro att det är midnatt! 2026
+sv_047,Balanced,8,True,10.533333333333333,11.0,Jag kan inte tro att det är midnatt! 2026
+sv_048,Fast,2,True,2.6666666666666665,2.79,Vi äker i morgon kväll
+sv_048,Fast,3,True,2.8,3.0666666666666664,Vi åker i morgon kväll
+sv_048,Fast,6,True,7.2,7.323333333333333,Vanta... ska vi verkligen åka? 148
+sv_048,Fast,7,True,7.333333333333333,7.6,Vänta... ska vi verkligen åka? 148
+sv_048,Fast,8,True,7.6,7.723333333333334,Vanta... ska vi verkligen åka? 148
+sv_048,Fast,9,True,7.733333333333333,8.133333333333333,Vänta... ska vi verkligen åka? 148
+sv_048,Fast,11,True,10.0,10.123333333333333,Vi äker Lmorgon bitti
+sv_048,Fast,12,True,10.133333333333333,10.256666666666668,Vi äker i morgon bitti
+sv_048,Fast,13,True,10.266666666666667,10.533333333333333,Vi åker i morgon bitti
+sv_048,Fast,14,True,10.533333333333333,10.656666666666666,Vi äker I morgon bitti
+sv_048,Fast,15,True,10.666666666666666,11.2,Vi åker i morgon bitti
+sv_048,Balanced,1,True,0.4666666666666667,0.7333333333333333,Vi åker i morgon kväll
+sv_048,Balanced,2,True,0.7333333333333333,0.79,Vi åker j morgon kväll
+sv_048,Balanced,4,True,2.6666666666666665,2.7233333333333336,Vi äker i morgon kväll
+sv_048,Balanced,5,True,2.7333333333333334,3.066666666666667,Vi åker i morgon kväll
+sv_048,Balanced,8,True,7.2,7.256666666666667,Vanta... ska vi verkligen åka? 148
+sv_048,Balanced,9,True,7.266666666666667,7.6,Vänta... ska vi verkligen åka? 148
+sv_048,Balanced,10,True,7.6,7.723333333333334,Vanta... ska vi verkligen åka? 148
+sv_048,Balanced,11,True,7.733333333333333,7.79,Vänta... ska vi verkligen åka? 148
+sv_048,Balanced,12,True,7.8,7.8566666666666665,Vanta... ska vi verkligen åka? 148
+sv_048,Balanced,13,True,7.866666666666666,8.066666666666666,Vänta... ska vi verkligen åka? 148
+sv_048,Balanced,15,True,9.933333333333334,9.99,Vi äker i morgon bitti
+sv_048,Balanced,16,True,10.0,10.056666666666667,Vi äker Lmorgon bitti
+sv_048,Balanced,17,True,10.066666666666666,10.123333333333333,Vi äker Bmorgon bitti
+sv_048,Balanced,18,True,10.133333333333333,10.19,Vi äker i morgon bitti
+sv_048,Balanced,19,True,10.2,10.466666666666667,Vi åker i morgon bitti
+sv_048,Balanced,20,True,10.466666666666667,10.666666666666666,Vi äker i morgon bitti
+sv_048,Balanced,21,True,10.666666666666666,10.723333333333333,Vi åker i morgon bitti
+sv_048,Balanced,22,True,10.733333333333333,10.790000000000001,Vi äker i morgon bitti
+sv_048,Balanced,23,True,10.8,11.2,Vi åker i morgon bitti
+sv_049,Fast,7,True,17.2,17.32333333333333,Viåker i morgon bitti 2048
+sv_049,Fast,8,True,17.333333333333332,17.866666666666667,Vi åker i morgon bitti 2048
+sv_049,Balanced,4,True,8.2,8.379999999999999,Vi åkeri morgon kväll 149
+sv_049,Balanced,8,True,17.2,17.256666666666664,Viåker i morgon bitti 2048
+sv_049,Balanced,9,True,17.266666666666666,17.8,Vi åker i morgon bitti 2048

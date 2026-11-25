@@ -1,0 +1,571 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+it_001,Fast,4,True,7.2,7.323333333333333,Non riesco proprio a crederei! 101
+it_001,Fast,5,True,7.333333333333333,7.866666666666666,Non riesco proprio a crederci! 101
+it_001,Fast,6,True,7.866666666666666,7.99,Non riesco proprio a crederei! 101
+it_001,Fast,7,True,8.0,8.123333333333333,Non riesco proprio a crederci! 101
+it_001,Fast,8,True,8.133333333333333,8.333333333333332,Non riesco proprio a crederei! 101
+it_001,Fast,9,True,9.333333333333334,10.133333333333333,La porta rossa è a sinistra.
+it_001,Fast,10,True,10.133333333333333,10.256666666666668,La perta rossa è a sinistra.
+it_001,Fast,11,True,10.266666666666667,10.533333333333333,La porta rossa è a sinistra.
+it_001,Fast,12,True,10.533333333333333,10.656666666666666,a porta rossa è a sinistra.
+it_001,Balanced,4,True,7.2,7.256666666666667,Non riesco proprio a crederei! 101
+it_001,Balanced,5,True,7.266666666666667,7.866666666666666,Non riesco proprio a crederci! 101
+it_001,Balanced,6,True,7.866666666666666,7.923333333333334,Non riesco proprio a crederei! 101
+it_001,Balanced,7,True,7.933333333333334,8.133333333333333,Non riesco proprio a crederci! 101
+it_001,Balanced,8,True,8.133333333333333,8.19,Non riesco proprio a crederei! 101
+it_001,Balanced,9,True,8.2,8.379999999999999,Non riesco proprio a crederci! 101
+it_001,Balanced,10,True,9.333333333333334,10.066666666666666,La porta rossa è a sinistra.
+it_001,Balanced,11,True,10.066666666666666,10.123333333333333,a porta rossa è a sinistra.
+it_001,Balanced,12,True,10.133333333333333,10.19,La perta rossa è a sinistra.
+it_001,Balanced,13,True,10.2,10.533333333333333,La porta rossa è a sinistra.
+it_001,Balanced,14,True,10.533333333333333,10.59,a porta rossa è a sinistra.
+it_002,Fast,2,True,3.466666666666667,3.5900000000000003,Aspetta...partiamo davvero?
+it_002,Fast,3,True,3.6,3.7233333333333336,Aspetta... partiamo davvero?
+it_002,Fast,4,True,3.7333333333333334,3.856666666666667,Aspetta...partiamo davvero?
+it_002,Fast,5,True,3.8666666666666667,4.133333333333334,Aspetta... partiamo davvero?
+it_002,Balanced,2,True,3.4,3.456666666666667,Aspetta... partiamo davvero?
+it_002,Balanced,3,True,3.466666666666667,3.5900000000000003,Aspetta...partiamo davvero?
+it_002,Balanced,4,True,3.6,3.6566666666666667,Aspetta... partiamo davvero?
+it_002,Balanced,5,True,3.6666666666666665,3.79,Aspetta...partiamo davvero?
+it_002,Balanced,6,True,3.8,4.133333333333333,Aspetta... partiamo davvero?
+it_002,Balanced,7,True,4.133333333333334,4.333333333333333,Aspetta...partiamo davvero?
+it_002,Balanced,8,True,4.333333333333333,4.390000000000001,Aspetta...partiamo davero?
+it_002,Balanced,9,True,4.4,4.866666666666666,Aspetta...partiamo davvero?
+it_002,Balanced,10,True,4.866666666666666,4.923333333333334,Aspetta....partiamo davero?
+it_002,Balanced,11,True,4.933333333333334,5.133333333333333,Aspetta...partiamo davvero?
+it_002,Balanced,12,True,5.133333333333334,5.19,Aspetta...partiamo-davvero?
+it_002,Balanced,13,True,5.2,5.38,Aspetta..partiamo davvero?
+it_002,Balanced,16,True,11.666666666666666,11.846666666666666,Aspettamiqui
+it_003,Fast,3,True,5.2,5.323333333333333,Partiamodomanisera
+it_003,Fast,4,True,5.333333333333333,5.6,Partiamo domani sera
+it_003,Fast,6,True,9.333333333333334,10.0,Aspetta... partiamo davvero?
+it_003,Fast,7,True,10.0,10.123333333333333,Aspetta...partiamo davvero?
+it_003,Fast,8,True,10.133333333333333,10.533333333333333,Aspetta... partiamo davvero?
+it_003,Fast,9,True,10.533333333333333,10.656666666666666,Aspetta...partiamo davvero?
+it_003,Fast,10,True,10.666666666666666,11.2,Aspetta... partiamo davvero?
+it_003,Fast,11,True,11.2,11.323333333333334,Aspetta...partiamo davvero?
+it_003,Fast,12,True,11.333333333333334,11.6,Aspetta... partiamo davvero?
+it_003,Fast,13,True,11.6,11.723333333333333,Aspetta...partiamo davvero?
+it_003,Fast,14,True,11.733333333333333,12.0,Aspetta... partiamo davvero?
+it_003,Balanced,2,True,2.066666666666667,2.1233333333333335,La porta rossa èa sinistra
+it_003,Balanced,3,True,2.1333333333333333,2.3333333333333335,La porta rossa è a sinistra.
+it_003,Balanced,5,True,5.2,5.256666666666667,Partiamodomanisera
+it_003,Balanced,6,True,5.266666666666667,5.323333333333333,Partiamo domanisera
+it_003,Balanced,7,True,5.333333333333333,5.533333333333333,Partiamo domani sera
+it_003,Balanced,9,True,9.333333333333334,10.0,Aspetta... partiamo davvero?
+it_003,Balanced,10,True,10.0,10.123333333333333,Aspetta...partiamo davvero?
+it_003,Balanced,11,True,10.133333333333333,10.533333333333333,Aspetta... partiamo davvero?
+it_003,Balanced,12,True,10.533333333333333,10.59,Aspetta...partiamo davvero?
+it_003,Balanced,13,True,10.6,10.866666666666667,Aspetta... partiamo davvero?
+it_003,Balanced,14,True,10.866666666666667,10.923333333333334,Aspetta...partiamo davvero?
+it_003,Balanced,15,True,10.933333333333334,11.2,Aspetta... partiamo davvero?
+it_003,Balanced,16,True,11.2,11.323333333333334,Aspetta...partiamo davvero?
+it_003,Balanced,17,True,11.333333333333334,11.6,Aspetta... partiamo davvero?
+it_003,Balanced,18,True,11.6,11.723333333333333,Aspetta...partiamo davvero?
+it_003,Balanced,19,True,11.733333333333333,11.933333333333334,Aspetta... partiamo davvero?
+it_004,Fast,4,True,8.266666666666667,8.39,"La porta rossa èa sinistra, 104"
+it_004,Fast,5,True,8.4,9.066666666666666,"La porta rossa è a sinistra, 104"
+it_004,Balanced,4,True,8.266666666666667,8.323333333333334,"La porta rossa èa sinistra, 104"
+it_004,Balanced,5,True,8.333333333333334,9.0,"La porta rossa è a sinistra, 104"
+it_004,Balanced,8,True,15.2,16.066666666666666,Aspetta... partiamo davvero? 2003
+it_004,Balanced,9,True,16.066666666666666,16.12333333333333,Aspetta... partiamo davero? 2003
+it_005,Fast,1,True,0.5333333333333333,1.0666666666666667,Aspetta... partiamo davvero?
+it_005,Fast,2,True,1.0666666666666667,1.19,Aspetta...partiamo davvero?
+it_005,Fast,4,True,2.4,2.8,Aspetta... partiamo dayvero?
+it_005,Fast,5,True,2.8,3.0,Aspetta... partiamo davvero?
+it_005,Fast,8,True,7.066666666666666,7.19,Aspeltami qui 105
+it_005,Fast,9,True,7.2,7.866666666666666,Aspettami qui 105
+it_005,Fast,11,True,10.133333333333333,10.256666666666668,Non riesroeproprio a crederci! 2026
+it_005,Fast,12,True,10.266666666666667,11.066666666666666,Non riesco proprio a crederci! 2026
+it_005,Balanced,1,True,0.4666666666666667,1.0,Aspetta... partiamo davvero?
+it_005,Balanced,2,True,1.0,1.1233333333333333,Aspetta...partiamo davvero?
+it_005,Balanced,4,True,2.4,2.7333333333333334,Aspetta... partiamo dayvero?
+it_005,Balanced,5,True,2.7333333333333334,2.9133333333333336,Aspetta... partiamo davvero?
+it_005,Balanced,8,True,7.066666666666666,7.123333333333334,Aspeltami qui 105
+it_005,Balanced,9,True,7.133333333333334,7.8,Aspettami qui 105
+it_005,Balanced,10,True,9.333333333333334,9.933333333333334,Non riesco proprio a crederci! 2026
+it_005,Balanced,11,True,9.933333333333334,9.99,Non rieseo proprio a crederci! 2026
+it_005,Balanced,12,True,10.0,10.123333333333333,Non riesco proprio a crederci! 2026
+it_005,Balanced,13,True,10.133333333333333,10.19,Non riesroeproprio a crederci! 2026
+it_006,Fast,4,True,9.333333333333334,9.456666666666667,Partiamo domani mattina
+it_006,Fast,5,True,9.466666666666667,9.59,Partiamo domanimattina
+it_006,Fast,6,True,9.6,10.133333333333333,Partiamo domani mattina
+it_006,Fast,7,True,10.133333333333333,10.533333333333333,Partiamo domanimattina
+it_006,Fast,8,True,10.533333333333333,10.656666666666666,Partiamo domani mattina
+it_006,Fast,9,True,10.666666666666666,10.790000000000001,Partiamo domanimattina
+it_006,Fast,10,True,10.8,11.2,Partiamo domani mattina
+it_006,Balanced,4,True,9.333333333333334,9.456666666666667,Partiamo domani mattina
+it_006,Balanced,5,True,9.466666666666667,9.523333333333333,Partiamo domanimattina
+it_006,Balanced,6,True,9.533333333333333,9.933333333333334,Partiamo domani mattina
+it_006,Balanced,7,True,9.933333333333334,9.99,Partiamo domanimattina
+it_006,Balanced,8,True,10.0,10.056666666666667,Partiamo domani mattina
+it_006,Balanced,9,True,10.066666666666666,10.466666666666667,Partiamo domanimattina
+it_006,Balanced,10,True,10.466666666666667,10.666666666666666,Partiamo domani mattina
+it_006,Balanced,11,True,10.666666666666666,10.723333333333333,Partiamo domanimattina
+it_006,Balanced,12,True,10.733333333333333,11.2,Partiamo domani mattina
+it_007,Fast,4,True,9.333333333333334,10.133333333333333,"Hai detto 19,95 o 90,15?"
+it_007,Fast,5,True,10.133333333333333,10.256666666666668,"Haidetto 19,95 o 90,15?"
+it_007,Balanced,4,True,9.333333333333334,9.933333333333334,"Hai detto 19,95 o 90,15?"
+it_007,Balanced,5,True,9.933333333333334,9.99,"Haidetto 19,95 o 90,15?"
+it_007,Balanced,6,True,10.0,10.123333333333333,"Hai detto 19,95 o 90,15?"
+it_007,Balanced,7,True,10.133333333333333,10.19,"Haidetto 19,95 o 90,15?"
+it_008,Fast,2,True,3.466666666666667,3.5900000000000003,Aspettami qui
+it_008,Fast,3,True,3.6,3.7233333333333336,Aspettamiqui
+it_008,Balanced,2,True,3.4,3.6,Aspettami qui
+it_008,Balanced,3,True,3.6,3.7233333333333336,Aspettamiqui
+it_009,Balanced,2,True,2.066666666666667,2.1233333333333335,"Hai detto 19,95 o 90, 15?"
+it_009,Balanced,3,True,2.1333333333333333,2.3333333333333335,"Hai detto 19,95 o 90,15?"
+it_009,Balanced,5,True,5.133333333333334,5.19,Aspetta...partiamo davvero?
+it_009,Balanced,6,True,5.2,5.533333333333333,Aspetta... partiamo davvero?
+it_009,Balanced,11,True,16.466666666666665,16.523333333333333,Laporta rossa è a sinistra. 2008
+it_009,Balanced,12,True,16.533333333333335,16.866666666666667,La porta rossa è a sinistra. 2008
+it_010,Fast,5,True,10.0,10.266666666666666,Aspetta...partiamo davvero?
+it_010,Fast,6,True,10.266666666666667,10.799999999999999,Aspetta... partiamo davvero?
+it_010,Balanced,5,True,9.933333333333334,10.056666666666667,Aspetta.partiamo davvero?
+it_010,Balanced,6,True,10.066666666666666,10.123333333333333,Aspetta... partiamo davvero?
+it_010,Balanced,7,True,10.133333333333333,10.19,Aspettapartiamo davvero?
+it_010,Balanced,8,True,10.2,10.466666666666667,Aspetta... partiamo davvero?
+it_010,Balanced,9,True,10.466666666666667,10.523333333333333,Aspetta...partiamo davvero?
+it_010,Balanced,10,True,10.533333333333333,10.733333333333333,Aspetta... partiamo davvero?
+it_011,Fast,2,True,2.0,2.933333333333333,Aspettamiqui
+it_011,Fast,6,True,10.266666666666667,10.39,Partiamo domanisera
+it_011,Fast,7,True,10.4,10.933333333333334,Partiamo domani sera
+it_011,Fast,8,True,10.933333333333334,11.133333333333333,Partiamo domanisera
+it_011,Balanced,2,True,1.9333333333333333,2.8666666666666667,Aspettamiqui
+it_011,Balanced,5,True,6.733333333333333,6.79,La porta rossaè a sinistra. 111
+it_011,Balanced,6,True,6.8,6.9799999999999995,La porta rossa è a sinistra. 111
+it_011,Balanced,8,True,10.266666666666667,10.323333333333334,Partiamo domanisera
+it_011,Balanced,9,True,10.333333333333334,10.456666666666667,Partiamo domani sera
+it_011,Balanced,10,True,10.466666666666667,10.523333333333333,Partiamo domanisera
+it_011,Balanced,11,True,10.533333333333333,10.59,Partiamo domani sera
+it_011,Balanced,12,True,10.6,10.656666666666666,Partiamo domanisera
+it_011,Balanced,13,True,10.666666666666666,10.866666666666667,Partiamo domani sera
+it_011,Balanced,14,True,10.866666666666667,11.046666666666667,Partiamo domanisera
+it_012,Fast,2,True,3.466666666666667,4.266666666666667,Partiamo domanimattina
+it_012,Fast,8,True,17.466666666666665,17.666666666666664,Partiamo domanisera 2011
+it_012,Balanced,2,True,3.4,3.8,Partiamo domanimattina
+it_012,Balanced,3,True,3.8,3.856666666666667,Partiamo domani mattina
+it_012,Balanced,4,True,3.8666666666666667,4.266666666666667,Partiamo domanimattina
+it_012,Balanced,10,True,17.466666666666665,17.646666666666665,Partiamo domanisera 2011
+it_013,Balanced,5,True,11.4,11.58,Partiamodomani mattina
+it_014,Fast,4,True,9.333333333333334,10.0,"Hai detto 19,95 o 90,15?"
+it_014,Fast,5,True,10.0,10.266666666666666,"Haidetto 19,95 o 90,15?"
+it_014,Fast,6,True,10.266666666666667,10.533333333333333,"Hai detto 19,95 o 90,15?"
+it_014,Fast,7,True,10.533333333333333,10.656666666666666,"Haidetto 19,95 o 90,15?"
+it_014,Fast,9,True,11.466666666666667,11.59,"Hai detto 19,95o 90,15?"
+it_014,Fast,10,True,11.6,11.799999999999999,"Hai detto 19,95 o 90,15?"
+it_014,Balanced,4,True,9.333333333333334,10.0,"Hai detto 19,95 o 90,15?"
+it_014,Balanced,5,True,10.0,10.2,"Haidetto 19,95 o 90,15?"
+it_014,Balanced,6,True,10.2,10.466666666666667,"Hai detto 19,95 o 90,15?"
+it_014,Balanced,7,True,10.466666666666667,10.59,"Haidetto 19,95 o 90,15?"
+it_014,Balanced,9,True,11.466666666666667,11.523333333333333,"Hai detto 19,95o 90,15?"
+it_014,Balanced,10,True,11.533333333333333,11.733333333333333,"Hai detto 19,95 o 90,15?"
+it_015,Fast,2,True,3.466666666666667,3.5900000000000003,Aspettamiqui
+it_015,Fast,3,True,3.6,3.8666666666666667,Aspettami qui
+it_015,Fast,4,True,3.8666666666666667,3.99,Aspettamiqui
+it_015,Fast,6,True,5.2,5.466666666666667,Aspettamiqui
+it_015,Fast,7,True,5.466666666666667,5.666666666666667,Aspettami qui
+it_015,Fast,8,True,6.4,7.333333333333333,Non riesco proprio a crederci! 115
+it_015,Fast,9,True,7.333333333333333,7.456666666666667,Non riescoproprio a crederci! 115
+it_015,Fast,12,True,12.266666666666667,12.799999999999999,Partiamo domani sera
+it_015,Fast,13,True,12.8,12.923333333333334,Partiamo domanisera
+it_015,Fast,15,True,13.6,13.799999999999999,Partiamo domanisera
+it_015,Fast,16,True,15.2,15.323333333333334,"Haidetto 19,95 o 90,15? 2014"
+it_015,Fast,17,True,15.333333333333334,15.456666666666667,"Haidetto 19,95o 90,15? 2014"
+it_015,Fast,19,True,16.533333333333335,16.933333333333334,"Hai detto 19,95 o 90,15? 2014"
+it_015,Balanced,2,True,3.4,3.456666666666667,Aspettami qui
+it_015,Balanced,3,True,3.466666666666667,3.5233333333333334,Aspettamiqui
+it_015,Balanced,4,True,3.533333333333333,3.8,Aspettami qui
+it_015,Balanced,5,True,3.8,4.0,Aspettamiqui
+it_015,Balanced,7,True,5.2,5.3999999999999995,Aspettamiqui
+it_015,Balanced,8,True,5.4,5.58,Aspettami qui
+it_015,Balanced,9,True,6.4,7.333333333333333,Non riesco proprio a crederci! 115
+it_015,Balanced,10,True,7.333333333333333,7.390000000000001,Non riescoproprio a crederci! 115
+it_015,Balanced,13,True,11.4,11.456666666666667,La porta rossaè a sinistra.
+it_015,Balanced,14,True,11.466666666666667,11.933333333333334,La porta rossa è a sinistra.
+it_015,Balanced,15,True,12.266666666666667,12.733333333333333,Partiamo domani sera
+it_015,Balanced,16,True,12.733333333333333,12.856666666666667,Partiamo domanisera
+it_015,Balanced,18,True,13.533333333333333,13.713333333333333,Partiamo domanisera
+it_015,Balanced,19,True,15.2,15.323333333333334,"Haidetto 19,95 o 90,15? 2014"
+it_015,Balanced,20,True,15.333333333333334,15.39,"Haidetto 19,95o 90,15? 2014"
+it_015,Balanced,22,True,15.933333333333334,15.99,"Hai detto 19,95 o 90,15? 2014"
+it_015,Balanced,23,True,16.0,16.333333333333332,"Haidetto 19,95 o 90,15? 2014"
+it_015,Balanced,24,True,16.333333333333332,16.389999999999997,"Hai detto 19,95 o 90,15? 2014"
+it_015,Balanced,25,True,16.4,16.456666666666663,"Haidetto 19,95 o 90,15? 2014"
+it_015,Balanced,26,True,16.466666666666665,16.866666666666667,"Hai detto 19,95 o 90,15? 2014"
+it_016,Fast,1,True,0.5333333333333333,1.2,"Hai detto 19,95 o 90,15?"
+it_016,Fast,2,True,1.2,1.3233333333333333,"Haidetto 19,95 o 90,15?"
+it_016,Balanced,1,True,0.4666666666666667,1.2,"Hai detto 19,95 o 90,15?"
+it_016,Balanced,2,True,1.2,1.2566666666666666,"Haidetto 19,95 o 90,15?"
+it_016,Balanced,7,True,9.933333333333334,9.99,Aspettamiqui
+it_016,Balanced,8,True,10.0,10.18,Aspettami qui
+it_017,Fast,4,True,9.333333333333334,10.0,Aspetta... partiamo davvero?
+it_017,Fast,5,True,10.0,10.123333333333333,Aspetta...partiamo davvero?
+it_017,Balanced,3,True,5.8,5.8566666666666665,Partiamo domanisera
+it_017,Balanced,4,True,5.866666666666666,6.046666666666666,Partiamo domani sera
+it_017,Balanced,6,True,9.333333333333334,10.0,Aspetta... partiamo davvero?
+it_017,Balanced,7,True,10.0,10.056666666666667,Aspetta...partiamo davvero?
+it_018,Fast,7,True,17.2,17.32333333333333,Aspetta... partiamo dayvero? 2017
+it_018,Fast,8,True,17.333333333333332,17.599999999999998,Aspetta... partiamo davvero? 2017
+it_018,Balanced,4,True,9.333333333333334,10.066666666666666,Partiamo domani sera
+it_018,Balanced,5,True,10.066666666666666,10.123333333333333,Partiamo domanisera
+it_018,Balanced,9,True,17.2,17.256666666666664,Aspetta... partiamo dayvero? 2017
+it_018,Balanced,10,True,17.266666666666666,17.6,Aspetta... partiamo davvero? 2017
+it_019,Fast,1,True,0.5333333333333333,0.6566666666666666,Aspetta... partiamo davvero?
+it_019,Fast,2,True,0.6666666666666666,0.9333333333333333,Aspetta...partiamo davvero?
+it_019,Fast,4,True,3.466666666666667,3.5900000000000003,Partiamo domani mattina
+it_019,Fast,5,True,3.6,3.7233333333333336,Partiamo domanimattina
+it_019,Fast,8,True,9.333333333333334,10.0,Non riesco proprio a crederci! 2026
+it_019,Fast,9,True,10.0,10.123333333333333,Non riesco proprio a credercil 2026
+it_019,Fast,10,True,10.133333333333333,10.256666666666668,Non riesto proprio a crederci! 2026
+it_019,Balanced,1,True,0.4666666666666667,0.6666666666666666,Aspetta... partiamo davvero?
+it_019,Balanced,2,True,0.6666666666666666,0.8666666666666667,Aspetta...partiamo davvero?
+it_019,Balanced,4,True,3.4,3.6,Partiamo domani mattina
+it_019,Balanced,5,True,3.6,3.6566666666666667,Partiamo domanimattina
+it_019,Balanced,8,True,9.333333333333334,10.0,Non riesco proprio a crederci! 2026
+it_019,Balanced,9,True,10.0,10.123333333333333,Non riesco proprio a credercil 2026
+it_019,Balanced,10,True,10.133333333333333,10.19,Non riesto proprio a crederci! 2026
+it_020,Fast,1,True,0.5333333333333333,0.9333333333333333,Partiamo domani sera
+it_020,Fast,2,True,0.9333333333333333,1.0566666666666666,Partiámo domani sera
+it_020,Fast,6,True,8.266666666666667,8.39,Aspetta...partiamo davvero?120
+it_020,Fast,7,True,8.4,8.6,Aspetta... partiamo davvero? 120
+it_020,Fast,9,True,11.6,11.799999999999999,Partiamo domanimattina 50%
+it_020,Fast,12,True,15.866666666666667,16.53333333333333,Non riesco proprio a credercil 2019
+it_020,Fast,13,True,16.533333333333335,16.733333333333334,Non riesco proprio a crederci! 2019
+it_020,Balanced,1,True,0.4666666666666667,0.9333333333333333,Partiamo domani sera
+it_020,Balanced,2,True,0.9333333333333333,0.99,Partiámo domani sera
+it_020,Balanced,5,True,6.4,6.733333333333333,Aspetta... partiamo davvero? 120
+it_020,Balanced,6,True,6.733333333333333,6.79,Aspetta...partiamo davvero? 120
+it_020,Balanced,7,True,6.8,6.8566666666666665,Aspetta... partiamo davvero? 120
+it_020,Balanced,8,True,6.866666666666666,6.923333333333334,Aspetta...partiamo davvero? 120
+it_020,Balanced,10,True,8.266666666666667,8.323333333333334,Aspetta...partiamo davvero?120
+it_020,Balanced,11,True,8.333333333333334,8.39,Aspetta...partiamo davvero? 120
+it_020,Balanced,12,True,8.4,8.58,Aspetta... partiamo davvero? 120
+it_020,Balanced,14,True,11.6,11.656666666666666,Partiamo domanimattina 50%
+it_020,Balanced,15,True,11.666666666666666,11.846666666666666,Partiamo domani mattina 50%
+it_020,Balanced,18,True,15.866666666666667,16.53333333333333,Non riesco proprio a credercil 2019
+it_020,Balanced,19,True,16.533333333333335,16.713333333333335,Non riesco proprio a crederci! 2019
+it_021,Fast,3,True,5.2,5.323333333333333,La porta rossarè a sinistra. 2026
+it_021,Fast,4,True,5.333333333333333,5.6,La porta rossa è a sinistra. 2026
+it_021,Fast,6,True,9.333333333333334,10.0,"Hai detto 19,95 o 90,15?"
+it_021,Fast,7,True,10.0,10.266666666666666,"Haidetto 19,95 o 90,15?"
+it_021,Fast,9,True,11.6,11.866666666666665,"Haidetto 19,95 o 90,15?"
+it_021,Fast,10,True,11.866666666666667,12.066666666666666,"Hai detto 19,95 o 90,15?"
+it_021,Balanced,3,True,5.2,5.323333333333333,La porta rossarè a sinistra. 2026
+it_021,Balanced,4,True,5.333333333333333,5.533333333333333,La porta rossa è a sinistra. 2026
+it_021,Balanced,6,True,9.333333333333334,10.0,"Hai detto 19,95 o 90,15?"
+it_021,Balanced,7,True,10.0,10.2,"Haidetto 19,95 o 90,15?"
+it_021,Balanced,8,True,10.2,10.466666666666667,"Hai detto 19,95 o 90,15?"
+it_021,Balanced,9,True,10.466666666666667,10.523333333333333,"Haidetto 19,95 o 90,15?"
+it_021,Balanced,11,True,11.533333333333333,11.799999999999999,"Haidetto 19,95 o 90,15?"
+it_021,Balanced,12,True,11.8,11.98,"Hai detto 19,95 o 90,15?"
+it_024,Fast,3,True,4.0,4.266666666666667,Partiamo domanisera
+it_024,Fast,4,True,4.266666666666667,4.8,Partiamo domani sera
+it_024,Fast,7,True,10.8,10.923333333333334,Aspetta...partiamo davvero?
+it_024,Fast,8,True,10.933333333333334,11.2,Aspetta... partiamo davvero?
+it_024,Balanced,3,True,4.0,4.2,Partiamo domanisera
+it_024,Balanced,4,True,4.2,4.8,Partiamo domani sera
+it_024,Balanced,6,True,7.266666666666667,7.323333333333333,"Haidetto 19,95 o 90,15? 124"
+it_024,Balanced,7,True,7.333333333333333,7.8,"Hai detto 19,95 o 90,15? 124"
+it_024,Balanced,8,True,7.8,7.8566666666666665,"Haidetto 19,95 o 90,15? 124"
+it_024,Balanced,9,True,7.866666666666666,8.066666666666666,"Hai detto 19,95 o 90,15? 124"
+it_024,Balanced,11,True,10.8,10.856666666666667,Aspetta...partiamo davvero?
+it_024,Balanced,12,True,10.866666666666667,11.2,Aspetta... partiamo davvero?
+it_025,Fast,2,True,3.466666666666667,4.133333333333334,Non riesco proprio a crederci!
+it_025,Fast,3,True,4.133333333333334,4.256666666666667,Non riesco proprio a credercil
+it_025,Fast,9,True,17.6,17.723333333333333,Aspetta... partiamo davero? 2024
+it_025,Fast,10,True,17.733333333333334,17.933333333333334,Aspetta... partiamo davvero? 2024
+it_025,Balanced,2,True,3.4,4.066666666666666,Non riesco proprio a crederci!
+it_025,Balanced,3,True,4.066666666666666,4.19,Non riesco proprio a credercil
+it_025,Balanced,5,True,6.4,6.733333333333333,La porta rossa è a sinistra. 125
+it_025,Balanced,6,True,6.733333333333333,6.79,La porta rossaè a sinistra. 125
+it_025,Balanced,11,True,17.533333333333335,17.733333333333334,Aspetta... partiamo davero? 2024
+it_025,Balanced,12,True,17.733333333333334,17.913333333333334,Aspetta... partiamo davvero? 2024
+it_026,Fast,2,True,2.0,2.2,Aspetta...partiamo davvero?
+it_026,Balanced,1,True,0.4666666666666667,0.5233333333333333,Aspetta...partiamo davvero?
+it_026,Balanced,3,True,1.9333333333333333,1.99,Aspetta... partiamo davero?
+it_026,Balanced,4,True,2.0,2.18,Aspetta...partiamo davvero?
+it_027,Fast,2,True,1.7333333333333334,1.8566666666666667,Partiamo domanisera
+it_027,Fast,3,True,1.8666666666666667,2.4,Partiamo domani sera
+it_027,Fast,4,True,3.466666666666667,3.8666666666666667,"Hai detto 19,95o 90,15?"
+it_027,Fast,6,True,5.2,5.323333333333333,"Haidetto 19,95o90,15?"
+it_027,Fast,7,True,5.333333333333333,5.6,"Hai detto 19,95 o 90,15?"
+it_027,Fast,8,True,6.4,7.066666666666666,Aspetta... partiamo davvero? 127
+it_027,Fast,9,True,7.066666666666666,7.333333333333333,Aspetta...partiamo davvero? 127
+it_027,Fast,11,True,8.266666666666667,8.39,Aspetta...partiamo davvero? 127
+it_027,Fast,12,True,8.4,8.799999999999999,Aspetta... partiamo davvero? 127
+it_027,Fast,13,True,9.333333333333334,10.0,Partiamo domani mattina
+it_027,Fast,14,True,10.0,10.123333333333333,Partiamodomani mattina
+it_027,Fast,16,True,11.466666666666667,11.866666666666665,Partiamodomani mattina
+it_027,Fast,17,True,11.866666666666667,12.066666666666666,Partiamo domani mattina
+it_027,Balanced,2,True,1.6666666666666667,1.79,Partiamo domanisera
+it_027,Balanced,3,True,1.8,2.3333333333333335,Partiamo domani sera
+it_027,Balanced,4,True,3.4,3.8,"Hai detto 19,95o 90,15?"
+it_027,Balanced,5,True,3.8,3.856666666666667,"Hai detto 19,950 90,15?"
+it_027,Balanced,7,True,5.133333333333334,5.19,"Hai detto 19,95 o90,15?"
+it_027,Balanced,8,True,5.2,5.256666666666667,"Haidetto 19,95o90,15?"
+it_027,Balanced,9,True,5.266666666666667,5.323333333333333,"Haidetto19,95o90,15?"
+it_027,Balanced,10,True,5.333333333333333,5.533333333333333,"Hai detto 19,95 o 90,15?"
+it_027,Balanced,11,True,6.4,7.066666666666666,Aspetta... partiamo davvero? 127
+it_027,Balanced,12,True,7.066666666666666,7.266666666666667,Aspetta...partiamo davvero? 127
+it_027,Balanced,13,True,7.266666666666667,7.8,Aspetta... partiamo davvero? 127
+it_027,Balanced,14,True,7.8,7.8566666666666665,Aspetta...partiamo davvero? 127
+it_027,Balanced,15,True,7.866666666666666,8.2,Aspetta... partiamo davvero? 127
+it_027,Balanced,16,True,8.2,8.4,Aspetta...partiamo davvero? 127
+it_027,Balanced,17,True,8.4,8.799999999999999,Aspetta... partiamo davvero? 127
+it_027,Balanced,18,True,9.333333333333334,10.0,Partiamo domani mattina
+it_027,Balanced,19,True,10.0,10.123333333333333,Partiamodomani mattina
+it_027,Balanced,21,True,11.4,11.799999999999999,Partiamodomani mattina
+it_027,Balanced,22,True,11.8,11.98,Partiamo domani mattina
+it_028,Fast,1,True,0.5333333333333333,1.0666666666666667,Nonriesco proprio a crederci!
+it_028,Fast,3,True,3.466666666666667,4.266666666666667,La porta rossa è a sinistra. 2026
+it_028,Fast,4,True,4.266666666666667,4.390000000000001,La porta rossaè a sinistra. 2026
+it_028,Fast,5,True,4.4,4.523333333333333,La porta rossa è a sinistra. 2026
+it_028,Fast,6,True,4.533333333333333,4.8,La porta rossaè a sinistra. 2026
+it_028,Fast,8,True,6.4,6.8,Partiamo domani sera 128
+it_028,Fast,9,True,6.8,6.923333333333334,Partiamodomani sera 128
+it_028,Fast,11,True,8.8,8.923333333333334,Partiamo domanisera 128
+it_028,Fast,12,True,8.933333333333334,9.133333333333333,Partiamo domani sera 128
+it_028,Fast,14,True,10.0,10.266666666666666,"Haidetto 19,95 o 90,15?"
+it_028,Fast,15,True,10.266666666666667,10.799999999999999,"Hai detto 19,95 o 90,15?"
+it_028,Fast,17,True,13.333333333333334,13.6,Aspetta...partiamo davvero?
+it_028,Fast,18,True,13.6,14.0,Aspetta... partiamo davvero?
+it_028,Balanced,1,True,0.4666666666666667,0.59,Nonriesco proprio a crederci!
+it_028,Balanced,2,True,0.6,0.6566666666666666,Non riesco proprio a crederci!
+it_028,Balanced,3,True,0.6666666666666666,1.0,Nonriesco proprio a crederci!
+it_028,Balanced,5,True,3.4,4.266666666666667,La porta rossa è a sinistra. 2026
+it_028,Balanced,6,True,4.266666666666667,4.390000000000001,La porta rossaè a sinistra. 2026
+it_028,Balanced,7,True,4.4,4.523333333333333,La porta rossa è a sinistra. 2026
+it_028,Balanced,8,True,4.533333333333333,4.8,La porta rossaè a sinistra. 2026
+it_028,Balanced,10,True,6.4,6.8,Partiamo domani sera 128
+it_028,Balanced,11,True,6.8,6.8566666666666665,Partiamodomani sera 128
+it_028,Balanced,13,True,8.8,8.923333333333334,Partiamo domanisera 128
+it_028,Balanced,14,True,8.933333333333334,9.113333333333333,Partiamo domani sera 128
+it_028,Balanced,16,True,9.933333333333334,10.2,"Haidetto 19,95 o 90,15?"
+it_028,Balanced,17,True,10.2,10.466666666666667,"Hai detto 19,95 o 90,15?"
+it_028,Balanced,18,True,10.466666666666667,10.523333333333333,"Haidetto 19,95 o 90,15?"
+it_028,Balanced,19,True,10.533333333333333,10.733333333333333,"Hai detto 19,95 o 90,15?"
+it_028,Balanced,21,True,13.266666666666667,13.39,Aspetta...partiamo davvero?
+it_028,Balanced,22,True,13.4,13.456666666666667,Aspetta... partiamo davvero?
+it_028,Balanced,23,True,13.466666666666667,13.523333333333333,Aspetta...partiamo davvero?
+it_028,Balanced,24,True,13.533333333333333,13.933333333333334,Aspetta... partiamo davvero?
+it_029,Fast,2,True,3.466666666666667,3.8666666666666667,Aspettami qui
+it_029,Fast,3,True,3.8666666666666667,4.266666666666667,Aspettamiqui
+it_029,Fast,5,True,5.066666666666666,6.0,Aspettamiqui
+it_029,Balanced,2,True,3.4,3.8,Aspettami qui
+it_029,Balanced,3,True,3.8,4.2,Aspettamiqui
+it_029,Balanced,5,True,5.0,6.0,Aspettamiqui
+it_029,Balanced,9,True,13.666666666666666,13.723333333333333,Partiamo domanisera
+it_029,Balanced,10,True,13.733333333333333,14.133333333333333,Partiamo domani sera
+it_031,Balanced,4,True,9.333333333333334,9.933333333333334,Aspetta... partiamo davvero? 50%
+it_031,Balanced,5,True,9.933333333333334,9.99,Aspetta..partiamo davvero? 50%
+it_034,Fast,3,True,5.333333333333333,5.456666666666667,"Hai detto 19,95o 90,15?"
+it_034,Fast,4,True,5.466666666666667,5.866666666666666,"Hai detto 19,95 o 90,15?"
+it_034,Fast,5,True,6.4,7.2,Aspetta... partiamo davvero? 134
+it_034,Fast,6,True,7.2,7.323333333333333,Aspetta..partiamo davvero? 134
+it_034,Fast,8,True,8.666666666666666,8.790000000000001,Aspetta..partiamo davero? 134
+it_034,Fast,9,True,8.8,9.066666666666666,Aspetta... partiamo davvero? 134
+it_034,Fast,13,True,16.266666666666666,16.53333333333333,Non riesco proprio a credercil 2033
+it_034,Fast,14,True,16.533333333333335,16.656666666666666,Non riesco proprio a crederci! 2033
+it_034,Fast,15,True,16.666666666666668,16.79,Non riesco proprio a credercil 2033
+it_034,Fast,16,True,16.8,17.066666666666666,Non riesco proprio a crederci! 2033
+it_034,Balanced,3,True,4.2,4.256666666666667,"Hai detto 19,95 o90,15?"
+it_034,Balanced,4,True,4.266666666666667,4.866666666666666,"Hai detto 19,95 o 90,15?"
+it_034,Balanced,5,True,4.866666666666666,4.923333333333334,"Hai detto 19,95o 90,15?"
+it_034,Balanced,6,True,4.933333333333334,5.333333333333333,"Hai detto 19,95 o 90,15?"
+it_034,Balanced,7,True,5.333333333333333,5.390000000000001,"Hai detto 19,95o 90,15?"
+it_034,Balanced,8,True,5.4,5.8,"Hai detto 19,95 o 90,15?"
+it_034,Balanced,9,True,6.4,6.866666666666666,Aspetta... partiamo davvero? 134
+it_034,Balanced,10,True,6.866666666666666,6.923333333333334,Aspetta... partiamo dayvero? 134
+it_034,Balanced,11,True,6.933333333333334,7.2,Aspetta... partiamo davvero? 134
+it_034,Balanced,12,True,7.2,7.256666666666667,Aspetta..partiamo davvero? 134
+it_034,Balanced,14,True,8.2,8.256666666666668,Aspetta..partiamo davvero? 134
+it_034,Balanced,15,True,8.266666666666667,8.6,Aspetta... partiamo davvero? 134
+it_034,Balanced,16,True,8.6,8.799999999999999,Aspetta..partiamo davero? 134
+it_034,Balanced,17,True,8.8,9.0,Aspetta... partiamo davvero? 134
+it_034,Balanced,21,True,15.933333333333334,15.99,Non riesco proprio a credercil 2033
+it_034,Balanced,22,True,16.0,16.2,Non riesco proprio a crederci! 2033
+it_034,Balanced,23,True,16.2,16.32333333333333,Non riesco proprio a credercil 2033
+it_034,Balanced,24,True,16.333333333333332,16.389999999999997,Non riesco proprio a crederci! 2033
+it_034,Balanced,25,True,16.4,16.523333333333333,Non riesco proprio a credercil 2033
+it_034,Balanced,26,True,16.533333333333335,16.656666666666666,Non riesco proprio a crederci! 2033
+it_034,Balanced,27,True,16.666666666666668,16.723333333333333,Non riesco proprio a credercil 2033
+it_034,Balanced,28,True,16.733333333333334,17.066666666666666,Non riesco proprio a crederci! 2033
+it_035,Fast,5,True,10.133333333333333,10.256666666666668,"Hai derto 19,95 o 90,15?"
+it_035,Fast,6,True,10.266666666666667,11.066666666666666,"Hai detto 19,95 o 90,15?"
+it_035,Balanced,4,True,9.333333333333334,10.133333333333333,"Hai detto 19,95 o 90,15?"
+it_035,Balanced,5,True,10.133333333333333,10.19,"Hai derto 19,95 o 90,15?"
+it_037,Balanced,5,True,11.4,11.58,Aspettamiqui
+it_038,Fast,5,True,11.466666666666667,11.59,Aspetta...partiamo davvero?
+it_038,Fast,6,True,11.6,11.799999999999999,Aspetta... partiamo davvero?
+it_038,Balanced,3,True,6.4,6.733333333333333,"Hai detto 19,95 o 90,15? 138"
+it_038,Balanced,4,True,6.733333333333333,6.79,"Hai detto 19,95 o 90, 15? 138"
+it_038,Balanced,5,True,6.8,7.266666666666667,"Hai detto 19,95 o 90,15? 138"
+it_038,Balanced,6,True,7.266666666666667,7.323333333333333,"Haidetto 19,95 o 90,15? 138"
+it_038,Balanced,8,True,8.2,8.256666666666668,"Haidetto 19,95 o 90,15? 138"
+it_038,Balanced,9,True,8.266666666666667,8.323333333333334,"Hai detto 19,95 o 90,15? 138"
+it_038,Balanced,10,True,8.333333333333334,8.39,"Haidetto 19,95 o 90,15? 138"
+it_038,Balanced,11,True,8.4,8.58,"Hai detto 19,95 o 90,15? 138"
+it_038,Balanced,13,True,11.466666666666667,11.59,Aspetta...partiamo davvero?
+it_038,Balanced,14,True,11.6,11.656666666666666,Aspetta... partiamo davvero?
+it_038,Balanced,15,True,11.666666666666666,11.846666666666666,Aspetta...partiamo davvero?
+it_039,Fast,4,True,8.266666666666667,8.39,La porta rossaèa sinistra. 139
+it_039,Fast,5,True,8.4,8.799999999999999,La porta rossa è a sinistra. 139
+it_039,Fast,7,True,11.466666666666667,11.866666666666665,Partiamodomani sera
+it_039,Fast,8,True,11.866666666666667,12.066666666666666,Partiamo domani sera
+it_039,Balanced,1,True,0.4666666666666667,0.5233333333333333,Aspettamiqui
+it_039,Balanced,4,True,6.4,6.733333333333333,La porta rossa è a sinistra. 139
+it_039,Balanced,5,True,6.733333333333333,6.79,La porta rossaè a sinistra. 139
+it_039,Balanced,6,True,6.8,7.133333333333333,La porta rossa è a sinistra. 139
+it_039,Balanced,7,True,7.133333333333334,7.19,La porta rossaè a sinistra. 139
+it_039,Balanced,9,True,8.2,8.256666666666668,La porta rossaè a sinistra. 139
+it_039,Balanced,10,True,8.266666666666667,8.323333333333334,La porta rossaèa sinistra. 139
+it_039,Balanced,11,True,8.333333333333334,8.799999999999999,La porta rossa è a sinistra. 139
+it_039,Balanced,13,True,11.466666666666667,11.523333333333333,Partiamodomani sera
+it_039,Balanced,14,True,11.533333333333333,11.59,Partiamo domani sera
+it_039,Balanced,15,True,11.6,11.656666666666666,Partiamodomani sera
+it_039,Balanced,16,True,11.666666666666666,11.723333333333333,Partiamo domani sera
+it_039,Balanced,17,True,11.733333333333333,11.790000000000001,Partiamodomani sera
+it_039,Balanced,18,True,11.8,11.98,Partiamo domani sera
+it_040,Fast,2,True,2.1333333333333333,2.256666666666667,Aspetta...partiamo davvero?
+it_040,Fast,3,True,2.2666666666666666,2.6666666666666665,Aspetta... partiamo davvero?
+it_040,Fast,4,True,3.466666666666667,3.7333333333333334,Partiamo domani mattina
+it_040,Fast,5,True,3.7333333333333334,4.0,Partiamo domanimattina
+it_040,Fast,7,True,5.2,5.466666666666667,Partiamo domanimattina
+it_040,Fast,8,True,5.466666666666667,5.59,Partiamo domani mattina
+it_040,Fast,9,True,5.6,5.866666666666666,Partiamo domanimattina
+it_040,Fast,12,True,10.4,10.523333333333333,Nontriesco proprio a crederci! 2026
+it_040,Fast,13,True,10.533333333333333,10.799999999999999,Non riesco proprio a crederci! 2026
+it_040,Balanced,2,True,2.1333333333333333,2.256666666666667,Aspetta...partiamo davvero?
+it_040,Balanced,3,True,2.2666666666666666,2.6,Aspetta... partiamo davvero?
+it_040,Balanced,4,True,3.4,3.6666666666666665,Partiamo domani mattina
+it_040,Balanced,5,True,3.6666666666666665,4.0,Partiamo domanimattina
+it_040,Balanced,7,True,5.133333333333334,5.466666666666667,Partiamo domanimattina
+it_040,Balanced,8,True,5.466666666666667,5.523333333333333,Partiamo domani mattina
+it_040,Balanced,9,True,5.533333333333333,5.8,Partiamo domanimattina
+it_040,Balanced,12,True,10.4,10.456666666666667,Nontriesco proprio a crederci! 2026
+it_040,Balanced,13,True,10.466666666666667,10.733333333333333,Non riesco proprio a crederci! 2026
+it_041,Fast,2,True,1.7333333333333334,1.8566666666666667,Partiamo domanisera
+it_041,Fast,3,True,1.8666666666666667,2.933333333333333,Partiamo domani sera
+it_041,Fast,5,True,5.2,5.323333333333333,"Hai detto 19 95 o 90,15?"
+it_041,Fast,6,True,5.333333333333333,5.733333333333333,"Hai detto 19,95 o 90,15?"
+it_041,Fast,7,True,5.733333333333333,5.8566666666666665,Hai detto 19 95 o 90 15?
+it_041,Fast,8,True,5.866666666666666,6.066666666666666,"Hai detto 19,95 o 90,15?"
+it_041,Fast,10,True,6.8,7.0,Aspetta...partiamo davvero? 141
+it_041,Balanced,2,True,1.7333333333333334,1.79,Partiamo domanisera
+it_041,Balanced,3,True,1.8,2.8666666666666667,Partiamo domani sera
+it_041,Balanced,5,True,5.2,5.256666666666667,"Hai detto 19 95 o 90,15?"
+it_041,Balanced,6,True,5.266666666666667,5.733333333333333,"Hai detto 19,95 o 90,15?"
+it_041,Balanced,7,True,5.733333333333333,5.8566666666666665,Hai detto 19 95 o 90 15?
+it_041,Balanced,8,True,5.866666666666666,6.046666666666666,"Hai detto 19,95 o 90,15?"
+it_041,Balanced,10,True,6.8,6.8566666666666665,Aspetta...partiamo davvero? 141
+it_041,Balanced,11,True,6.866666666666666,7.046666666666666,Aspetta... partiamo davvero? 141
+it_042,Fast,5,True,10.0,10.266666666666666,"Haidetto 19.95 o 90,15? 50%"
+it_042,Fast,6,True,10.266666666666667,10.39,"Hai detto 19,95 o 90,15? 50%"
+it_042,Fast,7,True,10.4,10.666666666666666,"Haidetto 19.95 o 90,15? 50%"
+it_042,Fast,8,True,10.666666666666666,11.2,"Hai detto 19,95 o 90,15? 50%"
+it_042,Fast,10,True,13.2,13.466666666666667,Aspetta....partiamo davvero?
+it_042,Fast,11,True,13.466666666666667,13.59,Aspetta... partiamo davvero?
+it_042,Fast,12,True,13.6,13.723333333333333,Aspetta....partiamo davvero?
+it_042,Fast,13,True,13.733333333333333,14.4,Aspetta... partiamo davvero?
+it_042,Fast,14,True,15.2,15.323333333333334,Partiamo domanimattina2041
+it_042,Balanced,3,True,6.4,6.733333333333333,Partiamo domani sera 142
+it_042,Balanced,4,True,6.733333333333333,6.79,Partiamordomani sera 142
+it_042,Balanced,7,True,10.0,10.056666666666667,"Haidetto 19.95 o 90,15? 50%"
+it_042,Balanced,8,True,10.066666666666666,10.123333333333333,"Haidetto 19 95 o 90,15? 50%"
+it_042,Balanced,9,True,10.133333333333333,10.19,"Haidetto 19.95 o 90,15? 50%"
+it_042,Balanced,10,True,10.2,10.4,"Hai detto 19,95 o 90,15? 50%"
+it_042,Balanced,11,True,10.4,10.6,"Haidetto 19.95 o 90,15? 50%"
+it_042,Balanced,12,True,10.6,11.2,"Hai detto 19,95 o 90,15? 50%"
+it_042,Balanced,14,True,13.2,13.4,Aspetta....partiamo davvero?
+it_042,Balanced,15,True,13.4,13.6,Aspetta... partiamo davvero?
+it_042,Balanced,16,True,13.6,13.723333333333333,Aspetta....partiamo davvero?
+it_042,Balanced,17,True,13.733333333333333,14.066666666666666,Aspetta... partiamo davvero?
+it_042,Balanced,18,True,14.066666666666666,14.123333333333333,Aspetta....partiamo davvero?
+it_042,Balanced,19,True,14.133333333333333,14.4,Aspetta... partiamo davvero?
+it_042,Balanced,20,True,15.2,15.256666666666668,Partiamo domanimattina2041
+it_042,Balanced,21,True,15.266666666666667,15.323333333333334,Partiamo domanimattina 2041
+it_042,Balanced,22,True,15.333333333333334,15.799999999999999,Partiamo domani mattina 2041
+it_042,Balanced,23,True,15.8,15.856666666666667,Partiamo domanimattina 2041
+it_043,Fast,1,True,0.5333333333333333,0.7999999999999999,Partiamo domani mattina 2026
+it_043,Fast,2,True,0.8,0.9233333333333333,Partiamo domanimattina 2026
+it_043,Fast,4,True,3.466666666666667,4.0,Aspettamiqui
+it_043,Fast,7,True,9.333333333333334,10.0,La porta rossa è a sinistra.
+it_043,Fast,8,True,10.0,10.266666666666666,Laporta rossa è a sinistra.
+it_043,Fast,11,True,13.866666666666667,14.666666666666666,Partiamo domanisera
+it_043,Balanced,1,True,0.4666666666666667,0.7999999999999999,Partiamo domani mattina 2026
+it_043,Balanced,2,True,0.8,0.8566666666666667,Partiamo domanimattina 2026
+it_043,Balanced,4,True,3.4,4.0,Aspettamiqui
+it_043,Balanced,7,True,9.333333333333334,10.0,La porta rossa è a sinistra.
+it_043,Balanced,8,True,10.0,10.2,Laporta rossa è a sinistra.
+it_043,Balanced,9,True,10.2,10.466666666666667,La porta rossa è a sinistra.
+it_043,Balanced,10,True,10.466666666666667,10.523333333333333,Laporta rossa è a sinistra.
+it_043,Balanced,12,True,11.4,11.58,La portarossaèa sinistra.
+it_043,Balanced,14,True,13.866666666666667,13.923333333333334,Partiamo domanisera
+it_043,Balanced,15,True,13.933333333333334,13.99,Partiamo domani sera
+it_043,Balanced,16,True,14.0,14.666666666666666,Partiamo domanisera
+it_044,Fast,3,True,6.4,6.8,Partiamo domani mattina 144
+it_044,Fast,4,True,6.8,6.923333333333334,Partiamodomani mattina 144
+it_044,Fast,5,True,6.933333333333334,7.056666666666667,Partiamo domani mattina 144
+it_044,Fast,6,True,7.066666666666666,7.333333333333333,Partiamodomani mattina 144
+it_044,Fast,8,True,8.266666666666667,8.39,Partiamodomani mattina 144
+it_044,Fast,9,True,8.4,8.6,Partiamo domani mattina 144
+it_044,Fast,11,True,10.8,10.923333333333334,Aspettamiqui
+it_044,Fast,12,True,10.933333333333334,11.333333333333332,Aspettami qui
+it_044,Fast,13,True,11.333333333333334,11.456666666666667,Aspettamiqui
+it_044,Fast,14,True,11.466666666666667,11.733333333333333,Aspettami qui
+it_044,Fast,16,True,15.2,15.323333333333334,La porta rossa èa sinistra. 2043
+it_044,Fast,17,True,15.333333333333334,15.456666666666667,La porta rossaèasinistra. 2043
+it_044,Fast,18,True,15.466666666666667,15.866666666666665,Laporta rossaèasinistra. 2043
+it_044,Fast,19,True,15.866666666666667,15.99,La porta rossa è a sinistra. 2043
+it_044,Fast,20,True,16.0,16.12333333333333,La porta rossa èa sinistra. 2043
+it_044,Fast,21,True,16.133333333333333,16.256666666666664,La porta rossa è a sinistra. 2043
+it_044,Fast,22,True,16.266666666666666,16.53333333333333,La porta rossa èa sinistra. 2043
+it_044,Fast,23,True,16.533333333333335,16.733333333333334,La porta rossa è a sinistra. 2043
+it_044,Balanced,3,True,6.4,6.8,Partiamo domani mattina 144
+it_044,Balanced,4,True,6.8,6.8566666666666665,Partiamodomani mattina 144
+it_044,Balanced,5,True,6.866666666666666,7.066666666666666,Partiamo domani mattina 144
+it_044,Balanced,6,True,7.066666666666666,7.266666666666667,Partiamodomani mattina 144
+it_044,Balanced,7,True,7.266666666666667,7.8,Partiamo domani mattina 144
+it_044,Balanced,8,True,7.8,7.8566666666666665,Partiamodomani mattina 144
+it_044,Balanced,9,True,7.866666666666666,8.2,Partiamo domani mattina 144
+it_044,Balanced,10,True,8.2,8.4,Partiamodomani mattina 144
+it_044,Balanced,11,True,8.4,8.58,Partiamo domani mattina 144
+it_044,Balanced,13,True,10.733333333333333,10.856666666666667,Aspettamiqui
+it_044,Balanced,14,True,10.866666666666667,11.333333333333334,Aspettami qui
+it_044,Balanced,15,True,11.333333333333334,11.456666666666667,Aspettamiqui
+it_044,Balanced,16,True,11.466666666666667,11.733333333333333,Aspettami qui
+it_044,Balanced,18,True,15.2,15.323333333333334,La porta rossa èa sinistra. 2043
+it_044,Balanced,19,True,15.333333333333334,15.456666666666667,La porta rossaèasinistra. 2043
+it_044,Balanced,20,True,15.466666666666667,15.799999999999999,Laporta rossaèasinistra. 2043
+it_044,Balanced,21,True,15.8,15.923333333333334,La porta rossa è a sinistra. 2043
+it_044,Balanced,22,True,15.933333333333334,16.133333333333333,La porta rossa èa sinistra. 2043
+it_044,Balanced,23,True,16.133333333333333,16.256666666666664,La porta rossa è a sinistra. 2043
+it_044,Balanced,24,True,16.266666666666666,16.53333333333333,La porta rossa èa sinistra. 2043
+it_044,Balanced,25,True,16.533333333333335,16.713333333333335,La porta rossa è a sinistra. 2043
+it_045,Fast,3,True,4.533333333333333,4.933333333333334,Partiamo domanisera
+it_045,Fast,4,True,4.933333333333334,5.6,Partiamo domani sera
+it_045,Fast,6,True,7.733333333333333,7.8566666666666665,"Haidetto 19,95 o 90,15? 145"
+it_045,Fast,7,True,7.866666666666666,8.266666666666666,"Hai detto 19,95 o 90,15? 145"
+it_045,Fast,8,True,8.266666666666667,8.533333333333333,"Haidetto 19,95 o 90,15? 145"
+it_045,Fast,9,True,8.533333333333333,8.799999999999999,"Hai detto 19,95 o 90,15? 145"
+it_045,Balanced,3,True,4.333333333333333,4.390000000000001,Partiamo domanisera
+it_045,Balanced,4,True,4.4,4.456666666666667,Partiamo domani sera
+it_045,Balanced,5,True,4.466666666666667,4.933333333333333,Partiamo domanisera
+it_045,Balanced,6,True,4.933333333333334,5.533333333333333,Partiamo domani sera
+it_045,Balanced,8,True,7.733333333333333,7.79,"Haidetto 19,95 o 90,15? 145"
+it_045,Balanced,9,True,7.8,8.266666666666666,"Hai detto 19,95 o 90,15? 145"
+it_045,Balanced,10,True,8.266666666666667,8.466666666666667,"Haidetto 19,95 o 90,15? 145"
+it_045,Balanced,11,True,8.466666666666667,8.799999999999999,"Hai detto 19,95 o 90,15? 145"
+it_045,Balanced,13,True,11.666666666666666,11.723333333333333,Aspetta...partiamo davvero?
+it_045,Balanced,14,True,11.733333333333333,11.933333333333334,Aspetta... partiamo davvero?
+it_046,Balanced,3,True,6.4,6.733333333333333,La porta rossa è a sinistra. 146
+it_046,Balanced,4,True,6.733333333333333,6.79,La porta rossá è a sinistra. 146
+it_047,Fast,5,True,10.133333333333333,10.256666666666668,Non riescp proprio a crederci! 2026
+it_047,Fast,6,True,10.266666666666667,11.066666666666666,Non riesco proprio a crederci! 2026
+it_047,Balanced,4,True,9.333333333333334,10.133333333333333,Non riesco proprio a crederci! 2026
+it_047,Balanced,5,True,10.133333333333333,10.19,Non riescp proprio a crederci! 2026
+it_049,Fast,5,True,12.266666666666667,13.2,Aspetta... partiamo davvero?
+it_049,Fast,6,True,13.2,13.323333333333334,Aspetta...partiamo davvero?
+it_049,Balanced,5,True,12.266666666666667,13.2,Aspetta... partiamo davvero?
+it_049,Balanced,6,True,13.2,13.256666666666668,Aspetta...partiamo davvero?

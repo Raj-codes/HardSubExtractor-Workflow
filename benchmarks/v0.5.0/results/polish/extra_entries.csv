@@ -1,0 +1,2067 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+pl_001,Fast,3,True,6.4,6.523333333333333,"Nie wierzę, ze już póinoc! 101"
+pl_001,Fast,4,True,6.533333333333333,6.656666666666667,"Nie wierzę, ze już półnoe! 101"
+pl_001,Fast,5,True,6.666666666666667,6.933333333333334,"Nie wierzę, ze już północ! 101"
+pl_001,Fast,6,True,6.933333333333334,7.2,"Nie wierzę, ze juz północ! 101"
+pl_001,Fast,7,True,7.2,7.323333333333333,"Nie wierze, ze już północ! 101"
+pl_001,Fast,8,True,7.333333333333333,7.6,"Nie wierzę, ze już północ! 101"
+pl_001,Fast,9,True,7.6,7.723333333333334,"Nie wierzę, ze juz północ! 101"
+pl_001,Fast,10,True,7.733333333333333,8.266666666666666,"Nie wierzę, ze już północ! 101"
+pl_001,Fast,14,True,16.8,17.066666666666666,"Mówileś 19,95 czy 90,15? 2000"
+pl_001,Fast,15,True,17.066666666666666,17.866666666666667,"Mówiles 19,95 czy 90,15? 2000"
+pl_001,Balanced,3,True,6.4,6.456666666666667,"Nie wierzę, ze już póinoc! 101"
+pl_001,Balanced,4,True,6.466666666666667,6.523333333333333,"Nie wierzę, ze juz póinoc! 101"
+pl_001,Balanced,5,True,6.533333333333333,6.59,"Nie wierzę, ze już półnoe! 101"
+pl_001,Balanced,6,True,6.6,6.723333333333334,"Nie wierzę, ze już północ! 101"
+pl_001,Balanced,7,True,6.733333333333333,6.79,"Nie wierzę, ze juz północ! 101"
+pl_001,Balanced,8,True,6.8,6.923333333333334,"Nie wierzę, ze już północ! 101"
+pl_001,Balanced,9,True,6.933333333333334,6.99,"Nie wierzę, ze juz północ! 101"
+pl_001,Balanced,10,True,7.0,7.056666666666667,"Nie wierzę, ze już północ! 101"
+pl_001,Balanced,11,True,7.066666666666666,7.19,"Nie wierzę, ze juz północ! 101"
+pl_001,Balanced,12,True,7.2,7.256666666666667,"Nie wierze, ze już północ! 101"
+pl_001,Balanced,13,True,7.266666666666667,7.323333333333333,"Nie wierzę, ze juz północ! 101"
+pl_001,Balanced,14,True,7.333333333333333,7.533333333333333,"Nie wierzę, ze już północ! 101"
+pl_001,Balanced,15,True,7.533333333333333,7.656666666666667,"Nie wierzę, ze juz północ! 101"
+pl_001,Balanced,20,True,16.733333333333334,16.856666666666666,"Mówileś 19,95 czy 90,15? 2000"
+pl_001,Balanced,21,True,16.866666666666667,16.923333333333332,"Mówiles 19,95 czy 90,15? 2000"
+pl_001,Balanced,22,True,16.933333333333334,16.99,"Mówileś 19,95 czy 90,15? 2000"
+pl_001,Balanced,23,True,17.0,17.8,"Mówiles 19,95 czy 90,15? 2000"
+pl_002,Fast,1,True,0.5333333333333333,0.7999999999999999,"Mówiles 19,95 czy 90,15?"
+pl_002,Fast,2,True,0.8,0.9233333333333333,"Mówiles.19,95 czy 90,15?"
+pl_002,Fast,3,True,0.9333333333333333,1.2,"Mówiles 19,95 czy 90,15?"
+pl_002,Fast,4,True,1.2,1.4666666666666666,"Mówileś 19,95 czy 90,15?"
+pl_002,Fast,5,True,1.4666666666666666,1.7333333333333334,"Mówiles 19,95 czy 90,15?"
+pl_002,Fast,6,True,1.7333333333333334,1.8566666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_002,Fast,7,True,1.8666666666666667,2.1333333333333333,"Mówiles 19,95 czy 90,15?"
+pl_002,Fast,8,True,3.466666666666667,3.7333333333333334,Czekaj. naprawde wychodzimy?
+pl_002,Fast,9,True,3.7333333333333334,3.856666666666667,Czekaj..naprawde wychodzimy?
+pl_002,Fast,10,True,3.8666666666666667,3.99,Czekaj...naprawdę wychodzimy?
+pl_002,Fast,11,True,4.0,4.123333333333334,Czekaj...naprawde wychodzimy?
+pl_002,Fast,12,True,4.133333333333334,4.256666666666667,Czekaj...naprawdę wychodzimy?
+pl_002,Fast,14,True,4.933333333333334,5.056666666666667,Czekaj... naprawde wychodzimy?
+pl_002,Fast,15,True,5.066666666666666,5.19,Czekaj... naprawdę wychodzimy?
+pl_002,Fast,16,True,5.2,5.4,Czekaj... naprawde wychodzimy?
+pl_002,Fast,20,True,13.6,13.723333333333333,"Nie wierzę, że już póinoc!"
+pl_002,Fast,21,True,13.733333333333333,14.933333333333334,"Nie wierzę, że już północ!"
+pl_002,Balanced,1,True,0.4666666666666667,0.7999999999999999,"Mówiles 19,95 czy 90,15?"
+pl_002,Balanced,2,True,0.8,0.8566666666666667,"Mówiles.19,95 czy 90,15?"
+pl_002,Balanced,3,True,0.8666666666666667,1.1333333333333333,"Mówiles 19,95 czy 90,15?"
+pl_002,Balanced,4,True,1.1333333333333333,1.4,"Mówileś 19,95 czy 90,15?"
+pl_002,Balanced,5,True,1.4,1.5233333333333334,"Mówiles 19,95 czy 90,15?"
+pl_002,Balanced,6,True,1.5333333333333334,1.59,"Mówileś 19,95 czy 90,15?"
+pl_002,Balanced,7,True,1.6,1.7233333333333334,"Mówiles 19,95 czy 90,15?"
+pl_002,Balanced,8,True,1.7333333333333334,1.79,"Mówiłeś 19,95 czy 90,15?"
+pl_002,Balanced,9,True,1.8,1.8566666666666667,"Mówileś 19,95 czy 90,15?"
+pl_002,Balanced,10,True,1.8666666666666667,2.1333333333333333,"Mówiles 19,95 czy 90,15?"
+pl_002,Balanced,11,True,3.4,3.5233333333333334,Czekaj. naprawde wychodzimy?
+pl_002,Balanced,12,True,3.533333333333333,3.5900000000000003,Czekajn. naprawde wychodzimy?
+pl_002,Balanced,13,True,3.6,3.7233333333333336,Czekaj... naprawde wychodzimy?
+pl_002,Balanced,14,True,3.7333333333333334,3.79,Czekaj..naprawde wychodzimy?
+pl_002,Balanced,15,True,3.8,3.9233333333333333,Czekaj...naprawdę wychodzimy?
+pl_002,Balanced,16,True,3.933333333333333,4.056666666666667,Czekaj...naprawde wychodzimy?
+pl_002,Balanced,17,True,4.066666666666666,4.123333333333334,Czekaj... naprawdę wychodzimy?
+pl_002,Balanced,18,True,4.133333333333334,4.19,Czekaj...naprawdę wychodzimy?
+pl_002,Balanced,19,True,4.2,4.256666666666667,Czekaj...naprawde wychodzimy?
+pl_002,Balanced,20,True,4.266666666666667,4.733333333333333,Czekaj... naprawdę wychodzimy?
+pl_002,Balanced,21,True,4.733333333333333,4.79,Czekaj...naprawdę wychodzimy?
+pl_002,Balanced,22,True,4.8,4.8566666666666665,Czekaj... naprawdę wychodzimy?
+pl_002,Balanced,23,True,4.866666666666666,4.923333333333334,Czekaj...naprawde wychodzimy?
+pl_002,Balanced,24,True,4.933333333333334,4.99,Czekaj... naprawde wychodzimy?
+pl_002,Balanced,25,True,5.0,5.2,Czekaj... naprawdę wychodzimy?
+pl_002,Balanced,26,True,5.2,5.38,Czekaj... naprawde wychodzimy?
+pl_002,Balanced,29,True,11.666666666666666,11.846666666666666,Poczekajna mnie
+pl_002,Balanced,30,True,12.266666666666667,12.323333333333334,"Nie wierzę, że już północ!"
+pl_002,Balanced,31,True,12.333333333333334,12.39,"Nie wierzę, że już póinoc!"
+pl_002,Balanced,32,True,12.4,12.866666666666667,"Nie wierzę, że już północ!"
+pl_002,Balanced,33,True,12.866666666666667,12.923333333333334,"Nie wierzę, że już póinoc!"
+pl_002,Balanced,34,True,12.933333333333334,13.6,"Nie wierzę, że już północ!"
+pl_002,Balanced,35,True,13.6,13.656666666666666,"Nie wierzę, że już póinoc!"
+pl_003,Fast,2,True,3.466666666666667,3.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_003,Fast,3,True,3.8666666666666667,3.99,Wyjeżdzamy jutro wieczorem
+pl_003,Fast,4,True,4.0,4.266666666666667,Wyjeżdżamy jutro wieczorem
+pl_003,Fast,5,True,4.266666666666667,4.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_003,Fast,7,True,5.2,5.323333333333333,Wyjeżdzamyjutro wieczorem
+pl_003,Fast,8,True,5.333333333333333,5.456666666666667,Wyjeżdżamyjutro wieczorem
+pl_003,Fast,9,True,5.466666666666667,5.666666666666667,Wyjeżdżamy jutro wieczorem
+pl_003,Fast,10,True,6.4,6.666666666666667,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Fast,11,True,6.666666666666667,6.79,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Fast,12,True,6.8,6.923333333333334,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Fast,13,True,6.933333333333334,7.056666666666667,"Mówiłeś 19,95 czy 90,15? 103"
+pl_003,Fast,14,True,7.066666666666666,7.333333333333333,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Fast,15,True,7.333333333333333,7.456666666666667,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Fast,16,True,7.466666666666667,7.59,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Fast,17,True,7.6,7.723333333333334,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Fast,18,True,7.733333333333333,7.8566666666666665,"Mówiteś 19,95 czy 90,15? 103"
+pl_003,Fast,19,True,7.866666666666666,8.266666666666666,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Fast,20,True,8.266666666666667,8.39,"Mówites 19,95 czy 90,15? 103"
+pl_003,Fast,21,True,8.4,8.523333333333333,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Fast,22,True,8.533333333333333,8.656666666666666,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Fast,23,True,8.666666666666666,8.866666666666665,"Mówiłeś 19,95 czy 90,15? 103"
+pl_003,Fast,24,True,9.333333333333334,9.866666666666665,Czekaj... naprawdę wychodzimy?
+pl_003,Fast,25,True,9.866666666666667,9.99,Czekaj...naprawde wychodzimy?
+pl_003,Fast,26,True,10.0,10.266666666666666,Czekaj...naprawdę wychodzimy?
+pl_003,Fast,27,True,10.266666666666667,10.39,Czekaj... naprawdę wychodzimy?
+pl_003,Fast,28,True,10.4,10.666666666666666,Czekaj...naprawde wychodzimy?
+pl_003,Fast,29,True,10.666666666666666,10.790000000000001,Czekaj... naprawde wychodzimy?
+pl_003,Fast,30,True,10.8,10.923333333333334,Czekaj... naprawdę wychodzimy?
+pl_003,Fast,31,True,10.933333333333334,11.2,Czekaj...naprawde wychodzimy?
+pl_003,Fast,32,True,11.2,11.323333333333334,Czekaj... naprawdę wychodzimy?
+pl_003,Fast,33,True,11.333333333333334,11.456666666666667,Czekaj...naprawdę wychodzimy?
+pl_003,Fast,34,True,11.466666666666667,11.59,Czekaj... naprawdę wychodzimy?
+pl_003,Fast,35,True,11.6,11.723333333333333,Czekaj...naprawde wychodzimy?
+pl_003,Fast,36,True,11.733333333333333,11.856666666666667,Czekaj... naprawde wychodzimy?
+pl_003,Fast,37,True,11.866666666666667,12.066666666666666,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,2,True,3.4,3.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_003,Balanced,3,True,3.8666666666666667,3.9233333333333333,Wyjeżdzamy jutro wieczorem
+pl_003,Balanced,4,True,3.933333333333333,4.266666666666667,Wyjeżdżamy jutro wieczorem
+pl_003,Balanced,5,True,4.266666666666667,4.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_003,Balanced,7,True,5.133333333333334,5.333333333333333,Wyjeżdzamyjutro wieczorem
+pl_003,Balanced,8,True,5.333333333333333,5.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_003,Balanced,9,True,5.4,5.58,Wyjeżdżamy jutro wieczorem
+pl_003,Balanced,10,True,6.4,6.6,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Balanced,11,True,6.6,6.656666666666667,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,12,True,6.666666666666667,6.723333333333334,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Balanced,13,True,6.733333333333333,6.79,"Mówiles 19,95czy 90,15? 103"
+pl_003,Balanced,14,True,6.8,6.8566666666666665,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,15,True,6.866666666666666,6.923333333333334,"Mówites 19,95 czy 90,15? 103"
+pl_003,Balanced,16,True,6.933333333333334,6.99,"Mówiłeś 19,95 czy 90,15? 103"
+pl_003,Balanced,17,True,7.0,7.266666666666667,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,18,True,7.266666666666667,7.323333333333333,"Mówiłeś 19,95 czy 90,15? 103"
+pl_003,Balanced,19,True,7.333333333333333,7.390000000000001,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Balanced,20,True,7.4,7.456666666666667,"Mówites 19,95 czy 90,15? 103"
+pl_003,Balanced,21,True,7.466666666666667,7.523333333333333,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Balanced,22,True,7.533333333333333,7.656666666666667,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,23,True,7.666666666666667,7.723333333333334,"Mówites 19,95 czy 90,15? 103"
+pl_003,Balanced,24,True,7.733333333333333,7.79,"Mówiteś 19,95 czy 90,15? 103"
+pl_003,Balanced,25,True,7.8,7.8566666666666665,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,26,True,7.866666666666666,8.2,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Balanced,27,True,8.2,8.256666666666668,"Mowiles 19,95 czy 90,15? 103"
+pl_003,Balanced,28,True,8.266666666666667,8.323333333333334,"Mówites 19,95 czy 90,15? 103"
+pl_003,Balanced,29,True,8.333333333333334,8.39,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,30,True,8.4,8.456666666666667,"Mówiłes 19,95 czy 90,15? 103"
+pl_003,Balanced,31,True,8.466666666666667,8.523333333333333,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,32,True,8.533333333333333,8.59,"Mówileś 19,95 czy 90,15? 103"
+pl_003,Balanced,33,True,8.6,8.656666666666666,"Mówiles 19,95 czy 90,15? 103"
+pl_003,Balanced,34,True,8.666666666666666,8.846666666666666,"Mówiłeś 19,95 czy 90,15? 103"
+pl_003,Balanced,35,True,9.333333333333334,9.866666666666667,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,36,True,9.866666666666667,9.99,Czekaj...naprawde wychodzimy?
+pl_003,Balanced,37,True,10.0,10.2,Czekaj...naprawdę wychodzimy?
+pl_003,Balanced,38,True,10.2,10.4,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,39,True,10.4,10.456666666666667,Czekaj...naprawde wychodzimy?
+pl_003,Balanced,40,True,10.466666666666667,10.523333333333333,Czekaj...naprawdę wychodzimy?
+pl_003,Balanced,41,True,10.533333333333333,10.656666666666666,Czekaj...naprawde wychodzimy?
+pl_003,Balanced,42,True,10.666666666666666,10.723333333333333,Czekaj... naprawde wychodzimy?
+pl_003,Balanced,43,True,10.733333333333333,10.933333333333334,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,44,True,10.933333333333334,11.133333333333333,Czekaj...naprawde wychodzimy?
+pl_003,Balanced,45,True,11.133333333333333,11.333333333333334,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,46,True,11.333333333333334,11.39,Czekaj...naprawdę wychodzimy?
+pl_003,Balanced,47,True,11.4,11.456666666666667,Czekaj... naprawde wychodzimy?
+pl_003,Balanced,48,True,11.466666666666667,11.59,Czekaj... naprawdę wychodzimy?
+pl_003,Balanced,49,True,11.6,11.656666666666666,Czekaj...naprawde wychodzimy?
+pl_003,Balanced,50,True,11.666666666666666,11.790000000000001,Czekaj... naprawde wychodzimy?
+pl_003,Balanced,51,True,11.8,11.98,Czekaj... naprawdę wychodzimy?
+pl_004,Fast,5,True,10.0,10.123333333333333,Wyjezdzamy jutro wieczorem
+pl_004,Fast,6,True,10.133333333333333,10.4,Wyježdzamy jutro wieczorem
+pl_004,Fast,7,True,10.4,10.523333333333333,Wyjeżdżamy jutro wieczorem
+pl_004,Fast,8,True,10.533333333333333,10.656666666666666,Wyjezdzamy jutro wieczorem
+pl_004,Fast,9,True,10.666666666666666,10.866666666666665,Wyjeżdżamy jutro wieczorem
+pl_004,Fast,11,True,13.2,13.323333333333334,"Mówileś 19,95 czy 90,15? 2026"
+pl_004,Fast,12,True,13.333333333333334,13.456666666666667,"Mówiteś 19,95 czy 90,15? 2026"
+pl_004,Fast,13,True,13.466666666666667,13.733333333333333,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_004,Fast,14,True,13.733333333333333,13.856666666666667,"Mówileś 19,95 czy 90,15? 2026"
+pl_004,Fast,15,True,13.866666666666667,14.066666666666666,"Mówites 19,95 czy 90,15? 2026"
+pl_004,Fast,17,True,16.933333333333334,17.133333333333333,Czekaj... naprawdę wychodzimy? 2003
+pl_004,Balanced,1,True,0.4666666666666667,1.0,Poczekaj na mnie
+pl_004,Balanced,2,True,1.0,1.0566666666666666,Poçzekaj na mnie
+pl_004,Balanced,4,True,3.4,4.2,"Nie wierzę, że już północ!"
+pl_004,Balanced,5,True,4.2,4.256666666666667,"Nie wierze, że już północ!"
+pl_004,Balanced,9,True,10.0,10.056666666666667,Wyjezdzamy jutro wieczorem
+pl_004,Balanced,10,True,10.066666666666666,10.123333333333333,Wyjeżdžamyjutro wieczorem
+pl_004,Balanced,11,True,10.133333333333333,10.19,Wyježdzamy jutro wieczorem
+pl_004,Balanced,12,True,10.2,10.256666666666668,Wyjeżdżamy jutro wieczorem
+pl_004,Balanced,13,True,10.266666666666667,10.323333333333334,Wyježdzamy jutro wieczorem
+pl_004,Balanced,14,True,10.333333333333334,10.456666666666667,Wyjeżdżamy jutro wieczorem
+pl_004,Balanced,15,True,10.466666666666667,10.523333333333333,Wyjezdzamyjutro wieczorem
+pl_004,Balanced,16,True,10.533333333333333,10.59,Wyjezdzamy jutro wieczorem
+pl_004,Balanced,17,True,10.6,10.78,Wyjeżdżamy jutro wieczorem
+pl_004,Balanced,18,True,12.266666666666667,12.733333333333333,"Mówiteś 19,95 czy 90,15? 2026"
+pl_004,Balanced,19,True,12.733333333333333,12.790000000000001,"Mówileś 19,95 czy 90,15? 2026"
+pl_004,Balanced,20,True,12.8,13.2,"Mówiteś 19,95 czy 90,15? 2026"
+pl_004,Balanced,21,True,13.2,13.323333333333334,"Mówileś 19,95 czy 90,15? 2026"
+pl_004,Balanced,22,True,13.333333333333334,13.39,"Mówiteś 19,95 czy 90,15? 2026"
+pl_004,Balanced,23,True,13.4,13.666666666666666,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_004,Balanced,24,True,13.666666666666666,13.790000000000001,"Mówileś 19,95 czy 90,15? 2026"
+pl_004,Balanced,25,True,13.8,13.98,"Mówites 19,95 czy 90,15? 2026"
+pl_004,Balanced,26,True,15.2,15.666666666666666,Czekaj... naprawde wychodzimy? 2003
+pl_004,Balanced,27,True,15.666666666666666,15.723333333333333,Czekaj... naprawdę wychodzimy? 2003
+pl_004,Balanced,29,True,16.333333333333332,16.389999999999997,Czekaj... naprawdę wychodzimy? 2003
+pl_004,Balanced,30,True,16.4,16.733333333333334,Czekaj... naprawde wychodzimy? 2003
+pl_004,Balanced,31,True,16.733333333333334,16.79,Czekaj... naprawdę wychodzimy? 2003
+pl_004,Balanced,32,True,16.8,16.923333333333332,Czekaj... naprawde wychodzimy? 2003
+pl_004,Balanced,33,True,16.933333333333334,16.99,Czekaj... naprawdę wychodzimy? 2003
+pl_004,Balanced,34,True,17.0,17.18,Czekaj... naprawde wychodzimy? 2003
+pl_005,Fast,1,True,0.5333333333333333,0.7999999999999999,Czekaj... naprawdę wychodzimy?
+pl_005,Fast,2,True,0.8,0.9233333333333333,Czekaj... naprawde wychodzimy?
+pl_005,Fast,4,True,2.2666666666666666,2.39,Czekaj...naprawdę wychodzimy?
+pl_005,Fast,5,True,2.4,2.933333333333333,Czekaj... naprawdę wychodzimy?
+pl_005,Fast,7,True,4.533333333333333,4.656666666666667,Wyjeżdžamy jutro rano
+pl_005,Fast,8,True,4.666666666666667,5.066666666666666,Wyjeżdżamy jutro rano
+pl_005,Fast,9,True,5.066666666666666,5.333333333333333,Wyjeżdžamy jutro rano
+pl_005,Fast,10,True,5.333333333333333,6.0,Wyjeżdżamy jutro rano
+pl_005,Fast,12,True,7.2,7.323333333333333,Poezekaj na mnie 105
+pl_005,Fast,13,True,7.333333333333333,7.866666666666666,Poczekaj na mnie 105
+pl_005,Fast,14,True,9.333333333333334,9.6,"Nie wierzę, że już północ! 2026"
+pl_005,Fast,15,True,9.6,9.723333333333333,"Nie wierze, že już pólnoc! 2026"
+pl_005,Fast,16,True,9.733333333333333,9.856666666666667,"Nie wierzę, że już północ! 2026"
+pl_005,Fast,17,True,9.866666666666667,9.99,"Nie wierzę, že już pólnoc! 2026"
+pl_005,Fast,18,True,10.0,10.123333333333333,Nie wierze. ze już pólnoc! 2026
+pl_005,Fast,19,True,10.133333333333333,10.256666666666668,"Nie wierze, že już pólnoc! 2026"
+pl_005,Fast,20,True,10.266666666666667,10.39,"Nie wierzę, że już północ! 2026"
+pl_005,Fast,21,True,10.4,10.523333333333333,"Niz wierzę, że już północ! 2026"
+pl_005,Fast,22,True,10.533333333333333,10.656666666666666,"Nie wierzę, ze już północ! 2026"
+pl_005,Fast,23,True,10.666666666666666,10.790000000000001,"Nie wierzę, že już pólnoc! 2026"
+pl_005,Fast,24,True,10.8,10.923333333333334,"Nie wierzę, że już pólnoc! 2026"
+pl_005,Fast,25,True,10.933333333333334,11.133333333333333,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,1,True,0.4666666666666667,0.5233333333333333,Czekaj... naprawde wychodzimy?
+pl_005,Balanced,2,True,0.5333333333333333,0.7333333333333333,Czekaj... naprawdę wychodzimy?
+pl_005,Balanced,3,True,0.7333333333333333,0.79,Czekaj...naprawdę wychodzimy?
+pl_005,Balanced,4,True,0.8,0.8566666666666667,Czekaj... naprawde wychodzimy?
+pl_005,Balanced,6,True,2.2,2.256666666666667,Czekaj...naprawde wychodzimy?
+pl_005,Balanced,7,True,2.2666666666666666,2.3233333333333337,Czekaj...naprawdę wychodzimy?
+pl_005,Balanced,8,True,2.3333333333333335,2.8666666666666667,Czekaj... naprawdę wychodzimy?
+pl_005,Balanced,10,True,4.466666666666667,4.59,Wyjeżdžamy jutro rano
+pl_005,Balanced,11,True,4.6,5.0,Wyjeżdżamy jutro rano
+pl_005,Balanced,12,True,5.0,5.123333333333334,Wyjeżdžamy jutro rano
+pl_005,Balanced,13,True,5.133333333333334,5.19,Wyjeżdżamy jutro rano
+pl_005,Balanced,14,True,5.2,5.323333333333333,Wyjeżdžamy jutro rano
+pl_005,Balanced,15,True,5.333333333333333,6.0,Wyjeżdżamy jutro rano
+pl_005,Balanced,17,True,7.2,7.256666666666667,Poezekaj na mnie 105
+pl_005,Balanced,18,True,7.266666666666667,7.8,Poczekaj na mnie 105
+pl_005,Balanced,19,True,9.333333333333334,9.39,"Nie wierzę, że już północ! 2026"
+pl_005,Balanced,20,True,9.4,9.456666666666667,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,21,True,9.466666666666667,9.59,"Nie wierzę, że już północ! 2026"
+pl_005,Balanced,22,True,9.6,9.723333333333333,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,23,True,9.733333333333333,9.856666666666667,"Nie wierzę, że już północ! 2026"
+pl_005,Balanced,24,True,9.866666666666667,9.923333333333334,"Nie wierzę, že już pólnoc! 2026"
+pl_005,Balanced,25,True,9.933333333333334,9.99,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,26,True,10.0,10.056666666666667,Nie wierze. ze już pólnoc! 2026
+pl_005,Balanced,27,True,10.066666666666666,10.123333333333333,"Nie wierzn, ze już pólnoc! 2026"
+pl_005,Balanced,28,True,10.133333333333333,10.19,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,29,True,10.2,10.323333333333334,"Nie wierzę, że już północ! 2026"
+pl_005,Balanced,30,True,10.333333333333334,10.39,"Nie wierzę, że już pólnoc! 2026"
+pl_005,Balanced,31,True,10.4,10.456666666666667,"Niz wierzę, że już północ! 2026"
+pl_005,Balanced,32,True,10.466666666666667,10.523333333333333,"Nie wierze, že już pólnoc! 2026"
+pl_005,Balanced,33,True,10.533333333333333,10.59,"Nie wierzę, ze już północ! 2026"
+pl_005,Balanced,34,True,10.6,10.723333333333333,"Nie wierzę, že już pólnoc! 2026"
+pl_005,Balanced,35,True,10.733333333333333,10.933333333333334,"Nie wierzę, że już pólnoc! 2026"
+pl_005,Balanced,36,True,10.933333333333334,11.113333333333333,"Nie wierze, že już pólnoc! 2026"
+pl_006,Fast,1,True,0.5333333333333333,0.7999999999999999,Wyjeżdżamy jutro wieczorem
+pl_006,Fast,2,True,0.8,1.0666666666666667,Wyjeżdżamyjutro wieczorem
+pl_006,Fast,6,True,9.333333333333334,9.733333333333333,Wyjeżdżamy jutro rano
+pl_006,Fast,7,True,9.733333333333333,10.133333333333333,Wyjeżdžamy jutro rano
+pl_006,Fast,8,True,10.133333333333333,10.4,Wyjeżdżamy jutro rano
+pl_006,Fast,9,True,10.4,10.666666666666666,Wyjeżdžamy jutro rano
+pl_006,Fast,10,True,10.666666666666666,11.2,Wyjeżdżamy jutro rano
+pl_006,Fast,13,True,16.133333333333333,16.666666666666668,"Nie wierzę, że już pólnoc! 2005"
+pl_006,Fast,14,True,16.666666666666668,16.79,"Nie wierzę, że już północ! 2005"
+pl_006,Fast,15,True,16.8,17.599999999999998,"Nie wierzę, że już pólnoc! 2005"
+pl_006,Balanced,1,True,0.4666666666666667,0.7999999999999999,Wyjeżdżamy jutro wieczorem
+pl_006,Balanced,2,True,0.8,1.0666666666666667,Wyjeżdżamyjutro wieczorem
+pl_006,Balanced,6,True,9.333333333333334,9.666666666666666,Wyjeżdżamy jutro rano
+pl_006,Balanced,7,True,9.666666666666666,9.933333333333334,Wyjeżdžamy jutro rano
+pl_006,Balanced,8,True,9.933333333333334,9.99,Wyjeżdżamy jutro rano
+pl_006,Balanced,9,True,10.0,10.123333333333333,Wyjeżdžamy jutro rano
+pl_006,Balanced,10,True,10.133333333333333,10.4,Wyjeżdżamy jutro rano
+pl_006,Balanced,11,True,10.4,10.666666666666666,Wyjeżdžamy jutro rano
+pl_006,Balanced,12,True,10.666666666666666,10.866666666666667,Wyjeżdżamy jutro rano
+pl_006,Balanced,13,True,10.866666666666667,10.923333333333334,Wyjeżdžamy jutro rano
+pl_006,Balanced,14,True,10.933333333333334,11.2,Wyjeżdżamy jutro rano
+pl_006,Balanced,17,True,16.133333333333333,16.6,"Nie wierzę, że już pólnoc! 2005"
+pl_006,Balanced,18,True,16.6,16.8,"Nie wierzę, że już północ! 2005"
+pl_006,Balanced,19,True,16.8,17.6,"Nie wierzę, że już pólnoc! 2005"
+pl_007,Balanced,3,True,6.4,6.866666666666666,Wyjeżdżamy jutro wieczorem 107
+pl_007,Balanced,4,True,6.866666666666666,6.923333333333334,Wyjeżdžamy jutro wieczorem 107
+pl_007,Balanced,5,True,6.933333333333334,7.266666666666667,Wyjeżdżamy jutro wieczorem 107
+pl_007,Balanced,6,True,7.266666666666667,7.323333333333333,Wyjeżdzamy jutro wieczorem 107
+pl_007,Balanced,7,True,7.333333333333333,7.8,Wyjeżdżamy jutro wieczorem 107
+pl_007,Balanced,8,True,7.8,7.8566666666666665,Wyjeżdżamyjutro wieczorem 107
+pl_007,Balanced,9,True,7.866666666666666,8.2,Wyjeżdżamy jutro wieczorem 107
+pl_007,Balanced,10,True,8.2,8.379999999999999,Wyjeżdżamyjutro wieczorem 107
+pl_007,Balanced,11,True,9.333333333333334,10.066666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_007,Balanced,12,True,10.066666666666666,10.123333333333333,"Mówiteś 19,95 czy 90,15?"
+pl_007,Balanced,13,True,10.133333333333333,10.466666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_007,Balanced,14,True,10.466666666666667,10.523333333333333,"Mówiteś 19,95 czy 90,15?"
+pl_007,Balanced,16,True,11.4,11.58,"Mówiłes 19,95 czy 90,15?"
+pl_008,Fast,3,True,5.2,5.4,Poczekajna mnie
+pl_008,Fast,4,True,6.4,6.8,"Nie wierzę, że już północ! 108"
+pl_008,Fast,5,True,6.8,6.923333333333334,"Nie wierzę, že już północ! 108"
+pl_008,Fast,7,True,8.266666666666667,8.39,"Nie wierzę, že już północ! 108"
+pl_008,Fast,8,True,8.4,8.6,"Nie wierzę, że już północ! 108"
+pl_008,Balanced,3,True,5.2,5.38,Poczekajna mnie
+pl_008,Balanced,4,True,6.4,6.8,"Nie wierzę, że już północ! 108"
+pl_008,Balanced,5,True,6.8,6.8566666666666665,"Nie wierzę, že już północ! 108"
+pl_008,Balanced,7,True,8.266666666666667,8.323333333333334,"Nie wierzę, že już północ! 108"
+pl_008,Balanced,8,True,8.333333333333334,8.533333333333333,"Nie wierzę, że już północ! 108"
+pl_009,Fast,1,True,0.5333333333333333,0.7999999999999999,"Mówiles 19,95 czy 90,15?"
+pl_009,Fast,2,True,0.8,0.9233333333333333,"Mówiłeś 19,95 czy 90,15?"
+pl_009,Fast,3,True,0.9333333333333333,1.2,"Mówiłes 19,95 czy 90,15?"
+pl_009,Fast,4,True,1.2,1.4666666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_009,Fast,5,True,1.4666666666666666,1.59,"Mówileś 19,95 czy 90,15?"
+pl_009,Fast,7,True,3.466666666666667,3.8666666666666667,Czekaj... naprawde wychodzimy?
+pl_009,Fast,9,True,5.2,5.466666666666667,Czekaj... naprawde wychodzimy?
+pl_009,Fast,10,True,5.466666666666667,5.666666666666667,Czekaj... naprawdę wychodzimy?
+pl_009,Fast,11,True,6.4,6.8,Wyjeżdżamy jutro rano 109
+pl_009,Fast,12,True,6.8,6.923333333333334,Wyjezdzamy jutro rano 109
+pl_009,Fast,13,True,6.933333333333334,7.056666666666667,Wyjezdžamy jutro rano 109
+pl_009,Fast,14,True,7.066666666666666,7.466666666666667,Wyjezdzamy jutro rano 109
+pl_009,Fast,15,True,7.466666666666667,7.866666666666666,Wyjeżdżamy jutro rano 109
+pl_009,Fast,16,True,7.866666666666666,8.266666666666666,Wyjeżdzamy jutro rano 109
+pl_009,Fast,17,True,8.266666666666667,8.533333333333333,Wyjezdzamy jutro rano 109
+pl_009,Fast,18,True,8.533333333333333,8.656666666666666,Wyjeżdzamy jutro rano 109
+pl_009,Fast,19,True,8.666666666666666,8.866666666666665,Wyjeżdžamy jutro rano 109
+pl_009,Fast,21,True,11.6,11.866666666666665,Poczekajna mnie 50%
+pl_009,Fast,22,True,11.866666666666667,12.066666666666666,Poczekaj na mnie 50%
+pl_009,Fast,24,True,15.2,15.323333333333334,Czerwone drzwi są po lewej. 2008
+pl_009,Fast,25,True,15.333333333333334,15.866666666666665,Czerwone drzwi sa po lewej. 2008
+pl_009,Balanced,1,True,0.4666666666666667,0.7333333333333333,"Mówiles 19,95 czy 90,15?"
+pl_009,Balanced,2,True,0.7333333333333333,0.79,"Mówiłes 19,95 czy 90,15?"
+pl_009,Balanced,3,True,0.8,0.9233333333333333,"Mówiłeś 19,95 czy 90,15?"
+pl_009,Balanced,4,True,0.9333333333333333,1.1333333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_009,Balanced,5,True,1.1333333333333333,1.4666666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_009,Balanced,6,True,1.4666666666666666,1.59,"Mówileś 19,95 czy 90,15?"
+pl_009,Balanced,7,True,1.6,1.6566666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_009,Balanced,8,True,1.6666666666666667,1.7233333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_009,Balanced,10,True,3.4,3.8666666666666667,Czekaj... naprawde wychodzimy?
+pl_009,Balanced,12,True,5.133333333333334,5.3999999999999995,Czekaj... naprawde wychodzimy?
+pl_009,Balanced,13,True,5.4,5.58,Czekaj... naprawdę wychodzimy?
+pl_009,Balanced,14,True,6.4,6.733333333333333,Wyjeżdżamy jutro rano 109
+pl_009,Balanced,15,True,6.733333333333333,6.79,Wyjeżdzamy jutro rano 109
+pl_009,Balanced,16,True,6.8,6.8566666666666665,Wyjezdzamy jutro rano 109
+pl_009,Balanced,17,True,6.866666666666666,6.99,Wyjezdžamy jutro rano 109
+pl_009,Balanced,18,True,7.0,7.3999999999999995,Wyjezdzamy jutro rano 109
+pl_009,Balanced,19,True,7.4,7.456666666666667,Wyjeżdzamy jutro rano 109
+pl_009,Balanced,20,True,7.466666666666667,7.8,Wyjeżdżamy jutro rano 109
+pl_009,Balanced,21,True,7.8,7.8566666666666665,Wyjezdzamy jutro rano 109
+pl_009,Balanced,22,True,7.866666666666666,8.2,Wyjeżdzamy jutro rano 109
+pl_009,Balanced,23,True,8.2,8.466666666666667,Wyjezdzamy jutro rano 109
+pl_009,Balanced,24,True,8.466666666666667,8.59,Wyjeżdzamy jutro rano 109
+pl_009,Balanced,25,True,8.6,8.656666666666666,Wyjeżdżamy jutro rano 109
+pl_009,Balanced,26,True,8.666666666666666,8.723333333333333,Wyjeżdžamy jutro rano 109
+pl_009,Balanced,27,True,8.733333333333333,8.913333333333332,Wyjeżdżamy jutro rano 109
+pl_009,Balanced,29,True,11.6,11.799999999999999,Poczekajna mnie 50%
+pl_009,Balanced,30,True,11.8,11.98,Poczekaj na mnie 50%
+pl_009,Balanced,32,True,15.2,15.323333333333334,Czerwone drzwi są po lewej. 2008
+pl_009,Balanced,33,True,15.333333333333334,15.799999999999999,Czerwone drzwi sa po lewej. 2008
+pl_010,Fast,2,True,3.466666666666667,3.8666666666666667,Wyjezdzamy jutro wieczorem
+pl_010,Fast,4,True,5.2,5.323333333333333,Wyjeżdzamy jutro wieczorem
+pl_010,Fast,5,True,5.333333333333333,5.456666666666667,Wyjeżdżamyjutro wieczorem
+pl_010,Fast,6,True,5.466666666666667,5.733333333333333,Wyjeżdżamy jutro wieczorem
+pl_010,Fast,7,True,5.733333333333333,5.933333333333334,Wyjeżdzamy jutro wieczorem
+pl_010,Fast,8,True,6.4,6.8,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Fast,9,True,6.8,7.066666666666666,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Fast,10,True,7.066666666666666,7.733333333333333,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Fast,11,True,7.733333333333333,8.0,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Fast,12,True,8.0,8.266666666666666,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Fast,13,True,8.266666666666667,8.533333333333333,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Fast,14,True,8.533333333333333,8.656666666666666,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Fast,15,True,8.666666666666666,8.933333333333334,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Fast,16,True,8.933333333333334,9.133333333333333,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Fast,18,True,10.4,10.523333333333333,Czekaj.naprawdę wychodzimy?
+pl_010,Fast,19,True,10.533333333333333,10.656666666666666,Czekaj.. naprawdę wychodzimy?
+pl_010,Fast,20,True,10.666666666666666,10.866666666666665,Czekaj... naprawde wychodzimy?
+pl_010,Fast,21,True,12.266666666666667,12.39,Wyjeżdżamy jutro rano
+pl_010,Fast,22,True,12.4,12.523333333333333,Wyjeżdžamy jutro rano
+pl_010,Fast,23,True,12.533333333333333,12.799999999999999,Wyjeżdżamy jutro rano
+pl_010,Fast,24,True,12.8,12.923333333333334,Wyjeżdžamy jutro rano
+pl_010,Fast,26,True,13.6,13.723333333333333,Wyjeżdžamy jutro rano
+pl_010,Fast,27,True,13.733333333333333,14.0,Wyjeżdzamy jutro rano
+pl_010,Balanced,2,True,3.4,3.8,Wyjezdzamy jutro wieczorem
+pl_010,Balanced,3,True,3.8,3.856666666666667,Wyjeżdzamy jutro wieczorem
+pl_010,Balanced,5,True,5.133333333333334,5.256666666666667,Wyjeżdzamy jutro wieczorem
+pl_010,Balanced,6,True,5.266666666666667,5.323333333333333,Wyjezdzamy jutro wieczorem
+pl_010,Balanced,7,True,5.333333333333333,5.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_010,Balanced,8,True,5.4,5.666666666666666,Wyjeżdżamy jutro wieczorem
+pl_010,Balanced,9,True,5.666666666666667,5.846666666666667,Wyjeżdzamy jutro wieczorem
+pl_010,Balanced,10,True,6.4,6.733333333333333,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,11,True,6.733333333333333,6.8566666666666665,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Balanced,12,True,6.866666666666666,6.923333333333334,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,13,True,6.933333333333334,6.99,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Balanced,14,True,7.0,7.056666666666667,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,15,True,7.066666666666666,7.123333333333334,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,16,True,7.133333333333334,7.19,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,17,True,7.2,7.256666666666667,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,18,True,7.266666666666667,7.323333333333333,"Mówiłes 19,95 czy 90,15? 110"
+pl_010,Balanced,19,True,7.333333333333333,7.666666666666666,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,20,True,7.666666666666667,7.933333333333333,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,21,True,7.933333333333334,8.056666666666667,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,22,True,8.066666666666666,8.123333333333333,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,23,True,8.133333333333333,8.19,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,24,True,8.2,8.256666666666668,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,25,True,8.266666666666667,8.323333333333334,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Balanced,26,True,8.333333333333334,8.39,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,27,True,8.4,8.456666666666667,"Mówiles 19,95 czy 90,15? 110"
+pl_010,Balanced,28,True,8.466666666666667,8.666666666666666,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,29,True,8.666666666666666,8.933333333333334,"Mówileś 19,95 czy 90,15? 110"
+pl_010,Balanced,30,True,8.933333333333334,9.113333333333333,"Mówiłeś 19,95 czy 90,15? 110"
+pl_010,Balanced,32,True,9.933333333333334,9.99,Czekaj...naprawdę wychodzimy?
+pl_010,Balanced,33,True,10.0,10.2,Czekaj... naprawdę wychodzimy?
+pl_010,Balanced,34,True,10.2,10.256666666666668,Czekaj... naprawde wychodzimy?
+pl_010,Balanced,35,True,10.266666666666667,10.39,Czekaj... naprawdę wychodzimy?
+pl_010,Balanced,36,True,10.4,10.456666666666667,Czekaj.naprawdę wychodzimy?
+pl_010,Balanced,37,True,10.466666666666667,10.666666666666666,Czekaj... naprawdę wychodzimy?
+pl_010,Balanced,38,True,10.666666666666666,10.846666666666666,Czekaj... naprawde wychodzimy?
+pl_010,Balanced,39,True,12.266666666666667,12.323333333333334,Wyjeżdżamy jutro rano
+pl_010,Balanced,40,True,12.333333333333334,12.533333333333333,Wyjeżdžamy jutro rano
+pl_010,Balanced,41,True,12.533333333333333,12.59,Wyjeżdżamy jutro rano
+pl_010,Balanced,42,True,12.6,12.656666666666666,Wyjeżdzamy jutro rano
+pl_010,Balanced,43,True,12.666666666666666,12.723333333333333,Wyjeżdżamy jutro rano
+pl_010,Balanced,44,True,12.733333333333333,12.790000000000001,Wyjeżdzamy jutro rano
+pl_010,Balanced,45,True,12.8,12.856666666666667,Wyjeżdžamy jutro rano
+pl_010,Balanced,47,True,13.533333333333333,13.656666666666666,Wyjeżdžamy jutro rano
+pl_010,Balanced,48,True,13.666666666666666,13.723333333333333,Wyjeżdżamy jutro rano
+pl_010,Balanced,49,True,13.733333333333333,13.790000000000001,Wyjeżdzamy jutro rano
+pl_010,Balanced,50,True,13.8,13.856666666666667,Wyjeżdżamy jutro rano
+pl_010,Balanced,51,True,13.866666666666667,14.046666666666667,Wyjeżdzamy jutro rano
+pl_011,Fast,2,True,3.466666666666667,3.7333333333333334,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,3,True,3.7333333333333334,3.856666666666667,"Nie wierze, że już północ! 50%"
+pl_011,Fast,4,True,3.8666666666666667,4.133333333333334,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,5,True,4.133333333333334,4.256666666666667,"Nie wierzeę, że już północ! 50%"
+pl_011,Fast,6,True,4.266666666666667,4.390000000000001,"Nie wierzeę, že już północ! 50%"
+pl_011,Fast,7,True,4.4,4.666666666666667,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,8,True,4.666666666666667,4.79,"Nie wierzeę, że już północ! 50%"
+pl_011,Fast,9,True,4.8,5.2,"Nie wierze, że już północ! 50%"
+pl_011,Fast,10,True,5.2,5.323333333333333,"Nie wierze, že już północ! 50%"
+pl_011,Fast,11,True,5.333333333333333,5.456666666666667,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,12,True,5.466666666666667,5.59,"Nie wierze, że już północ! 50%"
+pl_011,Fast,13,True,5.6,5.723333333333334,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,14,True,5.733333333333333,5.8566666666666665,"Nie wierze, że już północ! 50%"
+pl_011,Fast,15,True,5.866666666666666,6.066666666666666,"Nie wierzę, że już północ! 50%"
+pl_011,Fast,18,True,10.266666666666667,10.39,Wyjeżdżamy jutro wieczorem
+pl_011,Fast,19,True,10.4,10.933333333333334,Wyjezdzamy jutro wieczorem
+pl_011,Fast,20,True,10.933333333333334,11.133333333333333,Wyjeżdzamy jutro wieczorem
+pl_011,Fast,21,True,12.266666666666667,12.39,"Mówiłes 19,95 czy 90,15? 2026"
+pl_011,Fast,22,True,12.4,12.933333333333334,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Fast,23,True,12.933333333333334,13.056666666666667,"Mówiłes 19,95 czy 90,15? 2026"
+pl_011,Fast,24,True,13.066666666666666,13.333333333333332,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Fast,25,True,13.333333333333334,13.866666666666665,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Fast,26,True,13.866666666666667,13.99,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Fast,27,True,14.0,14.2,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Fast,29,True,16.8,16.923333333333332,Czekaj... naprawde wychodzimy? 2010
+pl_011,Fast,30,True,16.933333333333334,17.333333333333332,Czekaj... naprawdę wychodzimy? 2010
+pl_011,Balanced,2,True,3.4,3.456666666666667,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,3,True,3.466666666666667,3.6666666666666665,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,4,True,3.6666666666666665,3.79,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,5,True,3.8,3.9233333333333333,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,6,True,3.933333333333333,3.99,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,7,True,4.0,4.123333333333334,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,8,True,4.133333333333334,4.19,"Nie wierzeę, że już północ! 50%"
+pl_011,Balanced,9,True,4.2,4.256666666666667,"Nie wierzę, že już północ! 50%"
+pl_011,Balanced,10,True,4.266666666666667,4.323333333333333,"Nie wierzeę, že już północ! 50%"
+pl_011,Balanced,11,True,4.333333333333333,4.666666666666666,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,12,True,4.666666666666667,4.723333333333334,"Nie wierzeę, że już północ! 50%"
+pl_011,Balanced,13,True,4.733333333333333,4.79,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,14,True,4.8,5.133333333333333,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,15,True,5.133333333333334,5.19,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,16,True,5.2,5.323333333333333,"Nie wierze, že już północ! 50%"
+pl_011,Balanced,17,True,5.333333333333333,5.390000000000001,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,18,True,5.4,5.523333333333333,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,19,True,5.533333333333333,5.656666666666667,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,20,True,5.666666666666667,5.866666666666666,"Nie wierze, że już północ! 50%"
+pl_011,Balanced,21,True,5.866666666666666,6.046666666666666,"Nie wierzę, że już północ! 50%"
+pl_011,Balanced,24,True,10.266666666666667,10.39,Wyjeżdżamy jutro wieczorem
+pl_011,Balanced,25,True,10.4,10.933333333333334,Wyjezdzamy jutro wieczorem
+pl_011,Balanced,26,True,10.933333333333334,11.113333333333333,Wyjeżdzamy jutro wieczorem
+pl_011,Balanced,27,True,12.266666666666667,12.39,"Mówiłes 19,95 czy 90,15? 2026"
+pl_011,Balanced,28,True,12.4,12.733333333333333,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Balanced,29,True,12.733333333333333,12.790000000000001,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Balanced,30,True,12.8,12.856666666666667,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Balanced,31,True,12.866666666666667,12.99,"Mówiłes 19,95 czy 90,15? 2026"
+pl_011,Balanced,32,True,13.0,13.123333333333333,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Balanced,33,True,13.133333333333333,13.19,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Balanced,34,True,13.2,13.323333333333334,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Balanced,35,True,13.333333333333334,13.666666666666666,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Balanced,36,True,13.666666666666666,13.723333333333333,"Mówiteś 19,95 czy 90,15? 2026"
+pl_011,Balanced,37,True,13.733333333333333,13.790000000000001,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Balanced,38,True,13.8,13.856666666666667,"Mówiteś 19,95 czy 90,15? 2026"
+pl_011,Balanced,39,True,13.866666666666667,13.923333333333334,"Mówites 19,95 czy 90,15? 2026"
+pl_011,Balanced,40,True,13.933333333333334,13.99,"Mówiteś 19,95 czy 90,15? 2026"
+pl_011,Balanced,41,True,14.0,14.18,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_011,Balanced,43,True,16.8,16.856666666666666,Czekaj... naprawde wychodzimy? 2010
+pl_011,Balanced,44,True,16.866666666666667,17.133333333333333,Czekaj... naprawdę wychodzimy? 2010
+pl_011,Balanced,45,True,17.133333333333333,17.189999999999998,Czekaj... naprawde wychodzimy? 2010
+pl_011,Balanced,46,True,17.2,17.38,Czekaj... naprawdę wychodzimy? 2010
+pl_012,Fast,1,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawde wychodzimy? 50%
+pl_012,Fast,3,True,2.1333333333333333,2.8,Czekaj... naprawde wychodzimy? 50%
+pl_012,Fast,4,True,2.8,3.0666666666666664,Czekaj... naprawdę wychodzimy? 50%
+pl_012,Fast,6,True,6.4,6.8,Poczekaj na mnie 112
+pl_012,Fast,7,True,6.8,7.2,Poczekajna mnie 112
+pl_012,Fast,9,True,7.733333333333333,7.8566666666666665,Poczekajna mnie 112
+pl_012,Fast,10,True,7.866666666666666,8.133333333333333,Poczekaj na mnie 112
+pl_012,Fast,11,True,9.333333333333334,9.456666666666667,"Nie wierze, że już północ! 2026"
+pl_012,Fast,12,True,9.466666666666667,9.866666666666665,"Nie wierzę, że już północ! 2026"
+pl_012,Fast,13,True,9.866666666666667,10.266666666666666,"Nie wierze, że już północ! 2026"
+pl_012,Fast,14,True,10.266666666666667,10.39,"Nie wierzę, że już północ! 2026"
+pl_012,Fast,15,True,10.4,10.523333333333333,"Nie wierze, że już północ! 2026"
+pl_012,Fast,16,True,10.533333333333333,10.656666666666666,"Nie wierze, ze już północ! 2026"
+pl_012,Fast,17,True,10.666666666666666,11.2,"Nie wierzę, że już północ! 2026"
+pl_012,Fast,19,True,15.2,15.466666666666667,Wyjezdzamy jutro wieczorem 2011
+pl_012,Fast,20,True,15.466666666666667,15.866666666666665,Wyježdzamy jutro wieczorem 2011
+pl_012,Fast,22,True,17.333333333333332,17.599999999999998,Wyjezdzamyjutro wieczorem 2011
+pl_012,Balanced,1,True,0.4666666666666667,0.5233333333333333,Czekaj... naprawdę wychodzimy? 50%
+pl_012,Balanced,2,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawde wychodzimy? 50%
+pl_012,Balanced,4,True,2.1333333333333333,2.3333333333333335,Czekaj... naprawde wychodzimy? 50%
+pl_012,Balanced,5,True,2.3333333333333335,2.39,Czekaj... naprawdę wychodzimy? 50%
+pl_012,Balanced,6,True,2.4,2.8,Czekaj... naprawde wychodzimy? 50%
+pl_012,Balanced,7,True,2.8,3.066666666666667,Czekaj... naprawdę wychodzimy? 50%
+pl_012,Balanced,9,True,6.4,6.733333333333333,Poczekaj na mnie 112
+pl_012,Balanced,10,True,6.733333333333333,6.8566666666666665,Poczekajna mnie 112
+pl_012,Balanced,11,True,6.866666666666666,6.923333333333334,Poczekaj na mnie 112
+pl_012,Balanced,12,True,6.933333333333334,7.133333333333333,Poczekajna mnie 112
+pl_012,Balanced,14,True,7.733333333333333,7.79,Poczekajna mnie 112
+pl_012,Balanced,15,True,7.8,8.066666666666666,Poczekaj na mnie 112
+pl_012,Balanced,16,True,9.333333333333334,9.456666666666667,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,17,True,9.466666666666667,9.523333333333333,"Nie wierzę, że już północ! 2026"
+pl_012,Balanced,18,True,9.533333333333333,9.59,"Nie wierze, ze już północ! 2026"
+pl_012,Balanced,19,True,9.6,9.866666666666667,"Nie wierzę, że już północ! 2026"
+pl_012,Balanced,20,True,9.866666666666667,9.923333333333334,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,21,True,9.933333333333334,9.99,"Nie wierzę, że już północ! 2026"
+pl_012,Balanced,22,True,10.0,10.056666666666667,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,23,True,10.066666666666666,10.123333333333333,"Nie wierze, ze już północ! 2026"
+pl_012,Balanced,24,True,10.133333333333333,10.19,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,25,True,10.2,10.4,"Nie wierzę, że już północ! 2026"
+pl_012,Balanced,26,True,10.4,10.456666666666667,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,27,True,10.466666666666667,10.59,"Nie wierze, ze już północ! 2026"
+pl_012,Balanced,28,True,10.6,11.133333333333333,"Nie wierzę, że już północ! 2026"
+pl_012,Balanced,29,True,11.133333333333333,11.313333333333333,"Nie wierze, że już północ! 2026"
+pl_012,Balanced,31,True,15.2,15.4,Wyjezdzamy jutro wieczorem 2011
+pl_012,Balanced,32,True,15.4,15.866666666666667,Wyježdzamy jutro wieczorem 2011
+pl_012,Balanced,34,True,17.333333333333332,17.6,Wyjezdzamyjutro wieczorem 2011
+pl_013,Fast,2,True,1.4666666666666666,1.59,Wyjeżdżamyjutro wieczorem
+pl_013,Fast,3,True,1.6,1.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_013,Fast,4,True,3.466666666666667,3.7333333333333334,"Mówiłeś 19,95 czy 90,15?"
+pl_013,Fast,5,True,3.7333333333333334,4.133333333333334,"Mówileś 19,95 czy 90,15?"
+pl_013,Fast,7,True,4.933333333333334,5.133333333333334,"Mówileś 19,95 czy 90,15?"
+pl_013,Fast,10,True,10.0,10.123333333333333,Wyjeżdzamy jutro rano
+pl_013,Fast,11,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano
+pl_013,Fast,12,True,10.533333333333333,10.799999999999999,Wyjeżdžamy jutro rano
+pl_013,Fast,13,True,10.8,11.466666666666667,Wyjeżdżamy jutro rano
+pl_013,Balanced,1,True,0.4666666666666667,0.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_013,Balanced,2,True,0.8666666666666667,0.9233333333333333,Wyjeżdżamyjutro wieczorem
+pl_013,Balanced,4,True,1.4666666666666666,1.5233333333333334,Wyjeżdżamyjutro wieczorem
+pl_013,Balanced,5,True,1.5333333333333334,1.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_013,Balanced,6,True,3.4,3.6666666666666665,"Mówiłeś 19,95 czy 90,15?"
+pl_013,Balanced,7,True,3.6666666666666665,4.066666666666666,"Mówileś 19,95 czy 90,15?"
+pl_013,Balanced,9,True,4.866666666666666,5.066666666666666,"Mówileś 19,95 czy 90,15?"
+pl_013,Balanced,11,True,7.8,7.8566666666666665,Czekaj...naprawdę wychodzimy? 113
+pl_013,Balanced,12,True,7.866666666666666,8.266666666666666,Czekaj... naprawdę wychodzimy? 113
+pl_013,Balanced,13,True,9.333333333333334,10.0,Wyjeżdżamy jutro rano
+pl_013,Balanced,14,True,10.0,10.056666666666667,Wyjeżdzamy jutro rano
+pl_013,Balanced,15,True,10.066666666666666,10.123333333333333,Wyjeżdžamy jutro rano
+pl_013,Balanced,16,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano
+pl_013,Balanced,17,True,10.533333333333333,10.59,Wyjeżdžamy jutro rano
+pl_013,Balanced,18,True,10.6,10.656666666666666,Wyjeżdżamy jutro rano
+pl_013,Balanced,19,True,10.666666666666666,10.723333333333333,Wyjeżdžamy jutro rano
+pl_013,Balanced,21,True,11.4,11.58,Wyjeżdžamy jutro rano
+pl_014,Fast,3,True,6.4,6.523333333333333,Wyjeżdżamy jutro wieczorem 114
+pl_014,Fast,4,True,6.533333333333333,6.656666666666667,Wyježdżamy jutro wieczorem 114
+pl_014,Fast,5,True,6.666666666666667,6.79,Wyjeżdżamyjutro wieczorem 114
+pl_014,Fast,6,True,6.8,6.923333333333334,Wyježdżamyjutro wieczorem 114
+pl_014,Fast,7,True,6.933333333333334,7.056666666666667,Wyježdżamy jutro wieczorem 114
+pl_014,Fast,8,True,7.066666666666666,7.466666666666667,Wyježdżamyjutro wieczorem 114
+pl_014,Fast,9,True,7.466666666666667,7.733333333333333,Wyjeżdžamyjutro wieczorem 114
+pl_014,Fast,10,True,7.733333333333333,7.8566666666666665,Wyježdžamyjutro wieczorem 114
+pl_014,Fast,11,True,7.866666666666666,8.4,Wyjeżdżamyjutro wieczorem 114
+pl_014,Fast,12,True,8.4,8.6,Wyjeżdžamy jutro wieczorem 114
+pl_014,Fast,13,True,9.333333333333334,9.866666666666665,"Mówileś 19,95 czy 90,15?"
+pl_014,Fast,14,True,9.866666666666667,9.99,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Fast,16,True,10.933333333333334,11.2,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Fast,17,True,11.2,11.733333333333333,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,3,True,6.4,6.523333333333333,Wyjeżdżamy jutro wieczorem 114
+pl_014,Balanced,4,True,6.533333333333333,6.656666666666667,Wyježdżamy jutro wieczorem 114
+pl_014,Balanced,5,True,6.666666666666667,6.723333333333334,Wyjeżdżamyjutro wieczorem 114
+pl_014,Balanced,6,True,6.733333333333333,6.933333333333333,Wyježdżamyjutro wieczorem 114
+pl_014,Balanced,7,True,6.933333333333334,7.056666666666667,Wyježdżamy jutro wieczorem 114
+pl_014,Balanced,8,True,7.066666666666666,7.266666666666667,Wyježdżamyjutro wieczorem 114
+pl_014,Balanced,9,True,7.266666666666667,7.323333333333333,Wyježdżamy jutro wieczorem 114
+pl_014,Balanced,10,True,7.333333333333333,7.390000000000001,Wyježdżamyjutro wieczorem 114
+pl_014,Balanced,11,True,7.4,7.456666666666667,Wyježdžamyjutro wieczorem 114
+pl_014,Balanced,12,True,7.466666666666667,7.523333333333333,Wyjeżdžamyjutro wieczorem 114
+pl_014,Balanced,13,True,7.533333333333333,7.59,Wyjeżdžamy jutro wieczorem 114
+pl_014,Balanced,14,True,7.6,7.656666666666667,Wyjeżdžamyjutro wieczorem 114
+pl_014,Balanced,15,True,7.666666666666667,7.79,Wyježdžamyjutro wieczorem 114
+pl_014,Balanced,16,True,7.8,7.8566666666666665,Wyježdżamyjutro wieczorem 114
+pl_014,Balanced,17,True,7.866666666666666,7.923333333333334,Wyjeżdżamyjutro wieczorem 114
+pl_014,Balanced,18,True,7.933333333333334,7.99,Wyjeżdżamy jutro wieczorem 114
+pl_014,Balanced,19,True,8.0,8.333333333333334,Wyjeżdżamyjutro wieczorem 114
+pl_014,Balanced,20,True,8.333333333333334,8.39,Wyjeżdžamyjutro wieczorem 114
+pl_014,Balanced,21,True,8.4,8.456666666666667,Wyjeżdžamy jutro wieczorem 114
+pl_014,Balanced,22,True,8.466666666666667,8.646666666666667,Wyjeżdžamyjutro wieczorem 114
+pl_014,Balanced,23,True,9.333333333333334,9.866666666666667,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,24,True,9.866666666666667,9.923333333333334,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Balanced,25,True,9.933333333333334,10.056666666666667,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,26,True,10.066666666666666,10.123333333333333,"Mówiles 19,95 czy 90,15?"
+pl_014,Balanced,27,True,10.133333333333333,10.19,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,28,True,10.2,10.256666666666668,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Balanced,29,True,10.266666666666667,10.323333333333334,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,30,True,10.333333333333334,10.39,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Balanced,31,True,10.4,10.456666666666667,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,32,True,10.466666666666667,10.523333333333333,"Mówiles 19,95 czy 90,15?"
+pl_014,Balanced,33,True,10.533333333333333,10.933333333333334,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,34,True,10.933333333333334,10.99,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Balanced,35,True,11.0,11.056666666666667,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,36,True,11.066666666666666,11.19,"Mówiłeś 19,95 czy 90,15?"
+pl_014,Balanced,37,True,11.2,11.666666666666666,"Mówileś 19,95 czy 90,15?"
+pl_014,Balanced,38,True,11.666666666666666,11.846666666666666,"Mówiles 19,95 czy 90,15?"
+pl_015,Fast,1,True,0.5333333333333333,0.7999999999999999,Wyježdżamy jutro rano 2026
+pl_015,Fast,4,True,5.2,5.323333333333333,Poczekajna mnie
+pl_015,Fast,5,True,5.333333333333333,5.6,Poczekaj na mnie
+pl_015,Fast,6,True,6.4,7.2,"Nie wierzę, że już północ! 115"
+pl_015,Fast,7,True,7.2,7.323333333333333,"Nie wierzę, že już północ! 115"
+pl_015,Fast,9,True,8.266666666666667,8.39,"Nie wierzę, že już północ! 115"
+pl_015,Fast,10,True,8.4,8.799999999999999,"Nie wierzę, że już północ! 115"
+pl_015,Balanced,1,True,0.4666666666666667,0.5233333333333333,Wyjeżdżamy jutro rano 2026
+pl_015,Balanced,2,True,0.5333333333333333,0.7999999999999999,Wyježdżamy jutro rano 2026
+pl_015,Balanced,4,True,2.066666666666667,2.1233333333333335,Wyjeżdžamy jutro rano 2026
+pl_015,Balanced,5,True,2.1333333333333333,2.3333333333333335,Wyjeżdżamy jutro rano 2026
+pl_015,Balanced,7,True,5.2,5.323333333333333,Poczekajna mnie
+pl_015,Balanced,8,True,5.333333333333333,5.533333333333333,Poczekaj na mnie
+pl_015,Balanced,9,True,6.4,7.0,"Nie wierzę, że już północ! 115"
+pl_015,Balanced,10,True,7.0,7.056666666666667,"Nie wierzę, že już północ! 115"
+pl_015,Balanced,11,True,7.066666666666666,7.123333333333334,"Nie wierzę, że już północ! 115"
+pl_015,Balanced,12,True,7.133333333333334,7.256666666666667,"Nie wierzę, že już północ! 115"
+pl_015,Balanced,14,True,8.266666666666667,8.323333333333334,"Nie wierzę, že już północ! 115"
+pl_015,Balanced,15,True,8.333333333333334,8.39,"Nie wierze, że już północ! 115"
+pl_015,Balanced,16,True,8.4,8.799999999999999,"Nie wierzę, że już północ! 115"
+pl_015,Balanced,18,True,11.4,11.456666666666667,Czerwone drzwisą po lewej.
+pl_015,Balanced,19,True,11.466666666666667,11.933333333333334,Czerwone drzwi są po lewej.
+pl_016,Fast,2,True,2.533333333333333,2.7333333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_016,Fast,3,True,3.466666666666667,4.0,Czekaj... naprawde wychodzimy?
+pl_016,Fast,5,True,5.333333333333333,5.456666666666667,Czekaj... naprawde wychodzimy?
+pl_016,Fast,6,True,5.466666666666667,5.59,Czekaj... naprawdę wychodzimy?
+pl_016,Fast,7,True,5.6,5.866666666666666,Czekaj... naprawde wychodzimy?
+pl_016,Fast,10,True,12.266666666666667,12.39,"Nie wierze, że już północ!"
+pl_016,Fast,11,True,12.4,12.666666666666666,"Nie wierzę, że już północ!"
+pl_016,Fast,12,True,12.666666666666666,12.790000000000001,"Nie wierze, że już północ!"
+pl_016,Fast,13,True,12.8,13.2,"Nie wierzę, że już północ!"
+pl_016,Fast,14,True,13.2,13.323333333333334,"Nie wierze, że już północ!"
+pl_016,Fast,15,True,13.333333333333334,13.733333333333333,"Nie wierzę, że już północ!"
+pl_016,Fast,16,True,13.733333333333333,13.856666666666667,"Nie wierze, że już północ!"
+pl_016,Fast,17,True,13.866666666666667,14.066666666666666,"Nie wierzę, że już północ!"
+pl_016,Balanced,2,True,2.533333333333333,2.7133333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_016,Balanced,3,True,3.4,3.456666666666667,Czekaj...naprawde wychodzimy?
+pl_016,Balanced,4,True,3.466666666666667,3.933333333333333,Czekaj... naprawde wychodzimy?
+pl_016,Balanced,6,True,5.133333333333334,5.19,Czekaj... naprawde wychodzimy?
+pl_016,Balanced,7,True,5.2,5.323333333333333,Czekaj... naprawdę wychodzimy?
+pl_016,Balanced,8,True,5.333333333333333,5.456666666666667,Czekaj... naprawde wychodzimy?
+pl_016,Balanced,9,True,5.466666666666667,5.59,Czekaj... naprawdę wychodzimy?
+pl_016,Balanced,10,True,5.6,5.8,Czekaj... naprawde wychodzimy?
+pl_016,Balanced,12,True,7.8,7.8566666666666665,Wyjeżdžamy jutro rano 116
+pl_016,Balanced,13,True,7.866666666666666,8.466666666666667,Wyjeżdżamy jutro rano 116
+pl_016,Balanced,14,True,8.466666666666667,8.523333333333333,Wyjeżdžamy jutro rano 116
+pl_016,Balanced,15,True,8.533333333333333,9.0,Wyjeżdżamy jutro rano 116
+pl_016,Balanced,17,True,12.266666666666667,12.323333333333334,"Nie wierze, że już północ!"
+pl_016,Balanced,18,True,12.333333333333334,12.666666666666666,"Nie wierzę, że już północ!"
+pl_016,Balanced,19,True,12.666666666666666,12.723333333333333,"Nie wierze, że już północ!"
+pl_016,Balanced,20,True,12.733333333333333,13.2,"Nie wierzę, że już północ!"
+pl_016,Balanced,21,True,13.2,13.256666666666668,"Nie wierze, że już północ!"
+pl_016,Balanced,22,True,13.266666666666667,13.39,"Nie wierzę, że już północ!"
+pl_016,Balanced,23,True,13.4,13.456666666666667,"Nie wierze, że już północ!"
+pl_016,Balanced,24,True,13.466666666666667,13.733333333333333,"Nie wierzę, że już północ!"
+pl_016,Balanced,25,True,13.733333333333333,13.790000000000001,"Nie wierze, że już północ!"
+pl_016,Balanced,26,True,13.8,13.98,"Nie wierzę, że już północ!"
+pl_017,Fast,1,True,0.5333333333333333,0.7999999999999999,Czerwone drzwi są po lewej.
+pl_017,Fast,2,True,0.8,1.0666666666666667,Czerwone drzwi sa po lewej
+pl_017,Fast,4,True,2.533333333333333,2.6566666666666667,Czerwone drzwi sa po lewej.
+pl_017,Fast,5,True,2.6666666666666665,2.933333333333333,Czerwone drzwi są po lewej.
+pl_017,Fast,6,True,3.466666666666667,3.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_017,Fast,7,True,3.8666666666666667,3.99,Wyjezdzamy jutro wieczorem
+pl_017,Fast,8,True,4.0,4.533333333333333,Wyjeżdżamy jutro wieczorem
+pl_017,Fast,9,True,4.533333333333333,4.656666666666667,Wyjezdżamy jutro wieczorem
+pl_017,Fast,10,True,4.666666666666667,5.333333333333333,Wyjeżdżamy jutro wieczorem
+pl_017,Fast,11,True,5.333333333333333,5.456666666666667,Wyjeżdżamyjutro wieczorem
+pl_017,Fast,12,True,5.466666666666667,5.866666666666666,Wyjeżdżamy jutro wieczorem
+pl_017,Fast,13,True,5.866666666666666,6.066666666666666,Wyjezdżamy jutro wieczorem
+pl_017,Fast,14,True,6.4,6.8,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Fast,15,True,6.8,7.2,"Mówileś 19,95 czy 90,15? 117"
+pl_017,Fast,16,True,7.2,7.323333333333333,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Fast,17,True,7.333333333333333,7.456666666666667,"Mówiłes 19,95 czy 90,15? 117"
+pl_017,Fast,18,True,7.466666666666667,7.733333333333333,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Fast,19,True,7.733333333333333,7.933333333333334,"Mówiles 19,95 czy 90,15? 117"
+pl_017,Fast,21,True,12.266666666666667,12.533333333333333,Wyjeżdzamy jutro rano
+pl_017,Fast,23,True,13.2,13.323333333333334,Wyjeżdzamy jutro rano
+pl_017,Fast,24,True,13.333333333333334,13.456666666666667,Wyjeżdżamy jutro rano
+pl_017,Fast,25,True,13.466666666666667,13.733333333333333,Wyjeżdzamy jutro rano
+pl_017,Fast,26,True,13.733333333333333,14.133333333333333,Wyjeżdżamy jutro rano
+pl_017,Balanced,1,True,0.4666666666666667,0.7333333333333333,Czerwone drzwi są po lewej.
+pl_017,Balanced,2,True,0.7333333333333333,0.8566666666666667,Czerwone drzwi sa po lewej
+pl_017,Balanced,3,True,0.8666666666666667,0.9233333333333333,Czerwone drzwi są po lewej
+pl_017,Balanced,4,True,0.9333333333333333,0.99,Czerwone drzwi sa po lewej
+pl_017,Balanced,5,True,1.0,1.1233333333333333,Czerwone drzwi są po lewej
+pl_017,Balanced,6,True,1.1333333333333333,1.19,Czerwone drzwi sa po lewej.
+pl_017,Balanced,8,True,1.9333333333333333,1.99,Czerwone drzwi sa po lewej.
+pl_017,Balanced,9,True,2.0,2.533333333333333,Czerwone drzwi są po lewej.
+pl_017,Balanced,10,True,2.533333333333333,2.6566666666666667,Czerwone drzwi sa po lewej.
+pl_017,Balanced,11,True,2.6666666666666665,2.7233333333333336,Czerwone drzwi są po lewej.
+pl_017,Balanced,12,True,2.7333333333333334,2.79,Czerwone drzwi saą po lewej.
+pl_017,Balanced,13,True,2.8,2.98,Czerwone drzwi są po lewej.
+pl_017,Balanced,14,True,3.4,3.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_017,Balanced,15,True,3.8666666666666667,3.9233333333333333,Wyjezdzamy jutro wieczorem
+pl_017,Balanced,16,True,3.933333333333333,4.466666666666667,Wyjeżdżamy jutro wieczorem
+pl_017,Balanced,17,True,4.466666666666667,4.666666666666666,Wyjezdżamy jutro wieczorem
+pl_017,Balanced,18,True,4.666666666666667,5.266666666666667,Wyjeżdżamy jutro wieczorem
+pl_017,Balanced,19,True,5.266666666666667,5.323333333333333,Wyjezdzamy jutro wieczorem
+pl_017,Balanced,20,True,5.333333333333333,5.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_017,Balanced,21,True,5.4,5.866666666666666,Wyjeżdżamy jutro wieczorem
+pl_017,Balanced,22,True,5.866666666666666,5.923333333333334,Wyjezdżamy jutro wieczorem
+pl_017,Balanced,23,True,5.933333333333334,6.113333333333333,Wyjeżdżamy jutro wieczorem
+pl_017,Balanced,24,True,6.4,6.8,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Balanced,25,True,6.8,7.0,"Mówileś 19,95 czy 90,15? 117"
+pl_017,Balanced,26,True,7.0,7.056666666666667,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Balanced,27,True,7.066666666666666,7.19,"Mówileś 19,95 czy 90,15? 117"
+pl_017,Balanced,28,True,7.2,7.323333333333333,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Balanced,29,True,7.333333333333333,7.456666666666667,"Mówiłes 19,95 czy 90,15? 117"
+pl_017,Balanced,30,True,7.466666666666667,7.666666666666666,"Mówiłeś 19,95 czy 90,15? 117"
+pl_017,Balanced,31,True,7.666666666666667,7.723333333333334,"Mówiłes 19,95 czy 90,15? 117"
+pl_017,Balanced,32,True,7.733333333333333,7.913333333333333,"Mówiles 19,95 czy 90,15? 117"
+pl_017,Balanced,34,True,12.266666666666667,12.323333333333334,Wyjeżdzamy jutro rano
+pl_017,Balanced,35,True,12.333333333333334,12.39,Wyjeżdżamy jutro rano
+pl_017,Balanced,36,True,12.4,12.523333333333333,Wyjeżdzamy jutro rano
+pl_017,Balanced,38,True,13.2,13.256666666666668,Wyjeżdzamy jutro rano
+pl_017,Balanced,39,True,13.266666666666667,13.39,Wyjeżdżamy jutro rano
+pl_017,Balanced,40,True,13.4,13.523333333333333,Wyjeżdzamy jutro rano
+pl_017,Balanced,41,True,13.533333333333333,13.59,Wyjeżdżamy jutro rano
+pl_017,Balanced,42,True,13.6,13.723333333333333,Wyjeżdzamy jutro rano
+pl_017,Balanced,43,True,13.733333333333333,13.933333333333334,Wyjeżdżamy jutro rano
+pl_017,Balanced,44,True,13.933333333333334,13.99,Wyjezdzamy jutro rano
+pl_017,Balanced,45,True,14.0,14.056666666666667,Wyjeżdżamy jutro rano
+pl_017,Balanced,46,True,14.066666666666666,14.246666666666666,Wyjeżdzamy jutro rano
+pl_018,Fast,3,True,4.0,4.266666666666667,"Nie wierzę, że już północ!"
+pl_018,Fast,4,True,4.266666666666667,4.390000000000001,"Nie wierzę, że już półnac!"
+pl_018,Fast,5,True,4.4,4.523333333333333,"Nie wierzę, że już północ!"
+pl_018,Fast,6,True,4.533333333333333,4.656666666666667,"Nie wierzę, że już półnac!"
+pl_018,Fast,7,True,4.666666666666667,4.866666666666667,"Nie wierzę, że już północ!"
+pl_018,Fast,8,True,6.4,6.666666666666667,Czerwone drzwi są po lewej. 118
+pl_018,Fast,9,True,6.666666666666667,6.79,Czerwone drzwi sa po lewej. 118
+pl_018,Fast,11,True,7.333333333333333,7.6,Czerwone drzwi sa po lewej. 118
+pl_018,Fast,12,True,7.6,7.723333333333334,Czerwone drzwi są po lewej. 118
+pl_018,Fast,13,True,7.733333333333333,7.8566666666666665,Czerwone drzwi sa po lewej. 118
+pl_018,Fast,14,True,7.866666666666666,7.99,Czerwone drzwi są po lewej. 118
+pl_018,Fast,15,True,8.0,8.2,Czerwone drzwi sa po lewej. 118
+pl_018,Fast,16,True,9.333333333333334,9.6,Wyjeżdzamy jutro wieczorem
+pl_018,Fast,17,True,9.6,9.866666666666665,Wyjeżdżamy jutro wieczorem
+pl_018,Fast,18,True,9.866666666666667,9.99,Wyjeżdżamy jutrowieczorem
+pl_018,Fast,19,True,10.0,10.123333333333333,Wyjezdzamy jutro wieczorem
+pl_018,Fast,20,True,10.133333333333333,10.256666666666668,Wyjeżdzamy jutro wieczorem
+pl_018,Fast,21,True,10.266666666666667,10.39,Wyjeżdżamy jutro wieczorem
+pl_018,Fast,22,True,10.4,10.523333333333333,Wyjezdżamy jutro wieczorem
+pl_018,Fast,23,True,10.533333333333333,10.799999999999999,Wyjezdzamy jutro wieczorem
+pl_018,Fast,24,True,10.8,10.923333333333334,Wyjezdżamy jutro wieczorem
+pl_018,Fast,25,True,10.933333333333334,11.056666666666667,Wyjeżdzamy jutro wieczorem
+pl_018,Fast,26,True,11.066666666666666,11.266666666666666,Wyjeżdżamy jutro wieczorem
+pl_018,Fast,27,True,12.266666666666667,12.39,"Mówiłes 19,95 czy 90,15? 2026"
+pl_018,Fast,29,True,15.2,15.466666666666667,Czekaj... naprawdę wychodzimy? 2017
+pl_018,Fast,30,True,15.466666666666667,15.59,naprawdę wychodzimy? 2017
+pl_018,Fast,32,True,16.666666666666668,17.066666666666666,Czekaj... naprawde wychodzimy? 2017
+pl_018,Fast,33,True,17.066666666666666,17.599999999999998,Czekaj... naprawdę wychodzimy? 2017
+pl_018,Balanced,3,True,4.0,4.266666666666667,"Nie wierzę, że już północ!"
+pl_018,Balanced,4,True,4.266666666666667,4.323333333333333,"Nie wierzę, że już półnac!"
+pl_018,Balanced,5,True,4.333333333333333,4.533333333333333,"Nie wierzę, że już północ!"
+pl_018,Balanced,6,True,4.533333333333333,4.59,"Nie wierzę, że już półnac!"
+pl_018,Balanced,7,True,4.6,4.8,"Nie wierzę, że już północ!"
+pl_018,Balanced,8,True,6.4,6.456666666666667,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,9,True,6.466666666666667,6.523333333333333,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,10,True,6.533333333333333,6.59,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,11,True,6.6,6.8,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,12,True,6.8,6.8566666666666665,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,13,True,6.866666666666666,6.923333333333334,Czerwone dizwi są po lewej. 118
+pl_018,Balanced,14,True,6.933333333333334,6.99,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,15,True,7.0,7.056666666666667,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,16,True,7.066666666666666,7.123333333333334,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,17,True,7.133333333333334,7.19,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,18,True,7.2,7.323333333333333,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,19,True,7.333333333333333,7.6,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,20,True,7.6,7.656666666666667,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,21,True,7.666666666666667,7.866666666666666,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,22,True,7.866666666666666,7.99,Czerwone drzwi są po lewej. 118
+pl_018,Balanced,23,True,8.0,8.18,Czerwone drzwi sa po lewej. 118
+pl_018,Balanced,24,True,9.333333333333334,9.6,Wyjeżdzamy jutro wieczorem
+pl_018,Balanced,25,True,9.6,9.656666666666666,Wyjeżdżamy jutro wieczorem
+pl_018,Balanced,26,True,9.666666666666666,9.723333333333333,Wyjeżdzamy jutro wieczorem
+pl_018,Balanced,27,True,9.733333333333333,9.856666666666667,Wyjeżdżamy jutro wieczorem
+pl_018,Balanced,28,True,9.866666666666667,9.923333333333334,Wyjeżdżamy jutrowieczorem
+pl_018,Balanced,29,True,9.933333333333334,9.99,Wyjeżdżamy jutro wieczorem
+pl_018,Balanced,30,True,10.0,10.123333333333333,Wyjezdzamy jutro wieczorem
+pl_018,Balanced,31,True,10.133333333333333,10.19,Wyjeżdzamy jutro wieczorem
+pl_018,Balanced,32,True,10.2,10.4,Wyjeżdżamy jutro wieczorem
+pl_018,Balanced,33,True,10.4,10.456666666666667,Wyjezdżamy jutro wieczorem
+pl_018,Balanced,34,True,10.466666666666667,10.799999999999999,Wyjezdzamy jutro wieczorem
+pl_018,Balanced,35,True,10.8,10.923333333333334,Wyjezdżamy jutro wieczorem
+pl_018,Balanced,36,True,10.933333333333334,11.056666666666667,Wyjeżdzamy jutro wieczorem
+pl_018,Balanced,37,True,11.066666666666666,11.246666666666666,Wyjeżdżamy jutro wieczorem
+pl_018,Balanced,38,True,12.266666666666667,12.323333333333334,"Mówiłes 19,95 czy 90,15? 2026"
+pl_018,Balanced,40,True,15.2,15.4,Czekaj... naprawdę wychodzimy? 2017
+pl_018,Balanced,41,True,15.4,15.523333333333333,naprawdę wychodzimy? 2017
+pl_018,Balanced,43,True,16.666666666666668,17.066666666666666,Czekaj... naprawde wychodzimy? 2017
+pl_018,Balanced,44,True,17.066666666666666,17.6,Czekaj... naprawdę wychodzimy? 2017
+pl_019,Fast,1,True,0.5333333333333333,1.0666666666666667,Czekaj... naprawde wychodzimy?
+pl_019,Fast,3,True,1.7333333333333334,1.9333333333333333,Czekaj...naprawde wychodzimy?
+pl_019,Fast,5,True,6.4,6.666666666666667,Poczekaj na mnie 119
+pl_019,Fast,6,True,6.666666666666667,6.79,Poczekajna mnie 119
+pl_019,Fast,8,True,9.333333333333334,9.733333333333333,"Nie wierzę, że już północ! 2026"
+pl_019,Fast,9,True,9.733333333333333,10.0,"Nie wierzę, że już północl 2026"
+pl_019,Fast,10,True,10.0,10.123333333333333,"Nie wierze, ze już północ! 2026"
+pl_019,Fast,11,True,10.133333333333333,10.256666666666668,"Nie wierzę, že już północ! 2026"
+pl_019,Fast,12,True,10.266666666666667,10.39,"Nie wierze, że już północ! 2026"
+pl_019,Fast,13,True,10.4,10.523333333333333,"Nie wierzę, že już północ! 2026"
+pl_019,Fast,14,True,10.533333333333333,10.656666666666666,"Nie wierzę, ze już północ! 2026"
+pl_019,Fast,15,True,10.666666666666666,11.066666666666666,"Nie wierzę, že już północ! 2026"
+pl_019,Fast,16,True,11.066666666666666,11.333333333333332,"Nie wierzę, że już północ! 2026"
+pl_019,Fast,17,True,11.333333333333334,11.533333333333333,"Nie wierzę, że już północl 2026"
+pl_019,Balanced,1,True,0.4666666666666667,0.59,Czekaj... naprawde wychodzimy?
+pl_019,Balanced,2,True,0.6,0.6566666666666666,Czekaj... naprawdę wychodzimy?
+pl_019,Balanced,3,True,0.6666666666666666,0.8666666666666667,Czekaj... naprawde wychodzimy?
+pl_019,Balanced,4,True,0.8666666666666667,0.9233333333333333,Czekaj... naprawdę wychodzimy?
+pl_019,Balanced,5,True,0.9333333333333333,1.0566666666666666,Czekaj... naprawde wychodzimy?
+pl_019,Balanced,6,True,1.0666666666666667,1.1233333333333333,Czekaj... naprawdę wychodzimy?
+pl_019,Balanced,7,True,1.1333333333333333,1.19,Czekaj... naprawde wychodzimy?
+pl_019,Balanced,9,True,1.7333333333333334,1.9133333333333333,Czekaj...naprawde wychodzimy?
+pl_019,Balanced,11,True,6.4,6.666666666666666,Poczekaj na mnie 119
+pl_019,Balanced,12,True,6.666666666666667,6.723333333333334,Poczekajna mnie 119
+pl_019,Balanced,13,True,6.733333333333333,6.79,Poczekaj ha mnie 119
+pl_019,Balanced,15,True,9.333333333333334,9.39,"Nie wierzę, że już północ! 2026"
+pl_019,Balanced,16,True,9.4,9.456666666666667,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,17,True,9.466666666666667,9.523333333333333,"Nie wierzę, że już północ! 2026"
+pl_019,Balanced,18,True,9.533333333333333,9.59,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,19,True,9.6,9.723333333333333,"Nie wierzę, że już północ! 2026"
+pl_019,Balanced,20,True,9.733333333333333,10.0,"Nie wierzę, że już północl 2026"
+pl_019,Balanced,21,True,10.0,10.056666666666667,"Nie wierze, ze już północ! 2026"
+pl_019,Balanced,22,True,10.066666666666666,10.123333333333333,"Nie wierze, ze już północl 2026"
+pl_019,Balanced,23,True,10.133333333333333,10.19,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,24,True,10.2,10.323333333333334,"Nie wierze, że już północ! 2026"
+pl_019,Balanced,25,True,10.333333333333334,10.456666666666667,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,26,True,10.466666666666667,10.523333333333333,"Nie wierze, že już północ! 2026"
+pl_019,Balanced,27,True,10.533333333333333,10.59,"Nie wierzę, ze już północ! 2026"
+pl_019,Balanced,28,True,10.6,10.656666666666666,"Nie wierze, že już północ! 2026"
+pl_019,Balanced,29,True,10.666666666666666,11.066666666666666,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,30,True,11.066666666666666,11.123333333333333,"Nie wierzę, że już północ! 2026"
+pl_019,Balanced,31,True,11.133333333333333,11.19,"Nie wierzę, že już północ! 2026"
+pl_019,Balanced,32,True,11.2,11.256666666666668,"Nie wierzę, że już północ! 2026"
+pl_019,Balanced,33,True,11.266666666666667,11.39,"Nie wierzę, że już północl 2026"
+pl_019,Balanced,34,True,11.4,11.58,"Nie wierze, ze już północ! 2026"
+pl_019,Balanced,37,True,16.866666666666667,16.923333333333332,Wyjeżdżamyjutro wieczorem 2018
+pl_019,Balanced,38,True,16.933333333333334,17.8,Wyjeżdżamy jutro wieczorem 2018
+pl_020,Fast,1,True,0.5333333333333333,0.7999999999999999,Wyjezdżamy jutro wieczorem
+pl_020,Fast,3,True,1.4666666666666666,1.59,Wyjeżdżamyjutro wieczorem
+pl_020,Fast,4,True,1.6,2.1333333333333333,Wyjeżdżamy jutro wieczorem
+pl_020,Fast,5,True,3.466666666666667,3.8666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Fast,6,True,3.8666666666666667,3.99,"Mówileś 19,95 czy 90,15?"
+pl_020,Fast,7,True,4.0,4.266666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Fast,8,True,4.266666666666667,4.390000000000001,"Mówiteś 19,95 czy 90,15?"
+pl_020,Fast,9,True,4.4,4.8,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Fast,10,True,4.8,5.2,"Mówileś 19,95 czy 90,15?"
+pl_020,Fast,11,True,5.2,5.4,"Mówiles 19,95 czy 90,15?"
+pl_020,Fast,12,True,6.4,6.8,Czekaj... naprawde wychodzimy? 120
+pl_020,Fast,13,True,6.8,6.923333333333334,Czekaj...naprawde wychodzimy? 120
+pl_020,Fast,14,True,6.933333333333334,7.056666666666667,Czekaj... naprawde wychodzimy? 120
+pl_020,Fast,15,True,7.066666666666666,7.19,Czekaj... naprawdę wychodzimy? 120
+pl_020,Fast,16,True,7.2,7.323333333333333,Czekaj...naprawde wychodzimy? 120
+pl_020,Fast,17,True,7.333333333333333,7.866666666666666,Czekaj... naprawde wychodzimy? 120
+pl_020,Fast,19,True,9.333333333333334,10.0,Wyjeżdżamy jutro rano 50%
+pl_020,Fast,20,True,10.0,10.123333333333333,Wyjeżdzamy jutro rano 50%
+pl_020,Fast,21,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano 50%
+pl_020,Fast,22,True,10.533333333333333,10.656666666666666,Wyjeżdzamy jutro rano 50%
+pl_020,Fast,24,True,11.466666666666667,11.59,Wyjeżdzamy jutro rano 50%
+pl_020,Fast,25,True,11.6,11.799999999999999,Wyjezdżamy jutro rano 50%
+pl_020,Fast,28,True,15.866666666666667,15.99,"Nie wierzę, že już północ! 2019"
+pl_020,Fast,29,True,16.0,16.12333333333333,"Nie wierzę, że już północ! 2019"
+pl_020,Fast,30,True,16.133333333333333,16.53333333333333,"Nie wierzę, že już północ! 2019"
+pl_020,Fast,31,True,16.533333333333335,16.733333333333334,"Nie wierzę, że już północ! 2019"
+pl_020,Balanced,1,True,0.4666666666666667,0.5233333333333333,Nyjeżdzamy jutro wieczorem
+pl_020,Balanced,2,True,0.5333333333333333,0.59,Wyjezdżamy jutro wieczorem
+pl_020,Balanced,3,True,0.6,0.6566666666666666,Wyjeżdżamy jutro wieczorem
+pl_020,Balanced,4,True,0.6666666666666666,0.7233333333333333,Wyjezdżamy jutro wieczorem
+pl_020,Balanced,5,True,0.7333333333333333,1.1333333333333333,Wyjeżdżamy jutro wieczorem
+pl_020,Balanced,6,True,1.1333333333333333,1.19,Wyjeżdżamyjutro wieczorem
+pl_020,Balanced,7,True,1.2,1.4666666666666666,Wyjeżdżamy jutro wieczorem
+pl_020,Balanced,8,True,1.4666666666666666,1.5233333333333334,Wyjeżdżamyjutro wieczorem
+pl_020,Balanced,9,True,1.5333333333333334,1.59,Wyjeżdzamyjutro wieczorem
+pl_020,Balanced,11,True,3.4,3.456666666666667,"Mówileś 19,95 czy 90,15?"
+pl_020,Balanced,12,True,3.466666666666667,3.8666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Balanced,13,True,3.8666666666666667,3.9233333333333333,"Mówileś 19,95 czy 90,15?"
+pl_020,Balanced,14,True,3.933333333333333,3.99,"Mówiteś 19,95 czy 90,15?"
+pl_020,Balanced,15,True,4.0,4.266666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Balanced,16,True,4.266666666666667,4.323333333333333,"Mówiteś 19,95 czy 90,15?"
+pl_020,Balanced,17,True,4.333333333333333,4.6,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Balanced,18,True,4.6,4.656666666666667,"Mówileś 19,95 czy 90,15?"
+pl_020,Balanced,19,True,4.666666666666667,4.79,"Mówiłeś 19,95 czy 90,15?"
+pl_020,Balanced,20,True,4.8,5.133333333333333,"Mówileś 19,95 czy 90,15?"
+pl_020,Balanced,21,True,5.133333333333334,5.3133333333333335,"Mówiles 19,95 czy 90,15?"
+pl_020,Balanced,22,True,6.4,6.8,Czekaj... naprawde wychodzimy? 120
+pl_020,Balanced,23,True,6.8,6.923333333333334,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,24,True,6.933333333333334,6.99,Czekaj... naprawde wychodzimy? 120
+pl_020,Balanced,25,True,7.0,7.056666666666667,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,26,True,7.066666666666666,7.123333333333334,Czekaj... naprawdę wychodzimy? 120
+pl_020,Balanced,27,True,7.133333333333334,7.19,Czekaj...naprawdę wychodzimy? 120
+pl_020,Balanced,28,True,7.2,7.323333333333333,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,29,True,7.333333333333333,7.533333333333333,Czekaj... naprawde wychodzimy? 120
+pl_020,Balanced,30,True,7.533333333333333,7.59,Czekaj... naprawdę wychodzimy? 120
+pl_020,Balanced,31,True,7.6,7.8,Czekaj... naprawde wychodzimy? 120
+pl_020,Balanced,32,True,7.8,8.2,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,33,True,8.2,8.256666666666668,Czekaj... naprawde wychodzimy? 120
+pl_020,Balanced,34,True,8.266666666666667,8.323333333333334,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,35,True,8.333333333333334,8.39,Czekaj...naprawdę wychodzimy? 120
+pl_020,Balanced,36,True,8.4,8.456666666666667,Czekaj...naprawde wychodzimy? 120
+pl_020,Balanced,37,True,8.466666666666667,8.646666666666667,Czekaj...naprawdę wychodzimy? 120
+pl_020,Balanced,38,True,9.333333333333334,10.0,Wyjeżdżamy jutro rano 50%
+pl_020,Balanced,39,True,10.0,10.056666666666667,Wyjeżdzamy jutro rano 50%
+pl_020,Balanced,40,True,10.066666666666666,10.123333333333333,Wyjezdżamy jutro rano 50%
+pl_020,Balanced,41,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano 50%
+pl_020,Balanced,42,True,10.533333333333333,10.59,Wyjeżdzamy jutro rano 50%
+pl_020,Balanced,44,True,11.466666666666667,11.523333333333333,Wyjeżdzamy jutro rano 50%
+pl_020,Balanced,45,True,11.533333333333333,11.59,Wyjezdzamy jutro rano 50%
+pl_020,Balanced,46,True,11.6,11.656666666666666,Wyjezdżamy jutro rano 50%
+pl_020,Balanced,47,True,11.666666666666666,11.846666666666666,Wyjeżdżamy jutro rano 50%
+pl_020,Balanced,50,True,15.866666666666667,15.99,"Nie wierzę, že już północ! 2019"
+pl_020,Balanced,51,True,16.0,16.056666666666665,"Nie wierzę, że już północ! 2019"
+pl_020,Balanced,52,True,16.066666666666666,16.466666666666665,"Nie wierzę, že już północ! 2019"
+pl_020,Balanced,53,True,16.466666666666665,16.646666666666665,"Nie wierzę, że już północ! 2019"
+pl_021,Fast,1,True,0.5333333333333333,0.7999999999999999,"Nie wierzę, że już pólnoc!"
+pl_021,Fast,2,True,0.8,0.9233333333333333,"Nie wierzę, že już pólnoc!"
+pl_021,Fast,5,True,6.4,6.8,Wyjeżdżamy jutro wieczorem 121
+pl_021,Fast,6,True,6.8,6.923333333333334,Wyjeżdžamy jutro wieczorem 121
+pl_021,Fast,7,True,6.933333333333334,7.056666666666667,Wyjeżdżamy jutro wieczorem 121
+pl_021,Fast,8,True,7.066666666666666,7.19,Wyjeżdžamy jutro wieczorem 121
+pl_021,Fast,10,True,9.333333333333334,10.0,"Mówileś 19,95 czy 90,15?"
+pl_021,Fast,11,True,10.0,10.266666666666666,"Mowiles 19,95 czy 90,15?"
+pl_021,Fast,12,True,10.266666666666667,10.533333333333333,"Mówileś 19,95 czy 90,15?"
+pl_021,Fast,13,True,10.533333333333333,10.656666666666666,"Mówiles 19,95 czy 90,15?"
+pl_021,Fast,15,True,11.466666666666667,11.866666666666665,"Mówiles 19,95 czy 90,15?"
+pl_021,Fast,16,True,11.866666666666667,12.066666666666666,"Mówileś 19,95 czy 90,15?"
+pl_021,Balanced,1,True,0.4666666666666667,0.7999999999999999,"Nie wierzę, że już pólnoc!"
+pl_021,Balanced,2,True,0.8,0.8566666666666667,"Nie wierzę, že już pólnoc!"
+pl_021,Balanced,3,True,0.8666666666666667,1.4,"Nie wierzę, że już pólnoc!"
+pl_021,Balanced,4,True,1.4,1.4566666666666666,"Nie wierzę, že już pólnoc!"
+pl_021,Balanced,7,True,6.4,6.733333333333333,Wyjeżdżamy jutro wieczorem 121
+pl_021,Balanced,8,True,6.733333333333333,6.79,Wyjeżdżamyijutro wieczorem 121
+pl_021,Balanced,9,True,6.8,6.8566666666666665,Wyjeżdžamy jutro wieczorem 121
+pl_021,Balanced,10,True,6.866666666666666,7.066666666666666,Wyjeżdżamy jutro wieczorem 121
+pl_021,Balanced,11,True,7.066666666666666,7.123333333333334,Wyjeżdžamy jutro wieczorem 121
+pl_021,Balanced,12,True,7.133333333333334,7.19,Wyjeżdžamyijutro wieczorem 121
+pl_021,Balanced,14,True,8.2,8.256666666666668,Wyjeżdžamyjutro wieczorem 121
+pl_021,Balanced,15,True,8.266666666666667,8.323333333333334,Wyjeżdżamy jutro wieczorem 121
+pl_021,Balanced,16,True,8.333333333333334,8.39,Wyjeżdžamy jutro wieczorem 121
+pl_021,Balanced,17,True,8.4,8.799999999999999,Wyjeżdżamy jutro wieczorem 121
+pl_021,Balanced,18,True,9.333333333333334,9.39,"Mówileś 19,95 czy 90,15?"
+pl_021,Balanced,19,True,9.4,9.456666666666667,"Mówiles 19,95 czy 90,15?"
+pl_021,Balanced,20,True,9.466666666666667,10.0,"Mówileś 19,95 czy 90,15?"
+pl_021,Balanced,21,True,10.0,10.2,"Mowiles 19,95 czy 90,15?"
+pl_021,Balanced,22,True,10.2,10.533333333333333,"Mówileś 19,95 czy 90,15?"
+pl_021,Balanced,23,True,10.533333333333333,10.59,"Mówiles 19,95 czy 90,15?"
+pl_021,Balanced,25,True,11.4,11.523333333333333,"Mówiles 19,95 czy 90,15?"
+pl_021,Balanced,26,True,11.533333333333333,11.59,"Mówile§ 19,95 czy 90,15?"
+pl_021,Balanced,27,True,11.6,11.799999999999999,"Mówiles 19,95 czy 90,15?"
+pl_021,Balanced,28,True,11.8,11.98,"Mówileś 19,95 czy 90,15?"
+pl_022,Fast,2,True,2.1333333333333333,2.256666666666667,Wyjeżdžamy jutro rano 2026
+pl_022,Fast,3,True,2.2666666666666666,2.39,Wyjeżdżamy jutro rano 2026
+pl_022,Fast,4,True,2.4,2.6666666666666665,Wyjeżdžamy jutro rano 2026
+pl_022,Fast,6,True,6.4,6.523333333333333,"Nie wierzę, że już pólnoc! 122"
+pl_022,Fast,7,True,6.533333333333333,7.066666666666666,"Nie wierzę, że już północ! 122"
+pl_022,Fast,8,True,7.066666666666666,7.19,"Nie wierzę, że już pólnoc! 122"
+pl_022,Fast,10,True,8.266666666666667,8.39,"Nie wierzę, že już pólnoc! 122"
+pl_022,Fast,11,True,8.4,9.066666666666666,"Nie wierzę, że już północ! 122"
+pl_022,Balanced,2,True,2.1333333333333333,2.1900000000000004,Wyjeżdžamy jutro rano 2026
+pl_022,Balanced,3,True,2.2,2.4,Wyjeżdżamy jutro rano 2026
+pl_022,Balanced,4,True,2.4,2.6,Wyjeżdžamy jutro rano 2026
+pl_022,Balanced,6,True,6.4,6.523333333333333,"Nie wierzę, że już pólnoc! 122"
+pl_022,Balanced,7,True,6.533333333333333,7.066666666666666,"Nie wierzę, że już północ! 122"
+pl_022,Balanced,8,True,7.066666666666666,7.19,"Nie wierzę, że już pólnoc! 122"
+pl_022,Balanced,10,True,8.266666666666667,8.323333333333334,"Nie wierzę, že już pólnoc! 122"
+pl_022,Balanced,11,True,8.333333333333334,8.39,Nie wierzę że już pólnoc! 122
+pl_022,Balanced,12,True,8.4,8.866666666666667,"Nie wierzę, że już północ! 122"
+pl_022,Balanced,13,True,8.866666666666667,8.923333333333334,"Nie wierzę, że już pólnoc! 122"
+pl_022,Balanced,14,True,8.933333333333334,9.113333333333333,"Nie wierzę, że już północ! 122"
+pl_023,Fast,1,True,0.5333333333333333,0.6566666666666666,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Fast,3,True,1.4666666666666666,1.59,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Fast,4,True,1.6,2.2666666666666666,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Fast,5,True,2.2666666666666666,2.39,"Mówites 19,95 czy 90,15? 50%"
+pl_023,Fast,6,True,2.4,2.933333333333333,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Fast,7,True,3.466666666666667,3.5900000000000003,Czekaj... naprawdę wychodzimy?
+pl_023,Fast,8,True,3.6,3.7233333333333336,Czekaj... naprawde wychodzimy?
+pl_023,Fast,9,True,3.7333333333333334,3.856666666666667,Czekaj...naprawde wychodzimy?
+pl_023,Fast,10,True,3.8666666666666667,3.99,Czekaj... naprawde wychodzimy?
+pl_023,Fast,11,True,4.0,4.266666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Fast,12,True,4.266666666666667,4.390000000000001,Czekaj... naprawde wychodzimy?
+pl_023,Fast,13,True,4.4,4.666666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Fast,14,True,4.666666666666667,4.79,Czekaj... naprawde wychodzimy?
+pl_023,Fast,15,True,4.8,4.923333333333334,Czekaj... naprawdę wychodzimy?
+pl_023,Fast,16,True,4.933333333333334,5.056666666666667,Czekaj... naprawde wychodzimy?
+pl_023,Fast,17,True,5.066666666666666,5.466666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Fast,18,True,5.466666666666667,6.0,Czekaj... naprawde wychodzimy?
+pl_023,Fast,19,True,6.4,6.8,Wyjeżdżamy jutro rano 123
+pl_023,Fast,20,True,6.8,7.333333333333333,Wyjezdzamy jutro rano 123
+pl_023,Balanced,1,True,0.4666666666666667,0.5233333333333333,"Mówites 19,95 czy 90,15? 50%"
+pl_023,Balanced,2,True,0.5333333333333333,0.6566666666666666,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Balanced,3,True,0.6666666666666666,1.0,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,4,True,1.0,1.0566666666666666,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Balanced,5,True,1.0666666666666667,1.2666666666666666,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,6,True,1.2666666666666666,1.3233333333333333,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Balanced,7,True,1.3333333333333333,1.39,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,8,True,1.4,1.6,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Balanced,9,True,1.6,1.9333333333333333,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,10,True,1.9333333333333333,1.99,"Mówiłeś 19,95 czy 90,15? 50%"
+pl_023,Balanced,11,True,2.0,2.2,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,12,True,2.2,2.3233333333333337,"Mówites 19,95 czy 90,15? 50%"
+pl_023,Balanced,13,True,2.3333333333333335,2.8666666666666667,"Mówiteś 19,95 czy 90,15? 50%"
+pl_023,Balanced,14,True,3.4,3.5233333333333334,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,15,True,3.533333333333333,3.7333333333333334,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,16,True,3.7333333333333334,3.79,Czekaj...naprawde wychodzimy?
+pl_023,Balanced,17,True,3.8,3.9233333333333333,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,18,True,3.933333333333333,4.266666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,19,True,4.266666666666667,4.390000000000001,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,20,True,4.4,4.456666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,21,True,4.466666666666667,4.523333333333333,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,22,True,4.533333333333333,4.656666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,23,True,4.666666666666667,4.723333333333334,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,24,True,4.733333333333333,4.933333333333333,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,25,True,4.933333333333334,5.056666666666667,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,26,True,5.066666666666666,5.123333333333334,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,27,True,5.133333333333334,5.19,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,28,True,5.2,5.256666666666667,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,29,True,5.266666666666667,5.323333333333333,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,30,True,5.333333333333333,5.390000000000001,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,31,True,5.4,5.523333333333333,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,32,True,5.533333333333333,5.59,Czekaj... naprawdę wychodzimy?
+pl_023,Balanced,33,True,5.6,6.0,Czekaj... naprawde wychodzimy?
+pl_023,Balanced,34,True,6.4,6.8,Wyjeżdżamy jutro rano 123
+pl_023,Balanced,35,True,6.8,7.333333333333333,Wyjezdzamy jutro rano 123
+pl_024,Fast,2,True,3.466666666666667,3.5900000000000003,Wyjezdzamy jutro wieczorem
+pl_024,Fast,3,True,3.6,4.0,Wyjeżdżamy jutro wieczorem
+pl_024,Fast,4,True,4.0,4.123333333333334,Wyjezdżamy jutro wieczorem
+pl_024,Fast,6,True,6.4,6.8,"Mówiteś 19,95 czy 90,15? 124"
+pl_024,Fast,7,True,6.8,7.2,"Mówites 19,95 czy 90,15? 124"
+pl_024,Fast,8,True,7.2,7.323333333333333,"Mówiles 19,95 czy 90,15? 124"
+pl_024,Fast,11,True,10.0,10.266666666666666,Czekaj... naprawde wychodzimy?
+pl_024,Fast,12,True,10.266666666666667,10.39,Czekaj... naprawdę wychodzimy?
+pl_024,Fast,13,True,10.4,10.523333333333333,Czekaj... naprawde wychodzimy?
+pl_024,Fast,14,True,10.533333333333333,11.2,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,2,True,3.4,3.456666666666667,Wyjeżdżamy jutro wieczorem
+pl_024,Balanced,3,True,3.466666666666667,3.5233333333333334,Wyjezdzamy jutro wieczorem
+pl_024,Balanced,4,True,3.533333333333333,3.6566666666666667,Wyjeżdżamy jutro wieczorem
+pl_024,Balanced,5,True,3.6666666666666665,3.7233333333333336,Wyjeżdzamy jutro wieczorem
+pl_024,Balanced,6,True,3.7333333333333334,4.0,Wyjeżdżamy jutro wieczorem
+pl_024,Balanced,7,True,4.0,4.056666666666667,Wyjezdżamy jutro wieczorem
+pl_024,Balanced,8,True,4.066666666666666,4.123333333333334,Wyjezdzamy jutro wieczorem
+pl_024,Balanced,10,True,6.4,6.733333333333333,"Mówiteś 19,95 czy 90,15? 124"
+pl_024,Balanced,11,True,6.733333333333333,7.0,"Mówites 19,95 czy 90,15? 124"
+pl_024,Balanced,12,True,7.0,7.056666666666667,"Mówiles 19,95 czy 90,15? 124"
+pl_024,Balanced,13,True,7.066666666666666,7.19,"Mówites 19,95 czy 90,15? 124"
+pl_024,Balanced,14,True,7.2,7.256666666666667,"Mówiles 19,95 czy 90,15? 124"
+pl_024,Balanced,15,True,7.266666666666667,7.323333333333333,"Mówites 19,95 czy 90,15? 124"
+pl_024,Balanced,16,True,7.333333333333333,7.8,"Mówiteś 19,95 czy 90,15? 124"
+pl_024,Balanced,17,True,7.8,7.8566666666666665,"Mówiles 19,95 czy 90,15? 124"
+pl_024,Balanced,18,True,7.866666666666666,7.923333333333334,"Mówiteś 19,95 czy 90,15? 124"
+pl_024,Balanced,19,True,7.933333333333334,7.99,"Mówites 19,95 czy 90,15? 124"
+pl_024,Balanced,20,True,8.0,8.18,"Mówiteś 19,95 czy 90,15? 124"
+pl_024,Balanced,21,True,9.333333333333334,9.39,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,22,True,9.4,9.456666666666667,Czekaj... naprawde wychodzimy?
+pl_024,Balanced,23,True,9.466666666666667,9.933333333333334,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,24,True,9.933333333333334,10.266666666666666,Czekaj... naprawde wychodzimy?
+pl_024,Balanced,25,True,10.266666666666667,10.39,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,26,True,10.4,10.456666666666667,Czekaj... naprawde wychodzimy?
+pl_024,Balanced,27,True,10.466666666666667,10.59,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,28,True,10.6,10.656666666666666,Czekaj... naprawde wychodzimy?
+pl_024,Balanced,29,True,10.666666666666666,11.2,Czekaj... naprawdę wychodzimy?
+pl_024,Balanced,32,True,17.133333333333333,17.189999999999998,Poczekajna mnie 2023
+pl_024,Balanced,33,True,17.2,17.6,Poczekaj na mnie 2023
+pl_025,Fast,3,True,6.4,6.8,Czerwone drzwi są po lewej. 125
+pl_025,Fast,4,True,6.8,6.923333333333334,Czerwone drzwi sa po lewej. 125
+pl_025,Fast,6,True,9.333333333333334,9.6,Wyjezdżamy jutro wieczorem
+pl_025,Fast,7,True,9.6,10.0,Wyjeżdżamy jutro wieczorem
+pl_025,Fast,8,True,10.0,10.266666666666666,Wyjezdzamy jutro wieczorem
+pl_025,Fast,9,True,10.266666666666667,10.533333333333333,Wyjeżdżamy jutro wieczorem
+pl_025,Fast,10,True,10.533333333333333,10.656666666666666,Wyjezdzamy jutro wieczorem
+pl_025,Fast,11,True,10.666666666666666,10.790000000000001,Wyjeżdžamy jutro wieczorem
+pl_025,Fast,13,True,12.266666666666667,12.39,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Fast,14,True,12.4,12.523333333333333,"Mówites 19,95 czy 90,15? 2026"
+pl_025,Fast,15,True,12.533333333333333,12.799999999999999,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Fast,16,True,12.8,12.923333333333334,"Mówiłes 19,95 czy 90,15? 2026"
+pl_025,Fast,17,True,12.933333333333334,13.056666666666667,"Mówites 19,95 czy 90,15? 2026"
+pl_025,Fast,18,True,13.066666666666666,13.19,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Fast,19,True,13.2,13.323333333333334,"Mówileś 19,95 czy 90,15? 2026"
+pl_025,Fast,20,True,13.333333333333334,13.456666666666667,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Fast,21,True,13.466666666666667,13.733333333333333,"Mówiles 19,95 czy 90, 15? 2026"
+pl_025,Balanced,3,True,6.4,6.733333333333333,Czerwone drzwi są po lewej. 125
+pl_025,Balanced,4,True,6.733333333333333,6.8566666666666665,Czerwone drzwi sa po lewej. 125
+pl_025,Balanced,6,True,8.2,8.379999999999999,Czerwone drzwi sa po lewej. 125
+pl_025,Balanced,7,True,9.333333333333334,9.39,Wyjezdżamy jutro wieczorem
+pl_025,Balanced,8,True,9.4,9.456666666666667,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,9,True,9.466666666666667,9.59,Wyjezdżamy jutro wieczorem
+pl_025,Balanced,10,True,9.6,9.933333333333334,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,11,True,9.933333333333334,9.99,Wyjezdžamy jutro wieczorem
+pl_025,Balanced,12,True,10.0,10.2,Wyjezdzamy jutro wieczorem
+pl_025,Balanced,13,True,10.2,10.256666666666668,Wyjeżdzamy jutro wieczorem
+pl_025,Balanced,14,True,10.266666666666667,10.323333333333334,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,15,True,10.333333333333334,10.39,Wyjeżdzamy jutro wieczorem
+pl_025,Balanced,16,True,10.4,10.456666666666667,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,17,True,10.466666666666667,10.59,Wyjezdzamy jutro wieczorem
+pl_025,Balanced,18,True,10.6,10.799999999999999,Wyjeżdžamy jutro wieczorem
+pl_025,Balanced,19,True,10.8,11.133333333333333,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,20,True,11.133333333333333,11.19,Wyjeżdžamy jutro wieczorem
+pl_025,Balanced,21,True,11.2,11.4,Wyjeżdżamy jutro wieczorem
+pl_025,Balanced,22,True,11.4,11.58,Wyjeżdzamy jutro wieczorem
+pl_025,Balanced,23,True,12.266666666666667,12.323333333333334,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Balanced,24,True,12.333333333333334,12.533333333333333,"Mówites 19,95 czy 90,15? 2026"
+pl_025,Balanced,25,True,12.533333333333333,12.799999999999999,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Balanced,26,True,12.8,12.856666666666667,"Mówiłes 19,95 czy 90,15? 2026"
+pl_025,Balanced,27,True,12.866666666666667,12.923333333333334,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Balanced,28,True,12.933333333333334,12.99,"Mówites 19,95 czy 90,15? 2026"
+pl_025,Balanced,29,True,13.0,13.2,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Balanced,30,True,13.2,13.323333333333334,"Mówileś 19,95 czy 90,15? 2026"
+pl_025,Balanced,31,True,13.333333333333334,13.456666666666667,"Mówiles 19,95 czy 90,15? 2026"
+pl_025,Balanced,32,True,13.466666666666667,13.666666666666666,"Mówiles 19,95 czy 90, 15? 2026"
+pl_026,Fast,2,True,1.3333333333333333,1.5999999999999999,Czekaj... naprawde wychodzimy?
+pl_026,Fast,3,True,1.6,2.1333333333333333,Czekaj... naprawdę wychodzimy?
+pl_026,Fast,5,True,6.4,6.8,Poczekaj na mnie 126
+pl_026,Fast,6,True,6.8,6.923333333333334,Poczekajna mnie 126
+pl_026,Fast,7,True,6.933333333333334,7.056666666666667,Poczekaj na mnie 126
+pl_026,Fast,8,True,7.066666666666666,7.19,Poczekajina mnie 126
+pl_026,Fast,10,True,8.266666666666667,8.39,Poczekajna mnie 126
+pl_026,Fast,11,True,8.4,8.6,Poczekaj na mnie 126
+pl_026,Fast,12,True,9.333333333333334,10.133333333333333,"Nie wierzę, że już północ! 2026"
+pl_026,Fast,13,True,10.133333333333333,10.256666666666668,"Nie wierze, że już północ! 2026"
+pl_026,Fast,14,True,10.266666666666667,10.533333333333333,"Nie wierzę, że już północ! 2026"
+pl_026,Fast,15,True,10.533333333333333,10.656666666666666,"Nie wierzę, že już północ! 2026"
+pl_026,Fast,17,True,11.466666666666667,11.59,Nie wierze ze już północ! 2026
+pl_026,Fast,18,True,11.6,11.799999999999999,Nie wierzę ze już północ! 2026
+pl_026,Fast,20,True,15.2,15.466666666666667,Wyjezdzamy jutro wieczorem 2025
+pl_026,Fast,22,True,15.733333333333333,16.0,Wyjezdzamy jutro wieczorem 2025
+pl_026,Balanced,2,True,1.2666666666666666,1.5333333333333332,Czekaj... naprawde wychodzimy?
+pl_026,Balanced,3,True,1.5333333333333334,2.1333333333333333,Czekaj... naprawdę wychodzimy?
+pl_026,Balanced,5,True,5.133333333333334,5.19,Wyjezdżamy jutro rano
+pl_026,Balanced,6,True,5.2,5.38,Wyjeżdżamy jutro rano
+pl_026,Balanced,7,True,6.4,6.733333333333333,Poczekaj na mnie 126
+pl_026,Balanced,8,True,6.733333333333333,6.79,Poczekajina mnie 126
+pl_026,Balanced,9,True,6.8,6.8566666666666665,Poczekajna mnie 126
+pl_026,Balanced,10,True,6.866666666666666,7.066666666666666,Poczekaj na mnie 126
+pl_026,Balanced,11,True,7.066666666666666,7.19,Poczekajina mnie 126
+pl_026,Balanced,13,True,8.266666666666667,8.323333333333334,Poczekajna mnie 126
+pl_026,Balanced,14,True,8.333333333333334,8.533333333333333,Poczekaj na mnie 126
+pl_026,Balanced,15,True,9.333333333333334,10.066666666666666,"Nie wierzę, że już północ! 2026"
+pl_026,Balanced,16,True,10.066666666666666,10.123333333333333,"Nie wierze, ze już północ! 2026"
+pl_026,Balanced,17,True,10.133333333333333,10.19,"Nie wierze, że już północ! 2026"
+pl_026,Balanced,18,True,10.2,10.533333333333333,"Nie wierzę, że już północ! 2026"
+pl_026,Balanced,19,True,10.533333333333333,10.59,"Nie wierzę, že już północ! 2026"
+pl_026,Balanced,21,True,11.4,11.456666666666667,"Nie wierzę, ze już północ! 2026"
+pl_026,Balanced,22,True,11.466666666666667,11.523333333333333,Nie wierze ze już północ! 2026
+pl_026,Balanced,23,True,11.533333333333333,11.59,Nie wierze że już północ! 2026
+pl_026,Balanced,24,True,11.6,11.656666666666666,Nie wierzę ze już północ! 2026
+pl_026,Balanced,25,True,11.666666666666666,11.846666666666666,"Nie wierze, zeljuż północ! 2026"
+pl_026,Balanced,27,True,15.2,15.466666666666667,Wyjezdzamy jutro wieczorem 2025
+pl_026,Balanced,28,True,15.466666666666667,15.666666666666666,Wyjeżdzamy jutro wieczorem 2025
+pl_027,Fast,2,True,1.8666666666666667,1.99,Wyjeżdzamy jutro wieczorem
+pl_027,Fast,3,True,2.0,2.4,Wyjeżdżamy jutro wieczorem
+pl_027,Fast,4,True,3.466666666666667,3.5900000000000003,"Mówiteś 19,95 czy 90,15?"
+pl_027,Fast,5,True,3.6,4.0,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Fast,6,True,4.0,4.123333333333334,"Mówiteś 19,95 czy 90,15?"
+pl_027,Fast,7,True,4.133333333333334,4.256666666666667,"Mówiłes 19,95 czy 90,15?"
+pl_027,Fast,8,True,4.266666666666667,4.666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Fast,9,True,4.666666666666667,4.79,"Mówiteś 19,95 czy 90,15?"
+pl_027,Fast,10,True,4.8,5.2,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Fast,11,True,5.2,5.466666666666667,"Mówiłes 19,95 czy 90,15?"
+pl_027,Fast,12,True,5.466666666666667,5.666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Fast,13,True,6.4,6.523333333333333,Czekaj... naprawde wychodzimy? 127
+pl_027,Fast,14,True,6.533333333333333,6.656666666666667,Czekaj... naprawdę wychodzimy? 127
+pl_027,Fast,15,True,6.666666666666667,6.79,Czekaj... naprawde wychodzimy? 127
+pl_027,Fast,17,True,8.266666666666667,8.39,Czekaj...naprawde wychodzimy? 127
+pl_027,Fast,18,True,8.4,8.666666666666666,Czekaj... naprawdę wychodzimy? 127
+pl_027,Fast,19,True,8.666666666666666,8.866666666666665,Czekaj... naprawde wychodzimy? 127
+pl_027,Fast,20,True,9.333333333333334,10.0,Wyjeżdżamy jutro rano
+pl_027,Fast,21,True,10.0,10.123333333333333,Wyježdžamy jutro rano
+pl_027,Fast,22,True,10.133333333333333,10.256666666666668,Wyjeżdžamy jutro rano
+pl_027,Fast,23,True,10.266666666666667,10.533333333333333,Wyjeżdżamy jutro rano
+pl_027,Fast,24,True,10.533333333333333,10.656666666666666,Wyjezdžamy jutro rano
+pl_027,Fast,26,True,11.466666666666667,11.866666666666665,Wyjezdzamy jutro rano
+pl_027,Fast,27,True,11.866666666666667,12.066666666666666,Wyjeżdžamy jutro rano
+pl_027,Fast,29,True,15.2,15.323333333333334,"Nie wierzę, že już północ! 2026"
+pl_027,Balanced,2,True,1.5333333333333334,1.59,Wyjeżdżamyjutro wieczorem
+pl_027,Balanced,3,True,1.6,1.8666666666666667,Wyjeżdżamy jutro wieczorem
+pl_027,Balanced,4,True,1.8666666666666667,1.9233333333333333,Wyjeżdzamy jutro wieczorem
+pl_027,Balanced,5,True,1.9333333333333333,1.99,Wyjezdzamy jutro wieczorem
+pl_027,Balanced,6,True,2.0,2.056666666666667,Wyjeżdżamy jutro wieczorem
+pl_027,Balanced,7,True,2.066666666666667,2.1233333333333335,Wyjezdzamy jutro wieczorem
+pl_027,Balanced,8,True,2.1333333333333333,2.3333333333333335,Wyjeżdżamy jutro wieczorem
+pl_027,Balanced,9,True,3.4,3.5233333333333334,"Mówiteś 19,95 czy 90,15?"
+pl_027,Balanced,10,True,3.533333333333333,3.6566666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Balanced,11,True,3.6666666666666665,3.7233333333333336,"Mówites 19,95 czy 90,15?"
+pl_027,Balanced,12,True,3.7333333333333334,4.0,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Balanced,13,True,4.0,4.056666666666667,"Mówiteś 19,95 czy 90,15?"
+pl_027,Balanced,14,True,4.066666666666666,4.19,"Mówiłes 19,95 czy 90,15?"
+pl_027,Balanced,15,True,4.2,4.6,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Balanced,16,True,4.6,4.723333333333334,"Mówiteś 19,95 czy 90,15?"
+pl_027,Balanced,17,True,4.733333333333333,5.2,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Balanced,18,True,5.2,5.3999999999999995,"Mówiłes 19,95 czy 90,15?"
+pl_027,Balanced,19,True,5.4,5.58,"Mówiłeś 19,95 czy 90,15?"
+pl_027,Balanced,20,True,6.4,6.523333333333333,Czekaj... naprawde wychodzimy? 127
+pl_027,Balanced,21,True,6.533333333333333,6.59,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,22,True,6.6,6.8,Czekaj... naprawde wychodzimy? 127
+pl_027,Balanced,23,True,6.8,7.133333333333333,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,24,True,7.133333333333334,7.19,Czekaj...naprawde wychodzimy? 127
+pl_027,Balanced,25,True,7.2,7.256666666666667,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,26,True,7.266666666666667,7.323333333333333,Czekaj...naprawdeę wychodzimy? 127
+pl_027,Balanced,27,True,7.333333333333333,7.8,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,28,True,7.8,7.8566666666666665,Czekaj...naprawde wychodzimy? 127
+pl_027,Balanced,29,True,7.866666666666666,8.2,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,30,True,8.2,8.256666666666668,Czekaj... naprawde wychodzimy? 127
+pl_027,Balanced,31,True,8.266666666666667,8.323333333333334,Czekaj...naprawde wychodzimy? 127
+pl_027,Balanced,32,True,8.333333333333334,8.39,Czekaj...naprawdę wychodzimy? 127
+pl_027,Balanced,33,True,8.4,8.666666666666666,Czekaj... naprawdę wychodzimy? 127
+pl_027,Balanced,34,True,8.666666666666666,8.846666666666666,Czekaj... naprawde wychodzimy? 127
+pl_027,Balanced,35,True,9.333333333333334,10.0,Wyjeżdżamy jutro rano
+pl_027,Balanced,36,True,10.0,10.056666666666667,Wyježdžamy jutro rano
+pl_027,Balanced,37,True,10.066666666666666,10.123333333333333,Wyjezdzamy jutro rano
+pl_027,Balanced,38,True,10.133333333333333,10.256666666666668,Wyjeżdžamy jutro rano
+pl_027,Balanced,39,True,10.266666666666667,10.466666666666667,Wyjeżdżamy jutro rano
+pl_027,Balanced,40,True,10.466666666666667,10.523333333333333,Wyjeżdzamy jutro rano
+pl_027,Balanced,41,True,10.533333333333333,10.59,Wyjezdžamy jutro rano
+pl_027,Balanced,43,True,11.4,11.456666666666667,Wyjezdzamyjutro rano
+pl_027,Balanced,44,True,11.466666666666667,11.523333333333333,Wyjezdzamy jutro rano
+pl_027,Balanced,45,True,11.533333333333333,11.59,Wyjezdżamy jutro rano
+pl_027,Balanced,46,True,11.6,11.799999999999999,Wyjezdzamy jutro rano
+pl_027,Balanced,47,True,11.8,11.98,Wyjeżdžamy jutro rano
+pl_027,Balanced,49,True,15.2,15.256666666666668,"Nie wierzę, že już północ! 2026"
+pl_028,Fast,1,True,0.5333333333333333,1.2,"Nie wierzę, że już północ!"
+pl_028,Fast,2,True,1.2,1.4666666666666666,"Nie wierzę, že już północ!"
+pl_028,Fast,4,True,2.533333333333333,2.7333333333333334,"Nie wierzę, że juž północ!"
+pl_028,Fast,6,True,6.4,6.933333333333334,Wyjeżdżamyjutro wieczorem 128
+pl_028,Fast,7,True,6.933333333333334,7.056666666666667,Wyjeżdżamy jutro wieczorem 128
+pl_028,Fast,8,True,7.066666666666666,7.333333333333333,Wyjeżdżamyjutro wieczorem 128
+pl_028,Fast,9,True,7.333333333333333,7.456666666666667,Wyjeżdžamy jutro wieczorem 128
+pl_028,Fast,10,True,7.466666666666667,7.733333333333333,Wyježdżamyjutro wieczorem 128
+pl_028,Fast,11,True,7.733333333333333,7.8566666666666665,Wyježdžamy jutro wieczorem 128
+pl_028,Fast,12,True,7.866666666666666,8.266666666666666,Wyjeżdżamy jutro wieczorem 128
+pl_028,Fast,13,True,8.266666666666667,8.39,Wyjeżdžamyjutro wieczorem 128
+pl_028,Fast,14,True,8.4,8.523333333333333,Wyjezdzamyjutro wieczorem 128
+pl_028,Fast,15,True,8.533333333333333,9.066666666666666,Wyjeżdżamy jutro wieczorem 128
+pl_028,Fast,17,True,10.533333333333333,10.656666666666666,"Mówiłes 19,95 czy 90,15?"
+pl_028,Fast,18,True,10.666666666666666,10.866666666666665,"Mówiłeś 19,95 czy 90,15?"
+pl_028,Fast,19,True,12.266666666666667,12.39,Czekaj... naprawdę wychodzimy?
+pl_028,Fast,20,True,12.4,12.523333333333333,Czekaj... naprawde wychodzimy?
+pl_028,Balanced,1,True,0.4666666666666667,1.1333333333333333,"Nie wierzę, że już północ!"
+pl_028,Balanced,2,True,1.1333333333333333,1.4,"Nie wierzę, že już północ!"
+pl_028,Balanced,4,True,2.066666666666667,2.1233333333333335,"Nie wierzę, że juž północ!"
+pl_028,Balanced,5,True,2.1333333333333333,2.466666666666667,"Nie wierzę, że już północ!"
+pl_028,Balanced,6,True,2.466666666666667,2.646666666666667,"Nie wierzę, że juž północ!"
+pl_028,Balanced,8,True,5.133333333333334,5.19,Czerwone drzwisą po lewej. 2026
+pl_028,Balanced,9,True,5.2,5.8,Czerwone drzwi są po lewej. 2026
+pl_028,Balanced,10,True,6.4,6.733333333333333,Wyjeżdżamyjutro wieczorem 128
+pl_028,Balanced,11,True,6.733333333333333,6.79,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,12,True,6.8,6.923333333333334,Wyjeżdżamyjutro wieczorem 128
+pl_028,Balanced,13,True,6.933333333333334,6.99,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,14,True,7.0,7.266666666666667,Wyjeżdżamyjutro wieczorem 128
+pl_028,Balanced,15,True,7.266666666666667,7.323333333333333,Wyjeżdžamyjutro wieczorem 128
+pl_028,Balanced,16,True,7.333333333333333,7.390000000000001,Wyjeżdžamy jutro wieczorem 128
+pl_028,Balanced,17,True,7.4,7.456666666666667,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,18,True,7.466666666666667,7.666666666666666,Wyježdżamyjutro wieczorem 128
+pl_028,Balanced,19,True,7.666666666666667,7.723333333333334,Wyjezdzamyjutro wieczorem 128
+pl_028,Balanced,20,True,7.733333333333333,7.79,Wyježdžamy jutro wieczorem 128
+pl_028,Balanced,21,True,7.8,7.8566666666666665,Wyjeżdžamyjutro wieczorem 128
+pl_028,Balanced,22,True,7.866666666666666,7.923333333333334,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,23,True,7.933333333333334,7.99,Wyjeżdżamyjutro wieczorem 128
+pl_028,Balanced,24,True,8.0,8.2,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,25,True,8.2,8.256666666666668,Wyjeżdżamyjutro wieczorem 128
+pl_028,Balanced,26,True,8.266666666666667,8.323333333333334,Wyjeżdžamyjutro wieczorem 128
+pl_028,Balanced,27,True,8.333333333333334,8.39,Wyjezdzamy jutro wieczorem 128
+pl_028,Balanced,28,True,8.4,8.456666666666667,Wyjezdzamyjutro wieczorem 128
+pl_028,Balanced,29,True,8.466666666666667,9.0,Wyjeżdżamy jutro wieczorem 128
+pl_028,Balanced,31,True,10.533333333333333,10.59,"Mówiłes 19,95 czy 90,15?"
+pl_028,Balanced,32,True,10.6,10.78,"Mówiłeś 19,95 czy 90,15?"
+pl_028,Balanced,33,True,12.266666666666667,12.39,Czekaj... naprawdę wychodzimy?
+pl_028,Balanced,34,True,12.4,12.456666666666667,Czekaj... naprawde wychodzimy?
+pl_030,Fast,1,True,0.5333333333333333,1.0666666666666667,"Mówiles 19,95 czy 90,15?"
+pl_030,Fast,2,True,1.0666666666666667,1.19,"Mówileś 19,95 czy 90,15?"
+pl_030,Fast,3,True,1.2,1.4666666666666666,"Mówiles 19,95 czy 90,15?"
+pl_030,Fast,5,True,2.2666666666666666,2.39,"Mówiles 19,95 czy 90,15?"
+pl_030,Fast,6,True,2.4,2.6666666666666665,"Mówileś 19,95 czy 90,15?"
+pl_030,Fast,7,True,2.6666666666666665,2.79,"Mówiles 19,95 czy 90,15?"
+pl_030,Fast,8,True,2.8,3.0666666666666664,"Mówileś 19,95 czy 90,15?"
+pl_030,Fast,12,True,12.266666666666667,12.933333333333334,"Nie wierzę, że już pólnoc! 50%"
+pl_030,Fast,13,True,12.933333333333334,13.2,"Nie wierzę, że już północ! 50%"
+pl_030,Fast,14,True,13.2,13.323333333333334,"Nie wierzę, że już pólnoc! 50%"
+pl_030,Fast,15,True,13.333333333333334,13.456666666666667,"Nie wierzę, że już północ! 50%"
+pl_030,Balanced,1,True,0.4666666666666667,1.0666666666666667,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,2,True,1.0666666666666667,1.1233333333333333,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,3,True,1.1333333333333333,1.2566666666666666,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,4,True,1.2666666666666666,1.3233333333333333,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,5,True,1.3333333333333333,1.39,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,6,True,1.4,1.9333333333333333,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,7,True,1.9333333333333333,1.99,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,8,True,2.0,2.2,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,9,True,2.2,2.4,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,10,True,2.4,2.6666666666666665,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,11,True,2.6666666666666665,2.79,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,12,True,2.8,2.856666666666667,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,13,True,2.8666666666666667,2.9233333333333333,"Mówiles 19,95 czy 90,15?"
+pl_030,Balanced,14,True,2.933333333333333,3.1133333333333333,"Mówileś 19,95 czy 90,15?"
+pl_030,Balanced,17,True,7.8,7.8566666666666665,Wyjeżdžamy jutro rano 130
+pl_030,Balanced,18,True,7.866666666666666,8.066666666666666,Wyjeżdżamy jutro rano 130
+pl_030,Balanced,20,True,12.266666666666667,12.866666666666667,"Nie wierzę, że już pólnoc! 50%"
+pl_030,Balanced,21,True,12.866666666666667,13.133333333333333,"Nie wierzę, że już północ! 50%"
+pl_030,Balanced,22,True,13.133333333333333,13.333333333333334,"Nie wierzę, że już pólnoc! 50%"
+pl_030,Balanced,23,True,13.333333333333334,13.39,"Nie wierzę, że już północ! 50%"
+pl_031,Fast,3,True,6.4,6.8,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Fast,4,True,6.8,6.923333333333334,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Fast,5,True,6.933333333333334,7.2,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Fast,6,True,7.2,7.323333333333333,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Fast,9,True,10.933333333333334,11.056666666666667,Czekaj... naprawde wychodzimy? 50%
+pl_031,Fast,10,True,11.066666666666666,11.466666666666667,Czekaj... naprawdę wychodzimy? 50%
+pl_031,Balanced,3,True,6.4,6.8,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Balanced,4,True,6.8,6.8566666666666665,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Balanced,5,True,6.866666666666666,6.99,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Balanced,6,True,7.0,7.056666666666667,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Balanced,7,True,7.066666666666666,7.19,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Balanced,8,True,7.2,7.256666666666667,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Balanced,9,True,7.266666666666667,7.8,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Balanced,10,True,7.8,7.8566666666666665,"Mówiłes 19,95 czy 90,15? 131"
+pl_031,Balanced,11,True,7.866666666666666,8.266666666666666,"Mówiłeś 19,95 czy 90,15? 131"
+pl_031,Balanced,13,True,10.333333333333334,10.39,Czekaj...naprawdę wychodzimy? 50%
+pl_031,Balanced,14,True,10.4,10.933333333333334,Czekaj... naprawdę wychodzimy? 50%
+pl_031,Balanced,15,True,10.933333333333334,11.056666666666667,Czekaj... naprawde wychodzimy? 50%
+pl_031,Balanced,16,True,11.066666666666666,11.4,Czekaj... naprawdę wychodzimy? 50%
+pl_031,Balanced,17,True,11.4,11.58,Czekaj... naprawde wychodzimy? 50%
+pl_032,Fast,4,True,9.333333333333334,9.456666666666667,Wyjeżdžamy jutro wieczorem
+pl_032,Fast,5,True,9.466666666666667,9.866666666666665,Wyjeżdżamy jutro wieczorem
+pl_032,Fast,6,True,9.866666666666667,9.99,Wyjeżdžamy jutro wieczorem
+pl_032,Fast,7,True,10.0,10.123333333333333,Wyježdżamyjutro wieczorem
+pl_032,Fast,8,True,10.133333333333333,10.256666666666668,Wyjeżdzamy jutro wieczorem
+pl_032,Fast,9,True,10.266666666666667,10.799999999999999,Wyjeżdżamy jutro wieczorem
+pl_032,Fast,10,True,10.8,10.923333333333334,Wyjeżdžamy jutro wieczorem
+pl_032,Fast,13,True,13.866666666666667,13.99,"Mówiłes 19,95 czy 90,15? 2026"
+pl_032,Fast,14,True,14.0,14.933333333333334,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_032,Fast,16,True,15.866666666666667,15.99,Czekaj... naprawde wychodzimy? 2031
+pl_032,Fast,17,True,16.0,16.666666666666668,Czekaj... naprawdę wychodzimy? 2031
+pl_032,Balanced,4,True,9.333333333333334,9.456666666666667,Wyjeżdžamy jutro wieczorem
+pl_032,Balanced,5,True,9.466666666666667,9.866666666666667,Wyjeżdżamy jutro wieczorem
+pl_032,Balanced,6,True,9.866666666666667,9.99,Wyjeżdžamy jutro wieczorem
+pl_032,Balanced,7,True,10.0,10.056666666666667,Wyježdżamyjutro wieczorem
+pl_032,Balanced,8,True,10.066666666666666,10.19,Wyjeżdzamy jutro wieczorem
+pl_032,Balanced,9,True,10.2,10.6,Wyjeżdżamy jutro wieczorem
+pl_032,Balanced,10,True,10.6,10.656666666666666,Wyjeżdzamy jutro wieczorem
+pl_032,Balanced,11,True,10.666666666666666,10.790000000000001,Wyjeżdżamy jutro wieczorem
+pl_032,Balanced,12,True,10.8,10.856666666666667,Wyjeżdžamy jutro wieczorem
+pl_032,Balanced,15,True,13.866666666666667,13.99,"Mówiłes 19,95 czy 90,15? 2026"
+pl_032,Balanced,16,True,14.0,14.866666666666667,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_032,Balanced,18,True,15.866666666666667,15.923333333333334,Czekaj... naprawde wychodzimy? 2031
+pl_032,Balanced,19,True,15.933333333333334,16.6,Czekaj... naprawdę wychodzimy? 2031
+pl_033,Fast,1,True,0.5333333333333333,0.6566666666666666,Czekaj...naprawdę wychodzimy?
+pl_033,Fast,2,True,0.6666666666666666,0.79,Czekaj.../naprawde wychodzimy?
+pl_033,Fast,3,True,0.8,0.9233333333333333,Czekaj... naprawdę wychodzimy?
+pl_033,Fast,4,True,0.9333333333333333,1.0566666666666666,Czekaj... naprawde wychodzimy?
+pl_033,Fast,6,True,1.7333333333333334,1.8566666666666667,Czekaj... naprawde wychodzimy?
+pl_033,Fast,7,True,1.8666666666666667,1.99,Czekaj... naprawdę wychodzimy?
+pl_033,Fast,8,True,2.0,2.4,Czekaj... naprawde wychodzimy?
+pl_033,Fast,11,True,9.333333333333334,10.133333333333333,"Nie wierzę, że już północ! 2026"
+pl_033,Fast,12,True,10.133333333333333,10.256666666666668,Nie wierze; że już północ! 2026
+pl_033,Fast,13,True,10.266666666666667,10.39,"Nie wierzę, że już północ! 2026"
+pl_033,Fast,14,True,10.4,10.523333333333333,"Nie wierze, że już północ! 2026"
+pl_033,Fast,16,True,11.466666666666667,11.733333333333333,"Nie wierzę, ze już północ! 2026"
+pl_033,Fast,17,True,11.733333333333333,11.856666666666667,"Nie wierze, ze już północ! 2026"
+pl_033,Fast,18,True,11.866666666666667,12.066666666666666,"Nie wierzę, że już północ! 2026"
+pl_033,Fast,19,True,12.266666666666667,12.39,Czerwone drzwi są po lewej.
+pl_033,Fast,20,True,12.4,12.523333333333333,Czerwone drzwi sa po lewej.
+pl_033,Fast,21,True,12.533333333333333,12.933333333333334,Czerwone drzwi są po lewej.
+pl_033,Fast,22,True,12.933333333333334,13.056666666666667,Czerwone drzwi sa po lewej.
+pl_033,Balanced,1,True,0.4666666666666667,0.5233333333333333,Czekaj... naprawdę wychodzimy?
+pl_033,Balanced,2,True,0.5333333333333333,0.59,Czekaj...naprawdę wychodzimy?
+pl_033,Balanced,3,True,0.6,0.7233333333333333,Czekaj...naprawde wychodzimy?
+pl_033,Balanced,4,True,0.7333333333333333,0.79,Czekaj...naprawdę wychodzimy?
+pl_033,Balanced,5,True,0.8,0.9233333333333333,Czekaj... naprawdę wychodzimy?
+pl_033,Balanced,6,True,0.9333333333333333,1.0566666666666666,Czekaj... naprawde wychodzimy?
+pl_033,Balanced,7,True,1.0666666666666667,1.5333333333333332,Czekaj... naprawdę wychodzimy?
+pl_033,Balanced,8,True,1.5333333333333334,1.59,Czekaj... naprawde wychodzimy?
+pl_033,Balanced,9,True,1.6,1.6566666666666667,Czekaj... naprawdę wychodzimy?
+pl_033,Balanced,10,True,1.6666666666666667,1.79,Czekaj... naprawde wychodzimy?
+pl_033,Balanced,11,True,1.8,2.0,Czekaj... naprawdę wychodzimy?
+pl_033,Balanced,12,True,2.0,2.3333333333333335,Czekaj... naprawde wychodzimy?
+pl_033,Balanced,15,True,9.333333333333334,9.933333333333334,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,16,True,9.933333333333334,9.99,"Nie wierze, że już północ! 2026"
+pl_033,Balanced,17,True,10.0,10.056666666666667,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,18,True,10.066666666666666,10.123333333333333,"Nie wierzę, ze już północ! 2026"
+pl_033,Balanced,19,True,10.133333333333333,10.19,Nie wierze; że już północ! 2026
+pl_033,Balanced,20,True,10.2,10.4,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,21,True,10.4,10.456666666666667,"Nie wierze, że już północ! 2026"
+pl_033,Balanced,22,True,10.466666666666667,11.0,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,23,True,11.0,11.056666666666667,"Nie wierze, że już północ! 2026"
+pl_033,Balanced,24,True,11.066666666666666,11.4,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,25,True,11.4,11.523333333333333,"Nie wierzę, ze już północ! 2026"
+pl_033,Balanced,26,True,11.533333333333333,11.59,"Nie wierze, że już północ! 2026"
+pl_033,Balanced,27,True,11.6,11.656666666666666,"Nie wierzę, ze już północ! 2026"
+pl_033,Balanced,28,True,11.666666666666666,11.790000000000001,"Nie wierze, ze już północ! 2026"
+pl_033,Balanced,29,True,11.8,11.98,"Nie wierzę, że już północ! 2026"
+pl_033,Balanced,30,True,12.266666666666667,12.39,Czerwone drzwi są po lewej.
+pl_033,Balanced,31,True,12.4,12.456666666666667,Czerwone drzwi sa po lewej.
+pl_033,Balanced,32,True,12.466666666666667,12.933333333333334,Czerwone drzwi są po lewej.
+pl_033,Balanced,33,True,12.933333333333334,13.056666666666667,Czerwone drzwi sa po lewej.
+pl_034,Fast,2,True,3.466666666666667,3.5900000000000003,"Mówileś 19,95 czy 90,15?"
+pl_034,Fast,4,True,4.4,4.523333333333333,"Mówileś 19,95 czy 90,15?"
+pl_034,Fast,5,True,4.533333333333333,5.333333333333333,"Mówiłeś 19,95 czy 90,15?"
+pl_034,Fast,6,True,5.333333333333333,5.456666666666667,"Mówiłeś 19,95czy 90,15?"
+pl_034,Fast,7,True,5.466666666666667,5.866666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_034,Fast,9,True,8.933333333333334,9.133333333333333,Czekaj... naprawde wychodzimy? 134
+pl_034,Fast,11,True,10.0,10.123333333333333,Wyjeżdzamy jutro rano
+pl_034,Fast,12,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano
+pl_034,Fast,13,True,10.533333333333333,10.656666666666666,Wyjezdżamy jutro rano
+pl_034,Fast,14,True,10.666666666666666,10.866666666666665,Wyjeżdżamy jutro rano
+pl_034,Balanced,2,True,3.4,3.456666666666667,"Mówiłeś. 19,95 czy 90,15?"
+pl_034,Balanced,3,True,3.466666666666667,3.5900000000000003,"Mówileś 19,95 czy 90,15?"
+pl_034,Balanced,4,True,3.6,4.3999999999999995,"Mówiłeś 19,95 czy 90,15?"
+pl_034,Balanced,5,True,4.4,4.456666666666667,"Mówileś 19,95 czy 90,15?"
+pl_034,Balanced,7,True,5.333333333333333,5.390000000000001,"Mówiłeś 19,95czy 90,15?"
+pl_034,Balanced,8,True,5.4,5.8,"Mówiłeś 19,95 czy 90,15?"
+pl_034,Balanced,9,True,6.4,6.733333333333333,Czekaj... naprawdę wychodzimy? 134
+pl_034,Balanced,10,True,6.733333333333333,6.79,Czekaj... naprawde wychodzimy? 134
+pl_034,Balanced,11,True,6.8,7.133333333333333,Czekaj... naprawdę wychodzimy? 134
+pl_034,Balanced,12,True,7.133333333333334,7.19,Czekaj... naprawde wychodzimy? 134
+pl_034,Balanced,14,True,8.2,8.256666666666668,Czekaj... naprawde wychodzimy? 134
+pl_034,Balanced,15,True,8.266666666666667,8.933333333333334,Czekaj... naprawdę wychodzimy? 134
+pl_034,Balanced,16,True,8.933333333333334,9.113333333333333,Czekaj... naprawde wychodzimy? 134
+pl_034,Balanced,18,True,10.0,10.123333333333333,Wyjeżdzamy jutro rano
+pl_034,Balanced,19,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro rano
+pl_034,Balanced,20,True,10.533333333333333,10.656666666666666,Wyjezdżamy jutro rano
+pl_034,Balanced,21,True,10.666666666666666,10.846666666666666,Wyjeżdżamy jutro rano
+pl_035,Fast,3,True,6.4,6.523333333333333,Wyjeżdżamy jutro wieczorem 135
+pl_035,Fast,4,True,6.533333333333333,6.656666666666667,Wyjezdżamy jutro wieczorem 135
+pl_035,Fast,5,True,6.666666666666667,6.933333333333334,Wyjeżdżamy jutro wieczorem 135
+pl_035,Fast,6,True,6.933333333333334,7.056666666666667,Wyjezdżamy jutro wieczorem 135
+pl_035,Fast,7,True,7.066666666666666,7.19,Wyjeżdżamy jutro wieczorem 135
+pl_035,Fast,8,True,7.2,7.323333333333333,Wyjezdżamy jutro wieczorem 135
+pl_035,Fast,9,True,7.333333333333333,7.456666666666667,Wyjezdzamy jutro wieczorem 135
+pl_035,Fast,10,True,7.466666666666667,7.866666666666666,Wyjeżdżamy jutro wieczorem 135
+pl_035,Fast,11,True,9.333333333333334,9.6,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Fast,12,True,9.6,9.723333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_035,Fast,13,True,9.733333333333333,10.0,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Fast,14,True,10.0,10.266666666666666,"Mówiles 19,95 czy 90,15?"
+pl_035,Fast,15,True,10.266666666666667,10.39,"Mówites 19,95 czy 90,15?"
+pl_035,Fast,16,True,10.4,10.523333333333333,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Fast,17,True,10.533333333333333,10.656666666666666,"Mówiles 19,95 czy 90,15?"
+pl_035,Fast,18,True,10.666666666666666,11.066666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Balanced,1,True,0.4666666666666667,0.8666666666666667,"Nie wierzę, że już północ!"
+pl_035,Balanced,2,True,0.8666666666666667,0.9233333333333333,"Nie wierze, że już północ!"
+pl_035,Balanced,3,True,0.9333333333333333,0.99,"Nie wierzę, że już północ!"
+pl_035,Balanced,4,True,1.0,1.0566666666666666,"Nie wierze, że już północ!"
+pl_035,Balanced,5,True,1.0666666666666667,1.1233333333333333,"Nie wierzę, że już północ!"
+pl_035,Balanced,6,True,1.1333333333333333,1.19,"Nie wierzę, že już północ!"
+pl_035,Balanced,8,True,2.066666666666667,2.1233333333333335,"Nie wierze, że już północ!"
+pl_035,Balanced,9,True,2.1333333333333333,2.8666666666666667,"Nie wierzę, że już północ!"
+pl_035,Balanced,11,True,6.4,6.523333333333333,Wyjeżdżamy jutro wieczorem 135
+pl_035,Balanced,12,True,6.533333333333333,6.59,Wyjezdżamy jutro wieczorem 135
+pl_035,Balanced,13,True,6.6,6.656666666666667,Wyježdżamy jutro wieczorem 135
+pl_035,Balanced,14,True,6.666666666666667,6.866666666666666,Wyjeżdżamy jutro wieczorem 135
+pl_035,Balanced,15,True,6.866666666666666,7.066666666666666,Wyjezdżamy jutro wieczorem 135
+pl_035,Balanced,16,True,7.066666666666666,7.123333333333334,Wyjeżdżamy jutro wieczorem 135
+pl_035,Balanced,17,True,7.133333333333334,7.333333333333333,Wyjezdżamy jutro wieczorem 135
+pl_035,Balanced,18,True,7.333333333333333,7.456666666666667,Wyjezdzamy jutro wieczorem 135
+pl_035,Balanced,19,True,7.466666666666667,7.666666666666666,Wyjeżdżamy jutro wieczorem 135
+pl_035,Balanced,20,True,7.666666666666667,7.723333333333334,Wyjezdżamy jutro wieczorem 135
+pl_035,Balanced,21,True,7.733333333333333,7.913333333333333,Wyjeżdżamy jutro wieczorem 135
+pl_035,Balanced,22,True,9.333333333333334,9.6,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Balanced,23,True,9.6,9.656666666666666,"Mówiłes 19,95 czy 90,15?"
+pl_035,Balanced,24,True,9.666666666666666,10.0,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Balanced,25,True,10.0,10.2,"Mówiles 19,95 czy 90,15?"
+pl_035,Balanced,26,True,10.2,10.256666666666668,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Balanced,27,True,10.266666666666667,10.323333333333334,"Mówites 19,95 czy 90,15?"
+pl_035,Balanced,28,True,10.333333333333334,10.456666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_035,Balanced,29,True,10.466666666666667,10.523333333333333,"Máwites 19,95 czy 90,15?"
+pl_035,Balanced,30,True,10.533333333333333,10.59,"Mówiles 19,95 czy 90,15?"
+pl_035,Balanced,31,True,10.6,10.656666666666666,"Mówiłes 19,95 czy 90,15?"
+pl_035,Balanced,32,True,10.666666666666666,11.0,"Mówiłeś 19,95 czy 90,15?"
+pl_036,Fast,2,True,1.7333333333333334,1.8566666666666667,Wyjeżdžamy jutro rano 2026
+pl_036,Fast,3,True,1.8666666666666667,3.0666666666666664,Wyjeżdżamy jutro rano 2026
+pl_036,Fast,5,True,6.4,6.933333333333334,"Nie wierzę, że już północ! 136"
+pl_036,Fast,6,True,6.933333333333334,7.056666666666667,"Nie wierzę, že już północ! 136"
+pl_036,Fast,11,True,16.0,16.12333333333333,"Mówites 19,95 czy 90,15? 2035"
+pl_036,Fast,12,True,16.133333333333333,16.53333333333333,"Mówiłes 19,95 czy 90,15? 2035"
+pl_036,Fast,13,True,16.533333333333335,17.599999999999998,"Mówites 19,95 czy 90,15? 2035"
+pl_036,Balanced,2,True,1.7333333333333334,1.8566666666666667,Wyjeżdžamy jutro rano 2026
+pl_036,Balanced,3,True,1.8666666666666667,3.066666666666667,Wyjeżdżamy jutro rano 2026
+pl_036,Balanced,5,True,6.4,6.933333333333333,"Nie wierzę, że już północ! 136"
+pl_036,Balanced,6,True,6.933333333333334,6.99,"Nie wierzę, že już północ! 136"
+pl_036,Balanced,7,True,7.0,7.056666666666667,"Nie wierze, że już północ! 136"
+pl_036,Balanced,8,True,7.066666666666666,7.266666666666667,"Nie wierzę, że już północ! 136"
+pl_036,Balanced,9,True,7.266666666666667,7.323333333333333,"Nie wierzę, že już północ! 136"
+pl_036,Balanced,13,True,13.666666666666666,13.723333333333333,Wyjeżdżamyjutro wieczorem
+pl_036,Balanced,14,True,13.733333333333333,14.2,Wyjeżdżamy jutro wieczorem
+pl_036,Balanced,15,True,14.2,14.256666666666668,Wyjezdżamy jutro wieczorem
+pl_036,Balanced,16,True,14.266666666666667,14.446666666666667,Wyjeżdżamy jutro wieczorem
+pl_036,Balanced,18,True,15.933333333333334,16.056666666666665,"Mówites 19,95 czy 90,15? 2035"
+pl_036,Balanced,19,True,16.066666666666666,16.53333333333333,"Mówiłes 19,95 czy 90,15? 2035"
+pl_036,Balanced,20,True,16.533333333333335,17.6,"Mówites 19,95 czy 90,15? 2035"
+pl_037,Fast,1,True,0.5333333333333333,1.0666666666666667,"Mówileś 19,95 czy 90,15?"
+pl_037,Fast,2,True,1.0666666666666667,1.19,"Mówiles 19,95 czy 90,15?"
+pl_037,Fast,5,True,6.4,7.2,Wyjeżdżamy jutro rano 137
+pl_037,Fast,6,True,7.2,7.323333333333333,Wyježdżamy jutro rano 137
+pl_037,Balanced,1,True,0.4666666666666667,1.0,"Mówileś 19,95 czy 90,15?"
+pl_037,Balanced,2,True,1.0,1.1233333333333333,"Mówiles 19,95 czy 90,15?"
+pl_037,Balanced,6,True,7.133333333333334,7.19,Wyjeżdżamyijutro rano 137
+pl_037,Balanced,7,True,7.2,7.256666666666667,Wyježdżamy jutro rano 137
+pl_037,Balanced,8,True,7.266666666666667,7.8,Wyjeżdżamy jutro rano 137
+pl_037,Balanced,9,True,7.8,7.8566666666666665,Wyjeżdžamy jutro rano 137
+pl_037,Balanced,10,True,7.866666666666666,8.266666666666666,Wyjeżdżamy jutro rano 137
+pl_037,Balanced,12,True,11.4,11.58,Poczekajna mnie
+pl_038,Fast,1,True,0.5333333333333333,0.9333333333333333,Czerwone drzwi są po lewej.
+pl_038,Fast,2,True,0.9333333333333333,1.2,©zerwone drzwi są po lewej.
+pl_038,Fast,5,True,5.2,5.4,Wyjeżdżamyjutro wieczorem
+pl_038,Fast,6,True,6.4,7.066666666666666,"Mówileś 19,95 czy 90,15? 138"
+pl_038,Fast,7,True,7.066666666666666,7.333333333333333,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Fast,9,True,8.266666666666667,8.39,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Fast,10,True,8.4,8.6,"Môwileś 19,95 czy 90,15? 138"
+pl_038,Fast,11,True,9.333333333333334,10.133333333333333,Czekaj... naprawdę wychodzimy?
+pl_038,Fast,12,True,10.133333333333333,10.256666666666668,Czekaj...naprawdę wychodzimy?
+pl_038,Fast,14,True,11.466666666666667,11.733333333333333,Czekaj...naprawde wychodzimy?
+pl_038,Balanced,1,True,0.4666666666666667,0.8666666666666667,Czerwone drzwi są po lewej.
+pl_038,Balanced,2,True,0.8666666666666667,0.99,©zerwone drzwi są po lewej.
+pl_038,Balanced,3,True,1.0,1.0566666666666666,Czerwone drzwi są po lewej.
+pl_038,Balanced,4,True,1.0666666666666667,1.1233333333333333,©zerwone drzwi są po lewej.
+pl_038,Balanced,7,True,5.2,5.38,Wyjeżdżamyjutro wieczorem
+pl_038,Balanced,8,True,6.4,7.0,"Mówileś 19,95 czy 90,15? 138"
+pl_038,Balanced,9,True,7.0,7.266666666666667,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Balanced,10,True,7.266666666666667,7.8,"Mówileś 19,95 czy 90,15? 138"
+pl_038,Balanced,11,True,7.8,7.8566666666666665,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Balanced,12,True,7.866666666666666,7.923333333333334,"Mówileś 19,95 czy 90,15? 138"
+pl_038,Balanced,13,True,7.933333333333334,7.99,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Balanced,14,True,8.0,8.2,"Mówileś 19,95 czy 90,15? 138"
+pl_038,Balanced,15,True,8.2,8.323333333333334,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Balanced,16,True,8.333333333333334,8.39,"Mowiles 19,95 czy 90,15? 138"
+pl_038,Balanced,17,True,8.4,8.456666666666667,"Môwileś 19,95 czy 90,15? 138"
+pl_038,Balanced,18,True,8.466666666666667,8.646666666666667,"Mówiles 19,95 czy 90,15? 138"
+pl_038,Balanced,19,True,9.333333333333334,9.933333333333334,Czekaj... naprawdę wychodzimy?
+pl_038,Balanced,20,True,9.933333333333334,9.99,Czekaj..naprawdę wychodzimy?
+pl_038,Balanced,21,True,10.0,10.123333333333333,Czekaj... naprawdę wychodzimy?
+pl_038,Balanced,22,True,10.133333333333333,10.19,Czekaj...naprawdę wychodzimy?
+pl_038,Balanced,24,True,11.466666666666667,11.523333333333333,Czekaj...naprawde wychodzimy?
+pl_038,Balanced,25,True,11.533333333333333,11.59,Czekaj..naprawdę wychodzimy?
+pl_038,Balanced,26,True,11.6,11.78,Czekaj...naprawde wychodzimy?
+pl_039,Fast,3,True,5.2,5.323333333333333,"Nie wierzę, že już północ!"
+pl_039,Fast,4,True,5.333333333333333,5.6,"Nie wierzę, że już północ!"
+pl_039,Fast,6,True,8.266666666666667,8.39,Czerwone drzwitsą po lewej. 139
+pl_039,Fast,7,True,8.4,8.799999999999999,Czerwone drzwi są po lewej. 139
+pl_039,Fast,8,True,9.333333333333334,10.0,Wyjeżdżamy jutro wieczorem
+pl_039,Fast,9,True,10.0,10.123333333333333,Wyjezdzamy jutro wieczorem
+pl_039,Fast,10,True,10.133333333333333,10.533333333333333,Wyjeżdżamy jutro wieczorem
+pl_039,Fast,11,True,10.533333333333333,10.656666666666666,Wyjeżdžamy jutro wieczorem
+pl_039,Fast,13,True,11.466666666666667,11.866666666666665,Wyjezdzamyjutro wieczorem
+pl_039,Fast,14,True,11.866666666666667,12.066666666666666,Wyjeżdżamy jutro wieczorem
+pl_039,Fast,16,True,15.2,15.6,Czekaj... naprawdę wychodzimy? 2038
+pl_039,Fast,17,True,15.6,15.723333333333333,Czekaj... naprawde wychodzimy? 2038
+pl_039,Fast,18,True,15.733333333333333,15.856666666666667,Czekaj... naprawdę wychodzimy? 2038
+pl_039,Fast,19,True,15.866666666666667,15.99,Czekaj... naprawde wychodzimy? 2038
+pl_039,Balanced,3,True,5.2,5.323333333333333,"Nie wierzę, že już północ!"
+pl_039,Balanced,4,True,5.333333333333333,5.533333333333333,"Nie wierzę, że już północ!"
+pl_039,Balanced,5,True,6.4,7.133333333333333,Czerwone drzwi są po lewej. 139
+pl_039,Balanced,6,True,7.133333333333334,7.19,Czerwone drzwifsą po lewej. 139
+pl_039,Balanced,8,True,8.2,8.256666666666668,Czerwone drzwisą po lewej. 139
+pl_039,Balanced,9,True,8.266666666666667,8.323333333333334,Czerwone drzwitsą po lewej. 139
+pl_039,Balanced,10,True,8.333333333333334,8.799999999999999,Czerwone drzwi są po lewej. 139
+pl_039,Balanced,11,True,9.333333333333334,10.0,Wyjeżdżamy jutro wieczorem
+pl_039,Balanced,12,True,10.0,10.056666666666667,Wyjezdzamy jutro wieczorem
+pl_039,Balanced,13,True,10.066666666666666,10.123333333333333,Wyjezdžamy jutro wieczorem
+pl_039,Balanced,14,True,10.133333333333333,10.466666666666667,Wyjeżdżamy jutro wieczorem
+pl_039,Balanced,15,True,10.466666666666667,10.523333333333333,Wyjezdżamy jutro wieczorem
+pl_039,Balanced,16,True,10.533333333333333,10.59,Wyjeżdžamy jutro wieczorem
+pl_039,Balanced,18,True,11.4,11.456666666666667,Wyjeżdzamyjutrowieczorem
+pl_039,Balanced,19,True,11.466666666666667,11.523333333333333,Wyjezdzamyjutro wieczorem
+pl_039,Balanced,20,True,11.533333333333333,11.59,Wyjezdzamy jutro wieczorem
+pl_039,Balanced,21,True,11.6,11.799999999999999,Wyjezdzamyjutro wieczorem
+pl_039,Balanced,22,True,11.8,11.98,Wyjeżdżamy jutro wieczorem
+pl_039,Balanced,24,True,15.2,15.6,Czekaj... naprawdę wychodzimy? 2038
+pl_039,Balanced,25,True,15.6,15.656666666666666,Czekaj... naprawde wychodzimy? 2038
+pl_039,Balanced,26,True,15.666666666666666,15.866666666666667,Czekaj... naprawdę wychodzimy? 2038
+pl_039,Balanced,27,True,15.866666666666667,15.923333333333334,Czekaj... naprawde wychodzimy? 2038
+pl_040,Fast,1,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawde wychodzimy?
+pl_040,Fast,3,True,2.533333333333333,2.7333333333333334,Czekaj... naprawde wychodzimy?
+pl_040,Fast,5,True,6.4,7.066666666666666,Poczekaj na mnie 140
+pl_040,Fast,6,True,7.066666666666666,7.19,Poczekajna mnie 140
+pl_040,Fast,9,True,10.0,10.123333333333333,"Nie wierze, že już północ! 2026"
+pl_040,Fast,10,True,10.133333333333333,10.533333333333333,"Nie wierzę, że już północ! 2026"
+pl_040,Fast,11,True,10.533333333333333,10.656666666666666,"Nie wierzę, že już północ! 2026"
+pl_040,Fast,12,True,10.666666666666666,10.866666666666665,"Nie wierzę, że już północ! 2026"
+pl_040,Balanced,1,True,0.4666666666666667,0.5233333333333333,Czekaj... naprawdę wychodzimy?
+pl_040,Balanced,2,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawde wychodzimy?
+pl_040,Balanced,3,True,0.6666666666666666,0.8666666666666667,Czekaj... naprawdę wychodzimy?
+pl_040,Balanced,4,True,0.8666666666666667,0.9233333333333333,Czekaj... naprawde wychodzimy?
+pl_040,Balanced,6,True,2.533333333333333,2.7133333333333334,Czekaj... naprawde wychodzimy?
+pl_040,Balanced,8,True,6.4,6.733333333333333,Poczekaj na mnie 140
+pl_040,Balanced,9,True,6.733333333333333,6.79,Poczekajna mnie 140
+pl_040,Balanced,10,True,6.8,7.066666666666666,Poczekaj na mnie 140
+pl_040,Balanced,11,True,7.066666666666666,7.19,Poczekajna mnie 140
+pl_040,Balanced,13,True,8.2,8.256666666666668,Poczekajina mnie 140
+pl_040,Balanced,14,True,8.266666666666667,9.0,Poczekaj na mnie 140
+pl_040,Balanced,16,True,10.0,10.123333333333333,"Nie wierze, že już północ! 2026"
+pl_040,Balanced,17,True,10.133333333333333,10.533333333333333,"Nie wierzę, że już północ! 2026"
+pl_040,Balanced,18,True,10.533333333333333,10.59,"Nie wierzę, že już północ! 2026"
+pl_040,Balanced,19,True,10.6,10.78,"Nie wierzę, że już północ! 2026"
+pl_041,Fast,1,True,0.5333333333333333,0.6566666666666666,Wyjezdzamyjutro wieczorem
+pl_041,Fast,2,True,0.6666666666666666,0.79,Wyjezdzamy jutro wieczorem
+pl_041,Fast,3,True,0.8,1.2,Wyjezdzamyjutro wieczorem
+pl_041,Fast,6,True,6.4,6.523333333333333,Czekaj... naprawdę wychodzimy? 141
+pl_041,Fast,10,True,15.2,15.323333333333334,"Nie wierze, że juz północ! 2040"
+pl_041,Fast,11,True,15.333333333333334,15.456666666666667,"Nie wierze, ze juz północ! 2040"
+pl_041,Fast,12,True,15.466666666666667,15.59,"Nie wierzę, ze już północ! 2040"
+pl_041,Fast,13,True,15.6,15.723333333333333,"Nie wierze, ze już północ! 2040"
+pl_041,Fast,14,True,15.733333333333333,15.856666666666667,"Nie wierze, ze juz północ! 2040"
+pl_041,Fast,15,True,15.866666666666667,16.266666666666666,"Nie wierzę, że już północ! 2040"
+pl_041,Fast,16,True,16.266666666666666,16.666666666666668,"Nie wierzę, że juz północ! 2040"
+pl_041,Fast,17,True,16.666666666666668,16.933333333333334,"Nie wierzę, że już północ! 2040"
+pl_041,Fast,18,True,16.933333333333334,17.2,"Nie wierzę, ze już północ! 2040"
+pl_041,Fast,19,True,17.2,17.4,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,1,True,0.4666666666666667,0.6666666666666666,Wyjezdzamyjutro wieczorem
+pl_041,Balanced,2,True,0.6666666666666666,0.7233333333333333,Wyjezdzamy jutro wieczorem
+pl_041,Balanced,3,True,0.7333333333333333,1.2,Wyjezdzamyjutro wieczorem
+pl_041,Balanced,4,True,1.2,1.2566666666666666,Wyjezdzamy jutro wieczorem
+pl_041,Balanced,5,True,1.2666666666666666,1.3233333333333333,Wyjezdżamy jutro wieczorem
+pl_041,Balanced,8,True,6.4,6.523333333333333,Czekaj... naprawdę wychodzimy? 141
+pl_041,Balanced,9,True,6.533333333333333,6.59,Czekaj... naprawde wychodzimy? 141
+pl_041,Balanced,10,True,6.6,6.656666666666667,Czekaj... naprawdę wychodzimy? 141
+pl_041,Balanced,14,True,15.2,15.256666666666668,"Nie wierze, że juz północ! 2040"
+pl_041,Balanced,15,True,15.266666666666667,15.323333333333334,"Nie wierzę, ze juz północ! 2040"
+pl_041,Balanced,16,True,15.333333333333334,15.39,"Nie wierze, ze juz północ! 2040"
+pl_041,Balanced,17,True,15.4,15.456666666666667,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,18,True,15.466666666666667,15.523333333333333,"Nie wierzę, ze już północ! 2040"
+pl_041,Balanced,19,True,15.533333333333333,15.59,"Nie wierze, ze juz północ! 2040"
+pl_041,Balanced,20,True,15.6,15.723333333333333,"Nie wierze, ze już północ! 2040"
+pl_041,Balanced,21,True,15.733333333333333,15.790000000000001,"Nie wierze, ze juz północ! 2040"
+pl_041,Balanced,22,True,15.8,15.923333333333334,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,23,True,15.933333333333334,15.99,"Nie wierzę, ze już północ! 2040"
+pl_041,Balanced,24,True,16.0,16.056666666666665,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,25,True,16.066666666666666,16.12333333333333,"Nie wierzę, ze juz północ! 2040"
+pl_041,Balanced,26,True,16.133333333333333,16.189999999999998,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,27,True,16.2,16.6,"Nie wierzę, że juz północ! 2040"
+pl_041,Balanced,28,True,16.6,16.933333333333334,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,29,True,16.933333333333334,16.99,"Nie wierzę, ze już północ! 2040"
+pl_041,Balanced,30,True,17.0,17.056666666666665,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,31,True,17.066666666666666,17.12333333333333,"Nie wierzę, ze już północ! 2040"
+pl_041,Balanced,32,True,17.133333333333333,17.189999999999998,"Nie wierze, że już północ! 2040"
+pl_041,Balanced,33,True,17.2,17.256666666666664,"Nie wierzę, że już północ! 2040"
+pl_041,Balanced,34,True,17.266666666666666,17.446666666666665,"Nie wierzę, ze już północ! 2040"
+pl_042,Fast,1,True,0.5333333333333333,0.6566666666666666,"Nie wierzę, że już północ!"
+pl_042,Fast,2,True,0.6666666666666666,0.79,"Nie wierzę, że juz północ!"
+pl_042,Fast,3,True,0.8,1.0666666666666667,"Nie wierzę, ze juz północ!"
+pl_042,Fast,4,True,1.0666666666666667,1.5999999999999999,"Nie wierzę, że już północ!"
+pl_042,Fast,5,True,1.6,1.7233333333333334,"Nie wierzę, ze już północ!"
+pl_042,Fast,7,True,2.933333333333333,3.1333333333333333,"Nie wierzę, że juz północ!"
+pl_042,Fast,8,True,3.466666666666667,3.8666666666666667,Czerwone drzwi są po lewej. 2026
+pl_042,Fast,9,True,3.8666666666666667,3.99,Czerwone drzwi sa po lewej. 2026
+pl_042,Fast,10,True,4.0,4.123333333333334,Czerwone drzwi są po lewej. 2026
+pl_042,Fast,11,True,4.133333333333334,4.256666666666667,Czerwone drzwi sa po lewej. 2026
+pl_042,Fast,14,True,7.466666666666667,7.59,Wyjezdzamyjutro wieczorem 142
+pl_042,Fast,15,True,7.6,8.133333333333333,Wyjezdzamy jutro wieczorem 142
+pl_042,Fast,17,True,12.266666666666667,12.533333333333333,Czekaj...naprawdę wychodzimy?
+pl_042,Fast,19,True,13.2,13.323333333333334,Czekaj... naprawdeę wychodzimy?
+pl_042,Fast,20,True,13.333333333333334,13.456666666666667,Czekaj...naprawdę wychodzimy?
+pl_042,Fast,21,True,13.466666666666667,13.866666666666665,Czekaj... naprawdę wychodzimy?
+pl_042,Fast,22,True,13.866666666666667,13.99,Czekaj...naprawdę wychodzimy?
+pl_042,Fast,23,True,14.0,14.266666666666666,Czekaj... naprawdę wychodzimy?
+pl_042,Fast,24,True,14.266666666666667,14.466666666666667,Czekaj...naprawdę wychodzimy?
+pl_042,Balanced,1,True,0.4666666666666667,0.5233333333333333,"Nie wierzę, że juz północ!"
+pl_042,Balanced,2,True,0.5333333333333333,0.59,"Nie wierzę, że już północ!"
+pl_042,Balanced,3,True,0.6,0.7233333333333333,"Nie wierzę, że juz północ!"
+pl_042,Balanced,4,True,0.7333333333333333,1.0,"Nie wierzę, ze juz północ!"
+pl_042,Balanced,5,True,1.0,1.2666666666666666,"Nie wierzę, że już północ!"
+pl_042,Balanced,6,True,1.2666666666666666,1.3233333333333333,"Nie wierzę, ze już północ!"
+pl_042,Balanced,7,True,1.3333333333333333,1.5333333333333332,"Nie wierzę, że już północ!"
+pl_042,Balanced,8,True,1.5333333333333334,1.7333333333333334,"Nie wierzę, ze już północ!"
+pl_042,Balanced,10,True,2.933333333333333,3.1133333333333333,"Nie wierzę, że juz północ!"
+pl_042,Balanced,11,True,3.4,3.8666666666666667,Czerwone drzwi są po lewej. 2026
+pl_042,Balanced,12,True,3.8666666666666667,3.99,Czerwone drzwi sa po lewej. 2026
+pl_042,Balanced,13,True,4.0,4.056666666666667,Czerwone drzwi są po lewej. 2026
+pl_042,Balanced,14,True,4.066666666666666,4.19,Czerwone drzwi sa po lewej. 2026
+pl_042,Balanced,16,True,6.4,6.6,Wyjezdzamy jutro wieczorem 142
+pl_042,Balanced,17,True,6.6,6.656666666666667,Wyjezdzamyjutro wieczorem 142
+pl_042,Balanced,19,True,7.466666666666667,7.523333333333333,Wyjezdzamyjutro wieczorem 142
+pl_042,Balanced,20,True,7.533333333333333,8.066666666666666,Wyjezdzamy jutro wieczorem 142
+pl_042,Balanced,22,True,12.266666666666667,12.466666666666667,Czekaj...naprawdę wychodzimy?
+pl_042,Balanced,23,True,12.466666666666667,12.523333333333333,Czekaj...naprawde wychodzimy?
+pl_042,Balanced,24,True,12.533333333333333,12.733333333333333,Czekaj... naprawdę wychodzimy?
+pl_042,Balanced,25,True,12.733333333333333,12.790000000000001,Czekaj... naprawdeę wychodzimy?
+pl_042,Balanced,26,True,12.8,13.133333333333333,Czekaj... naprawdę wychodzimy?
+pl_042,Balanced,27,True,13.133333333333333,13.19,Czekaj... naprawde wychodzimy?
+pl_042,Balanced,28,True,13.2,13.256666666666668,Czekaj... naprawdeę wychodzimy?
+pl_042,Balanced,29,True,13.266666666666667,13.323333333333334,Czekaj... naprawdę wychodzimy?
+pl_042,Balanced,30,True,13.333333333333334,13.39,Czekaj...naprawdę wychodzimy?
+pl_042,Balanced,31,True,13.4,13.866666666666667,Czekaj... naprawdę wychodzimy?
+pl_042,Balanced,32,True,13.866666666666667,13.923333333333334,Czekaj...naprawdę wychodzimy?
+pl_042,Balanced,33,True,13.933333333333334,13.99,Czekaj... naprawdeę wychodzimy?
+pl_042,Balanced,34,True,14.0,14.2,Czekaj... naprawdę wychodzimy?
+pl_042,Balanced,35,True,14.2,14.4,Czekaj...naprawdę wychodzimy?
+pl_042,Balanced,36,True,15.2,16.333333333333332,Wyjezdzamy jutro rano 2041
+pl_042,Balanced,37,True,16.333333333333332,16.389999999999997,Wyjezdżamy jutro rano 2041
+pl_043,Fast,2,True,1.7333333333333334,1.9333333333333333,Wyjeżdžamy jutro rano 2026
+pl_043,Fast,5,True,7.6,7.723333333333334,"Nie wierzeę, że już północ! 143"
+pl_043,Fast,6,True,7.733333333333333,8.266666666666666,"Nie wierzę, że już północ! 143"
+pl_043,Fast,9,True,14.4,14.523333333333333,Wyjeżdžamy jutro wieczorem
+pl_043,Fast,10,True,14.533333333333333,14.733333333333333,Wyjeżdżamy jutro wieczorem
+pl_043,Fast,11,True,15.2,15.6,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Fast,12,True,15.6,15.723333333333333,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Fast,13,True,15.733333333333333,16.133333333333333,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Fast,14,True,16.133333333333333,16.4,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Fast,15,True,16.4,16.523333333333333,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Fast,16,True,16.533333333333335,16.656666666666666,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Fast,17,True,16.666666666666668,17.066666666666666,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Fast,18,True,17.066666666666666,17.189999999999998,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Fast,19,True,17.2,17.466666666666665,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Fast,20,True,17.466666666666665,17.59,"Mówites 19,95 czy 90,15? 2042"
+pl_043,Fast,21,True,17.6,17.866666666666667,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,2,True,1.7333333333333334,1.79,Wyjeżdžamy jutro rano 2026
+pl_043,Balanced,3,True,1.8,1.98,Wyjeżdżamy jutro rano 2026
+pl_043,Balanced,5,True,6.4,6.733333333333333,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,6,True,6.733333333333333,6.79,"Nie wierzę, żê już północ! 143"
+pl_043,Balanced,7,True,6.8,6.8566666666666665,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,8,True,6.866666666666666,6.923333333333334,"Nie wierze, że już północ! 143"
+pl_043,Balanced,9,True,6.933333333333334,6.99,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,10,True,7.0,7.056666666666667,"Nie wierzę, že już północ! 143"
+pl_043,Balanced,11,True,7.066666666666666,7.123333333333334,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,12,True,7.133333333333334,7.19,"Nie wierzę, že już północ! 143"
+pl_043,Balanced,13,True,7.2,7.256666666666667,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,14,True,7.266666666666667,7.323333333333333,"Nie wierze, że już północ! 143"
+pl_043,Balanced,15,True,7.333333333333333,7.6,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,16,True,7.6,7.656666666666667,"Nie wierzeę, że już północ! 143"
+pl_043,Balanced,17,True,7.666666666666667,7.79,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,18,True,7.8,7.8566666666666665,"Nie wierzeę, że już północ! 143"
+pl_043,Balanced,19,True,7.866666666666666,8.266666666666666,"Nie wierzę, że już północ! 143"
+pl_043,Balanced,21,True,11.4,11.58,Czerwonedrzwisą po lewej.
+pl_043,Balanced,23,True,14.4,14.456666666666667,Wyjeżdžamy jutro wieczorem
+pl_043,Balanced,24,True,14.466666666666667,14.666666666666666,Wyjeżdżamy jutro wieczorem
+pl_043,Balanced,25,True,15.2,15.6,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,26,True,15.6,15.656666666666666,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,27,True,15.666666666666666,15.933333333333334,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,28,True,15.933333333333334,15.99,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,29,True,16.0,16.056666666666665,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,30,True,16.066666666666666,16.333333333333332,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,31,True,16.333333333333332,16.53333333333333,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,32,True,16.533333333333335,16.59,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,33,True,16.6,17.0,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,34,True,17.0,17.12333333333333,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,35,True,17.133333333333333,17.256666666666664,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,36,True,17.266666666666666,17.32333333333333,"Mówiłeś 19,95 czy 90,15? 2042"
+pl_043,Balanced,37,True,17.333333333333332,17.389999999999997,"Mówiłes 19,95 czy 90,15? 2042"
+pl_043,Balanced,38,True,17.4,17.523333333333333,"Mówites 19,95 czy 90,15? 2042"
+pl_043,Balanced,39,True,17.533333333333335,17.8,"Mówiłes 19,95 czy 90,15? 2042"
+pl_044,Fast,1,True,0.5333333333333333,0.6566666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Fast,2,True,0.6666666666666666,0.79,"Mówiłes 19,95 czy 90,15?"
+pl_044,Fast,4,True,1.7333333333333334,1.8566666666666667,"Mówites 19,95 czy 90,15?"
+pl_044,Fast,5,True,1.8666666666666667,1.99,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Fast,6,True,2.0,2.2,"Mówiłes 19,95 czy 90,15?"
+pl_044,Fast,7,True,3.466666666666667,3.8666666666666667,Czekaj... naprawde wychodzimy? 50%
+pl_044,Fast,9,True,6.4,6.8,Wyjeżdżamy jutro rano 144
+pl_044,Fast,10,True,6.8,7.333333333333333,Wyjezdžamy jutro rano 144
+pl_044,Fast,11,True,7.333333333333333,7.866666666666666,Wyjeżdžamy jutro rano 144
+pl_044,Fast,12,True,7.866666666666666,8.266666666666666,Wyjeżdżamy jutro rano 144
+pl_044,Fast,13,True,8.266666666666667,8.39,Wyjezdzamy jutro rano 144
+pl_044,Fast,14,True,8.4,8.6,Wyjeżdžamy jutro rano 144
+pl_044,Fast,16,True,11.466666666666667,11.59,Poczekajina mnie
+pl_044,Fast,17,True,11.6,11.799999999999999,Poczekaj na mnie
+pl_044,Fast,19,True,14.266666666666667,14.39,"Nie wierzę, że jużpółnoc!"
+pl_044,Fast,20,True,14.4,14.933333333333334,"Nie wierzę, że już północ!"
+pl_044,Fast,21,True,15.2,15.323333333333334,Czerwone drzwisą po lewej. 2043
+pl_044,Fast,23,True,16.533333333333335,16.733333333333334,Czerwone drzwisą po lewej. 2043
+pl_044,Balanced,1,True,0.4666666666666667,0.6666666666666666,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Balanced,2,True,0.6666666666666666,0.7233333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_044,Balanced,3,True,0.7333333333333333,0.79,"Mówites 19,95 czy 90,15?"
+pl_044,Balanced,4,True,0.8,0.8566666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Balanced,5,True,0.8666666666666667,0.9233333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_044,Balanced,6,True,0.9333333333333333,0.99,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Balanced,7,True,1.0,1.0566666666666666,"Mówiłes 19,95 czy 90,15?"
+pl_044,Balanced,9,True,1.7333333333333334,1.79,"Mówites 19,95 czy 90,15?"
+pl_044,Balanced,10,True,1.8,2.0,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Balanced,11,True,2.0,2.056666666666667,"Mówiłes 19,95 czy 90,15?"
+pl_044,Balanced,12,True,2.066666666666667,2.246666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_044,Balanced,13,True,3.4,3.6666666666666665,Czekaj... naprawde wychodzimy? 50%
+pl_044,Balanced,14,True,3.6666666666666665,3.7233333333333336,Czekaj... naprawdę wychodzimy? 50%
+pl_044,Balanced,15,True,3.7333333333333334,3.79,Czekaj... naprawde wychodzimy? 50%
+pl_044,Balanced,17,True,6.4,6.8,Wyjeżdżamy jutro rano 144
+pl_044,Balanced,18,True,6.8,7.133333333333333,Wyjezdžamy jutro rano 144
+pl_044,Balanced,19,True,7.133333333333334,7.19,Wyjeżdžamy jutro rano 144
+pl_044,Balanced,20,True,7.2,7.256666666666667,Wyjezdžamy jutro rano 144
+pl_044,Balanced,21,True,7.266666666666667,7.323333333333333,Wyježdžamy jutro rano 144
+pl_044,Balanced,22,True,7.333333333333333,7.866666666666666,Wyjeżdžamy jutro rano 144
+pl_044,Balanced,23,True,7.866666666666666,7.923333333333334,Wyjeżdżamy jutro rano 144
+pl_044,Balanced,24,True,7.933333333333334,7.99,Wyjeżdžamy jutro rano 144
+pl_044,Balanced,25,True,8.0,8.2,Wyjeżdżamy jutro rano 144
+pl_044,Balanced,26,True,8.2,8.323333333333334,Wyjezdzamy jutro rano 144
+pl_044,Balanced,27,True,8.333333333333334,8.533333333333333,Wyjeżdžamy jutro rano 144
+pl_044,Balanced,29,True,11.4,11.456666666666667,Poczekajnamnie
+pl_044,Balanced,30,True,11.466666666666667,11.523333333333333,Poczekajina mnie
+pl_044,Balanced,31,True,11.533333333333333,11.733333333333333,Poczekaj na mnie
+pl_044,Balanced,33,True,14.266666666666667,14.39,"Nie wierzę, że jużpółnoc!"
+pl_044,Balanced,34,True,14.4,14.866666666666667,"Nie wierzę, że już północ!"
+pl_044,Balanced,35,True,15.2,15.256666666666668,Czerwone drzwisą po lewej. 2043
+pl_044,Balanced,36,True,15.266666666666667,15.666666666666666,Czerwone drzwi są po lewej. 2043
+pl_044,Balanced,37,True,15.666666666666666,15.723333333333333,Czerwone drzwisą po lewej. 2043
+pl_044,Balanced,39,True,16.533333333333335,16.713333333333335,Czerwone drzwisą po lewej. 2043
+pl_045,Fast,3,True,4.266666666666667,4.8,Wyjeżdżamyjutro wieczorem
+pl_045,Fast,4,True,4.8,5.333333333333333,Wyjeżdżamy jutro wieczorem
+pl_045,Fast,5,True,5.333333333333333,5.456666666666667,Wyjeżdżamyjutro wieczorem
+pl_045,Fast,6,True,5.466666666666667,5.666666666666667,Wyjeżdżamy jutro wieczorem
+pl_045,Fast,7,True,6.4,6.8,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Fast,8,True,6.8,7.2,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Fast,9,True,7.2,7.323333333333333,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Fast,10,True,7.333333333333333,7.456666666666667,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Fast,11,True,7.466666666666667,7.59,"Mówiłeś 19,95 czy 90,15? 145"
+pl_045,Fast,12,True,7.6,7.723333333333334,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Fast,13,True,7.733333333333333,8.0,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Fast,14,True,8.0,8.266666666666666,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Fast,15,True,8.266666666666667,8.533333333333333,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Fast,16,True,8.533333333333333,8.799999999999999,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Fast,17,True,9.333333333333334,10.0,Czekaj... naprawdę wychodzimy?
+pl_045,Fast,18,True,10.0,10.266666666666666,Czekaj...naprawdę wychodzimy?
+pl_045,Fast,19,True,10.266666666666667,10.39,Czekaj... naprawdę wychodzimy?
+pl_045,Fast,20,True,10.4,10.523333333333333,Czekaj..naprawdę wychodzimy?
+pl_045,Balanced,3,True,4.266666666666667,4.466666666666667,Wyjeżdżamyjutro wieczorem
+pl_045,Balanced,4,True,4.466666666666667,4.523333333333333,Wyjeżdżamy jutro wieczorem
+pl_045,Balanced,5,True,4.533333333333333,4.733333333333333,Wyjeżdżamyjutro wieczorem
+pl_045,Balanced,6,True,4.733333333333333,5.333333333333333,Wyjeżdżamy jutro wieczorem
+pl_045,Balanced,7,True,5.333333333333333,5.390000000000001,Wyjeżdżamyjutro wieczorem
+pl_045,Balanced,8,True,5.4,5.58,Wyjeżdżamy jutro wieczorem
+pl_045,Balanced,9,True,6.4,6.8,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,10,True,6.8,7.2,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,11,True,7.2,7.256666666666667,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,12,True,7.266666666666667,7.390000000000001,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,13,True,7.4,7.523333333333333,"Mówiłeś 19,95 czy 90,15? 145"
+pl_045,Balanced,14,True,7.533333333333333,7.59,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,15,True,7.6,7.723333333333334,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,16,True,7.733333333333333,7.933333333333333,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,17,True,7.933333333333334,8.266666666666666,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,18,True,8.266666666666667,8.323333333333334,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,19,True,8.333333333333334,8.39,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,20,True,8.4,8.456666666666667,"Mówiles 19,95 czy 90,15? 145"
+pl_045,Balanced,21,True,8.466666666666667,8.799999999999999,"Mówileś 19,95 czy 90,15? 145"
+pl_045,Balanced,22,True,9.333333333333334,9.933333333333334,Czekaj... naprawdę wychodzimy?
+pl_045,Balanced,23,True,9.933333333333334,10.2,Czekaj....naprawdę wychodzimy?
+pl_045,Balanced,24,True,10.2,10.4,Czekaj... naprawdę wychodzimy?
+pl_045,Balanced,25,True,10.4,10.523333333333333,Czekaj..naprawdę wychodzimy?
+pl_046,Fast,3,True,6.4,6.933333333333334,Czerwone drzwi są po lewej. 146
+pl_046,Fast,4,True,6.933333333333334,7.056666666666667,Czerwone drzwi sa po lewej. 146
+pl_046,Fast,7,True,10.0,10.2,Wyježdżamy jutro wieczorem
+pl_046,Fast,8,True,12.266666666666667,12.533333333333333,"Mówileś 19,95 czy 90,15? 2026"
+pl_046,Fast,9,True,12.533333333333333,12.656666666666666,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_046,Fast,10,True,12.666666666666666,12.790000000000001,"Mówileś 19,95 czy 90,15? 2026"
+pl_046,Fast,11,True,12.8,12.923333333333334,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_046,Fast,13,True,15.2,15.733333333333333,Czekaj... naprawdę wychodzimy? 2045
+pl_046,Fast,14,True,15.733333333333333,15.856666666666667,Czekaj... naprawde wychodzimy? 2045
+pl_046,Fast,15,True,15.866666666666667,16.266666666666666,Czekaj... naprawdę wychodzimy? 2045
+pl_046,Fast,16,True,16.266666666666666,16.389999999999997,Czekaj... naprawdęwychodzimy? 2045
+pl_046,Balanced,3,True,6.4,6.933333333333333,Czerwone drzwi są po lewej. 146
+pl_046,Balanced,4,True,6.933333333333334,6.99,Czerwone drzwi sa po lewej. 146
+pl_046,Balanced,6,True,8.2,8.256666666666668,Czerwone drzwi sa po lewej. 146
+pl_046,Balanced,7,True,8.266666666666667,9.0,Czerwone drzwi są po lewej. 146
+pl_046,Balanced,9,True,10.0,10.056666666666667,Wyježdżamy jutro wieczorem
+pl_046,Balanced,10,True,10.066666666666666,10.246666666666666,Wyjeżdżamy jutro wieczorem
+pl_046,Balanced,11,True,12.266666666666667,12.533333333333333,"Mówileś 19,95 czy 90,15? 2026"
+pl_046,Balanced,12,True,12.533333333333333,12.59,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_046,Balanced,13,True,12.6,12.723333333333333,"Mówileś 19,95 czy 90,15? 2026"
+pl_046,Balanced,14,True,12.733333333333333,12.856666666666667,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_046,Balanced,16,True,13.4,13.456666666666667,"Mówiłeś 19,95 czy 90,15? 2026"
+pl_046,Balanced,17,True,13.466666666666667,13.933333333333334,"Mówileś 19,95 czy 90,15? 2026"
+pl_046,Balanced,18,True,15.2,15.733333333333333,Czekaj... naprawdę wychodzimy? 2045
+pl_046,Balanced,19,True,15.733333333333333,15.790000000000001,Czekaj... naprawde wychodzimy? 2045
+pl_046,Balanced,20,True,15.8,16.2,Czekaj... naprawdę wychodzimy? 2045
+pl_046,Balanced,21,True,16.2,16.32333333333333,Czekaj... naprawdęwychodzimy? 2045
+pl_046,Balanced,22,True,16.333333333333332,16.6,Czekaj... naprawdę wychodzimy? 2045
+pl_046,Balanced,23,True,16.6,16.656666666666666,Czekaj... naprawde wychodzimy? 2045
+pl_046,Balanced,24,True,16.666666666666668,17.066666666666666,Czekaj... naprawdę wychodzimy? 2045
+pl_047,Fast,1,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawdę wychodzimy?
+pl_047,Fast,2,True,0.6666666666666666,1.0666666666666667,Czekaj... naprawde wychodzimy?
+pl_047,Fast,4,True,2.0,2.1233333333333335,Czekaj... naprawdeę wychodzimy?
+pl_047,Fast,5,True,2.1333333333333333,2.4,Czekaj... naprawdę wychodzimy?
+pl_047,Fast,6,True,2.4,2.5233333333333334,Czekaj... naprawde wychodzimy?
+pl_047,Fast,7,True,2.533333333333333,2.933333333333333,Czekaj... naprawdę wychodzimy?
+pl_047,Fast,9,True,5.866666666666666,6.066666666666666,Wyjeżdžamy jutro rano
+pl_047,Fast,12,True,10.0,10.123333333333333,Nie wierzg. ze już północ! 2026
+pl_047,Fast,13,True,10.133333333333333,10.256666666666668,"Nie wierze, že już północ! 2026"
+pl_047,Fast,14,True,10.266666666666667,10.533333333333333,"Nie wierzę, że już północ! 2026"
+pl_047,Fast,15,True,10.533333333333333,10.656666666666666,"Nie wierzę, ze już północ! 2026"
+pl_047,Fast,16,True,10.666666666666666,11.066666666666666,"Nie wierzę, że już północ! 2026"
+pl_047,Fast,18,True,15.2,15.323333333333334,Wyjeżdżamy jutro wieczorem 2046
+pl_047,Fast,19,True,15.333333333333334,15.456666666666667,Wyježdżamy jutro wieczorem 2046
+pl_047,Balanced,1,True,0.4666666666666667,0.5233333333333333,Czekaj... naprawde wychodzimy?
+pl_047,Balanced,2,True,0.5333333333333333,0.6566666666666666,Czekaj... naprawdę wychodzimy?
+pl_047,Balanced,3,True,0.6666666666666666,0.7233333333333333,Czekaj... naprawde wychodzimy?
+pl_047,Balanced,4,True,0.7333333333333333,0.79,Czekaj... naprawdę wychodzimy?
+pl_047,Balanced,5,True,0.8,0.8566666666666667,Czekaj... naprawde wychodzimy?
+pl_047,Balanced,6,True,0.8666666666666667,0.9233333333333333,Czekaj... naprawdę wychodzimy?
+pl_047,Balanced,7,True,0.9333333333333333,1.0566666666666666,Czekaj... naprawde wychodzimy?
+pl_047,Balanced,9,True,2.0,2.056666666666667,Czekaj... naprawdeę wychodzimy?
+pl_047,Balanced,10,True,2.066666666666667,2.4,Czekaj... naprawdę wychodzimy?
+pl_047,Balanced,11,True,2.4,2.5233333333333334,Czekaj... naprawde wychodzimy?
+pl_047,Balanced,12,True,2.533333333333333,2.8666666666666667,Czekaj... naprawdę wychodzimy?
+pl_047,Balanced,14,True,5.866666666666666,5.923333333333334,Wyjeżdžamy jutro rano
+pl_047,Balanced,15,True,5.933333333333334,6.113333333333333,Wyjeżdżamy jutro rano
+pl_047,Balanced,18,True,9.933333333333334,9.99,"Nie wierze, że już północ! 2026"
+pl_047,Balanced,19,True,10.0,10.056666666666667,Nie wierzg. ze już północ! 2026
+pl_047,Balanced,20,True,10.066666666666666,10.123333333333333,Nie wierzn. ze już północ! 2026
+pl_047,Balanced,21,True,10.133333333333333,10.19,"Nie wierze, že już północ! 2026"
+pl_047,Balanced,22,True,10.2,10.466666666666667,"Nie wierzę, że już północ! 2026"
+pl_047,Balanced,23,True,10.466666666666667,10.523333333333333,Nie wierze. że już północ! 2026
+pl_047,Balanced,24,True,10.533333333333333,10.59,"Nie wierzę, ze już północ! 2026"
+pl_047,Balanced,25,True,10.6,11.0,"Nie wierzę, że już północ! 2026"
+pl_047,Balanced,27,True,15.2,15.323333333333334,Wyjeżdżamy jutro wieczorem 2046
+pl_047,Balanced,28,True,15.333333333333334,15.39,Wyježdżamy jutro wieczorem 2046
+pl_047,Balanced,29,True,15.4,15.799999999999999,Wyjeżdżamy jutro wieczorem 2046
+pl_047,Balanced,30,True,15.8,15.856666666666667,Wyježdżamy jutro wieczorem 2046
+pl_048,Fast,1,True,0.5333333333333333,0.6566666666666666,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,2,True,0.6666666666666666,0.79,Wyjezdżamy jutro wieczorem
+pl_048,Fast,3,True,0.8,0.9233333333333333,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,4,True,0.9333333333333333,1.2,Wyjeżdžamy jutro wieczorem
+pl_048,Fast,5,True,1.2,1.7333333333333334,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,6,True,1.7333333333333334,1.8566666666666667,Wyjeżdzamy jutro wieczorem
+pl_048,Fast,7,True,1.8666666666666667,2.2666666666666666,Wyjeżdžamy jutro wieczorem
+pl_048,Fast,8,True,2.2666666666666666,2.39,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,9,True,2.4,2.6666666666666665,Wyjeżdzamy jutro wieczorem
+pl_048,Fast,10,True,2.6666666666666665,2.79,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,11,True,2.8,2.9233333333333333,Wyjeżdzamy jutro wieczorem
+pl_048,Fast,12,True,2.933333333333333,3.1333333333333333,Wyjeżdżamy jutro wieczorem
+pl_048,Fast,13,True,3.466666666666667,3.8666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_048,Fast,14,True,3.8666666666666667,4.133333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_048,Fast,15,True,4.133333333333334,4.256666666666667,"Mówiles 19,95 czy 90,15?"
+pl_048,Fast,17,True,6.4,6.666666666666667,Czekaj... naprawdę wychodzimy? 148
+pl_048,Fast,18,True,6.666666666666667,6.79,Czekaj... naprawde wychodzimy? 148
+pl_048,Fast,21,True,10.0,10.123333333333333,Wyjeidiamy jutro rano
+pl_048,Fast,22,True,10.133333333333333,10.256666666666668,Wyjeidzamy jutro rano
+pl_048,Fast,23,True,10.266666666666667,10.533333333333333,Wyjeżdżamy jutro rano
+pl_048,Fast,24,True,10.533333333333333,10.656666666666666,Wyjezdzamy jutro rano
+pl_048,Fast,25,True,10.666666666666666,11.2,Wyjeżdżamy jutro rano
+pl_048,Balanced,1,True,0.4666666666666667,0.6666666666666666,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,2,True,0.6666666666666666,0.7233333333333333,Wyjezdżamy jutro wieczorem
+pl_048,Balanced,3,True,0.7333333333333333,0.8566666666666667,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,4,True,0.8666666666666667,1.2,Wyjeżdžamy jutro wieczorem
+pl_048,Balanced,5,True,1.2,1.7333333333333334,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,6,True,1.7333333333333334,1.8566666666666667,Wyjeżdzamy jutro wieczorem
+pl_048,Balanced,7,True,1.8666666666666667,1.9233333333333333,Wyjeżdžamy jutro wieczorem
+pl_048,Balanced,8,True,1.9333333333333333,1.99,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,9,True,2.0,2.056666666666667,Wyjeżdžamy jutro wieczorem
+pl_048,Balanced,10,True,2.066666666666667,2.1233333333333335,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,11,True,2.1333333333333333,2.1900000000000004,Wyjeżdžamy jutro wieczorem
+pl_048,Balanced,12,True,2.2,2.3233333333333337,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,13,True,2.3333333333333335,2.39,Wyjezdžamy jutro wieczorem
+pl_048,Balanced,14,True,2.4,2.6666666666666665,Wyjeżdzamy jutro wieczorem
+pl_048,Balanced,15,True,2.6666666666666665,2.7233333333333336,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,16,True,2.7333333333333334,2.79,Wyjezdzamy jutro wieczorem
+pl_048,Balanced,17,True,2.8,2.856666666666667,Wyjeżdzamy jutro wieczorem
+pl_048,Balanced,18,True,2.8666666666666667,2.99,Wyjeżdżamy jutro wieczorem
+pl_048,Balanced,19,True,3.0,3.18,Wyjezdzamy jutro wieczorem
+pl_048,Balanced,20,True,3.4,3.8666666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_048,Balanced,21,True,3.8666666666666667,3.9233333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_048,Balanced,22,True,3.933333333333333,3.99,"Mówiłeś 19,95 czy 90,15?"
+pl_048,Balanced,23,True,4.0,4.123333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_048,Balanced,24,True,4.133333333333334,4.256666666666667,"Mówiles 19,95 czy 90,15?"
+pl_048,Balanced,26,True,6.4,6.666666666666666,Czekaj... naprawdę wychodzimy? 148
+pl_048,Balanced,27,True,6.666666666666667,6.79,Czekaj... naprawde wychodzimy? 148
+pl_048,Balanced,30,True,10.0,10.123333333333333,Wyjeidiamy jutro rano
+pl_048,Balanced,31,True,10.133333333333333,10.19,Wyjeidzamy jutro rano
+pl_048,Balanced,32,True,10.2,10.466666666666667,Wyjeżdżamy jutro rano
+pl_048,Balanced,33,True,10.466666666666667,10.59,Wyjezdzamy jutro rano
+pl_048,Balanced,34,True,10.6,11.2,Wyjeżdżamy jutro rano
+pl_049,Fast,4,True,7.6,7.723333333333334,Wyjeżdzamy jutro wieczorem 149
+pl_049,Fast,5,True,7.733333333333333,8.266666666666666,Wyjeżdżamy jutro wieczorem 149
+pl_049,Fast,6,True,9.333333333333334,9.866666666666665,"Mówiłeś 19,95 czy 90,15?"
+pl_049,Fast,7,True,9.866666666666667,9.99,"Mówiłes 19,95 czy 90,15?"
+pl_049,Fast,8,True,10.0,10.266666666666666,"Mówiles 19,95 czy 90,15?"
+pl_049,Fast,9,True,10.266666666666667,10.533333333333333,"Mówiłeś 19,95 czy 90,15?"
+pl_049,Fast,10,True,10.533333333333333,10.656666666666666,"Mówites 19,95 czy 90,15?"
+pl_049,Fast,12,True,12.266666666666667,12.533333333333333,Czekaj... naprawde wychodzimy?
+pl_049,Fast,13,True,12.533333333333333,12.799999999999999,Czekaj... naprawdę wychodzimy?
+pl_049,Fast,14,True,12.8,12.923333333333334,Czekaj... naprawde wychodzimy?
+pl_049,Fast,15,True,12.933333333333334,13.2,Czekaj... naprawdę wychodzimy?
+pl_049,Fast,16,True,13.2,13.323333333333334,Czekaj... naprawde wychodzimy?
+pl_049,Fast,17,True,13.333333333333334,13.456666666666667,Czekaj... naprawdę wychodzimy?
+pl_049,Fast,18,True,13.466666666666667,13.59,Czekaj...naprawdę wychodzimy?
+pl_049,Fast,19,True,13.6,13.866666666666665,Czekaj... naprawde wychodzimy?
+pl_049,Fast,20,True,13.866666666666667,14.133333333333333,Czekaj... naprawdę wychodzimy?
+pl_049,Fast,21,True,14.133333333333333,14.666666666666666,Czekaj... naprawde wychodzimy?
+pl_049,Fast,23,True,16.933333333333334,17.333333333333332,Wyjeżdżamy jutrorano 2048
+pl_049,Fast,24,True,17.333333333333332,17.866666666666667,Wyjeżdżamy jutro rano 2048
+pl_049,Balanced,2,True,3.4,3.5233333333333334,Czerwone drzwi są po lewej. 2026
+pl_049,Balanced,3,True,3.533333333333333,3.5900000000000003,Czerwone drzwi sa po lewej. 2026
+pl_049,Balanced,5,True,6.4,6.733333333333333,Wyjeżdżamy jutro wieczorem 149
+pl_049,Balanced,6,True,6.733333333333333,6.79,Wyjeżdzamy jutro wieczorem 149
+pl_049,Balanced,7,True,6.8,7.133333333333333,Wyjeżdżamy jutro wieczorem 149
+pl_049,Balanced,8,True,7.133333333333334,7.19,Wyjezdżamy jutro wieczorem 149
+pl_049,Balanced,9,True,7.2,7.256666666666667,Wyjeżdżamy jutro wieczorem 149
+pl_049,Balanced,10,True,7.266666666666667,7.323333333333333,Wyjezdżamy jutro wieczorem 149
+pl_049,Balanced,11,True,7.333333333333333,7.533333333333333,Wyjeżdżamy jutro wieczorem 149
+pl_049,Balanced,12,True,7.533333333333333,7.656666666666667,Wyjeżdzamy jutro wieczorem 149
+pl_049,Balanced,13,True,7.666666666666667,7.723333333333334,Wyježdżamy jutro wieczorem 149
+pl_049,Balanced,14,True,7.733333333333333,8.266666666666666,Wyjeżdżamy jutro wieczorem 149
+pl_049,Balanced,15,True,9.333333333333334,9.799999999999999,"Mówiłeś 19,95 czy 90,15?"
+pl_049,Balanced,16,True,9.8,9.856666666666667,"Mówileś 19,95 czy 90,15?"
+pl_049,Balanced,17,True,9.866666666666667,9.923333333333334,"Mówiłes 19,95 czy 90,15?"
+pl_049,Balanced,18,True,9.933333333333334,9.99,"Mówiłeś 19,95 czy 90,15?"
+pl_049,Balanced,19,True,10.0,10.056666666666667,"Mówiles 19,95 czy 90,15?"
+pl_049,Balanced,20,True,10.066666666666666,10.123333333333333,"Mówiłes 19,95 czy 90,15?"
+pl_049,Balanced,21,True,10.133333333333333,10.19,"Mówiles 19,95 czy 90,15?"
+pl_049,Balanced,22,True,10.2,10.466666666666667,"Mówiłeś 19,95 czy 90,15?"
+pl_049,Balanced,23,True,10.466666666666667,10.523333333333333,"Mówiles 19,95 czy 90,15?"
+pl_049,Balanced,24,True,10.533333333333333,10.59,"Mówites 19,95 czy 90,15?"
+pl_049,Balanced,25,True,10.6,10.656666666666666,"Mówiłes 19,95 czy 90,15?"
+pl_049,Balanced,27,True,12.266666666666667,12.466666666666667,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,28,True,12.466666666666667,12.59,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,29,True,12.6,12.656666666666666,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,30,True,12.666666666666666,12.723333333333333,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,31,True,12.733333333333333,12.933333333333334,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,32,True,12.933333333333334,13.133333333333333,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,33,True,13.133333333333333,13.333333333333334,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,34,True,13.333333333333334,13.456666666666667,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,35,True,13.466666666666667,13.523333333333333,Czekaj...naprawdę wychodzimy?
+pl_049,Balanced,36,True,13.533333333333333,13.59,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,37,True,13.6,13.656666666666666,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,38,True,13.666666666666666,13.723333333333333,Czekaj...naprawdę wychodzimy?
+pl_049,Balanced,39,True,13.733333333333333,13.856666666666667,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,40,True,13.866666666666667,13.923333333333334,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,41,True,13.933333333333334,13.99,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,42,True,14.0,14.056666666666667,Czekaj... naprawdę wychodzimy?
+pl_049,Balanced,43,True,14.066666666666666,14.666666666666666,Czekaj... naprawde wychodzimy?
+pl_049,Balanced,45,True,16.933333333333334,17.133333333333333,Wyjeżdżamy jutrorano 2048
+pl_049,Balanced,46,True,17.133333333333333,17.189999999999998,Wyjeżdżamy jutro rano 2048
+pl_049,Balanced,47,True,17.2,17.256666666666664,Wyjeżdżamy jutrorano 2048
+pl_049,Balanced,48,True,17.266666666666666,17.8,Wyjeżdżamy jutro rano 2048
+pl_050,Fast,3,True,6.4,7.066666666666666,"Nie wierzę, że już północ! 150"
+pl_050,Fast,4,True,7.066666666666666,7.19,"Nie wierze, że już północ! 150"
+pl_050,Fast,5,True,7.2,7.323333333333333,"Nie wierzę, ze już północ! 150"
+pl_050,Fast,7,True,8.4,8.6,"Nie wierzę, ze już północ! 150"
+pl_050,Fast,8,True,9.333333333333334,9.866666666666665,Czerwone drzwi sa po lewej
+pl_050,Fast,10,True,11.066666666666666,11.466666666666667,Czerwone drzwi sa po lewej
+pl_050,Fast,11,True,11.466666666666667,11.733333333333333,Czerwone drzwi są po lewej.
+pl_050,Fast,14,True,15.866666666666667,15.99,"Mówileś 19,95 czy 90,15? 2049"
+pl_050,Fast,15,True,16.0,16.666666666666668,"Mówiłeś 19,95 czy 90,15? 2049"
+pl_050,Balanced,3,True,6.4,6.733333333333333,"Nie wierzę, że już północ! 150"
+pl_050,Balanced,4,True,6.733333333333333,6.79,"Nie wierze, że już północ! 150"
+pl_050,Balanced,5,True,6.8,7.0,"Nie wierzę, że już północ! 150"
+pl_050,Balanced,6,True,7.0,7.056666666666667,"Nie wierzę, ze już północ! 150"
+pl_050,Balanced,7,True,7.066666666666666,7.123333333333334,"Nie wierze, że już północ! 150"
+pl_050,Balanced,8,True,7.133333333333334,7.19,"Nie wierzę, że już północ! 150"
+pl_050,Balanced,9,True,7.2,7.323333333333333,"Nie wierzę, ze już północ! 150"
+pl_050,Balanced,11,True,8.2,8.256666666666668,"Nie wierze, że już północ! 150"
+pl_050,Balanced,12,True,8.266666666666667,8.39,"Nie wierzę, że już północ! 150"
+pl_050,Balanced,13,True,8.4,8.456666666666667,"Nie wierzę, ze już północ! 150"
+pl_050,Balanced,14,True,8.466666666666667,8.646666666666667,"Nie wierzę, że już północ! 150"
+pl_050,Balanced,15,True,9.333333333333334,9.533333333333333,Czerwone drzwi sa po lewej
+pl_050,Balanced,16,True,9.533333333333333,9.59,Czerwone drzwi są po lewej
+pl_050,Balanced,17,True,9.6,9.866666666666667,Czerwone drzwi sa po lewej
+pl_050,Balanced,18,True,9.866666666666667,10.066666666666666,Czerwone drzwi są po lewej
+pl_050,Balanced,19,True,10.066666666666666,10.123333333333333,Czerwone drzwi sa po lewej
+pl_050,Balanced,20,True,10.133333333333333,10.466666666666667,Czerwone drzwi są po lewej
+pl_050,Balanced,21,True,10.466666666666667,10.523333333333333,Czerwone drzwi sa po lewej
+pl_050,Balanced,22,True,10.533333333333333,10.866666666666667,Czerwone drzwi są po lewej
+pl_050,Balanced,23,True,10.866666666666667,10.923333333333334,Czerwone drzwi sa po lewej
+pl_050,Balanced,24,True,10.933333333333334,11.056666666666667,Czerwone drzwi są po lewej
+pl_050,Balanced,25,True,11.066666666666666,11.123333333333333,Czerwone drzwi sa po lewej
+pl_050,Balanced,26,True,11.133333333333333,11.19,Czerwone drzwi są po lewej.
+pl_050,Balanced,27,True,11.2,11.466666666666667,Czerwone drzwi sa po lewej.
+pl_050,Balanced,28,True,11.466666666666667,11.523333333333333,Czerwone drzwi są po lewej.
+pl_050,Balanced,29,True,11.533333333333333,11.59,Czerwone drzwi sa po lewej.
+pl_050,Balanced,30,True,11.6,11.78,Czerwone drzwi są po lewej.
+pl_050,Balanced,33,True,15.866666666666667,15.923333333333334,"Mówileś 19,95 czy 90,15? 2049"
+pl_050,Balanced,34,True,15.933333333333334,16.2,"Mówiłeś 19,95 czy 90,15? 2049"
+pl_050,Balanced,35,True,16.2,16.256666666666664,"Mówiłes 19,95 czy 90,15? 2049"
+pl_050,Balanced,36,True,16.266666666666666,16.32333333333333,"Mówiłeś 19,95 czy 90,15? 2049"
+pl_050,Balanced,37,True,16.333333333333332,16.389999999999997,"Mówiłes 19,95 czy 90,15? 2049"
+pl_050,Balanced,38,True,16.4,16.6,"Mówiłeś 19,95 czy 90,15? 2049"

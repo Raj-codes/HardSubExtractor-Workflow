@@ -1,0 +1,31 @@
+1
+00:00:00,467 --> 00:00:00,800
+We will leave tomorrow 2026
+
+2
+00:00:02,667 --> 00:00:03,200
+Wait for me
+
+3
+00:00:04,867 --> 00:00:05,667
+I can't believe it's already midnight.
+
+4
+00:00:07,067 --> 00:00:08,133
+The red door is on the left.
+
+5
+00:00:09,267 --> 00:00:10,667
+We will leave tonight
+
+6
+00:00:11,467 --> 00:00:13,133
+Did you say 19.95 or 90.15?
+
+7
+00:00:13,667 --> 00:00:14,000
+Wait... are we really going?
+
+8
+00:00:15,867 --> 00:00:16,400
+We will leave tomorrow 2026

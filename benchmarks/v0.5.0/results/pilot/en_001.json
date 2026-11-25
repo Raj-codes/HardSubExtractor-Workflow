@@ -1,0 +1,71 @@
+{
+  "font": "Arial",
+  "requested_size_px": 12,
+  "outline_px": 0,
+  "color_bgr": [
+    255,
+    255,
+    255
+  ],
+  "text_color_filter": "White",
+  "roi": [
+    0,
+    156,
+    320,
+    240
+  ],
+  "fps": 15.0,
+  "codec": "mp4v",
+  "background": "user-supplied source",
+  "confidence": 0.8,
+  "subtitle_filter": true,
+  "centered": true,
+  "device": "gpu",
+  "language": "English",
+  "language_code": "en",
+  "run": 1,
+  "source_sha256": "280cb385b84657c8cd83c30184a3b3f2c9b0c5e3bc2b46db5a799a50026c7070",
+  "video": "T:\\Projects\\HardSubExtractor_Windows_Source\\Test-video\\dataset\\en\\en_001.mp4",
+  "cues": [
+    {
+      "start": 0.4666666666666667,
+      "end": 0.8,
+      "text": "We will leave tomorrow 2026"
+    },
+    {
+      "start": 2.6666666666666665,
+      "end": 3.2,
+      "text": "Wait for me"
+    },
+    {
+      "start": 4.866666666666666,
+      "end": 5.666666666666667,
+      "text": "I can't believe it's already midnight."
+    },
+    {
+      "start": 7.066666666666666,
+      "end": 8.133333333333333,
+      "text": "The red door is on the left."
+    },
+    {
+      "start": 9.266666666666667,
+      "end": 10.666666666666666,
+      "text": "We will leave tonight"
+    },
+    {
+      "start": 11.466666666666667,
+      "end": 13.133333333333333,
+      "text": "Did you say 19.95 or 90.15?"
+    },
+    {
+      "start": 13.666666666666666,
+      "end": 14.0,
+      "text": "Wait... are we really going?"
+    },
+    {
+      "start": 15.866666666666667,
+      "end": 16.4,
+      "text": "We will leave tomorrow 2026"
+    }
+  ]
+}

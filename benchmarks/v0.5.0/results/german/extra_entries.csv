@@ -1,0 +1,520 @@
+﻿case_id,mode,predicted_index,overlap_any_truth,start,end,text
+de_001,Fast,6,True,15.2,15.466666666666667,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Fast,7,True,15.466666666666667,16.0,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Fast,8,True,16.0,16.53333333333333,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Fast,10,True,17.333333333333332,17.456666666666663,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Fast,11,True,17.466666666666665,17.866666666666667,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Balanced,5,True,11.4,11.58,Die rote Tur ist links.
+de_001,Balanced,7,True,15.2,15.466666666666667,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Balanced,8,True,15.466666666666667,15.933333333333334,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Balanced,9,True,15.933333333333334,16.466666666666665,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Balanced,10,True,16.466666666666665,17.0,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Balanced,11,True,17.0,17.056666666666665,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Balanced,12,True,17.066666666666666,17.333333333333332,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Balanced,13,True,17.333333333333332,17.456666666666663,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Balanced,14,True,17.466666666666665,17.8,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Accurate,5,True,11.366666666666667,11.433333333333334,Die rote Tur ist links.
+de_001,Accurate,7,True,15.166666666666666,15.433333333333334,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Accurate,8,True,15.433333333333334,15.9,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Accurate,9,True,15.9,16.449999999999996,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Accurate,10,True,16.449999999999996,16.96666666666667,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Accurate,11,True,16.96666666666667,17.049999999999997,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Accurate,12,True,17.049999999999997,17.316666666666663,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_001,Accurate,13,True,17.316666666666663,17.449999999999996,"Hast du 19,95 oder 90, 15 gesagt? 2000"
+de_001,Accurate,14,True,17.449999999999996,17.766666666666666,"Hast du 19,95 oder 90,15 gesagt? 2000"
+de_002,Fast,1,True,0.5333333333333333,0.9333333333333333,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Fast,2,True,0.9333333333333333,1.2,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Fast,3,True,1.2,1.3233333333333333,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Fast,4,True,1.3333333333333333,1.7333333333333334,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Fast,5,True,1.7333333333333334,2.1333333333333333,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Fast,7,True,5.066666666666666,5.19,Warte...gehen wir wirklich?
+de_002,Fast,8,True,5.2,5.4,Warte... gehen wir wirklich?
+de_002,Balanced,1,True,0.4666666666666667,0.7333333333333333,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,2,True,0.7333333333333333,0.79,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,3,True,0.8,0.8566666666666667,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,4,True,0.8666666666666667,0.99,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,5,True,1.0,1.0566666666666666,"Hast du 19 95 oder 90,15 gesagt?"
+de_002,Balanced,6,True,1.0666666666666667,1.19,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,7,True,1.2,1.2566666666666666,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,8,True,1.2666666666666666,1.39,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,9,True,1.4,1.4566666666666666,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,10,True,1.4666666666666666,1.7333333333333334,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,11,True,1.7333333333333334,1.79,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,12,True,1.8,1.8566666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,13,True,1.8666666666666667,1.9233333333333333,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,14,True,1.9333333333333333,1.99,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Balanced,15,True,2.0,2.18,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Balanced,17,True,5.0,5.123333333333334,Warte...gehen wir wirklich?
+de_002,Balanced,18,True,5.133333333333334,5.3133333333333335,Warte... gehen wir wirklich?
+de_002,Balanced,19,True,6.4,6.866666666666666,Wir fahren morgen nach Hause 102
+de_002,Balanced,20,True,6.866666666666666,6.923333333333334,Wir fahren mergen nach Hause 102
+de_002,Accurate,1,True,0.43333333333333335,0.7,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,2,True,0.7,0.7666666666666666,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,3,True,0.7666666666666666,0.8333333333333334,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,4,True,0.8333333333333334,0.9666666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,5,True,0.9666666666666667,1.0499999999999998,"Hast du 19 95 oder 90,15 gesagt?"
+de_002,Accurate,6,True,1.0499999999999998,1.1833333333333331,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,7,True,1.1833333333333331,1.2333333333333334,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,8,True,1.2333333333333334,1.3666666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,9,True,1.3666666666666667,1.4499999999999997,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,10,True,1.4499999999999997,1.7000000000000002,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,11,True,1.7000000000000002,1.7666666666666666,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,12,True,1.7666666666666666,1.8333333333333335,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,13,True,1.8333333333333335,1.9,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,14,True,1.9,1.9666666666666668,"Hast du 19,95 oder 90,15 gesagt?"
+de_002,Accurate,15,True,1.9666666666666668,2.1,"Hast du 19,95 oder 90, 15 gesagt?"
+de_002,Accurate,17,True,4.966666666666667,5.1,Warte...gehen wir wirklich?
+de_002,Accurate,18,True,5.1,5.233333333333333,Warte... gehen wir wirklich?
+de_002,Accurate,19,True,6.366666666666667,6.833333333333333,Wir fahren morgen nach Hause 102
+de_002,Accurate,20,True,6.833333333333333,6.9,Wir fahren mergen nach Hause 102
+de_003,Fast,4,True,9.333333333333334,9.6,Warte...gehen wir wirklich?
+de_003,Fast,5,True,9.6,10.0,Warte... gehen wir wirklich?
+de_003,Fast,6,True,10.0,10.266666666666666,Warte...gehen wir wirklich?
+de_003,Fast,7,True,10.266666666666667,10.533333333333333,Warte... gehen wir wirklich?
+de_003,Fast,8,True,10.533333333333333,11.2,Warte...gehen wir wirklich?
+de_003,Fast,9,True,11.2,11.466666666666667,Warte... gehen wir wirklich?
+de_003,Fast,10,True,11.466666666666667,11.59,Warte...gehen wir wirklich?
+de_003,Fast,11,True,11.6,12.0,Warte... gehen wir wirklich?
+de_003,Balanced,3,True,5.133333333333334,5.19,Wir fahren heute pach Hause
+de_003,Balanced,4,True,5.2,5.533333333333333,Wir fahren heute nach Hause
+de_003,Balanced,6,True,9.333333333333334,9.533333333333333,Warte...gehen wir wirklich?
+de_003,Balanced,7,True,9.533333333333333,10.0,Warte... gehen wir wirklich?
+de_003,Balanced,8,True,10.0,10.056666666666667,Warte...gehen wir wirklich?
+de_003,Balanced,9,True,10.066666666666666,10.123333333333333,Wartes.gehen wir wirklich?
+de_003,Balanced,10,True,10.133333333333333,10.19,Warte...gehen wir wirklich?
+de_003,Balanced,11,True,10.2,10.533333333333333,Warte... gehen wir wirklich?
+de_003,Balanced,12,True,10.533333333333333,10.733333333333333,Warte...gehen wir wirklich?
+de_003,Balanced,13,True,10.733333333333333,10.790000000000001,Warte... gehen wir wirklich?
+de_003,Balanced,14,True,10.8,10.856666666666667,Warte...gehen wir wirklich?
+de_003,Balanced,15,True,10.866666666666667,10.923333333333334,Warte... gehen wir wirklich?
+de_003,Balanced,16,True,10.933333333333334,11.2,Warte...gehen wir wirklich?
+de_003,Balanced,17,True,11.2,11.466666666666667,Warte... gehen wir wirklich?
+de_003,Balanced,18,True,11.466666666666667,11.523333333333333,Warte...gehen wir wirklich?
+de_003,Balanced,19,True,11.533333333333333,11.656666666666666,Warte... gehen wir wirklich?
+de_003,Balanced,20,True,11.666666666666666,11.723333333333333,Warte... gehenwir wirklich?
+de_003,Balanced,21,True,11.733333333333333,11.933333333333334,Warte... gehen wir wirklich?
+de_003,Accurate,3,True,5.1,5.166666666666667,Wir fahren heute pach Hause
+de_003,Accurate,4,True,5.166666666666667,5.5,Wir fahren heute nach Hause
+de_003,Accurate,6,True,9.3,9.5,Warte...gehen wir wirklich?
+de_003,Accurate,7,True,9.5,9.966666666666667,Warte... gehen wir wirklich?
+de_003,Accurate,8,True,9.966666666666667,10.033333333333333,Warte...gehen wir wirklich?
+de_003,Accurate,9,True,10.033333333333333,10.1,Wartes.gehen wir wirklich?
+de_003,Accurate,10,True,10.1,10.166666666666666,Warte...gehen wir wirklich?
+de_003,Accurate,11,True,10.166666666666666,10.5,Warte... gehen wir wirklich?
+de_003,Accurate,12,True,10.5,10.7,Warte...gehen wir wirklich?
+de_003,Accurate,13,True,10.7,10.766666666666666,Warte... gehen wir wirklich?
+de_003,Accurate,14,True,10.766666666666666,10.833333333333334,Warte...gehen wir wirklich?
+de_003,Accurate,15,True,10.833333333333334,10.9,Warte... gehen wir wirklich?
+de_003,Accurate,16,True,10.9,11.166666666666666,Warte...gehen wir wirklich?
+de_003,Accurate,17,True,11.166666666666666,11.433333333333334,Warte... gehen wir wirklich?
+de_003,Accurate,18,True,11.433333333333334,11.5,Warte...gehen wir wirklich?
+de_003,Accurate,19,True,11.5,11.633333333333333,Warte... gehen wir wirklich?
+de_003,Accurate,20,True,11.633333333333333,11.7,Warte... gehenwir wirklich?
+de_003,Accurate,21,True,11.7,11.9,Warte... gehen wir wirklich?
+de_004,Fast,6,True,15.2,16.0,Warte... gehen wir wirklich? 2003
+de_004,Fast,7,True,16.0,16.12333333333333,Warte...gehen wir wirklich? 2003
+de_004,Balanced,3,True,6.4,7.133333333333333,Die rote Tür ist links. 104
+de_004,Balanced,4,True,7.133333333333334,7.19,Die rote Tur ist links. 104
+de_004,Balanced,8,True,15.2,16.0,Warte... gehen wir wirklich? 2003
+de_004,Balanced,9,True,16.0,16.12333333333333,Warte...gehen wir wirklich? 2003
+de_004,Accurate,3,True,6.366666666666667,7.1,Die rote Tür ist links. 104
+de_004,Accurate,4,True,7.1,7.166666666666667,Die rote Tur ist links. 104
+de_004,Accurate,8,True,15.166666666666666,15.966666666666667,Warte... gehen wir wirklich? 2003
+de_004,Accurate,9,True,15.966666666666667,16.1,Warte...gehen wir wirklich? 2003
+de_005,Fast,3,True,5.2,5.323333333333333,Wir fahren mergen nach Hause
+de_005,Fast,4,True,5.333333333333333,6.0,Wir fahren morgen nach Hause
+de_005,Fast,6,True,9.333333333333334,10.0,Ich kann es kaum glauben! 2026
+de_005,Fast,7,True,10.0,10.123333333333333,Ich kannes kaum glauben! 2026
+de_005,Fast,8,True,10.133333333333333,10.256666666666668,Ich karn es kaum glauben! 2026
+de_005,Balanced,3,True,5.2,5.323333333333333,Wir fahren mergen nach Hause
+de_005,Balanced,4,True,5.333333333333333,6.0,Wir fahren morgen nach Hause
+de_005,Balanced,5,True,6.4,6.866666666666666,Warte auf mich 105
+de_005,Balanced,6,True,6.866666666666666,6.923333333333334,Warterauf mich 105
+de_005,Balanced,8,True,9.333333333333334,9.933333333333334,Ich kann es kaum glauben! 2026
+de_005,Balanced,9,True,9.933333333333334,9.99,Ich karn es kaum glauben! 2026
+de_005,Balanced,10,True,10.0,10.056666666666667,Ich kannes kaum glauben! 2026
+de_005,Balanced,11,True,10.066666666666666,10.123333333333333,Ich hann es kaum glauben! 2026
+de_005,Balanced,12,True,10.133333333333333,10.19,Ich karn es kaum glauben! 2026
+de_005,Accurate,3,True,5.166666666666667,5.3,Wir fahren mergen nach Hause
+de_005,Accurate,4,True,5.3,5.966666666666667,Wir fahren morgen nach Hause
+de_005,Accurate,5,True,6.366666666666667,6.833333333333333,Warte auf mich 105
+de_005,Accurate,6,True,6.833333333333333,6.9,Warterauf mich 105
+de_005,Accurate,8,True,9.3,9.9,Ich kann es kaum glauben! 2026
+de_005,Accurate,9,True,9.9,9.966666666666667,Ich karn es kaum glauben! 2026
+de_005,Accurate,10,True,9.966666666666667,10.033333333333333,Ich kannes kaum glauben! 2026
+de_005,Accurate,11,True,10.033333333333333,10.1,Ich hann es kaum glauben! 2026
+de_005,Accurate,12,True,10.1,10.166666666666666,Ich karn es kaum glauben! 2026
+de_007,Fast,5,True,10.4,10.523333333333333,"Hastdu 19,95 oder 90,15 gesagt?"
+de_007,Fast,6,True,10.533333333333333,11.466666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_007,Balanced,5,True,10.4,10.456666666666667,"Hastdu 19,95 oder 90,15 gesagt?"
+de_007,Balanced,6,True,10.466666666666667,11.466666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_007,Accurate,5,True,10.366666666666667,10.433333333333334,"Hastdu 19,95 oder 90,15 gesagt?"
+de_007,Accurate,6,True,10.433333333333334,11.433333333333334,"Hast du 19,95 oder 90,15 gesagt?"
+de_010,Balanced,4,True,9.333333333333334,9.933333333333334,Warte... gehen wir wirklich?
+de_010,Balanced,5,True,9.933333333333334,9.99,Wartegehen wir wirklich?
+de_010,Accurate,4,True,9.3,9.9,Warte... gehen wir wirklich?
+de_010,Accurate,5,True,9.9,9.966666666666667,Wartegehen wir wirklich?
+de_013,Fast,3,True,4.266666666666667,5.066666666666666,"Hastdu 19,95 oder 90,15 gesagt?"
+de_013,Balanced,3,True,4.2,5.0,"Hastdu 19,95 oder 90,15 gesagt?"
+de_013,Balanced,4,True,5.0,5.18,"Hast du 19,95 oder 90,15 gesagt?"
+de_013,Accurate,3,True,4.166666666666667,4.966666666666667,"Hastdu 19,95 oder 90,15 gesagt?"
+de_013,Accurate,4,True,4.966666666666667,5.033333333333333,"Hast du 19,95 oder 90,15 gesagt?"
+de_015,Fast,6,True,15.2,15.323333333333334,"Hast du 19,95 oder 90,15 gesagt? 2014"
+de_015,Fast,7,True,15.333333333333334,15.456666666666667,"Hast du 19,95 oder 90,15 gesagt?2014"
+de_015,Balanced,6,True,15.2,15.323333333333334,"Hast du 19,95 oder 90,15 gesagt? 2014"
+de_015,Balanced,7,True,15.333333333333334,15.39,"Hast du 19,95 oder 90,15 gesagt?2014"
+de_015,Accurate,6,True,15.166666666666666,15.3,"Hast du 19,95 oder 90,15 gesagt? 2014"
+de_015,Accurate,7,True,15.3,15.366666666666667,"Hast du 19,95 oder 90,15 gesagt?2014"
+de_016,Fast,1,True,0.5333333333333333,1.2,"Hast du 19,95 oder 90,15 gesagt?"
+de_016,Fast,2,True,1.2,1.3233333333333333,"Hast du19,95 oder 90,15 gesagt?"
+de_016,Balanced,1,True,0.4666666666666667,1.2,"Hast du 19,95 oder 90,15 gesagt?"
+de_016,Balanced,2,True,1.2,1.2566666666666666,"Hast du19,95 oder 90,15 gesagt?"
+de_016,Accurate,1,True,0.43333333333333335,1.1833333333333331,"Hast du 19,95 oder 90,15 gesagt?"
+de_016,Accurate,2,True,1.1833333333333331,1.2333333333333334,"Hast du19,95 oder 90,15 gesagt?"
+de_017,Fast,4,True,7.2,7.323333333333333,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Fast,5,True,7.333333333333333,7.866666666666666,"Hast du 19,95 oder 90,15 gesagt? 117"
+de_017,Balanced,3,True,5.8,5.8566666666666665,Wir fahren heute naeh Hause
+de_017,Balanced,4,True,5.866666666666666,6.046666666666666,Wir fahren heute nach Hause
+de_017,Balanced,5,True,6.4,6.866666666666666,"Hast du 19,95 oder 90,15 gesagt? 117"
+de_017,Balanced,6,True,6.866666666666666,6.923333333333334,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Balanced,7,True,6.933333333333334,6.99,"Hast du 19,95 oder 90,15 gesagt? 117"
+de_017,Balanced,8,True,7.0,7.056666666666667,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Balanced,9,True,7.066666666666666,7.123333333333334,"Hast du 19.95 oder 90,15 gesagt? 117"
+de_017,Balanced,10,True,7.133333333333334,7.256666666666667,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Accurate,3,True,5.766666666666667,5.833333333333333,Wir fahren heute naeh Hause
+de_017,Accurate,4,True,5.833333333333333,5.966666666666667,Wir fahren heute nach Hause
+de_017,Accurate,5,True,6.366666666666667,6.833333333333333,"Hast du 19,95 oder 90,15 gesagt? 117"
+de_017,Accurate,6,True,6.833333333333333,6.9,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Accurate,7,True,6.9,6.966666666666667,"Hast du 19,95 oder 90,15 gesagt? 117"
+de_017,Accurate,8,True,6.966666666666667,7.033333333333333,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_017,Accurate,9,True,7.033333333333333,7.1,"Hast du 19.95 oder 90,15 gesagt? 117"
+de_017,Accurate,10,True,7.1,7.233333333333333,"Hast du 19 95 oder 90,15 gesagt? 117"
+de_018,Fast,3,True,6.4,6.8,Die rote Tür ist links. 118
+de_018,Fast,4,True,6.8,6.923333333333334,Die rote Tur ist links. 118
+de_018,Fast,5,True,6.933333333333334,7.2,Die rote Tür ist links. 118
+de_018,Fast,6,True,7.2,7.323333333333333,Die rote Tur ist links. 118
+de_018,Balanced,3,True,6.4,6.8,Die rote Tür ist links. 118
+de_018,Balanced,4,True,6.8,6.8566666666666665,Die rote Tur ist links. 118
+de_018,Balanced,5,True,6.866666666666666,6.99,Die rote Tür ist links. 118
+de_018,Balanced,6,True,7.0,7.056666666666667,Die rote Tur ist links. 118
+de_018,Balanced,7,True,7.066666666666666,7.123333333333334,Die rote Tür ist links. 118
+de_018,Balanced,8,True,7.133333333333334,7.256666666666667,Die rote Tur ist links. 118
+de_018,Accurate,3,True,6.366666666666667,6.766666666666667,Die rote Tür ist links. 118
+de_018,Accurate,4,True,6.766666666666667,6.833333333333333,Die rote Tur ist links. 118
+de_018,Accurate,5,True,6.833333333333333,6.966666666666667,Die rote Tür ist links. 118
+de_018,Accurate,6,True,6.966666666666667,7.033333333333333,Die rote Tur ist links. 118
+de_018,Accurate,7,True,7.033333333333333,7.1,Die rote Tür ist links. 118
+de_018,Accurate,8,True,7.1,7.233333333333333,Die rote Tur ist links. 118
+de_019,Fast,1,True,0.5333333333333333,0.9333333333333333,Warte... gehen wir wirklich?
+de_019,Fast,2,True,0.9333333333333333,1.0566666666666666,Warte..gehen wir wirklich?
+de_019,Fast,6,True,9.333333333333334,10.133333333333333,Ich kann es kaum glauben! 2026
+de_019,Fast,7,True,10.133333333333333,10.256666666666668,Ich karm es kaum glauben! 2026
+de_019,Balanced,1,True,0.4666666666666667,0.8666666666666667,Warte... gehen wir wirklich?
+de_019,Balanced,2,True,0.8666666666666667,0.99,Warte...gehen wir wirklich?
+de_019,Balanced,4,True,1.6666666666666667,1.7233333333333334,Warte...gehen wir wirklich?
+de_019,Balanced,5,True,1.7333333333333334,1.9133333333333333,Warte... gehen wir wirklich?
+de_019,Balanced,8,True,8.2,8.379999999999999,Warte aufmich 119
+de_019,Balanced,9,True,9.333333333333334,10.133333333333333,Ich kann es kaum glauben! 2026
+de_019,Balanced,10,True,10.133333333333333,10.19,Ich karm es kaum glauben! 2026
+de_019,Balanced,13,True,13.533333333333333,13.59,Die rote Tur ist links. 50%
+de_019,Balanced,14,True,13.6,14.666666666666666,Die rote Tür ist links. 50%
+de_019,Accurate,1,True,0.43333333333333335,0.8333333333333334,Warte... gehen wir wirklich?
+de_019,Accurate,2,True,0.8333333333333334,0.9666666666666667,Warte...gehen wir wirklich?
+de_019,Accurate,4,True,1.6333333333333333,1.7000000000000002,Warte...gehen wir wirklich?
+de_019,Accurate,5,True,1.7000000000000002,1.8333333333333335,Warte... gehen wir wirklich?
+de_019,Accurate,8,True,8.183333333333334,8.233333333333334,Warte aufmich 119
+de_019,Accurate,9,True,9.3,10.1,Ich kann es kaum glauben! 2026
+de_019,Accurate,10,True,10.1,10.166666666666666,Ich karm es kaum glauben! 2026
+de_019,Accurate,13,True,13.5,13.566666666666666,Die rote Tur ist links. 50%
+de_019,Accurate,14,True,13.566666666666666,14.633333333333333,Die rote Tür ist links. 50%
+de_020,Fast,2,True,1.7333333333333334,1.8566666666666667,Wir fahren heute nach Hausè
+de_020,Fast,3,True,1.8666666666666667,2.1333333333333333,Wir fahren heute nach Hause
+de_020,Fast,6,True,7.2,7.466666666666667,Warte...gehen wir wirklich? 120
+de_020,Fast,7,True,7.466666666666667,7.733333333333333,Warte... gehen wir wirklich? 120
+de_020,Fast,8,True,7.733333333333333,7.8566666666666665,Warte...gehen wir wirklich? 120
+de_020,Fast,9,True,7.866666666666666,7.99,Warte... gehen wir wirklich? 120
+de_020,Fast,10,True,8.0,8.4,Warte...gehen wir wirklich? 120
+de_020,Fast,11,True,8.4,8.6,Warte... gehen wir wirklich? 120
+de_020,Balanced,2,True,1.7333333333333334,1.79,Wir fahren heute nach Hausè
+de_020,Balanced,3,True,1.8,2.1333333333333333,Wir fahren heute nach Hause
+de_020,Balanced,5,True,6.4,6.866666666666666,Warte... gehen wir wirklich? 120
+de_020,Balanced,6,True,6.866666666666666,6.923333333333334,Warte...gehen wir wirklich? 120
+de_020,Balanced,7,True,6.933333333333334,7.133333333333333,Warte... gehen wir wirklich? 120
+de_020,Balanced,8,True,7.133333333333334,7.3999999999999995,Warte...gehen wir wirklich? 120
+de_020,Balanced,9,True,7.4,7.733333333333333,Warte... gehen wir wirklich? 120
+de_020,Balanced,10,True,7.733333333333333,7.8566666666666665,Warte...gehen wir wirklich? 120
+de_020,Balanced,11,True,7.866666666666666,7.99,Warte... gehen wir wirklich? 120
+de_020,Balanced,12,True,8.0,8.056666666666667,Warte...gehen wir wirklich? 120
+de_020,Balanced,13,True,8.066666666666666,8.123333333333333,Warte... gehen wir wirklich? 120
+de_020,Balanced,14,True,8.133333333333333,8.4,Warte...gehen wir wirklich? 120
+de_020,Balanced,15,True,8.4,8.58,Warte... gehen wir wirklich? 120
+de_020,Accurate,2,True,1.7000000000000002,1.7666666666666666,Wir fahren heute nach Hausè
+de_020,Accurate,3,True,1.7666666666666666,2.1,Wir fahren heute nach Hause
+de_020,Accurate,5,True,6.366666666666667,6.833333333333333,Warte... gehen wir wirklich? 120
+de_020,Accurate,6,True,6.833333333333333,6.9,Warte...gehen wir wirklich? 120
+de_020,Accurate,7,True,6.9,7.1,Warte... gehen wir wirklich? 120
+de_020,Accurate,8,True,7.1,7.366666666666667,Warte...gehen wir wirklich? 120
+de_020,Accurate,9,True,7.366666666666667,7.7,Warte... gehen wir wirklich? 120
+de_020,Accurate,10,True,7.7,7.833333333333333,Warte...gehen wir wirklich? 120
+de_020,Accurate,11,True,7.833333333333333,7.966666666666667,Warte... gehen wir wirklich? 120
+de_020,Accurate,12,True,7.966666666666667,8.033333333333333,Warte...gehen wir wirklich? 120
+de_020,Accurate,13,True,8.033333333333333,8.1,Warte... gehen wir wirklich? 120
+de_020,Accurate,14,True,8.1,8.366666666666667,Warte...gehen wir wirklich? 120
+de_020,Accurate,15,True,8.366666666666667,8.5,Warte... gehen wir wirklich? 120
+de_021,Fast,3,True,5.2,5.323333333333333,Die rote Türist links. 2026
+de_021,Fast,4,True,5.333333333333333,5.6,Die rote Tür ist links. 2026
+de_021,Fast,6,True,9.333333333333334,10.133333333333333,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Fast,7,True,10.133333333333333,10.256666666666668,"Hastdu 19,95 oder 90,15 gesagt?"
+de_021,Fast,8,True,10.266666666666667,10.39,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Fast,9,True,10.4,10.523333333333333,"Hastdu 19,95 oder 90,15 gesagt?"
+de_021,Balanced,3,True,5.2,5.323333333333333,Die rote Türist links. 2026
+de_021,Balanced,4,True,5.333333333333333,5.533333333333333,Die rote Tür ist links. 2026
+de_021,Balanced,6,True,9.333333333333334,10.066666666666666,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Balanced,7,True,10.066666666666666,10.19,"Hastdu 19,95 oder 90,15 gesagt?"
+de_021,Balanced,8,True,10.2,10.4,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Balanced,9,True,10.4,10.523333333333333,"Hastdu 19,95 oder 90,15 gesagt?"
+de_021,Accurate,3,True,5.166666666666667,5.3,Die rote Türist links. 2026
+de_021,Accurate,4,True,5.3,5.5,Die rote Tür ist links. 2026
+de_021,Accurate,6,True,9.3,10.033333333333333,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Accurate,7,True,10.033333333333333,10.166666666666666,"Hastdu 19,95 oder 90,15 gesagt?"
+de_021,Accurate,8,True,10.166666666666666,10.366666666666667,"Hast du 19,95 oder 90,15 gesagt?"
+de_021,Accurate,9,True,10.366666666666667,10.5,"Hastdu 19,95 oder 90,15 gesagt?"
+de_023,Fast,3,True,5.733333333333333,5.8566666666666665,Warte...gehen wir wirklich?
+de_023,Fast,4,True,5.866666666666666,6.066666666666666,Warte... gehen wir wirklich?
+de_023,Balanced,3,True,5.733333333333333,5.79,Warte...gehen wir wirklich?
+de_023,Balanced,4,True,5.8,6.0,Warte... gehen wir wirklich?
+de_023,Accurate,3,True,5.7,5.766666666666667,Warte...gehen wir wirklich?
+de_023,Accurate,4,True,5.766666666666667,5.966666666666667,Warte... gehen wir wirklich?
+de_024,Fast,4,True,9.333333333333334,10.0,Warte... gehen wir wirklich?
+de_024,Fast,5,True,10.0,10.123333333333333,Warte...gehen wir wirklich?
+de_024,Balanced,4,True,9.333333333333334,10.0,Warte... gehen wir wirklich?
+de_024,Balanced,5,True,10.0,10.123333333333333,Warte...gehen wir wirklich?
+de_024,Accurate,4,True,9.3,9.966666666666667,Warte... gehen wir wirklich?
+de_024,Accurate,5,True,9.966666666666667,10.1,Warte...gehen wir wirklich?
+de_025,Fast,3,True,6.4,7.066666666666666,Die rote Tür ist links. 125
+de_025,Fast,4,True,7.066666666666666,7.19,Die rote Tur ist links. 125
+de_025,Fast,7,True,10.4,10.523333333333333,Wirfahren heute nach Hause
+de_025,Fast,8,True,10.533333333333333,11.466666666666667,Wir fahren heute nach Hause
+de_025,Balanced,3,True,6.4,7.066666666666666,Die rote Tür ist links. 125
+de_025,Balanced,4,True,7.066666666666666,7.19,Die rote Tur ist links. 125
+de_025,Balanced,7,True,10.4,10.456666666666667,Wirfahren heute nach Hause
+de_025,Balanced,8,True,10.466666666666667,11.466666666666667,Wir fahren heute nach Hause
+de_025,Accurate,3,True,6.366666666666667,7.033333333333333,Die rote Tür ist links. 125
+de_025,Accurate,4,True,7.033333333333333,7.166666666666667,Die rote Tur ist links. 125
+de_025,Accurate,7,True,10.366666666666667,10.433333333333334,Wirfahren heute nach Hause
+de_025,Accurate,8,True,10.433333333333334,11.433333333333334,Wir fahren heute nach Hause
+de_026,Fast,2,True,1.8666666666666667,2.1333333333333333,Warte....gehen wir wirklich?
+de_026,Balanced,2,True,1.8,2.066666666666667,Warte....gehen wir wirklich?
+de_026,Balanced,3,True,2.066666666666667,2.246666666666667,Warte... gehen wir wirklich?
+de_026,Accurate,2,True,1.7666666666666666,2.033333333333333,Warte....gehen wir wirklich?
+de_026,Accurate,3,True,2.033333333333333,2.1,Warte... gehen wir wirklich?
+de_027,Fast,3,True,6.4,7.066666666666666,Warte... gehen wir wirklich? 127
+de_027,Fast,4,True,7.066666666666666,7.333333333333333,Warte...gehen wir wirklich? 127
+de_027,Fast,6,True,8.266666666666667,8.39,Warte...gehen wir wirklich? 127
+de_027,Fast,7,True,8.4,8.799999999999999,Warte... gehen wir wirklich? 127
+de_027,Fast,8,True,9.333333333333334,10.133333333333333,Wir fahren morgen nach Hause
+de_027,Fast,9,True,10.133333333333333,10.256666666666668,Wir fähren morgen nach Hause
+de_027,Fast,10,True,10.266666666666667,10.39,Wir fahren morgen nach Hause
+de_027,Fast,11,True,10.4,10.523333333333333,Wirfahren morgen nach Hause
+de_027,Balanced,3,True,6.4,6.733333333333333,Warte... gehen wir wirklich? 127
+de_027,Balanced,4,True,6.733333333333333,6.79,Warte...gehen wir wirklich? 127
+de_027,Balanced,5,True,6.8,6.8566666666666665,Warte... gehen wir wirklich? 127
+de_027,Balanced,6,True,6.866666666666666,6.923333333333334,Warte...gehen wir wirklich? 127
+de_027,Balanced,7,True,6.933333333333334,7.056666666666667,Warte... gehen wir wirklich? 127
+de_027,Balanced,8,True,7.066666666666666,7.266666666666667,Warte...gehen wir wirklich? 127
+de_027,Balanced,10,True,8.2,8.4,Warte...gehen wir wirklich? 127
+de_027,Balanced,11,True,8.4,8.799999999999999,Warte... gehen wir wirklich? 127
+de_027,Balanced,12,True,9.333333333333334,10.133333333333333,Wir fahren morgen nach Hause
+de_027,Balanced,13,True,10.133333333333333,10.19,Wir fähren morgen nach Hause
+de_027,Balanced,14,True,10.2,10.4,Wir fahren morgen nach Hause
+de_027,Balanced,15,True,10.4,10.456666666666667,Wirfahren morgen nach Hause
+de_027,Balanced,17,True,11.533333333333333,11.59,Wir fahrenimorgen nach Hause
+de_027,Balanced,18,True,11.6,11.933333333333334,Wir fahren morgen nach Hause
+de_027,Accurate,3,True,6.366666666666667,6.7,Warte... gehen wir wirklich? 127
+de_027,Accurate,4,True,6.7,6.766666666666667,Warte...gehen wir wirklich? 127
+de_027,Accurate,5,True,6.766666666666667,6.833333333333333,Warte... gehen wir wirklich? 127
+de_027,Accurate,6,True,6.833333333333333,6.9,Warte...gehen wir wirklich? 127
+de_027,Accurate,7,True,6.9,7.033333333333333,Warte... gehen wir wirklich? 127
+de_027,Accurate,8,True,7.033333333333333,7.233333333333333,Warte...gehen wir wirklich? 127
+de_027,Accurate,10,True,8.183333333333334,8.366666666666667,Warte...gehen wir wirklich? 127
+de_027,Accurate,11,True,8.366666666666667,8.766666666666666,Warte... gehen wir wirklich? 127
+de_027,Accurate,12,True,9.3,10.1,Wir fahren morgen nach Hause
+de_027,Accurate,13,True,10.1,10.166666666666666,Wir fähren morgen nach Hause
+de_027,Accurate,14,True,10.166666666666666,10.366666666666667,Wir fahren morgen nach Hause
+de_027,Accurate,15,True,10.366666666666667,10.433333333333334,Wirfahren morgen nach Hause
+de_027,Accurate,17,True,11.5,11.566666666666666,Wir fahrenimorgen nach Hause
+de_027,Accurate,18,True,11.566666666666666,11.9,Wir fahren morgen nach Hause
+de_028,Fast,1,True,0.5333333333333333,1.0666666666666667,Ichkann es kaum glauben!
+de_028,Fast,6,True,10.133333333333333,10.256666666666668,"Hast du19,95 oder 90,15 gesagt?"
+de_028,Fast,7,True,10.266666666666667,10.799999999999999,"Hast du 19,95 oder 90,15 gesagt?"
+de_028,Balanced,1,True,0.4666666666666667,1.0666666666666667,Ichkann es kaum glauben!
+de_028,Balanced,6,True,10.133333333333333,10.19,"Hast du19,95 oder 90,15 gesagt?"
+de_028,Balanced,7,True,10.2,10.733333333333333,"Hast du 19,95 oder 90,15 gesagt?"
+de_028,Accurate,1,True,0.43333333333333335,1.0499999999999998,Ichkann es kaum glauben!
+de_028,Accurate,6,True,10.1,10.166666666666666,"Hast du19,95 oder 90,15 gesagt?"
+de_028,Accurate,7,True,10.166666666666666,10.7,"Hast du 19,95 oder 90,15 gesagt?"
+de_030,Fast,2,True,3.466666666666667,3.5900000000000003,Warte...gehen wir wirklich?
+de_030,Balanced,2,True,3.4,3.6,Warte....gehen wir wirklich?
+de_030,Accurate,2,True,3.3666666666666667,3.5666666666666664,Warte....gehen wir wirklich?
+de_031,Balanced,3,True,6.4,6.733333333333333,"Hast du 19,95 oder 90,15 gesagt? 131"
+de_031,Balanced,4,True,6.733333333333333,6.79,"Hast du 19,95 odêr 90,15 gesagt? 131"
+de_031,Balanced,7,True,11.266666666666667,11.323333333333334,Warte...gehen wir wirklich? 50%
+de_031,Balanced,8,True,11.333333333333334,11.513333333333334,Warte... gehen wir wirklich? 50%
+de_031,Accurate,3,True,6.366666666666667,6.7,"Hast du 19,95 oder 90,15 gesagt? 131"
+de_031,Accurate,4,True,6.7,6.766666666666667,"Hast du 19,95 odêr 90,15 gesagt? 131"
+de_031,Accurate,7,True,11.233333333333334,11.3,Warte...gehen wir wirklich? 50%
+de_031,Accurate,8,True,11.3,11.433333333333334,Warte... gehen wir wirklich? 50%
+de_032,Balanced,3,True,6.4,6.733333333333333,Die rote Tür ist links. 132
+de_032,Balanced,4,True,6.733333333333333,6.79,Die rote Türist links. 132
+de_032,Accurate,3,True,6.366666666666667,6.7,Die rote Tür ist links. 132
+de_032,Accurate,4,True,6.7,6.766666666666667,Die rote Türist links. 132
+de_035,Fast,5,True,10.0,10.123333333333333,"Hast du 19,95 pder 90,15 gesagt?"
+de_035,Fast,6,True,10.133333333333333,11.066666666666666,"Hast du 19.95 oder 90,15 gesagt?"
+de_035,Balanced,5,True,10.0,10.123333333333333,"Hast du 19,95 pder 90,15 gesagt?"
+de_035,Balanced,6,True,10.133333333333333,11.0,"Hast du 19.95 oder 90,15 gesagt?"
+de_035,Accurate,5,True,9.966666666666667,10.1,"Hast du 19,95 pder 90,15 gesagt?"
+de_035,Accurate,6,True,10.1,10.966666666666667,"Hast du 19.95 oder 90,15 gesagt?"
+de_037,Fast,1,True,0.5333333333333333,0.6566666666666666,"Hast du 19,95 oder 90,15 gesagt?"
+de_037,Fast,2,True,0.6666666666666666,0.79,"Hastdu 19,95 oder 90,15 gesagt?"
+de_037,Fast,8,True,14.0,14.266666666666666,Ich kann es kaum glaüben!
+de_037,Fast,9,True,14.266666666666667,14.39,Ich kann es kaum glauben!
+de_037,Fast,10,True,14.4,14.523333333333333,Ich kann es kaum glaüben!
+de_037,Fast,11,True,14.533333333333333,14.733333333333333,Ich kann es kaum glauben!
+de_037,Balanced,1,True,0.4666666666666667,0.6666666666666666,"Hast du 19,95 oder 90,15 gesagt?"
+de_037,Balanced,2,True,0.6666666666666666,0.7233333333333333,"Hastdu 19,95 oder 90,15 gesagt?"
+de_037,Balanced,8,True,13.933333333333334,14.2,Ich kann es kaum glaüben!
+de_037,Balanced,9,True,14.2,14.4,Ich kann es kaum glauben!
+de_037,Balanced,10,True,14.4,14.456666666666667,Ich kann es kaum glaüben!
+de_037,Balanced,11,True,14.466666666666667,14.666666666666666,Ich kann es kaum glauben!
+de_037,Accurate,1,True,0.43333333333333335,0.6333333333333333,"Hast du 19,95 oder 90,15 gesagt?"
+de_037,Accurate,2,True,0.6333333333333333,0.7,"Hastdu 19,95 oder 90,15 gesagt?"
+de_037,Accurate,8,True,13.9,14.166666666666666,Ich kann es kaum glaüben!
+de_037,Accurate,9,True,14.166666666666666,14.366666666666667,Ich kann es kaum glauben!
+de_037,Accurate,10,True,14.366666666666667,14.433333333333334,Ich kann es kaum glaüben!
+de_037,Accurate,11,True,14.433333333333334,14.633333333333333,Ich kann es kaum glauben!
+de_039,Fast,4,True,8.266666666666667,8.39,Die rote Türist links. 139
+de_039,Fast,5,True,8.4,8.799999999999999,Die rote Tür ist links. 139
+de_039,Fast,6,True,9.333333333333334,10.133333333333333,Wir fahren heute nach Hause
+de_039,Fast,7,True,10.133333333333333,10.256666666666668,Wir fähren heute nach Hause
+de_039,Fast,10,True,15.2,15.323333333333334,Warte... gehen wir wirklich?2038
+de_039,Fast,11,True,15.333333333333334,15.733333333333333,Warte... gehen wir wirklich? 2038
+de_039,Fast,12,True,15.733333333333333,15.856666666666667,Warte...gehen wir wirklich?2038
+de_039,Balanced,3,True,6.4,6.733333333333333,Die rote Tür ist links. 139
+de_039,Balanced,4,True,6.733333333333333,6.79,Die rote Türist links. 139
+de_039,Balanced,5,True,6.8,7.133333333333333,Die rote Tür ist links. 139
+de_039,Balanced,6,True,7.133333333333334,7.19,Die rote Türist links. 139
+de_039,Balanced,8,True,8.2,8.323333333333334,Die rote Türist links. 139
+de_039,Balanced,9,True,8.333333333333334,8.799999999999999,Die rote Tür ist links. 139
+de_039,Balanced,10,True,9.333333333333334,9.933333333333334,Wir fahren heute nach Hause
+de_039,Balanced,11,True,9.933333333333334,9.99,Wirifahren heute nach Hause
+de_039,Balanced,12,True,10.0,10.123333333333333,Wir fahren heute nach Hause
+de_039,Balanced,13,True,10.133333333333333,10.19,Wir fähren heute nach Hause
+de_039,Balanced,16,True,15.2,15.256666666666668,Warte... gehen wir wirklich?2038
+de_039,Balanced,17,True,15.266666666666667,15.666666666666666,Warte... gehen wir wirklich? 2038
+de_039,Balanced,18,True,15.666666666666666,15.790000000000001,Warte...gehen wir wirklich?2038
+de_039,Accurate,3,True,6.366666666666667,6.7,Die rote Tür ist links. 139
+de_039,Accurate,4,True,6.7,6.766666666666667,Die rote Türist links. 139
+de_039,Accurate,5,True,6.766666666666667,7.1,Die rote Tür ist links. 139
+de_039,Accurate,6,True,7.1,7.166666666666667,Die rote Türist links. 139
+de_039,Accurate,8,True,8.183333333333334,8.3,Die rote Türist links. 139
+de_039,Accurate,9,True,8.3,8.766666666666666,Die rote Tür ist links. 139
+de_039,Accurate,10,True,9.3,9.9,Wir fahren heute nach Hause
+de_039,Accurate,11,True,9.9,9.966666666666667,Wirifahren heute nach Hause
+de_039,Accurate,12,True,9.966666666666667,10.1,Wir fahren heute nach Hause
+de_039,Accurate,13,True,10.1,10.166666666666666,Wir fähren heute nach Hause
+de_039,Accurate,16,True,15.166666666666666,15.233333333333334,Warte... gehen wir wirklich?2038
+de_039,Accurate,17,True,15.233333333333334,15.633333333333333,Warte... gehen wir wirklich? 2038
+de_039,Accurate,18,True,15.633333333333333,15.766666666666666,Warte...gehen wir wirklich?2038
+de_040,Fast,2,True,1.7333333333333334,1.8566666666666667,Warte...gehen wir wirklich?
+de_040,Fast,3,True,1.8666666666666667,2.6666666666666665,Warte... gehen wir wirklich?
+de_040,Fast,6,True,8.266666666666667,8.39,Warte aufmich 140
+de_040,Fast,7,True,8.4,9.066666666666666,Warte auf mich 140
+de_040,Fast,9,True,10.133333333333333,10.256666666666668,Ichkannies kaum glauben! 2026
+de_040,Fast,10,True,10.266666666666667,10.39,Ich kann es kaum glauben! 2026
+de_040,Fast,11,True,10.4,10.523333333333333,Ichikann es kaum glauben! 2026
+de_040,Fast,12,True,10.533333333333333,10.799999999999999,Ich kann es kaum glauben! 2026
+de_040,Balanced,2,True,1.7333333333333334,1.79,Warte...gehen wir wirklich?
+de_040,Balanced,3,True,1.8,2.6,Warte... gehen wir wirklich?
+de_040,Balanced,6,True,8.266666666666667,8.323333333333334,Warte aufmich 140
+de_040,Balanced,7,True,8.333333333333334,9.0,Warte auf mich 140
+de_040,Balanced,9,True,10.133333333333333,10.19,Ichkannies kaum glauben! 2026
+de_040,Balanced,10,True,10.2,10.4,Ich kann es kaum glauben! 2026
+de_040,Balanced,11,True,10.4,10.456666666666667,Ichikann es kaum glauben! 2026
+de_040,Balanced,12,True,10.466666666666667,10.733333333333333,Ich kann es kaum glauben! 2026
+de_040,Accurate,2,True,1.7000000000000002,1.7666666666666666,Warte...gehen wir wirklich?
+de_040,Accurate,3,True,1.7666666666666666,2.5666666666666664,Warte... gehen wir wirklich?
+de_040,Accurate,6,True,8.233333333333334,8.3,Warte aufmich 140
+de_040,Accurate,7,True,8.3,8.966666666666667,Warte auf mich 140
+de_040,Accurate,9,True,10.1,10.166666666666666,Ichkannies kaum glauben! 2026
+de_040,Accurate,10,True,10.166666666666666,10.366666666666667,Ich kann es kaum glauben! 2026
+de_040,Accurate,11,True,10.366666666666667,10.433333333333334,Ichikann es kaum glauben! 2026
+de_040,Accurate,12,True,10.433333333333334,10.7,Ich kann es kaum glauben! 2026
+de_041,Fast,4,True,6.8,7.0,Warte...gehen wir wirklich? 141
+de_041,Balanced,4,True,6.8,6.9799999999999995,Warte...gehen wir wirklich? 141
+de_041,Accurate,4,True,6.766666666666667,6.9,Warte...gehen wir wirklich? 141
+de_042,Fast,5,True,10.533333333333333,10.799999999999999,"Hast du 19,95 oder 90, 15 gesagt? 50%"
+de_042,Fast,6,True,10.8,11.2,"Hast du 19,95 oder 90,15 gesagt? 50%"
+de_042,Balanced,5,True,10.533333333333333,10.59,"Hast du 19,95 oder 90, 15 gesagt? 50%"
+de_042,Balanced,6,True,10.6,10.656666666666666,"Hast du 19.95 oder 90,15 gesagt? 50%"
+de_042,Balanced,7,True,10.666666666666666,10.790000000000001,"Hast du 19,95 oder 90, 15 gesagt? 50%"
+de_042,Balanced,8,True,10.8,11.2,"Hast du 19,95 oder 90,15 gesagt? 50%"
+de_042,Accurate,5,True,10.5,10.566666666666666,"Hast du 19,95 oder 90, 15 gesagt? 50%"
+de_042,Accurate,6,True,10.566666666666666,10.633333333333333,"Hast du 19.95 oder 90,15 gesagt? 50%"
+de_042,Accurate,7,True,10.633333333333333,10.766666666666666,"Hast du 19,95 oder 90, 15 gesagt? 50%"
+de_042,Accurate,8,True,10.766666666666666,11.166666666666666,"Hast du 19,95 oder 90,15 gesagt? 50%"
+de_043,Balanced,5,True,11.4,11.58,Die rote Türist links.
+de_043,Accurate,5,True,11.366666666666667,11.433333333333334,Die rote Türist links.
+de_044,Fast,5,True,11.466666666666667,11.733333333333333,Warteaufmich
+de_044,Balanced,4,True,8.2,8.256666666666668,Wir fahrenImorgen nach Hause 144
+de_044,Balanced,5,True,8.266666666666667,8.323333333333334,Wir fahren morgen nach Hause 144
+de_044,Balanced,6,True,8.333333333333334,8.39,Wir fahrenimorgen nach Hause 144
+de_044,Balanced,7,True,8.4,8.58,Wir fahren morgen nach Hause 144
+de_044,Balanced,9,True,11.4,11.523333333333333,Warteaufmich
+de_044,Balanced,10,True,11.533333333333333,11.59,Warte auf mich
+de_044,Balanced,11,True,11.6,11.78,Warteaufmich
+de_044,Accurate,4,True,8.183333333333334,8.233333333333334,Wir fahrenImorgen nach Hause 144
+de_044,Accurate,5,True,8.233333333333334,8.3,Wir fahren morgen nach Hause 144
+de_044,Accurate,6,True,8.3,8.366666666666667,Wir fahrenimorgen nach Hause 144
+de_044,Accurate,7,True,8.366666666666667,8.5,Wir fahren morgen nach Hause 144
+de_044,Accurate,9,True,11.366666666666667,11.5,Warteaufmich
+de_044,Accurate,10,True,11.5,11.566666666666666,Warte auf mich
+de_044,Accurate,11,True,11.566666666666666,11.7,Warteaufmich
+de_045,Fast,4,True,9.333333333333334,10.133333333333333,Warte... gehen wir wirklich?
+de_045,Fast,5,True,10.133333333333333,10.256666666666668,Warte...gehen wir wirklich?
+de_045,Fast,7,True,11.733333333333333,11.856666666666667,Warte...gehen wir wirklich?
+de_045,Fast,8,True,11.866666666666667,12.066666666666666,Warte... gehen wir wirklich?
+de_045,Balanced,4,True,9.333333333333334,10.133333333333333,Warte... gehen wir wirklich?
+de_045,Balanced,5,True,10.133333333333333,10.19,Warte...gehen wir wirklich?
+de_045,Balanced,7,True,11.533333333333333,11.59,Warte...gehen wir wirklich?
+de_045,Balanced,8,True,11.6,11.723333333333333,Warte... gehen wir wirklich?
+de_045,Balanced,9,True,11.733333333333333,11.790000000000001,Warte...gehen wir wirklich?
+de_045,Balanced,10,True,11.8,11.98,Warte... gehen wir wirklich?
+de_045,Accurate,4,True,9.3,10.1,Warte... gehen wir wirklich?
+de_045,Accurate,5,True,10.1,10.166666666666666,Warte...gehen wir wirklich?
+de_045,Accurate,7,True,11.5,11.566666666666666,Warte...gehen wir wirklich?
+de_045,Accurate,8,True,11.566666666666666,11.7,Warte... gehen wir wirklich?
+de_045,Accurate,9,True,11.7,11.766666666666666,Warte...gehen wir wirklich?
+de_045,Accurate,10,True,11.766666666666666,11.9,Warte... gehen wir wirklich?
+de_046,Balanced,6,True,15.2,15.799999999999999,Warte... gehen wir wirklich? 2045
+de_046,Balanced,7,True,15.8,15.856666666666667,Warte... gehen wirwirklich? 2045
+de_046,Accurate,6,True,15.166666666666666,15.766666666666666,Warte... gehen wir wirklich? 2045
+de_046,Accurate,7,True,15.766666666666666,15.833333333333334,Warte... gehen wirwirklich? 2045
+de_047,Fast,4,True,7.066666666666666,7.19,Warte aul mich 147
+de_047,Fast,5,True,7.2,7.866666666666666,Warte auf mich 147
+de_047,Balanced,4,True,7.066666666666666,7.19,Warte aul mich 147
+de_047,Balanced,5,True,7.2,7.8,Warte auf mich 147
+de_047,Accurate,4,True,7.033333333333333,7.166666666666667,Warte aul mich 147
+de_047,Accurate,5,True,7.166666666666667,7.766666666666667,Warte auf mich 147
+de_048,Fast,1,True,0.5333333333333333,0.6566666666666666,Wir fahren beute nach Hause
+de_048,Balanced,1,True,0.4666666666666667,0.5233333333333333,Wir fahren heute nach Hause
+de_048,Balanced,2,True,0.5333333333333333,0.6566666666666666,Wir fahren beute nach Hause
+de_048,Balanced,5,True,6.4,6.733333333333333,Warte... gehen wir wirklich? 148
+de_048,Balanced,6,True,6.733333333333333,6.79,Warte... gehenwir wirklich? 148
+de_048,Accurate,1,True,0.43333333333333335,0.5,Wir fahren heute nach Hause
+de_048,Accurate,2,True,0.5,0.6333333333333333,Wir fahren beute nach Hause
+de_048,Accurate,5,True,6.366666666666667,6.7,Warte... gehen wir wirklich? 148
+de_048,Accurate,6,True,6.7,6.766666666666667,Warte... gehenwir wirklich? 148
+de_049,Balanced,4,True,9.333333333333334,9.933333333333334,"Hast du 19,95 oder 90,15 gesagt?"
+de_049,Balanced,5,True,9.933333333333334,9.99,"Hast du 19 95 oder 90,15 gesagt?"
+de_049,Accurate,4,True,9.3,9.9,"Hast du 19,95 oder 90,15 gesagt?"
+de_049,Accurate,5,True,9.9,9.966666666666667,"Hast du 19 95 oder 90,15 gesagt?"
